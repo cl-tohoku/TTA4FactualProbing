@@ -8,7 +8,7 @@
 - python3.9
  
  ## Dataset
- [This dataset](/v2.11d.csv) consists of 12500 unique facts from wikidata.
+ [This dataset](/v2.11d.csv) consists of 12,500 unique facts from wikidata.
  Each fact has a subject, a relation, and an object.
  Facts are sampled with truncated sampling to reduce the biased distribution of the objects.
  The familiarity of a subject/object is controlled by the number of related facts in wikidata.
