@@ -1,6 +1,6 @@
 # Test-time Augmentation for Factual Probing
 
-## environment setup
+## Environment
 
 - GPU: CUDA 11.6
 - python3.9 (miniconda4-4.7.12)
