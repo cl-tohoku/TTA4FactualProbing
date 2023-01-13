@@ -16,5 +16,3 @@
 
  ## Generate with TTA
  `python script/main.py`
-
- aaaa
