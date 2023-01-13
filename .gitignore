@@ -1,4 +1,5 @@
 .DS_Store
+.python-version
 /memo/
 /original_lama/
 /original_train_data

@@ -3,9 +3,7 @@
 ## environment setup
 
 - GPU: CUDA 11.6
-- miniconda4-4.7.12
-  - (`pyenv install --list`) 2022.9.5 latest
-- python3.9
+- python3.9 (miniconda4-4.7.12)
  
  ## Dataset
  [This dataset](/v2.11d.csv) consists of 12,500 unique facts from wikidata.
