@@ -1,0 +1,13 @@
+.DS_Store
+/memo/
+/original_lama/
+/original_train_data
+/output
+/scripts/__pycache__
+/cache
+/.vscode
+/syncexclusion.txt
+/analysis/tsne.py
+/analysis/img/
+/analysis/table/
+/abci.sh
