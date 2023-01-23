@@ -87,15 +87,15 @@ def main():
 
 
     fig = plt.figure(figsize=(8, 4))
-    ax = fig.add_axes([0.10, 0.15, 0.85, 0.75])
+    ax = fig.add_axes([0.13, 0.18, 0.82, 0.72])
     ax.plot(df_before_sum['recall'], df_before_sum['precision'],  label='w/out TTA',color=sns.xkcd_rgb["medium blue"], linestyle='--')
     ax.plot(df_after_sum['recall'], df_after_sum['precision'],  label='w/ TTA',color=sns.xkcd_rgb["medium blue"])
 
 
 
-
-    ax.set_xlabel('Recall', fontsize=15)
-    ax.set_ylabel('Precision', fontsize=15)
+    ax.tick_params(labelsize= 20)
+    ax.set_xlabel('Recall', fontsize=20)
+    ax.set_ylabel('Precision', fontsize=20)
     ax.legend(fontsize = 15)
     fig.savefig('analysis/img/prec_recall.pdf')
     return 0
