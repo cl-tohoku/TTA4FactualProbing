@@ -11,9 +11,9 @@ name = "v2.11d.5"
 # Augment + Infer
 settings = get_setting(name)
 exp_result = ExpResult(settings)
-
 # Aggregate
 exp_result.aggregate(settings["aggregation_types"])
+# exp_result.ablation()
 
 exp_result.facts.get_corrects_table()
 correct_table = CorrectTable(facts_df=exp_result.facts.df, prompts=exp_result.prompts)

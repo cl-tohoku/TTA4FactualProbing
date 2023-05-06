@@ -1,0 +1,706 @@
+,p,template,fact_id,effect_gold,effect_top
+6586,P140,What is the primary religion of the [MASK]?,87,,1.0446935313436754
+6702,P140,To what faith system does the [MASK] adhere?,79,,1.055632838934058
+6996,P140,What is the main faith of [MASK]?,57,,1.0332776215137358
+6365,P140,What is the religious affiliation of [MASK]?,55,,1.0264717285554879
+6366,P140,What faith does [MASK] practice?,45,,1.0445205107500082
+6367,P140,What is [MASK]'s religious affiliation?,39,,1.016155231311331
+7348,P140,What type of religion does [MASK] subscribe to?,38,,1.0532210108255267
+7067,P140,What is the spiritual system of [MASK]?,36,,0.9357504534755253
+6378,P140,What is the religious denomination of [MASK]?,35,1.3422930611278496,1.0078983192894997
+6381,P140,To which religion does [MASK] ascribe?,35,1.282387765517295,1.0367963875407573
+6967,P140,What is the [MASK]'s religion?,33,,1.0229805212291077
+6369,P140,What spiritual path does [MASK] follow?,33,0.8782062680012839,0.886132570513286
+6386,P140,What is the creed of [MASK]?,30,,0.8844611479742369
+6370,P140,What is the religious background of [MASK]?,29,,1.0093729129141813
+6383,P140,What is the spiritual practice of [MASK]?,28,,0.8980200272784276
+6373,P140,To which faith does [MASK] adhere?,27,,1.0600132653275243
+6375,P140,What faith does [MASK] ascribe to?,27,0.9896993811562261,1.0377954615731702
+6382,P140,What is the religious belief of [MASK]?,26,,0.9923568809936262
+6372,P140,What is [MASK]'s religious background?,23,,1.0077770399179982
+6384,P140,What is the religious tradition of [MASK]?,23,,1.0216350234273273
+6374,P140,What spiritual tradition does [MASK] follow?,23,1.0147650192187487,0.9775721605612621
+6387,P140,What religion does [MASK] practice?,22,,1.0488051929253062
+6377,P140,To which religion does [MASK] belong?,21,,1.0387046202093597
+6396,P140,What spiritual belief does [MASK] ascribe to?,21,,0.9836411582898602
+6400,P140,What is the spiritual tradition of [MASK]?,20,,0.9536334111832534
+6376,P140,What spiritual path does [MASK] take?,20,0.9107508696656123,0.9032831848423367
+6379,P140,What is the spiritual orientation of [MASK]?,19,,0.8871542210437257
+6408,P140,To which religious denomination does [MASK] belong?,19,,0.9545888490297728
+6405,P140,What religion is [MASK] a part of?,18,,1.0418067265935733
+6390,P140,What is [MASK]'s faith?,18,,1.0190800253079235
+6393,P140,What is [MASK]'s religious belief?,18,,1.0085979908316487
+6389,P140,To what religion does [MASK] belong?,17,,1.022283377775249
+6394,P140,What is [MASK]'s religious denomination?,17,,0.9877722105772409
+6395,P140,What is [MASK]'s spiritual belief system?,17,,0.8955968285201807
+6401,P140,What religion is [MASK] affiliated with?,16,0.9878276507415611,1.0564317373834262
+6432,P140,What denomination does [MASK] belong to?,16,1.4101513881538246,1.0205889853975818
+6392,P140,What creed does [MASK] adhere to?,15,,0.9849265671103251
+6415,P140,To what religion does [MASK] adhere?,15,1.0573126385899068,1.056870235403556
+6407,P140,What spiritual beliefs does [MASK] adhere to?,14,1.071571057904354,0.9746356822879798
+6397,P140,Which religion does [MASK] practice?,14,,1.0658877952451384
+6416,P140,To which religion does [MASK] adhere?,14,,1.0364284058931619
+6402,P140,What spiritual tradition does [MASK] practice?,13,,0.9264547666889297
+6413,P140,What spiritual beliefs does [MASK] hold?,13,,0.9465834628124377
+6404,P140,What is the spiritual affiliation of [MASK]?,12,,0.9955254596818927
+6475,P140,What is the faith practiced by [MASK]?,11,,1.089685221083931
+6443,P140,To what faith does [MASK] subscribe?,11,,1.0578125109872365
+6409,P140,What faith is [MASK] affiliated with?,11,,1.063930748966106
+6403,P140,To which faith does [MASK] subscribe?,11,,1.0517557281299643
+6406,P140,What religious tradition does [MASK] follow?,11,,1.052389855979883
+6399,P140,What creed does [MASK] ascribe to?,11,0.8734828370028414,0.9774854187380337
+6430,P140,What religious affiliation does [MASK] have?,10,,1.0006882575030116
+6466,P140,What creed does [MASK] subscribe to?,10,,0.9693993460820529
+6422,P140,What spiritual beliefs does [MASK] have?,10,,0.9497636665405738
+6412,P140,What is the spiritual path of [MASK]?,10,,0.870872196829446
+6426,P140,What is [MASK]'s religious persuasion?,10,,1.024511663464009
+6423,P140,What spiritual practice does [MASK] follow?,10,,0.9049150559983177
+6410,P140,What is [MASK]'s spiritual affiliation?,9,1.0402698999589506,0.9994002404633692
+6414,P140,What spiritual path does [MASK] practice?,9,0.8753480852794778,0.8953246322722561
+6411,P140,What is the spiritual background of [MASK]?,9,0.8723114817920571,0.9456228773533888
+6451,P140,What faith is [MASK] a part of?,9,,1.027567365254461
+6425,P140,What creed does [MASK] follow?,9,,0.9543453985883654
+6470,P140,What god does [MASK] worship?,8,,0.9058713266860408
+6459,P140,What spiritual belief does [MASK] practice?,8,,1.0292044551679054
+6467,P140,What denomination is [MASK]?,8,,1.015456619345797
+6428,P140,What is the religious persuasion of [MASK]?,8,,1.0144718197987619
+6431,P140,What spiritual path does [MASK] adhere to?,8,1.0067569148183446,0.9316541236941329
+6438,P140,What is the religious orientation of [MASK]?,8,,0.951762862302257
+6429,P140,What is the religious practice of [MASK]?,8,2.004408165434727,0.9344925625166741
+6445,P140,To which faith does [MASK] ascribe?,7,,1.0547035699778422
+6468,P140,What faith does [MASK] follow?,7,,1.034560702407551
+6573,P140,What faith is [MASK] associated with?,7,,1.0345793478282987
+6490,P140,What spiritual tradition does [MASK] ascribe to?,7,,0.9606467208296964
+6479,P140,What is the religious doctrine of [MASK]?,7,,0.915002114931467
+6492,P140,Of which religion is [MASK] a part?,7,,1.0166388245863038
+6424,P140,To which faith does [MASK] belong?,7,1.0898006689074349,1.0529731157029862
+6447,P140,To which religious tradition does [MASK] belong?,7,,1.0154138909177577
+6487,P140,What spiritual system does [MASK] follow?,7,,1.0004543161107604
+6440,P140,What religion does [MASK] identify with?,7,,1.0956036025200266
+6449,P140,What creed does [MASK] practice?,7,,0.9878902657498964
+6530,P140,What spiritual belief system does [MASK] subscribe to?,7,,0.9937377326606839
+6458,P140,What is the spiritual denomination of [MASK]?,7,,1.0020194814139525
+6434,P140,What is [MASK]'s spiritual background?,6,0.8665279185997439,0.8928792326739926
+6617,P140,What spiritual belief system does [MASK] adhere to?,6,,1.0030294772097037
+6551,P140,To what spiritual tradition does [MASK] belong?,6,,0.956592549389922
+6489,P140,What spiritual tradition does [MASK] adhere to?,6,,0.9976796934798359
+6527,P140,What spiritual belief does [MASK] follow?,6,,1.0006633024806793
+6433,P140,What is [MASK]'s religious orientation?,6,0.9393130337649227,0.9321646861957115
+6523,P140,What religious belief system does [MASK] practice?,6,,1.0009314427479572
+6481,P140,What religion does [MASK] believe in?,6,,1.0377714216823795
+6435,P140,What is [MASK]'s spiritual orientation?,6,,0.8795547940121425
+6437,P140,What is the religious identity of [MASK]?,6,0.9141384092028273,0.996882447064638
+6460,P140,Of what religion is [MASK] a member?,6,,1.0118081846666374
+6442,P140,What religious tradition does [MASK] practice?,6,,1.1250932661117587
+6448,P140,What creed does [MASK] believe in?,6,,0.9805151684450021
+6567,P140,What denomination is [MASK] affiliated with?,5,,1.0040838508799463
+6566,P140,What denomination does [MASK] adhere to?,5,,1.0320332544354702
+6604,P140,What religion is practiced by the [MASK]?,5,,1.0233239579494466
+6585,P140,What is the predominant religion in the [MASK]?,5,,1.0336884465318725
+6552,P140,To what spiritual tradition does [MASK] subscribe?,5,,1.0343804188011132
+6533,P140,What spiritual practice does [MASK] adhere to?,5,,0.9802403840823573
+6526,P140,What spiritual belief does [MASK] embrace?,5,,0.9650966980660538
+6575,P140,What faith is practiced at [MASK]?,5,,1.0834751460084813
+6446,P140,To which religious group does [MASK] belong?,5,0.8982696125373395,1.0023994205102877
+6469,P140,What faith does [MASK] profess?,5,,1.0136596068608643
+6453,P140,What is [MASK]'s spiritual practice?,5,0.832339956394069,0.8496743515824396
+6471,P140,What is [MASK]'s creed?,5,,0.8762221838652181
+6484,P140,What spiritual affiliation does [MASK] have?,5,0.9240325697489432,1.0719979559421717
+6465,P140,What creed does [MASK] profess?,4,,0.9535558109060918
+6587,P140,What is the religion [MASK] follows?,4,,1.074798159817365
+6898,P140,What faith is embraced by [MASK]?,4,,0.9698806022435886
+6578,P140,What is [MASK]'s spiritual doctrine?,4,,0.9122314881449132
+6483,P140,What religion is [MASK] associated with?,4,0.9297489146948694,1.0451738369576733
+6505,P140,What form of worship does [MASK] practice?,4,,0.9332490685209619
+6486,P140,What spiritual path does [MASK] walk?,4,0.8625059546692058,0.8748233480448319
+6568,P140,What denomination is [MASK] associated with?,4,,1.0195173929988277
+6488,P140,What spiritual system does [MASK] practice?,4,,0.9453302113909903
+6496,P140,To what religious belief does [MASK] adhere?,4,,1.0968970065935997
+6614,P140,What religious tradition does [MASK] adhere to?,4,,1.0364919184357837
+6501,P140,What faith did [MASK] adhere to?,4,,1.0298868414715425
+6627,P140,What spiritual path is followed by the [MASK]?,4,,0.9174437749203914
+6502,P140,What faith did [MASK] practice?,4,0.9490159056347232,1.0364077689411153
+6520,P140,What religion does [MASK] profess?,4,,1.0351368557367084
+6631,P140,What spiritual system does [MASK] believe in?,4,,0.9452619586619989
+6538,P140,What spiritual tradition is [MASK] a part of?,4,,0.9192565644757436
+6519,P140,What is the spiritual tradition that [MASK] follows?,4,,0.8850220926082045
+6524,P140,What religious beliefs does [MASK] have?,4,,1.0225171237026929
+6513,P140,What is the faith tradition of the [MASK]?,4,1.0276102553693507,1.097384228578593
+6512,P140,What is the faith that [MASK] subscribes to?,4,0.9363119090517704,1.038093193607547
+6510,P140,What is [MASK]'s spiritual tradition?,4,,0.9016059825284591
+6714,P140,To what religious belief does [MASK] ascribe?,4,,0.9724296940381781
+6646,P140,Which belief system does [MASK] adhere to?,4,,1.0080326155970034
+6548,P140,To what religion does the [MASK] ascribe?,4,,1.009406930241749
+6696,P140,To what faith did [MASK] ascribe?,3,,1.0278392301324517
+6624,P140,What spiritual path does [MASK] believe in?,3,,0.9001649691799218
+6637,P140,What spiritual tradition does [MASK] observe?,3,,1.011785378875114
+6722,P140,To what religious tradition does [MASK] subscribe?,3,,1.0457650533180465
+6971,P140,What is the belief system of a [MASK]?,3,,0.9220502341677239
+6600,P140,What religion does [MASK] embrace?,3,,1.0476189200815298
+6654,P140,Which spiritual path does [MASK] follow?,3,,0.9266743131463592
+6625,P140,What spiritual path does [MASK] embrace?,3,0.9050323294690138,0.9050323294690031
+6652,P140,Which religion is followed by [MASK]?,3,,1.0837590607526224
+6615,P140,What religious tradition does [MASK] belong to?,3,1.1012449053798503,1.0324077330493753
+6832,P140,What creed is embraced by the [MASK]?,3,,0.8837139675986551
+6651,P140,Which religion is [MASK] affiliated with?,3,,1.0471661578094362
+6883,P140,What faith does [MASK] identify with?,3,,1.0152737017126494
+6636,P140,What spiritual tradition does [MASK] embrace?,3,,0.9553458610917599
+6643,P140,What was the religion of [MASK]?,3,,1.0709525665198196
+6621,P140,What spiritual doctrine does [MASK] subscribe to?,3,,0.9553009365727935
+6811,P140,What belief system is practiced by [MASK]?,3,,0.9627099689432551
+6626,P140,What spiritual path does [MASK] observe?,3,,0.8405854408710685
+6521,P140,What religion is practiced at [MASK]?,3,,1.0684185879881347
+6515,P140,What is the religion that [MASK] practices?,3,1.1317336617678873,0.9843413048898425
+6532,P140,What spiritual path does [MASK] pursue?,3,,0.8744910706440213
+6525,P140,What religious denomination does [MASK] identify with?,3,0.9262667837172602,1.0665942551855283
+7058,P140,What is the spiritual path [MASK] has chosen?,3,,0.9063931525362827
+6558,P140,To which religious tradition does [MASK] adhere?,3,,1.0004256039438142
+6536,P140,What spiritual tradition does [MASK] identify with?,3,0.9045960576905887,0.8988813124592946
+6564,P140,What creed is [MASK] a member of?,3,,0.9468124882365601
+6557,P140,To which religious denomination does [MASK] adhere?,3,,1.0388246198456585
+7070,P140,What is the spiritual tradition followed in [MASK]?,3,,0.9561000547137749
+6534,P140,What spiritual practice does [MASK] embrace?,3,0.8726376260357105,0.8971637064139482
+6571,P140,What faith does [MASK] observe?,3,,1.0562013844845746
+6560,P140,To which spiritual tradition does [MASK] adhere?,3,0.9918293891123976,0.9914925823388178
+6550,P140,To what spiritual path does [MASK] subscribe?,3,,0.8812129724276048
+6582,P140,What is the creed that [MASK] follows?,3,,0.9412997600349305
+6509,P140,What is [MASK]'s religious identity?,3,,0.9403888024392275
+6549,P140,To what spiritual path does [MASK] belong?,3,,0.9599076283940962
+6499,P140,What denomination does [MASK] practice?,3,,0.9905481825904746
+6541,P140,Of what faith is [MASK] a member?,3,,1.0412033369647322
+6497,P140,To what religious group does [MASK] belong?,3,,0.9946423093402208
+6535,P140,What spiritual practice does [MASK] observe?,3,0.8879907494141989,0.8884796763671176
+7341,P140,What type of faith does [MASK] adhere to?,2,,1.042901980228638
+6981,P140,What is the faith [MASK] practices?,2,,1.051992430726757
+6745,P140,To which creed does [MASK] belong?,2,,0.8999695673698396
+6680,P140,Of what religious tradition is [MASK] a part?,2,,0.9901081139949444
+6744,P140,To which creed does [MASK] adhere?,2,,0.906912161069761
+6731,P140,To what spiritual path is [MASK] devoted?,2,1.4004382846924925,0.9723988199162397
+6728,P140,To what spiritual beliefs does [MASK] subscribe?,2,,1.0622464296842817
+6721,P140,To what religious system does [MASK] subscribe?,2,,1.0522091351428804
+6718,P140,To what religious denomination does [MASK] subscribe?,2,,1.082263175205863
+6712,P140,To what religion is [MASK] devoted?,2,,1.0732547288493235
+6699,P140,To what faith does [MASK] belong?,2,,0.9667495340834947
+6698,P140,To what faith do members of the [MASK] adhere?,2,,1.0416228588011278
+6694,P140,To what denomination does [MASK] ascribe?,2,,0.9372338141138208
+6772,P140,To which religious belief do [MASK] subscribe?,2,,1.0306983890611692
+6821,P140,What creed does [MASK] embrace?,2,,0.9037206778568327
+6792,P140,To which spiritual path does [MASK] subscribe?,2,,0.8704348335692611
+7315,P140,What spiritual tradition did [MASK] observe?,2,,0.9744693143076515
+6957,P140,What is [MASK]'s religious tradition?,2,,0.9652417233157058
+7187,P140,What religious tradition does [MASK] observe?,2,,1.0473882238466792
+7209,P140,What spiritual belief does [MASK] observe?,2,,0.9426219613297553
+6920,P140,What faith system is the [MASK] part of?,2,,1.0755785157541418
+7008,P140,What is the prevailing religion in the [MASK]?,2,,1.096924297293513
+7013,P140,What is the religion embraced by [MASK]?,2,,0.9369391936279866
+7220,P140,What spiritual belief system is observed by the [MASK]?,2,,0.9338061707560379
+6903,P140,What faith is most widely practiced in [MASK]?,2,,0.9864136221414864
+6901,P140,What faith is held by [MASK]?,2,,1.0911371468423203
+7145,P140,What religious denomination is [MASK] a part of?,2,,1.0330250817126696
+6891,P140,What faith is [MASK] devoted to?,2,,1.0247898780522462
+7129,P140,What religious belief does [MASK] follow?,2,,1.0568400608683906
+7118,P140,What religion is represented by [MASK]?,2,,0.9885314004619076
+6862,P140,What doctrine does [MASK] practice?,2,,0.9359346408805278
+7053,P140,What is the spiritual foundation of [MASK]?,2,0.9326868407014577,1.0490923600438755
+6834,P140,What creed is followed by [MASK]?,2,0.8934767393141526,1.0941235002242804
+7061,P140,What is the spiritual persuasion of [MASK]?,2,,0.9151784033073866
+7290,P140,What spiritual practice does [MASK] ascribe to?,2,,0.9131143527583452
+7082,P140,What is the theology of [MASK]?,2,,0.8973199752296583
+6684,P140,Of which faith is [MASK] a member?,2,,1.019247421318783
+6720,P140,To what religious sect does [MASK] belong?,2,,0.9402260931644766
+7089,P140,What kind of religion is adhered to at [MASK]?,2,,1.0190994479661342
+6632,P140,What spiritual system does [MASK] embrace?,2,0.8900652536825107,0.9835388521192834
+6606,P140,What religious affiliation did [MASK] have?,2,1.0296166057653486,0.9765995326025132
+6595,P140,What is the spiritual doctrine of [MASK]?,2,0.8727014348910951,0.8904002902135384
+6598,P140,What is the spiritual path that [MASK] follows?,2,1.0877938859395777,0.8650081623260789
+6645,P140,What was the spiritual belief of [MASK]?,2,,0.9438277922396913
+6658,P140,In what faith does [MASK] believe?,2,,1.061628031454826
+6569,P140,What doctrine does the [MASK] ascribe to?,2,0.9242086096886325,0.9212304380479815
+6597,P140,What is the spiritual inclination of [MASK]?,2,,0.8457168143840998
+6640,P140,What type of religion is practiced by [MASK]?,2,,1.0223983994349306
+6649,P140,Which faith does [MASK] practice?,2,1.0228132678478112,1.053731925455875
+6563,P140,What creed does [MASK] observe?,2,0.8993105652323177,0.8993105652323167
+6655,P140,For what religion is the [MASK] an adherent?,2,,1.0939840810501398
+6581,P140,What is [MASK]'s spiritual persuasion?,2,0.91392774939728,1.0080129113555654
+6596,P140,What is the spiritual identity of [MASK]?,2,0.8915215215475927,0.8915215215475893
+6579,P140,What is [MASK]'s spiritual identity?,2,,0.8328352813355613
+6653,P140,Which religion is practiced by [MASK]?,2,0.9163310913207698,1.0421043750576113
+6622,P140,What spiritual path did [MASK] follow?,2,1.224462625699647,0.905316450307607
+6623,P140,What spiritual path did [MASK] take?,2,,0.9040252553824085
+6580,P140,What is [MASK]'s spiritual path?,2,,0.8962721288741662
+6588,P140,What is the religion that [MASK] ascribes to?,2,,0.9774719230382172
+6565,P140,What creed is the [MASK] affiliated with?,2,0.8797650322045809,0.9776998532256519
+6607,P140,What religious affiliation does [MASK] hold?,2,1.0316145119883315,1.040174808990824
+6593,P140,What is the religious tradition that [MASK] follows?,2,0.8791435313076131,1.0137648458172632
+6613,P140,What religious identity does [MASK] identify with?,2,,1.004110057950895
+6544,P140,Of which religion is [MASK] a member?,2,,1.0257365196401191
+6611,P140,What religious beliefs does [MASK] hold?,2,,1.0687655686541235
+6610,P140,What religious beliefs does [MASK] espouse?,2,,1.0227368144907922
+6592,P140,What is the religious system of [MASK]?,2,,1.0093262984794231
+6673,P140,Of what religion is [MASK] a practitioner?,2,,1.0823401578728589
+6590,P140,What is the religious conviction of [MASK]?,2,1.1777291166992252,1.0054086237809574
+6609,P140,What religious beliefs does [MASK] adhere to?,2,1.0308488596243142,1.012946711803972
+6642,P140,What type of spiritual belief is followed by [MASK]?,2,,0.9655807478550217
+6608,P140,What religious belief system is [MASK] affiliated with?,2,,1.0138555094274861
+6629,P140,What spiritual practice is [MASK] devoted to?,2,,0.8597476489238873
+6639,P140,What theological system does [MASK] subscribe to?,2,0.9387998286487501,0.9427949703455294
+6562,P140,What creed did [MASK] follow?,2,0.998575184137229,0.9984941681579473
+6559,P140,To which spiritual path does [MASK] belong?,2,,0.8691799644659329
+6616,P140,What spiritual belief does [MASK] identify with?,2,,0.9202487813750698
+6553,P140,To which creed does [MASK] ascribe?,2,,0.9450986664346953
+6554,P140,To which faith did [MASK] adhere?,2,,1.0816198038774791
+7184,P140,What religious tradition does [MASK] ascribe to?,1,0.905163582293068,0.9979958386227695
+7175,P140,What religious practice is honored by a [MASK]?,1,1.0251752383252168,1.0251752383252168
+7192,P140,What religious tradition is followed by [MASK]?,1,,0.9655038066272625
+7180,P140,What religious system does [MASK] identify with?,1,,1.0148716707896746
+7177,P140,What religious sect is [MASK] affiliated with?,1,,1.0118484821078026
+7186,P140,What religious tradition does [MASK] identify with?,1,,1.0564950073804518
+7182,P140,What religious teachings does [MASK] follow?,1,0.8951548323933443,1.030447710533769
+7181,P140,What religious system is embraced by [MASK]?,1,,1.0265105390824563
+7185,P140,What religious tradition does [MASK] embrace?,1,,1.0465343001140848
+7179,P140,What religious system does [MASK] believe in?,1,,1.0031118758675892
+7178,P140,What religious system did [MASK] follow?,1,,1.0436730976275008
+7205,P140,What spiritual belief did the [MASK] follow?,1,,1.1353874217822268
+7194,P140,What religious view does [MASK] have?,1,,1.0144957941510002
+7195,P140,What sect is the [MASK] associated with?,1,0.9223949200671111,1.0654990786898673
+7236,P140,What spiritual denomination does [MASK] associate with?,1,,0.9906638371908406
+7234,P140,What spiritual creed does [MASK] accept?,1,,1.0412793236689368
+7233,P140,What spiritual creed did the [MASK] embrace?,1,0.9936225219682495,0.9936225219682495
+7232,P140,What spiritual convictions does [MASK] possess?,1,0.8703218625310281,0.9675130712057977
+7231,P140,What spiritual community does [MASK] belong to?,1,,1.0080245955286513
+7230,P140,What spiritual commitment does [MASK] have?,1,0.8771008666308011,0.9794330234537074
+7229,P140,What spiritual beliefs is [MASK] devoted to?,1,,0.8867993400149147
+7226,P140,What spiritual beliefs do the people of [MASK] embrace?,1,,1.0903147671085096
+7225,P140,What spiritual beliefs did [MASK] have?,1,0.9796119202501893,0.9796119202501893
+7224,P140,What spiritual beliefs did [MASK] believe in?,1,,0.9071541211661881
+7223,P140,What spiritual beliefs are held by [MASK]?,1,,1.1299241597534235
+7219,P140,What spiritual belief system is observed at [MASK]?,1,0.9013959305340962,1.0203470652856867
+7218,P140,What spiritual belief system is embraced by [MASK]?,1,,0.9803273028223785
+7217,P140,What spiritual belief system is adhered to by [MASK]?,1,1.0355457969375397,1.0355457969375397
+7214,P140,What spiritual belief is practiced by [MASK]?,1,0.8969822652893326,0.9950680112593223
+7213,P140,What spiritual belief does the [MASK] subscribe to?,1,,0.9947957081870824
+7207,P140,What spiritual belief does [MASK] believe in?,1,,1.0087951468760092
+7204,P140,What spiritual belief did [MASK] practice?,1,,0.8979790078527483
+7203,P140,What spiritual approach does [MASK] practice?,1,,0.8901199200142277
+7201,P140,What specific religion did [MASK] practice?,1,0.9017701910739584,1.0158058303732607
+7199,P140,What sort of religious practices are common in [MASK]?,1,,1.0649961706689426
+7198,P140,What sort of religion does [MASK] follow?,1,,0.9991780253116977
+7196,P140,What set of religious beliefs does [MASK] follow?,1,,0.9626375540750537
+7174,P140,What religious practice does [MASK] observe?,1,,1.0566934437083664
+7165,P140,What religious order is [MASK] a member of?,1,,0.9733141438214806
+7172,P140,What religious persuasion does [MASK] profess?,1,,1.072375183433132
+7111,P140,What religion is adhered to by [MASK]?,1,,1.0955177259825162
+7131,P140,What religious belief does [MASK] profess?,1,1.0434964051450308,1.0434964051450308
+7128,P140,What religious background does [MASK] have?,1,,0.9752255569178434
+7127,P140,What religious affiliation is held by [MASK]?,1,,1.0174937778151545
+7126,P140,What religious affiliation does the [MASK] adhere to?,1,,0.8959868135828688
+7125,P140,What religious affiliation do the members of [MASK] have?,1,,0.9667802081337241
+7124,P140,What religion was promoted by the [MASK]?,1,1.0318440232420847,1.0318440232420847
+7123,P140,What religion was [MASK] a practitioner of?,1,1.0641137890247396,1.0696642649088368
+7121,P140,What religion is taught at [MASK]?,1,,0.9661939597295041
+7120,P140,What religion is represented in a [MASK]?,1,1.1087043222019881,1.1087043222019881
+7117,P140,What religion is professed by [MASK]?,1,,1.0646710278075422
+7114,P140,What religion is most commonly practiced in [MASK]?,1,,0.983844468072053
+7112,P140,What religion is dominant in the [MASK]?,1,,1.0835554918949026
+7109,P140,What religion is [MASK] aligned with?,1,,1.0244335349292877
+7171,P140,What religious persuasion does [MASK] identify with?,1,,0.9425497499687203
+7107,P140,What religion has [MASK] chosen to practice?,1,,1.0416018519498036
+7105,P140,What religion does the [MASK] follow?,1,,1.097582113000217
+7103,P140,What religion does the Danish monarch Margrethe II believe in?,1,,0.9756143884039199
+7102,P140,What religion does the Crown Princess of Sweden embrace?,1,,1.054363701784204
+7100,P140,What religion does [MASK] consider himself a part of?,1,,1.0120688180158923
+7099,P140,What religion does [MASK] affiliate with?,1,,1.063407310989363
+7098,P140,What religion did the [MASK] practice?,1,1.0279483666895473,1.0279483666895473
+7097,P140,What religion did [MASK] profess?,1,,1.086189498265927
+7096,P140,What religion did [MASK] embrace?,1,,1.0845843020595374
+7095,P140,What kind of worship does [MASK] engage in?,1,,0.8645475981896188
+7093,P140,What kind of spiritual belief does [MASK] have?,1,,0.8688511115225171
+7091,P140,What kind of religious belief is practiced at [MASK]?,1,,0.9964229012652998
+7132,P140,What religious beliefs are honored at [MASK]?,1,0.9192255327017652,0.9762527280049162
+7133,P140,What religious beliefs do [MASK]s ascribe to?,1,,0.8835511320929097
+7135,P140,What religious convictions are held by those in [MASK]?,1,,1.0838411305582392
+7136,P140,What religious convictions does [MASK] have?,1,,1.089486205397589
+7170,P140,What religious persuasion does [MASK] follow?,1,,1.1002690389287035
+7169,P140,What religious path does [MASK] take?,1,,1.0087314179789926
+7168,P140,What religious path does [MASK] follow?,1,,0.897608000289551
+7167,P140,What religious path did [MASK] follow?,1,0.8982561816460968,0.9967311713381428
+7166,P140,What religious order is [MASK] a part of?,1,,0.8885542962585553
+7238,P140,What spiritual doctrine did the [MASK] embrace?,1,,1.0277814326734722
+7164,P140,What religious ideology is followed by [MASK]?,1,,1.047737930821793
+7163,P140,What religious ideology does the [MASK] follow?,1,,0.9495168834249585
+7162,P140,What religious group is associated with the [MASK]?,1,,0.9967312110889706
+7161,P140,What religious group is [MASK] a part of?,1,1.023305147117256,1.0182002016063343
+7160,P140,What religious group does [MASK] follow?,1,,1.0414894861967041
+7159,P140,What religious group does [MASK] associate with?,1,,1.0200045107003677
+7158,P140,What religious group does [MASK] ascribe to?,1,,1.0576478331624601
+7157,P140,What religious faith is the [MASK] adhering to?,1,,0.8989619797068792
+7156,P140,What religious faith is practiced in [MASK]?,1,,1.1222601599698876
+7154,P140,What religious doctrines does [MASK] adhere to?,1,,0.8640715923783396
+7153,P140,What religious doctrine is embraced by [MASK]?,1,,0.9039165247395685
+7152,P140,What religious doctrine is [MASK] devoted to?,1,,0.873821373376683
+7151,P140,What religious doctrine does [MASK] uphold?,1,,0.8749197064486604
+7150,P140,What religious doctrine does [MASK] follow?,1,,1.0226651010147476
+7149,P140,What religious denomination is represented by the [MASK]?,1,0.9423638222284018,0.9423638222284006
+7147,P140,What religious denomination is followed by [MASK]?,1,,1.0165596426918193
+7142,P140,What religious denomination do [MASK] follow?,1,,0.9282580104264252
+7141,P140,What religious denomination did [MASK] practice?,1,1.040446469805352,1.040446469805352
+7140,P140,What religious denomination did [MASK] belong to?,1,,1.0267915414386213
+7237,P140,What spiritual direction does [MASK] take?,1,0.8874274621408367,1.0151529429328632
+7403,P140,Which religion is predominantly observed in [MASK]?,1,,0.9935865230281924
+7240,P140,What spiritual doctrine does [MASK] observe?,1,1.029777971555276,1.029777971555276
+7379,P140,What was the spiritual tradition that [MASK] followed?,1,,0.8993378876149193
+7376,P140,What was the religious practice of the [MASK]?,1,,0.9306734646581714
+7374,P140,What was the religious background of the [MASK]?,1,0.9720439982076625,0.9720439982076625
+7368,P140,What was [MASK]'s religion?,1,,1.09178279098727
+7367,P140,What type of theology is embraced by [MASK]?,1,0.926917274609808,0.9269172746098014
+7366,P140,What type of spirituality is practiced in Spain during the Restoration?,1,0.8746670813343692,0.8746670813343671
+7364,P140,What type of religious worship does [MASK] follow?,1,,0.8834039000114684
+7417,P140,Which spiritual path is the [MASK] devoted to?,1,,0.8886332706649637
+7363,P140,What type of religious views does [MASK] promote?,1,,0.9865450260831742
+7362,P140,What type of religious system is followed by [MASK]?,1,,0.9864279833695245
+7361,P140,What type of religious precepts does [MASK] adhere to?,1,0.89083358899114,0.8908335889911374
+7360,P140,What type of religious practice does [MASK] engage in?,1,,1.1239099170543676
+7359,P140,What type of religious observance do [MASK] members practice?,1,0.8850556505221212,1.03790080087296
+7358,P140,What type of religious faith does [MASK] have?,1,,1.006599323630995
+7356,P140,What type of religious doctrine does [MASK] subscribe to?,1,,0.9453638831601432
+7355,P140,What type of religious beliefs do people in the [MASK] adhere to?,1,0.9939590818540004,0.9939590818540004
+7354,P140,What type of religious belief does [MASK] possess?,1,,0.9773389363775317
+7353,P140,What type of religiosity does [MASK] practice?,1,,1.0163256446191105
+7352,P140,What type of religion was practiced in the [MASK]?,1,,1.1127086374666062
+7351,P140,What type of religion is followed by [MASK]?,1,,1.024935674444866
+7347,P140,What type of religion does [MASK] follow?,1,,1.0098526741287241
+7346,P140,What type of religion did [MASK] practice?,1,,1.0089712302335576
+7345,P140,What type of religion did [MASK] believe in?,1,0.9008546718174373,1.0060432395255485
+7340,P140,What type of faith do students of [MASK] observe?,1,,0.98417587639847
+7339,P140,What theology is followed by [MASK]?,1,,0.9240544949885212
+7338,P140,What theology does the [MASK] hold?,1,1.1024952693594228,1.1024952693594228
+7337,P140,What theology does [MASK] represent?,1,0.872100796721566,0.8721007967215599
+7336,P140,What theology does [MASK] adhere to?,1,,1.0075129821915583
+7377,P140,What was the spiritual conviction of the [MASK]?,1,0.8435726879700284,0.8435726879700284
+7416,P140,Which spiritual belief does [MASK] follow?,1,,0.8833337655959109
+7334,P140,What theological orientation does [MASK] follow?,1,,1.0059116937448322
+7380,P140,What was the spiritual viewpoint of [MASK]?,1,,0.8544486229595185
+7404,P140,Which religion is prevalent in Spain during the Restoration?,1,0.9408157545743926,1.0855809696938812
+7400,P140,Which religion is embraced by [MASK]?,1,,1.043485435874928
+7399,P140,Which religion is [MASK] a follower of?,1,0.9373169929315425,1.0493006288775086
+7397,P140,Which religion does the [MASK] accept?,1,,1.0352447009046655
+7396,P140,Which religion does [MASK] subscribe to?,1,,1.1099141737769693
+7405,P140,Which religion is the basis of [MASK]?,1,0.9084816190331766,0.9084816190331764
+7395,P140,Which religion does [MASK] observe?,1,,1.0468040806784453
+7406,P140,Which religion is the focus of the [MASK]?,1,1.028002510805724,1.028002510805724
+7408,P140,Which religion was propounded by the [MASK]?,1,1.028620274192635,1.028620274192635
+7394,P140,Which religion does [MASK] embrace?,1,0.9526275199814733,1.114361732347136
+7409,P140,Which religious belief does [MASK] practice?,1,,1.014873901661662
+7393,P140,Which religion does [MASK] believe in?,1,,1.0772254850829606
+7390,P140,Which is the religion of the Serbian people?,1,,0.9849915285781731
+7389,P140,Which god does [MASK] worship?,1,0.8935215243707915,0.8935215243707915
+7388,P140,Which form of worship is practiced by H.H. Asquith?,1,,1.0327308086905143
+7387,P140,Which faith is embraced by the [MASK]?,1,,1.0325217136836229
+7386,P140,Which faith is affiliated with [MASK]?,1,0.9154577988397361,0.9154577988397348
+7384,P140,Which denomination does [MASK] ascribe to?,1,,1.026028796492821
+7410,P140,Which religious beliefs does [MASK] subscribe to?,1,,1.1314562336547735
+7383,P140,Which creed does [MASK] practice?,1,0.8988138458500263,0.9450957889776856
+7411,P140,Which religious faith is practiced in the [MASK]?,1,,1.0635910026781823
+7382,P140,Which creed does [MASK] follow?,1,,0.9562537503235246
+7412,P140,Which religious group is [MASK] a member of?,1,,1.0195727990234942
+7088,P140,What kind of religion does [MASK] hold?,1,,1.0742217148478932
+7413,P140,Which religious persuasion does [MASK] ascribe to?,1,,1.0066550372649452
+7414,P140,Which religious system does [MASK] espouse?,1,,0.9506794438470076
+7381,P140,Which belief system is the [MASK] based on?,1,,0.8907267819130439
+7335,P140,What theological system does [MASK] believe in?,1,,0.8999851419105273
+7333,P140,What system of faith is dominant in Spain during the Restoration?,1,2.683674005070565,1.005468454201719
+7242,P140,What spiritual doctrine is practiced by the [MASK]?,1,,0.90497935629216
+7285,P140,What spiritual path was accepted in the [MASK]?,1,,1.0143826843456822
+7283,P140,What spiritual path is practiced at the [MASK]?,1,,0.931679096347631
+7281,P140,What spiritual path is followed in [MASK]?,1,,0.8984031579471605
+7279,P140,What spiritual path is [MASK] on?,1,,0.948015985681613
+7278,P140,What spiritual path is [MASK] following?,1,,0.9033547414805747
+7276,P140,What spiritual path is [MASK] dedicated to?,1,,0.9031879736091188
+7271,P140,What spiritual path does the Catholic Archdiocese take?,1,0.8593515385765621,0.8593515385765618
+7269,P140,What spiritual path does [MASK] identify with?,1,,0.8618105557650647
+7267,P140,What spiritual path does [MASK] abide by?,1,,0.8972908976626666
+7266,P140,What spiritual path does Spain embrace during the Restoration?,1,0.8132750848467322,0.8132750848467315
+7265,P140,What spiritual path do the students of [MASK] take?,1,,0.8894963463744158
+7264,P140,What spiritual path do the people of the [MASK] follow?,1,,0.8977809237388455
+7263,P140,What spiritual path did [MASK] practice?,1,,1.1074234250313355
+7262,P140,What spiritual path did [MASK] choose?,1,0.9866730145173636,0.9866730145173636
+7261,P140,What spiritual orientation is [MASK] affiliated with?,1,,1.0042671931708074
+7260,P140,What spiritual orientation does [MASK] endorse?,1,,0.8664692030781225
+7259,P140,What spiritual or religious system does [MASK] adhere to?,1,,1.0466333245971406
+7258,P140,What spiritual movement does [MASK] embrace?,1,,0.8864579850599952
+7257,P140,What spiritual ideology does [MASK] practice?,1,0.9199584299798564,0.9199584299798487
+7256,P140,What spiritual ideology does [MASK] identify with?,1,,1.0632265392903606
+7255,P140,What spiritual ideology does [MASK] ascribe to?,1,,0.8321171218602494
+7254,P140,What spiritual identity does [MASK] possess?,1,,0.8274658430097319
+7253,P140,What spiritual identity does [MASK] identify with?,1,0.8763649828040294,0.8763649828040285
+7402,P140,Which religion is predominant in the [MASK]?,1,,1.0929040855124061
+7251,P140,What spiritual group does [MASK] associate with?,1,0.910174372937031,0.9101743729370263
+7249,P140,What spiritual faith does a [MASK] honor?,1,,1.2925634317823582
+7244,P140,What spiritual faith do [MASK]s adhere to?,1,,0.917850159237194
+7243,P140,What spiritual expression does the [MASK] follow?,1,,0.8728201361732126
+7284,P140,What spiritual path was [MASK] committed to?,1,3.800343253283726,0.9216765737319765
+7286,P140,What spiritual persuasion does [MASK] adhere to?,1,,1.0661879505964655
+7331,P140,What system of faith does [MASK] espouse?,1,0.9184270618354999,1.0584276852634353
+7287,P140,What spiritual persuasion does [MASK] believe in?,1,1.0103943438319132,1.0103943438319132
+7330,P140,What system of beliefs does [MASK] have?,1,1.0176260308331557,1.0176260308331557
+7329,P140,What system of beliefs did the [MASK] profess?,1,,1.11578169561277
+7326,P140,What spiritual tradition is embraced in the [MASK]?,1,,0.9948974047106661
+7325,P140,What spiritual tradition is commonly practiced in [MASK]?,1,,0.9008646345109895
+7323,P140,What spiritual tradition is [MASK] dedicated to?,1,1.253649038576079,1.0165921840277239
+7322,P140,What spiritual tradition is H.H. Asquith a part of?,1,,1.0292668753614491
+7318,P140,What spiritual tradition does [MASK] hold?,1,,1.0591269086928667
+7317,P140,What spiritual tradition does [MASK] align with?,1,0.8833036171584966,0.8833036171584966
+7314,P140,What spiritual teachings does [MASK] observe?,1,,0.976425997735821
+7313,P140,What spiritual teaching does [MASK] involve?,1,,0.8700322156068188
+7310,P140,What spiritual system is followed by [MASK]?,1,,1.0247297315619026
+7308,P140,What spiritual system does the [MASK] adhere to?,1,,0.897959888079388
+7307,P140,What spiritual system does [MASK] identify with?,1,,0.9369338314717942
+7306,P140,What spiritual system does [MASK] ascribe to?,1,,0.9669817727079494
+7304,P140,What spiritual system does [MASK] accept?,1,,1.02136196596028
+7302,P140,What spiritual system did [MASK] adhere to?,1,1.0263550738765417,1.0263550738765417
+7301,P140,What spiritual sect does [MASK] follow?,1,,1.0611006888169054
+7299,P140,What spiritual practice is the [MASK] associated with?,1,,0.8946230080410282
+7298,P140,What spiritual practice is followed by [MASK]?,1,,0.8461492523085369
+7297,P140,What spiritual practice is espoused in the [MASK]?,1,,1.0413513816879092
+7296,P140,What spiritual practice is embodied in [MASK]?,1,0.9626549333650933,0.9626549333650937
+7295,P140,What spiritual practice is [MASK] engaged in?,1,0.9194023690698534,0.9194023690698534
+7294,P140,What spiritual practice does [MASK] take part in?,1,,0.9024263510970993
+7292,P140,What spiritual practice does [MASK] identify with?,1,,0.8845779557405463
+7291,P140,What spiritual practice does [MASK] believe in?,1,,0.8712812871974283
+7289,P140,What spiritual practice does H.H. Asquith adhere to?,1,,1.0139461477434233
+7288,P140,What spiritual persuasion does [MASK] identify with?,1,,0.9585975323852953
+7252,P140,What spiritual group does [MASK] identify with?,1,,0.9925892023010296
+6893,P140,What faith is adhered to by the [MASK]?,1,,1.096577303448119
+7087,P140,What kind of religion does [MASK] follow?,1,,1.149325989735168
+6799,P140,To which spiritual tradition does the [MASK] belong?,1,,1.0774726544964968
+6817,P140,What confessional tradition does [MASK] embrace?,1,0.9103470978294617,0.9838572034742702
+6816,P140,What church does [MASK] practice?,1,,1.0313676452548184
+6815,P140,What beliefs does [MASK] practice?,1,0.9024160167896031,1.023004604064017
+6813,P140,What beliefs do the members of [MASK] hold?,1,,0.9669456366039899
+6812,P140,What beliefs are upheld by the [MASK]?,1,,1.0352447991512879
+6810,P140,What belief system is [MASK] connected to?,1,1.2680980846680003,1.1694427247091341
+6809,P140,What belief system does [MASK] embrace?,1,,0.994587753114939
+6808,P140,What belief system does [MASK] ascribe to?,1,,1.0003639933220687
+6806,P140,What belief system did [MASK] practice?,1,,0.9785014380315691
+6805,P140,What belief system did [MASK] embrace?,1,1.0355817527952875,0.8480682944608189
+6802,P140,What God or gods are worshipped in [MASK]?,1,,0.8635164753612039
+6800,P140,To whom does [MASK] owe his devotion?,1,,0.8971748358877597
+6795,P140,To which spiritual system does the [MASK] subscribe?,1,,0.9154753098613503
+6861,P140,What doctrine does [MASK] embrace?,1,,0.9654133649204438
+6794,P140,To which spiritual system does [MASK] ascribe?,1,0.9126725123466956,0.9126725123466846
+6791,P140,To which spiritual path does [MASK] pertain?,1,,0.9396755285663546
+6789,P140,To which spiritual path does [MASK] adhere?,1,,0.9244334432662404
+6782,P140,To which religious sect does [MASK] belong?,1,,1.0100721215309765
+6781,P140,To which religious path does [MASK] subscribe?,1,,0.9068355850660501
+6780,P140,To which religious organization is [MASK] a member?,1,,0.871057278168365
+6779,P140,To which religious organization does [MASK] belong?,1,,1.031843467626655
+6778,P140,To which religious order did [MASK] belong?,1,0.8638740120737715,0.8638740120737708
+6775,P140,To which religious creed does [MASK] subscribe?,1,,0.9021150900150938
+6773,P140,To which religious belief does [MASK] ascribe?,1,,0.951969936060305
+6771,P140,To which religion is [MASK] devoted?,1,,1.0814267149423626
+6770,P140,To which religion is [MASK] affiliated?,1,1.0185064050470847,1.0623638436893978
+6818,P140,What creed did [MASK] ascribe to?,1,,0.9841658967055116
+6819,P140,What creed did [MASK] believe in?,1,,1.0406387143816218
+6820,P140,What creed do followers of the [MASK] subscribe to?,1,,0.8985627308018475
+6822,P140,What creed does [MASK] espouse?,1,,1.0461408317545757
+6859,P140,What doctrine does [MASK] adhere to?,1,0.8721114217466597,0.872111421746658
+6858,P140,What doctrine do [MASK] observe?,1,,0.8908704760246227
+6857,P140,What doctrine did [MASK] believe in?,1,,0.8990183754432084
+6856,P140,What divine ideology is followed at [MASK]?,1,0.8698853090949953,0.9593971966453896
+6855,P140,What denomination was [MASK]?,1,,0.9143354813328434
+6853,P140,What denomination of faith is followed in [MASK]?,1,,0.9143028266891223
+6851,P140,What denomination is observed by the [MASK]?,1,,0.900257314593003
+6850,P140,What denomination is dominant among [MASK] citizens?,1,,1.2493875804551007
+6848,P140,What denomination is adhered to by [MASK]?,1,,1.1240857925042862
+6847,P140,What denomination is [MASK] aligned with?,1,,0.9324976898835103
+6846,P140,What denomination is [MASK] a member of?,1,,1.0821069132944015
+6845,P140,What denomination does [MASK] obey?,1,,0.9834049713095577
+6844,P140,What denomination does [MASK] follow?,1,,1.130445666494054
+6842,P140,What denomination did [MASK] identify with?,1,,0.9324863394563886
+6841,P140,What deity does [MASK] worship?,1,,0.9227173278871528
+6840,P140,What deity does [MASK] revere?,1,,0.9085715330315981
+6839,P140,What deity did [MASK] worship?,1,,0.9063748919953359
+6838,P140,What creed is practiced by the [MASK]?,1,,0.9243171244707
+6837,P140,What creed is observed at [MASK]?,1,0.9289903336269767,1.0721720865081512
+6836,P140,What creed is held by [MASK]?,1,0.9268920709898707,1.0005942851291414
+6831,P140,What creed is adhered to by the [MASK]?,1,,0.9035637822541119
+6830,P140,What creed is [MASK] devoted to?,1,,0.9550349348808235
+6829,P140,What creed is [MASK] a part of?,1,0.8794028433137423,0.8794028433137299
+6824,P140,What creed does [MASK] identify with?,1,0.9303497191816521,1.0795803732603944
+6823,P140,What creed does [MASK] hold to?,1,,1.0354011876884914
+6768,P140,To which religion does the Serbian people ascribe?,1,,1.0271245003139127
+6767,P140,To which religion does the Catholic Archdiocese adhere?,1,1.1235498043483194,1.2683559679461993
+6765,P140,To which religion does [MASK] identify?,1,,1.0088480547165108
+6711,P140,To what religion is [MASK] committed?,1,,1.0618343545759141
+6707,P140,To what religion do [MASK]'s beliefs belong?,1,,1.0232432791358865
+6706,P140,To what religion did [MASK] belong?,1,,0.8861905443852073
+6705,P140,To what religion are [MASK]s devoted?,1,,1.0216175387612398
+6704,P140,To what god does [MASK] pledge his allegiance?,1,0.9197668310105844,0.9197668310105828
+6703,P140,To what faith was [MASK] devoted?,1,0.9140506337904873,0.9820162075184787
+6700,P140,To what faith does [MASK] trace its roots?,1,0.9264844031013084,0.9264844031012995
+6697,P140,To what faith did [MASK] belong?,1,,0.9566374793617923
+6691,P140,To what creed does [MASK] conform?,1,,1.0572392666918151
+6690,P140,To what creed does [MASK] belong?,1,0.9148336652250602,1.0603433657096917
+6687,P140,Of which spiritual ideology is [MASK] an adherent?,1,,0.8889267092451462
+6686,P140,Of which religion is [MASK] a practitioner?,1,,1.0993114912363209
+6683,P140,Of which creed is [MASK] a member?,1,,0.8989934686417792
+6681,P140,Of what spiritual practice is [MASK] a follower?,1,,0.8921950291989712
+6677,P140,Of what religious denomination are the people of [MASK]?,1,,1.0273219224064478
+6674,P140,Of what religion is [MASK] a proponent?,1,,1.0285216001097623
+6670,P140,Of what faith are the members of the [MASK]?,1,,1.235161455472275
+6668,P140,In which religion is [MASK] a follower?,1,,0.9280857528561935
+6667,P140,In what spiritual tradition was [MASK] raised?,1,,1.0928959131416025
+6666,P140,In what spiritual tradition does [MASK] participate?,1,,0.8574944334929808
+6665,P140,In what spiritual tradition does [MASK] fall?,1,,1.0862553684312104
+6663,P140,In what religious tradition does [MASK] belong?,1,,0.9797384563225523
+6662,P140,In what religious group is [MASK] a member?,1,,0.9699346713749232
+6661,P140,In what religion is [MASK] involved?,1,,1.082808450197532
+6660,P140,In what religion is [MASK] a member?,1,,1.05278918177174
+6657,P140,In what faith do the people of [MASK] believe?,1,,1.0265363166208863
+6710,P140,To what religion does the [MASK] owe allegiance?,1,0.9083921711900625,0.9083921711900625
+6713,P140,To what religion was the [MASK] devoted?,1,,1.0137731698182118
+6764,P140,To which religion does [MASK] hold allegiance?,1,,0.9378779600266517
+6716,P140,To what religious belief system does [MASK] belong?,1,1.0256288790735235,1.0256288790735235
+6763,P140,To which religion does [MASK] align himself?,1,,1.0194271453706856
+6762,P140,To which religion does H.H. Asquith belong?,1,,1.0454089940090758
+6761,P140,To which religion do the members of [MASK] belong?,1,,1.0948444607368428
+6759,P140,To which religion did the [MASK] belong?,1,,0.9054567696991656
+6758,P140,To which religion did [MASK] ascribe?,1,0.8877527751430965,0.8877527751430965
+6757,P140,To which god(s) does [MASK] pay homage?,1,,0.9067872237988929
+6756,P140,To which faith is the [MASK] devoted?,1,1.409620364788916,0.9948674211103026
+6754,P140,To which faith does H.H. Asquith subscribe?,1,,1.0256318482921183
+6753,P140,To which faith do members of the Catholic Archdiocese adhere?,1,1.424613207046898,1.0369142520076773
+6752,P140,To which faith did the [MASK] belong?,1,1.0199131800951022,1.0199131800951022
+6751,P140,To which doctrine does [MASK] ascribe?,1,,0.8880294084198584
+6750,P140,To which doctrine does [MASK] adhere?,1,0.8848505711699851,0.8848505711699797
+6749,P140,To which divine creed does [MASK] subscribe?,1,,0.8870830846054464
+6748,P140,To which denomination does the [MASK] belong?,1,,0.9246619796250463
+6747,P140,To which creed is [MASK] committed?,1,,0.9762402326634078
+6743,P140,To which church does [MASK] belong?,1,,0.9002815662305356
+6741,P140,To which belief system does a [MASK] belong?,1,1.0354512771502205,1.0354512771502205
+6740,P140,To which belief system does [MASK] subscribe?,1,,0.8698728134497904
+6738,P140,To which God or gods did [MASK] pay reverence?,1,,0.9184433640060874
+6737,P140,To what type of spiritual practice does [MASK] belong?,1,,0.9037853461169035
+6734,P140,To what spiritual tradition does the Catholic Archdiocese belong?,1,1.0174712923922422,0.936333610253558
+6732,P140,To what spiritual system does [MASK] belong?,1,,1.0500038131563205
+6729,P140,To what spiritual group does [MASK] belong?,1,,0.8538168564538707
+6726,P140,To what spiritual belief does [MASK] belong?,1,,1.0801788909061327
+6724,P140,To what school of thought does [MASK] subscribe?,1,0.8959439567559864,1.0462337088294589
+6860,P140,What doctrine does [MASK] believe in?,1,,1.1746604920557302
+6863,P140,What doctrine is embraced by a [MASK]?,1,,0.9051548550744416
+7086,P140,What kind of religion does [MASK] ascribe to?,1,1.056879556367453,1.056879556367453
+7017,P140,What is the religious background of H.H. Asquith?,1,,1.0576788306803366
+7033,P140,What is the religious practice that [MASK] holds to?,1,,1.0030107768763123
+7031,P140,What is the religious philosophy of the [MASK]?,1,0.8980086399938242,0.8980086399938073
+7030,P140,What is the religious outlook of [MASK]?,1,,0.871149918689983
+7028,P140,What is the religious organization of the [MASK]?,1,0.8902498942778636,0.8902498942778638
+7027,P140,What is the religious ideology of [MASK]?,1,,0.8707308422372918
+7026,P140,What is the religious faith of the [MASK]?,1,0.9974921895017643,0.9974921895017643
+7025,P140,What is the religious dogma of [MASK]?,1,0.8557194052694354,0.9585446574036268
+7024,P140,What is the religious disposition of the [MASK]?,1,0.883112046579679,0.8831120465796786
+7022,P140,What is the religious conviction of the Catholic Archdiocese?,1,0.8463766595446351,0.8463766595446349
+7020,P140,What is the religious belief system held by [MASK]?,1,,0.9034114831447065
+7019,P140,What is the religious belief of Serbians?,1,,0.9637796841468894
+7018,P140,What is the religious belief of H.H. Asquith?,1,,0.9885077671455601
+7014,P140,What is the religion of [MASK] in nature?,1,,0.8704770628928887
+6864,P140,What does [MASK] believe in religiously?,1,,1.038589900181851
+7012,P140,What is the religion adhered to in Spain during the Restoration?,1,0.9409093757218798,1.0849350504734365
+7011,P140,What is the professed religion of [MASK]?,1,,1.0202073367213036
+7004,P140,What is the predominant religion of [MASK]?,1,,0.9649467176832418
+7003,P140,What is the predominant religion of Spain during the Restoration?,1,0.9530277501212909,1.0998452085804917
+7001,P140,What is the predominant faith of the [MASK]?,1,,1.0609173765832294
+7000,P140,What is the origin of [MASK]?,1,0.9119493894337279,0.9119493894337265
+6999,P140,What is the major religion of the [MASK]?,1,1.0333747458895128,1.0333747458895128
+6998,P140,What is the main religious practice in [MASK]?,1,,0.9791596185162719
+6997,P140,What is the main religion of [MASK]?,1,,1.0464977849086678
+6995,P140,What is the gospel of [MASK]?,1,,0.8669723075024908
+6992,P140,What is the faith that [MASK] holds?,1,,1.0132786099791324
+6991,P140,What is the faith that [MASK] follows?,1,,0.9203207728610835
+7034,P140,What is the religious preference of [MASK]?,1,,1.002029975734741
+7035,P140,What is the religious system that [MASK] practices?,1,,0.8807090542870983
+7036,P140,What is the religious tradition of Spain during the Restoration?,1,0.9083618644858035,1.0482795833338376
+7039,P140,What is the religious tradition that [MASK] practices?,1,0.9024981803990838,1.0546994088453745
+7084,P140,What kind of religion did [MASK] believe in?,1,,1.1449580989075845
+7081,P140,What is the theological worldview of [MASK]?,1,,0.8717609205573255
+7080,P140,What is the theological source of [MASK]?,1,0.9086008903594456,0.9235787579512112
+7079,P140,What is the theological background of [MASK]?,1,0.8908711475933927,1.0285955585776974
+7078,P140,What is the spiritual tradition that [MASK] practices?,1,,0.8722260539446017
+7077,P140,What is the spiritual tradition that [MASK] belongs to?,1,0.8854265599805146,0.9932830817406011
+7076,P140,What is the spiritual tradition that [MASK] ascribes to?,1,0.9043483760613856,0.9043483760613461
+7075,P140,What is the spiritual tradition that [MASK] adheres to?,1,,0.9984236854043207
+7074,P140,What is the spiritual tradition practiced by [MASK]?,1,,0.9734715932166041
+7073,P140,What is the spiritual tradition of the Catholic Archdiocese?,1,0.866662002620398,0.8666620026203985
+7072,P140,What is the spiritual tradition observed at [MASK]?,1,,0.9852462834353135
+7071,P140,What is the spiritual tradition held by [MASK]?,1,,0.8953407699279629
+7066,P140,What is the spiritual preference of [MASK]?,1,,0.8362170384278055
+7065,P140,What is the spiritual practice of the Catholic Archdiocese?,1,0.926919201053874,0.926919201053874
+7057,P140,What is the spiritual outlook of [MASK]?,1,,0.8525348350799586
+7055,P140,What is the spiritual heritage of [MASK]?,1,,0.885702595819015
+7051,P140,What is the spiritual devotion practiced by H.H. Asquith?,1,,0.7519915415441426
+7049,P140,What is the spiritual custom practiced by [MASK]?,1,1.844489349517248,0.8900441686642173
+7048,P140,What is the spiritual community that [MASK] belongs to?,1,,0.964172866931516
+7047,P140,What is the spiritual belief upheld by a [MASK]?,1,0.8794857639078587,0.8794857639078587
+7046,P140,What is the spiritual belief system that exists in Spain during the Restoration?,1,0.8233486220421826,0.9353588757154998
+7044,P140,What is the spiritual belief system of the Catholic Archdiocese?,1,1.1164118312172642,0.972736364878953
+7042,P140,What is the spiritual belief system followed in the [MASK]?,1,,0.9986912949084882
+7041,P140,What is the spiritual belief adhered to by a [MASK]?,1,0.8862921021824538,0.8862921021824538
+7040,P140,What is the spiritual basis of [MASK]?,1,,0.981281428759192
+6989,P140,What is the faith that [MASK] adheres to?,1,,1.0465213769994017
+6987,P140,What is the faith practiced in [MASK]?,1,,0.9675817052628672
+6980,P140,What is the established religion of [MASK]?,1,,1.038160155327776
+6922,P140,What faith tradition does [MASK] embrace?,1,,1.0493569453957732
+6919,P140,What faith system is practiced in Spain during the Restoration period?,1,0.9332924167628015,1.0289467622830266
+6917,P140,What faith system is followed in Spain during the Restoration?,1,1.4351663049572578,0.9814301617379068
+6915,P140,What faith practice is [MASK] involved in?,1,,1.0500314438841858
+6914,P140,What faith is the [MASK] participating in?,1,,0.9432265956052766
+6913,P140,What faith is the [MASK] following?,1,,0.9873312665782914
+6911,P140,What faith is represented by the [MASK]?,1,,1.019968016948007
+6910,P140,What faith is professed in the [MASK]?,1,,0.9139429508185127
+6906,P140,What faith is practiced by a [MASK]?,1,,1.087906923231735
+6904,P140,What faith is observed by [MASK]?,1,,1.051371913491661
+6900,P140,What faith is endorsed by [MASK]?,1,3.303310378902427,1.1042320543175963
+6897,P140,What faith is celebrated by a [MASK]?,1,1.0760790587650193,1.0760790587650193
+6894,P140,What faith is associated with H.H. Asquith?,1,,1.0127686808040655
+6890,P140,What faith is [MASK] connected to?,1,,0.9989900881364918
+6889,P140,What faith is [MASK] committed to?,1,,1.112977442665389
+6888,P140,What faith is [MASK] adherent to?,1,,1.080387798258145
+6886,P140,What faith has [MASK] aligned with?,1,,1.0566549841299315
+6884,P140,What faith does the Catholic Archdiocese ascribe to?,1,1.18257783405616,1.051038740837527
+6880,P140,What faith do the students at [MASK] study?,1,,0.9774347383992582
+6879,P140,What faith do the [MASK] practice?,1,0.9942237397971581,0.9942237397971581
+6878,P140,What faith do people in [MASK] adhere to?,1,,0.9647182930653853
+6876,P140,What faith do citizens of [MASK] practice?,1,,0.8866508481929802
+6875,P140,What faith do [MASK] students practice?,1,0.9484922041833747,1.0743606608909861
+6874,P140,What faith do [MASK] embrace?,1,,1.0028730556842043
+6870,P140,What faith did [MASK] subscribe to?,1,0.9686694618035597,0.9686694618035597
+6869,P140,What faith did [MASK] believe in?,1,,0.9918595314807667
+6921,P140,What faith tradition did [MASK] identify with?,1,1.01233187768817,1.01233187768817
+6923,P140,What faith tradition is observed in [MASK]s?,1,,0.896950491209837
+6979,P140,What is the doctrine that [MASK] adheres to?,1,,0.8830639131023219
+6926,P140,What faith was adopted by the [MASK]?,1,1.020123778998872,1.020123778998872
+6977,P140,What is the creed to which [MASK] subscribes?,1,,0.8585897117945818
+6976,P140,What is the creed that [MASK] professes?,1,,0.8162405352955414
+6975,P140,What is the creed that [MASK] embraces?,1,,0.914736781489978
+6966,P140,What is believed by [MASK] in terms of faith?,1,0.8210315836328489,0.8210315836328482
+6961,P140,What is [MASK]'s theological belief?,1,0.880760325592293,0.9503957931770981
+6960,P140,What is [MASK]'s spiritual inclination?,1,,0.8687817829727825
+6958,P140,What is [MASK]'s spiritual allegiance?,1,,0.8654219367616547
+6956,P140,What is [MASK]'s religious practice?,1,,0.9868380867344303
+6955,P140,What is [MASK]'s religious conviction?,1,0.9254805381148614,1.0391269520079214
+6953,P140,What is [MASK]'s piety?,1,,0.8883377419777958
+6946,P140,What is H.H. Asquith's religious identity?,1,,1.021329477409417
+6945,P140,What ideology does [MASK] subscribe to?,1,0.882454064631112,0.8824540646311098
+6944,P140,What godly teachings does [MASK] follow?,1,,1.0288975633029
+6942,P140,What god is worshiped in the [MASK]?,1,,0.9942668685753056
+6940,P140,What god does [MASK] revere?,1,,0.9021118508085718
+6939,P140,What god does [MASK] believe in?,1,,0.9136793384248854
+6937,P140,What form of worship is followed by the [MASK]?,1,,0.8858225649234654
+6936,P140,What form of worship is conducted at [MASK]?,1,0.9172111929478767,1.0581215238869681
+6934,P140,What form of worship does [MASK] observe?,1,,0.9134896094014908
+6933,P140,What form of worship does [MASK] follow?,1,,0.8740956690344406
+6932,P140,What form of worship does [MASK] engage in?,1,,0.8301744781796678
+6931,P140,What form of worship does [MASK] ascribe to?,1,,0.8875426989381534
+6930,P140,What form of worship does [MASK] adhere to?,1,1.0144328309495276,1.0144328309495276
+6929,P140,What form of spirituality is connected to [MASK]?,1,,0.892964930406661
+6928,P140,What form of religion is upheld by the Catholic Archdiocese?,1,0.9452194528384067,1.1773759587165722
+7418,P140,Which spiritual practices are honored at the [MASK]?,1,,0.9707602743977279

@@ -1,0 +1,430 @@
+,p,template,fact_id,effect_gold,effect_top
+14364,P27,What is the nation of [MASK]'s citizenship?,197,0.9626436111754261,0.9738364592425307
+14189,P27,What is the nationality of [MASK]?,158,,0.9617270645257162
+14596,P27,What is [MASK]'s passport nationality?,116,,0.9653780479367043
+14191,P27,What is [MASK]'s national identity?,92,,0.8678458475958135
+14192,P27,What is [MASK]'s country of origin?,86,1.002254857786641,0.9884801123868896
+14194,P27,What country is [MASK] a citizen of?,82,1.3110732127476514,1.0780557862610056
+14193,P27,To which country does [MASK] belong?,70,1.1233025064748114,1.0425946986437375
+14195,P27,To which nation does [MASK] belong?,68,,1.0380708005878563
+14196,P27,What is [MASK]'s native country?,66,,1.042766206081355
+14198,P27,To what country does [MASK] belong?,55,1.081492817865422,1.090531565660733
+14197,P27,To which country does [MASK] owe allegiance?,50,1.0348530766486028,0.9980167753640028
+14200,P27,To which nation does [MASK] owe allegiance?,45,,0.9480841533983563
+14199,P27,What is [MASK]'s native land?,42,,1.0046447634468432
+14227,P27,What is the country of origin of [MASK]?,37,1.1603035271178301,1.0108309416445034
+14202,P27,Where is [MASK] from?,36,0.971502345340327,0.9425075966360661
+14211,P27,What nation is [MASK] a citizen of?,32,,1.0737499645096427
+14204,P27,What is the national identity of [MASK]?,31,0.8577783112833993,0.8756740560407797
+14215,P27,What nation does [MASK] belong to?,31,1.0936532299233463,1.0475386095523516
+14206,P27,What is the birthplace of [MASK]?,28,,0.8690504150381232
+14205,P27,What is the native country of [MASK]?,28,1.0463358511407044,1.023811599512798
+14208,P27,What is [MASK]'s citizenship status?,28,0.8926531419088674,0.9600361554442098
+14210,P27,Where does [MASK] hold citizenship?,25,1.1261589384203068,1.01175759815914
+14229,P27,What is [MASK]'s allegiance?,23,,0.8769348653123944
+14209,P27,What is the native land of [MASK]?,22,0.9963540123403803,0.9370211634562723
+14761,P27,Which country is [MASK] a legal citizen of?,22,,1.056736820671203
+14207,P27,What country is [MASK] from?,21,1.1663233779663351,1.0716599365807133
+14217,P27,To what country does [MASK] owe allegiance?,21,,0.9766919566656417
+14225,P27,To what nation does [MASK] owe allegiance?,19,1.240516972533201,0.9724116406760911
+14216,P27,Where is [MASK] a citizen?,19,1.033188655701443,1.036608627579747
+14212,P27,In what country is [MASK] a citizen?,18,1.067677159491506,1.0714430162016024
+14221,P27,To which state does [MASK] owe allegiance?,18,1.0194077939287387,0.9395257065271561
+14220,P27,What is the home country of [MASK]?,17,,1.0868543824359498
+14234,P27,To which nation is [MASK] a citizen?,16,,1.0524853512414079
+14213,P27,What is [MASK]'s country of citizenship?,16,1.0505966641174165,1.0779751650436762
+14214,P27,What is [MASK]'s nation of origin?,16,0.9661467235232756,1.0230878882101002
+14222,P27,What is [MASK]'s home country?,15,1.0768878228119871,1.109076035850967
+14224,P27,What nation does [MASK] call home?,14,1.0781503627229694,1.0521739949215305
+14223,P27,What is [MASK]'s national affiliation?,14,0.8408437879723806,0.8565862890927933
+14226,P27,What country does [MASK] call home?,14,,1.068111093249819
+14248,P27,What is the nation of [MASK]'s birth?,12,,1.0574179261915744
+14272,P27,In which country does [MASK] hold citizenship?,11,1.5568594508669833,1.040253441850598
+14238,P27,In which country is [MASK] a citizen?,11,1.1486024611483705,1.0379850436088895
+14230,P27,What is [MASK]'s national origin?,11,0.9061617526050252,0.936247368901422
+14298,P27,Of which state is [MASK] a citizen?,9,,1.0539078103837116
+14240,P27,What is [MASK]'s homeland?,9,1.1150250985832193,1.0083186300079565
+14271,P27,In what nation does [MASK] hold citizenship?,9,1.0644260470607954,1.0808618963905208
+14259,P27,What is the homeland of [MASK]?,9,,0.9966371457831147
+14245,P27,What is [MASK]'s home nation?,9,,1.084931681482297
+14291,P27,What state is [MASK] a citizen of?,8,,1.0135808930542516
+14249,P27,What is the national origin of [MASK]?,8,0.8987253679000293,0.9487840052836357
+14280,P27,What country is [MASK] a national of?,8,,1.0708474501929104
+14241,P27,Where was [MASK] born?,8,1.6743624421491294,0.870709905612302
+14265,P27,What country does [MASK] hold citizenship in?,7,,1.0543612190580283
+14296,P27,In which nation does [MASK] hold citizenship?,7,1.2277632162836987,1.059556031838524
+14268,P27,What passport does [MASK] hold?,7,0.9638094926696922,0.9173709593660769
+14243,P27,To which country did [MASK] belong?,7,0.9166488858697877,0.969209540544303
+14247,P27,What is [MASK]'s place of citizenship?,7,1.0298289156496396,1.0120728923104212
+14253,P27,Where does [MASK] come from?,7,0.9048935947379392,0.9552695127529613
+14258,P27,What is [MASK]'s place of origin?,7,0.8792309523362138,0.9895196912538248
+14250,P27,What nation does [MASK] identify with?,7,1.0218061196889152,1.0768577539253787
+14251,P27,What nationality does [MASK] possess?,7,0.9263596994624995,0.9873168483651076
+14252,P27,What nationality was [MASK]?,7,,0.9962858947126483
+14261,P27,What nationality does [MASK] hold?,6,0.9943230463713651,0.9520735339035981
+14301,P27,To what nation did [MASK] belong?,6,,1.0003450324925967
+14315,P27,What is the country of [MASK]'s birth?,6,,1.0975749824456464
+14316,P27,What is the nation of origin of [MASK]?,6,1.3974994612235774,1.0417430847186264
+14263,P27,To what country is [MASK] a citizen?,6,1.3470454662418287,1.1263660006636933
+14331,P27,In which country is [MASK] a national?,6,,1.0856354304334708
+14254,P27,In which nation is [MASK] a citizen?,6,1.1347730979784785,1.140233589024714
+14256,P27,To what state does [MASK] owe allegiance?,6,0.8947183725308971,0.9228373820794746
+14257,P27,What country does [MASK] come from?,6,1.0499655158250043,1.102599096258251
+14270,P27,Where does [MASK] have citizenship?,6,0.9557858729800922,1.0447458273264194
+14267,P27,What is the national affiliation of [MASK]?,6,0.8592980129426856,0.8592980129426824
+14328,P27,In which country does [MASK] have citizenship?,5,,1.0385864142610082
+14292,P27,What was [MASK]'s citizenship?,5,,0.9943740857120936
+14284,P27,What is the national background of [MASK]?,5,0.8708133398650428,0.8666685558540855
+14275,P27,To which country does [MASK] hold allegiance?,5,0.9609443698973188,1.062411618743571
+14286,P27,What is the passport of [MASK]?,5,0.8700002909843192,0.9154240206001717
+14266,P27,What is the home nation of [MASK]?,5,1.8167947976484196,1.1861316139068099
+14279,P27,What citizenship does [MASK] possess?,5,0.9609881372972623,0.9549686243156671
+14273,P27,Of what country is [MASK] a resident?,4,1.0741829483004535,1.0434552326876367
+14288,P27,What nation does [MASK] hold allegiance to?,4,1.054571021402004,0.9970765179060973
+14337,P27,To what nationality does [MASK] belong?,4,,1.0036146691769061
+14277,P27,To which nation is [MASK] affiliated?,4,0.9910510078458116,1.0140363361153466
+14282,P27,What is [MASK]'s passport country?,4,0.9825131411120522,1.0336107233807348
+14324,P27,Where is [MASK] a legal resident?,4,1.5290146352143135,0.94717296983569
+14290,P27,What nationality does [MASK] have?,4,0.9446348661651561,1.0344685230792736
+14303,P27,To which country does [MASK] have allegiance?,4,1.2030491692914997,0.9696063624748983
+14287,P27,What nation does [MASK] hail from?,4,,0.9274886273910636
+14314,P27,What is [MASK]'s state of origin?,3,0.9394335842116907,0.8993143573247772
+14386,P27,Where is [MASK] from originally?,3,0.9329037905978769,0.8886710631465661
+14374,P27,What nation is [MASK] a member of?,3,,0.9209357945493251
+14370,P27,What is the state of citizenship of [MASK]?,3,1.0400165865975615,0.9847940836258914
+14299,P27,To what country does [MASK] hold citizenship?,3,0.9402125601538183,1.1573535802021568
+14367,P27,What is the place of citizenship for [MASK]?,3,0.9769875812071405,1.0290447616382077
+14313,P27,What is [MASK]'s place of birth?,3,0.9982367596740435,0.9901849306682705
+14349,P27,What country is [MASK] a native of?,3,,1.151167387540357
+14347,P27,What country does [MASK] identify with?,3,,0.9972321636136098
+14346,P27,What country does [MASK] hold allegiance to?,3,,0.9500488570858389
+14302,P27,To which country did [MASK] owe allegiance?,3,1.049710636468412,1.0497615157876383
+14339,P27,To what state does [MASK] belong?,3,,1.0443093459731123
+14350,P27,What is [MASK]'s affiliation in terms of nationality?,3,1.1978368155911312,0.9344434013924756
+14325,P27,Which country does [MASK] call home?,3,3.5990286736419397,1.0147178887309634
+14306,P27,To which nation did [MASK] belong?,3,0.9933506370515544,1.0786717132795327
+14310,P27,What is [MASK]'s country of residence?,3,0.95790046845749,1.0905548244755214
+14319,P27,What nation does [MASK] come from?,3,1.0942699051754732,1.1093295903531435
+14321,P27,What passport does [MASK] possess?,3,0.8932689677098049,0.9295343723866899
+14307,P27,To which state does [MASK] belong?,3,0.9132744244659299,0.91327442446593
+14326,P27,Which nation does [MASK] call home?,3,,1.1599783387993436
+14305,P27,To which country does [MASK] owe loyalty?,3,1.036476350541139,1.0297352042386783
+14332,P27,In which nation does [MASK] have citizenship?,3,,1.0989908948562264
+14320,P27,What nation is [MASK] from?,3,1.1057903401954026,1.0843844359996189
+14394,P27,For what nation is [MASK] a citizen?,2,,1.0819150163462614
+14412,P27,In what nation has [MASK] been granted citizenship?,2,,0.9476677387736443
+14431,P27,Of what nation is [MASK] a resident?,2,,1.1694667490104713
+14443,P27,Of which nation was [MASK] a part?,2,,1.0260858335977217
+14455,P27,To what nation does [MASK] have allegiance?,2,1.082771115242035,1.0313907571024437
+14464,P27,To what state is [MASK] a citizen?,2,,0.9723002071969407
+14469,P27,To which country did [MASK] call home?,2,,0.9865494291442433
+14411,P27,In what nation does [MASK] have citizenship?,2,,1.0088938621676824
+14470,P27,To which country did [MASK] pledge allegiance?,2,,0.8794731540397411
+14488,P27,To which nation does [MASK] hold allegiance?,2,0.9525695056887507,1.0829619386516862
+14409,P27,In what nation did [MASK] hold citizenship?,2,1.0850503955389568,1.0592943361592824
+14638,P27,What is the nation that [MASK] has allegiance to?,2,0.9399576325606938,0.9399576325606938
+14504,P27,To which state does [MASK] owe loyalty to?,2,,1.0654233221480203
+14667,P27,What nation does [MASK] consider her own?,2,,1.111284175834518
+14507,P27,To which state is [MASK] affiliated?,2,,0.8407985400897526
+14523,P27,What citizenship did [MASK] have?,2,,1.1394247886715687
+14533,P27,What country does [MASK] carry a passport from?,2,1.0237133310824027,1.1165415204809888
+14534,P27,What country does [MASK] claim allegiance to?,2,,0.9976946319292415
+14556,P27,What country is [MASK] associated with?,2,,1.1487974128697651
+14570,P27,What is [MASK]'s affiliation in terms of citizenship?,2,,1.0149808844705825
+14579,P27,What is [MASK]'s legal citizenship?,2,1.0004239054247406,1.0004239054247406
+14586,P27,What is [MASK]'s nation of legal residence?,2,,1.0580634136654905
+14632,P27,What is the nation [MASK] calls home?,2,,1.0188727901442638
+14679,P27,What nation is [MASK] a part of?,2,1.0261822718380809,1.138728122073185
+14633,P27,What is the nation of [MASK]'s residence?,2,1.1301711900490248,1.1695834312575086
+14397,P27,From what country does [MASK] hail?,2,,1.180592602093686
+14492,P27,To which nation does [MASK] owe his loyalty?,2,0.9648671170639473,0.9648671170639416
+14351,P27,What is [MASK]'s allegiance to a particular country?,2,,0.9277635528027068
+14380,P27,What was the citizenship status of [MASK]?,2,0.8844314781159969,0.8920250671942145
+14359,P27,What is the citizen status of [MASK]?,2,0.8644619265400866,0.8610385358643406
+14330,P27,In which country is [MASK] a legal resident?,2,0.9417181519751261,1.0591478960736471
+14336,P27,To what government does [MASK] owe allegiance?,2,0.8584022193120084,0.8895461410884873
+14353,P27,What is [MASK]'s legal status?,2,0.9137066192809464,0.8410637062086934
+14338,P27,To what state did [MASK] belong?,2,0.8838940218862985,0.9494852129973664
+14340,P27,To which country did [MASK] hold citizenship?,2,1.0166066422866995,0.9711244949820061
+14378,P27,What state does [MASK] identify with?,2,1.2525323800107422,0.9530545062038871
+14352,P27,What is [MASK]'s birthplace?,2,0.9033387707171538,0.9136599134233118
+14372,P27,What nation does [MASK] identify as his own?,2,1.0505958274428668,1.0087709113331909
+14333,P27,Of what nation is [MASK] a native?,2,0.8845809491664635,0.99817692530273
+14375,P27,What nation is [MASK] affiliated with?,2,1.1237826724493636,1.1520863528469016
+14387,P27,Which country is [MASK] from?,2,1.1232187594890548,1.0572949239363318
+14389,P27,Which nation is [MASK] a citizen of?,2,0.9941416805896902,1.051251827530744
+14385,P27,Where does [MASK]'s allegiance lie?,2,0.8494400305961215,0.8494400305961215
+14355,P27,What is [MASK]'s passport nation?,2,1.082892768707504,1.0273695986725933
+14341,P27,To which country does [MASK] hold a passport?,2,0.9602860234979718,1.0485385032236303
+14368,P27,What is the place of origin of [MASK]?,2,0.8211504419973789,0.9343691767701919
+14348,P27,What country has granted [MASK] citizenship?,2,1.0373519914238156,1.0373519914238156
+14371,P27,What nation claims [MASK] as a citizen?,2,0.9226696373589337,0.9964711408455942
+14377,P27,What state does [MASK] call home?,2,0.9618730117191912,0.9618730117191612
+14369,P27,What is the sovereign state of [MASK]?,2,0.963533099475409,0.9635330994754088
+14335,P27,Of which nation is [MASK] a native?,2,0.9169827921998517,0.9169827921998495
+14354,P27,What is [MASK]'s national identification?,2,0.8814998521047539,0.8814998521047479
+14360,P27,What is the citizenry of [MASK]?,2,0.7721544186520809,0.7721544186520803
+14663,P27,What land is [MASK] a native of?,1,0.9595921711853741,0.9270770527628222
+14672,P27,What nation does [MASK] have loyalty to?,1,,0.9616130067521043
+14671,P27,What nation does [MASK] have citizenship of?,1,0.950872819382526,1.1197910195738074
+14664,P27,What nation did M.C. Escher call home?,1,,0.9294168573139762
+14669,P27,What nation does [MASK] consider home?,1,,0.9176721975525143
+14666,P27,What nation does [MASK] claim as his own?,1,,0.932441077430356
+14393,P27,Does [MASK] hold any nationality?,1,,0.9680752351264047
+14676,P27,What nation has [MASK] been naturalized to?,1,0.9512464580781202,0.9512464580781196
+14673,P27,What nation does [MASK] identify as his homeland?,1,,0.9014149484891368
+14675,P27,What nation does [MASK] represent?,1,1.6059937316517563,1.0366365281939005
+14678,P27,What nation is [MASK] a national of?,1,1.3872749163702724,1.141612392433919
+14681,P27,What nation is [MASK] native to?,1,,0.9459289750475351
+14682,P27,What nation was M.C. Escher a citizen of?,1,,0.9499328289637314
+14684,P27,What nation was [MASK]'s home?,1,,0.9958184804280026
+14685,P27,What national identity did [MASK] have?,1,,0.8620688900668431
+14686,P27,What national status does [MASK] hold?,1,0.7951310308033638,0.7951310308033638
+14688,P27,What nationality does [MASK] claim?,1,0.9345509092780571,0.9345509092780571
+14690,P27,What rights and responsibilities come with being a citizen of [MASK]?,1,,0.8993319890591809
+14691,P27,What state does [MASK] claim allegiance to?,1,0.9423005951188854,1.1718538960812344
+14692,P27,What state does [MASK] consider home?,1,0.9485423726312122,0.9485423726312122
+14693,P27,What state does [MASK] hail from?,1,,0.9826191600871116
+14662,P27,What land is [MASK] a citizen of?,1,1.2109935468095139,0.8886915546520293
+14651,P27,What is the origin of citizenship for [MASK]?,1,,0.9462088714059259
+14661,P27,What land has [MASK] sworn allegiance to?,1,1.1379605980371903,1.1379605980371903
+14621,P27,What is the country that [MASK] identifies with?,1,1.0443215173689002,1.0443215173689002
+14627,P27,What is the ethnic affiliation of [MASK]?,1,0.8705902461234535,1.031477851149023
+14626,P27,What is the definition of a [MASK] citizen?,1,,1.1555522863339789
+14625,P27,What is the cultural heritage of [MASK]?,1,,0.8100897338671235
+14624,P27,What is the cultural background of [MASK]?,1,0.8342265245659956,0.9400572085570291
+14623,P27,What is the country to which [MASK] belongs?,1,1.1533949132894665,0.930223358596664
+14622,P27,What is the country that recognizes [MASK] as a citizen?,1,1.1524137721496566,0.9246805623449247
+14619,P27,What is the country of citizenship of [MASK]?,1,1.0794243959453143,1.0794243959453143
+14659,P27,What is the state to which [MASK] belongs?,1,0.9547452276019381,1.0476199838119702
+14618,P27,What is the country of birth for [MASK]?,1,1.0798992818307451,1.0798992818307451
+14617,P27,What is the citizenship held by [MASK]?,1,,1.0560204370636894
+14616,P27,What is the birthright of [MASK]?,1,,0.8091872792003324
+14614,P27,What is the ancestral country of [MASK]?,1,0.8803527133967267,0.8803527133967267
+14613,P27,What is the allegiance of [MASK]?,1,0.8249391350576484,0.8249391350576484
+14612,P27,What is the [MASK]'s nationality?,1,0.9478208169587385,1.021426812733072
+14628,P27,What is the flag that [MASK] salutes?,1,0.8717823372001533,0.8717823372001533
+14629,P27,What is the identity of [MASK]'s citizenship?,1,,1.0143031256010504
+14631,P27,What is the legal status of [MASK]?,1,,0.8603469073853068
+14635,P27,What is the nation state of [MASK]?,1,,0.8700864806319277
+14636,P27,What is the nation that [MASK] belongs to?,1,,0.9349267362932525
+14640,P27,What is the nation that [MASK] identifies with?,1,0.8755344063964027,1.1907962356180164
+14642,P27,What is the nation where [MASK] has citizenship?,1,0.9683879877219176,0.9325903436555654
+14643,P27,What is the nation where [MASK] resides?,1,0.9448133033186964,1.1203588115588419
+14644,P27,What is the nationality of Al-Sari al-Raffa?,1,0.9277070432054023,0.9277070432053863
+14645,P27,What is the native citizenship of [MASK]?,1,0.924188731935833,0.9407936832878009
+14647,P27,What is the naturalization of [MASK]?,1,0.7953500491734037,0.9288886484273766
+14648,P27,What is the naturalized country of [MASK]?,1,,1.0172318481058864
+14695,P27,What state does [MASK] hold allegiance to?,1,1.1945242961115417,0.837909002219054
+14652,P27,What is the particular nation that [MASK] is a citizen of?,1,,1.028642593075721
+14654,P27,What is the place of birth of [MASK]?,1,0.9013365186038094,0.9013365186036967
+14655,P27,What is the process to become a citizen of the [MASK]?,1,,0.9055177734694253
+14656,P27,What is the state affiliation of [MASK]?,1,,0.9073912681996726
+14694,P27,What state does [MASK] have citizenship in?,1,1.6435603298369696,0.943610105581394
+14702,P27,What state is [MASK] a resident of?,1,,0.9558647927218071
+14696,P27,What state does [MASK] hold citizenship in?,1,2.213112348331341,1.1246407105157494
+14763,P27,Which country is [MASK] a native of?,1,,0.9499718466501331
+14769,P27,Which nation does [MASK] have legal status in?,1,1.0860672229778874,1.0860672229778874
+14768,P27,Which nation does Al-Sari al-Raffa hail from?,1,0.9579184074170569,1.1189367969218105
+14767,P27,Which nation did [MASK] call home?,1,,0.8976709291502755
+14766,P27,Which nation claims [MASK] as a citizen?,1,,1.173723950426687
+14765,P27,Which is [MASK]'s country of origin?,1,,1.0298650985234497
+14764,P27,Which government does [MASK] owe allegiance to?,1,,1.0202506397449702
+14762,P27,Which country is [MASK] a national of?,1,0.9903819866943503,0.9450897422188289
+14773,P27,Which nation is [MASK] a national of?,1,1.0675391161846264,1.0675391161846264
+14760,P27,Which country has granted [MASK] citizenship?,1,1.0779357422704334,1.0779357422704334
+14759,P27,Which country does [MASK] identify as?,1,0.8731486217954594,1.0173764468860123
+14755,P27,Which country does [MASK] consider his homeland?,1,0.9744995669481799,0.9427087859487193
+14753,P27,Which country did [MASK] possess citizenship of?,1,,1.020580006520305
+14751,P27,Which country claims [MASK] as a citizen?,1,,0.9963671943912454
+14750,P27,Which citizenship does [MASK] identify with?,1,,1.1323119873074097
+14772,P27,Which nation does [MASK] possess citizenship in?,1,,0.9712287516897169
+14774,P27,Which nation is [MASK] a part of?,1,,0.9348168759196646
+14748,P27,Where is [MASK]'s national origin?,1,0.9140802482064406,1.0445223790506935
+14785,P27,Who does [MASK] belong to?,1,,0.934282000544185
+14791,P27,Who does [MASK] identify as his country?,1,,0.913373088207404
+14790,P27,Who does [MASK] hold citizenship with?,1,0.9620296631916962,0.9620296631916962
+14789,P27,Who does [MASK] hold citizenship in?,1,0.9403915919661371,0.9403915919661371
+14788,P27,Who does [MASK] consider to be his country?,1,,1.1203690962965018
+14787,P27,Who does [MASK] claim as his country of origin?,1,,1.197498471807058
+14786,P27,Who does [MASK] call their nation?,1,,0.9077810014996203
+14784,P27,Who are the citizens of [MASK]?,1,,0.9101900516380237
+14776,P27,Which nationality does [MASK] have?,1,0.9449970352621855,1.2080450747518119
+14782,P27,Which state does [MASK] identify with?,1,0.9746754500146622,0.9746754500146622
+14781,P27,Which state does [MASK] have citizenship in?,1,,0.9289904444561778
+14780,P27,Which state does [MASK] call home?,1,0.8631567294977706,0.8631567294977706
+14779,P27,Which state claims [MASK] as a citizen?,1,1.0774428311882647,1.0774428311882647
+14778,P27,Which sovereignty is [MASK] a citizen of?,1,,1.0836089306057979
+14777,P27,Which nationality does [MASK] hold?,1,0.9275603127919894,1.1043282217569834
+14749,P27,Where was [MASK] a native?,1,,1.0670535386553543
+14747,P27,Where is [MASK]'s home?,1,0.8645466614530019,0.8645466614530019
+14697,P27,What state has [MASK] pledged loyalty to?,1,0.8742126138036087,0.8742126138036087
+14708,P27,What was [MASK]'s country affiliation?,1,0.9202262309208964,0.954115186845436
+14718,P27,What was the membership of [MASK]?,1,0.9601540012503521,0.9955133678232743
+14717,P27,What was the legal citizenship of [MASK]?,1,1.0158666189000605,1.0158666189000605
+14716,P27,What was the flag [MASK] flew?,1,,0.8569089192712539
+14712,P27,What was [MASK]'s national allegiance?,1,,0.8620626099684908
+14711,P27,What was [MASK]'s nation of residence?,1,,1.223074408780174
+14710,P27,What was [MASK]'s homeland?,1,,1.149548514924501
+14706,P27,What was M.C. Escher's country of origin?,1,,0.9556950380781498
+14721,P27,What was the national identity of M.C. Escher?,1,,1.0497554144408836
+14705,P27,What was M.C. Escher's citizenship status?,1,,1.1138786689982862
+14703,P27,What state officially recognizes [MASK]?,1,1.1879450352959766,0.9118398217136182
+14601,P27,What is [MASK]'s state of citizenship?,1,,0.8878916860086715
+14701,P27,What state is [MASK] a native of?,1,0.9999258050315,0.9999258050315
+14700,P27,What state is [MASK] a national of?,1,,1.1956652722228516
+14698,P27,What state has granted [MASK] its citizenship?,1,0.9127484940917577,0.9127484940917564
+14720,P27,What was the national background of M.C. Escher?,1,,1.0680295285364614
+14723,P27,What was the nationality of M.C. Escher?,1,,1.1795260615928218
+14746,P27,Where is [MASK] registered as a citizen?,1,1.2145792644763629,1.2145792644763629
+14734,P27,Where does [MASK] have her national identity?,1,0.9323991085608784,0.9323991085608784
+14744,P27,Where is [MASK] a native of?,1,,0.8691324033265537
+14742,P27,Where is Al-Sari al-Raffa from?,1,0.8617473006608171,0.96834194923668
+14741,P27,Where does [MASK]'s citizenship lie?,1,1.0261714088823588,1.0261714088823588
+14740,P27,Where does [MASK] owe his allegiance?,1,0.8168938063967328,0.816893806396733
+14739,P27,Where does [MASK] owe her allegiance?,1,0.7914841575724497,0.7914841575724427
+14738,P27,Where does [MASK] originate from?,1,,0.894141980493132
+14733,P27,Where does [MASK] hail from?,1,0.8711795485957845,0.8711795485957845
+14725,P27,What was the origin of [MASK]'s nationality?,1,,0.9591632366939515
+14732,P27,Where does [MASK] call home?,1,0.9284567794714905,0.9284567794714905
+14731,P27,Where did [MASK] originate from?,1,1.0069449495180638,1.0069449495180638
+14730,P27,Where did [MASK] hold allegiance?,1,,0.89148336498721
+14729,P27,Where did [MASK] have citizenship?,1,,0.858232856404716
+14728,P27,Where did [MASK] come from?,1,,0.9050382476939829
+14726,P27,What was the origin of [MASK]?,1,,0.899338204662883
+14602,P27,What is [MASK]'s state of nationality?,1,,1.0504857518372464
+14589,P27,What is [MASK]'s national belonging?,1,1.015115490959485,1.0595534010139678
+14600,P27,What is [MASK]'s sovereign nation?,1,0.9036400219448277,1.1129983207828757
+14466,P27,To what state is [MASK] affiliated?,1,,0.834481158789649
+14444,P27,To what citizenship does [MASK] belong?,1,,0.9773787179726797
+14445,P27,To what country did [MASK] belong?,1,,1.2225891507501576
+14446,P27,To what country did [MASK] owe allegiance?,1,0.8886155138573465,0.8886155138573454
+14447,P27,To what country does [MASK] have allegiance?,1,1.1739581139088524,1.0555554679657582
+14450,P27,To what country is [MASK] affiliated?,1,0.9214764670988563,0.9214764670988487
+14451,P27,To what country is [MASK] loyal?,1,,0.9073564459403003
+14453,P27,To what country was [MASK] a native?,1,0.9339614868386064,1.1167484447101779
+14454,P27,To what nation does Al-Sari al-Raffa ascribe?,1,0.8504891915292937,0.9646631073871288
+14458,P27,To what nation is [MASK] a subject?,1,0.9198525788049923,0.9198525788049923
+14459,P27,To what nation is [MASK] affiliated?,1,1.1375204283862514,1.024889209648786
+14460,P27,To what nation was [MASK] a native?,1,,0.8990964722892457
+14462,P27,To what state does [MASK] have allegiance?,1,1.2539283232794811,0.9320333480928292
+14463,P27,To what state does [MASK] pledge allegiance?,1,,1.0134990283985317
+14465,P27,To what state is [MASK] a national?,1,1.040923196035186,1.040923196035186
+14468,P27,To which country did M.C. Escher belong?,1,,0.9486820331522567
+14441,P27,Of which nation was [MASK] a citizen?,1,0.9070165898888629,1.0823343399969687
+14471,P27,To which country did [MASK] pledge loyalty?,1,,0.8993761764533638
+14472,P27,To which country does Al-Sari al-Raffa belong?,1,0.9089550752762694,0.9865678785560189
+14473,P27,To which country does [MASK] ascribe?,1,1.0874833422920498,1.0874833422920498
+14474,P27,To which country does [MASK] bear allegiance?,1,1.1128497377999946,1.1128497377999946
+14478,P27,To which country is [MASK] natively a citizen?,1,,1.154425230478629
+14479,P27,To which country was [MASK] a citizen?,1,,1.1874065788009451
+14480,P27,To which land does [MASK] owe his allegiance?,1,,0.8691969243179608
+14481,P27,To which nation did M.C. Escher owe his allegiance?,1,,0.8611691492683863
+14482,P27,To which nation did [MASK] hold allegiance?,1,,0.894178965133044
+14483,P27,To which nation did [MASK] hold citizenship?,1,,0.9912136893214324
+14484,P27,To which nation did [MASK] pledge allegiance?,1,,1.0946994501661047
+14485,P27,To which nation does [MASK] have a connection?,1,0.9603912007688787,0.9603912007688787
+14486,P27,To which nation does [MASK] have allegiance to?,1,0.8783336584208451,0.887343982664667
+14489,P27,To which nation does [MASK] identify?,1,,0.9327608067063214
+14442,P27,Of which nation was [MASK] a member?,1,0.8446944721388583,0.844694472138851
+14440,P27,Of which nation is [MASK] a legal inhabitant?,1,1.0050836966033576,0.9407387316309431
+14599,P27,What is [MASK]'s place of residence?,1,0.9328636445636835,0.9328636445636803
+14410,P27,In what nation does [MASK] carry citizenship?,1,0.9825276432958311,1.2001372306954312
+14395,P27,For which nation does [MASK] hold citizenship?,1,0.9404513515962537,1.1182470507504716
+14396,P27,For which nation is [MASK] a subject?,1,0.9518589902046214,0.9870407270446259
+14391,P27,Does [MASK] have a particular country of origin?,1,,1.0446779046070547
+14398,P27,From what country does [MASK] originate?,1,,1.2022363643243665
+14400,P27,From which nation does [MASK] originate?,1,0.8581025349478674,0.8581025349478674
+14401,P27,From which nation does [MASK] take his citizenship?,1,,1.0928541963999612
+14402,P27,Has [MASK] been granted a citizenship?,1,,0.9839246169310464
+14403,P27,How does one become a citizen of the [MASK]?,1,,0.9181419999259717
+14404,P27,In what country does [MASK] live?,1,0.9399353995345042,1.11892585880272
+14405,P27,In what country has [MASK] taken up residence?,1,0.9458774361741427,0.9458774361741427
+14406,P27,In what country is [MASK] legally considered a citizen?,1,1.0491664954301683,1.0491664954301683
+14407,P27,In what country is [MASK]'s citizenship?,1,1.1300331481453607,1.1300331481453607
+14408,P27,In what country was [MASK] granted citizenship?,1,0.9971912816765028,0.9971912816765028
+14390,P27,Does [MASK] have a particular citizenship?,1,0.8708847153118162,0.8708847153118162
+14413,P27,In what nation is [MASK] a citizen?,1,1.096039447341946,1.137845713926959
+14438,P27,Of which country was [MASK] a native?,1,,1.0381030053156435
+14414,P27,In what nation is [MASK] a national?,1,1.10553543797436,1.1504983525888406
+14416,P27,In what state is [MASK] a citizen?,1,0.9024659065603032,0.9024659065603032
+14418,P27,In which country does [MASK] possess citizenship rights?,1,,0.983388498407772
+14419,P27,In which country has [MASK] taken the oath of allegiance?,1,1.0955699874720424,1.0955699874720424
+14421,P27,In which country was [MASK] born?,1,0.9064635787599402,0.9064635787599402
+14422,P27,In which state does [MASK] hold citizenship?,1,1.0369498068823213,1.0369498068823213
+14423,P27,Is [MASK] a citizen of any country?,1,,1.1726944868629015
+14424,P27,Is [MASK] a citizen of any nation?,1,,1.09062729149816
+14425,P27,Is [MASK] a member of any nation?,1,,0.9293731060035283
+14426,P27,Is [MASK] a national of any particular nation?,1,,1.1025624509882752
+14428,P27,Of what country was [MASK] a citizen?,1,,1.080577803191751
+14429,P27,Of what land does [MASK] hold citizenship?,1,1.0757356578491666,1.0757356578491666
+14432,P27,Of what nation was [MASK] a citizen?,1,,1.2578991174227048
+14437,P27,Of which country was [MASK] a national?,1,,1.176809775243019
+14494,P27,To which nation does [MASK] pledge allegiance?,1,1.0760882746402143,1.0760882746402143
+14495,P27,To which nation is [MASK] associated?,1,0.9463220279052533,1.1599672479385998
+14496,P27,To which nation is [MASK] connected?,1,0.9632871584794366,0.9632871584794366
+14569,P27,What is Sergei Bezobrazov's country of origin?,1,,0.93855687904408
+14547,P27,What country does [MASK] identify as her own?,1,,1.0548988445246572
+14550,P27,What country does [MASK] owe her loyalty to?,1,,0.9156971086824731
+14551,P27,What country has [MASK] declared himself a citizen of?,1,0.9097062384037765,0.9977141143694976
+14552,P27,What country has [MASK] identified as his own?,1,0.9165128686701968,0.9165128686701967
+14553,P27,What country has [MASK]'s allegiance?,1,0.8688057618082068,1.0172881794123143
+14554,P27,What country is Al-Sari al-Raffa a citizen of?,1,0.9576467662536068,1.1175469818008268
+14555,P27,What country is [MASK] a member of?,1,0.9432843432897927,0.9432843432897927
+14560,P27,What country is [MASK]'s primary allegiance to?,1,1.2858545404715949,1.1893526191811172
+14563,P27,What country was [MASK] born in?,1,0.966308626813482,0.9719087765696248
+14564,P27,What defines a person as a citizen of [MASK]?,1,,1.3043172159881766
+14565,P27,What does [MASK] consider his home country?,1,1.1175551408859028,1.1175551408859028
+14566,P27,What does it mean to be a citizen of [MASK]?,1,,1.0876752222501618
+14567,P27,What does it take to be a member of the [MASK]?,1,,0.8944316803121837
+14568,P27,What homeland does [MASK] call her own?,1,0.8565357324291396,0.8565357324291389
+14573,P27,What is [MASK]'s background in terms of citizenship?,1,0.9032537391784639,1.0348169366855053
+14497,P27,To which nation was M.C. Escher affiliated?,1,,0.8816507536940748
+14574,P27,What is [MASK]'s connection to a nation?,1,0.8263449164922538,0.8263449164922536
+14577,P27,What is [MASK]'s geographical origin?,1,0.883630562594906,0.883630562594906
+14578,P27,What is [MASK]'s heritage?,1,,0.8623840164217953
+14580,P27,What is [MASK]'s legal claim to a homeland?,1,0.8073492053606552,0.8073492053606504
+14582,P27,What is [MASK]'s legal status in terms of his citizenship?,1,0.8270351835172423,0.827035183517242
+14583,P27,What is [MASK]'s legal status in terms of nationality?,1,0.8727445397023573,0.8727445397023573
+14588,P27,What is [MASK]'s national background?,1,,0.9525506395271126
+14392,P27,Does [MASK] have any citizenship?,1,0.8901960287176476,0.9789824937341278
+14590,P27,What is [MASK]'s national status?,1,0.907671296451802,0.9076712964518019
+14592,P27,What is [MASK]'s native citizenship?,1,0.9069072640945818,0.9587779216256643
+14593,P27,What is [MASK]'s official citizenship?,1,0.9287938213917557,1.0669962672491893
+14595,P27,What is [MASK]'s origin of citizenship?,1,0.916534301015614,0.916534301015614
+14597,P27,What is [MASK]'s passport state?,1,0.9382926789165922,0.9382926789165914
+14598,P27,What is [MASK]'s patriotic status?,1,0.7998194046724005,0.7998194046724006
+14545,P27,What country does [MASK] hold citizenship for?,1,0.9679721554914763,1.2330463888151386
+14544,P27,What country does [MASK] hold a passport from?,1,1.2169356093453474,0.930586894729498
+14543,P27,What country does [MASK] have citizenship in?,1,,1.0960082146640175
+14542,P27,What country does [MASK] have a passport for?,1,0.9344797633000196,0.9344797633000196
+14499,P27,To which nationality did [MASK] owe allegiance?,1,,1.0991817028583826
+14500,P27,To which nationality does [MASK] ascribe?,1,,1.1083146541709044
+14501,P27,To which sovereignty does [MASK] owe allegiance?,1,0.8771550163978619,0.8771550163978619
+14502,P27,To which state did [MASK] belong?,1,,0.9339872551814097
+14503,P27,To which state does [MASK] have a legal bond?,1,0.9613603347083773,0.9613603347083773
+14506,P27,To which state does [MASK] pledge allegiance?,1,,0.91023212182001
+14508,P27,To which state is [MASK] loyal?,1,0.7640456156343941,0.7640456156343941
+14509,P27,To which state was [MASK] a citizen?,1,,0.960267453341917
+14511,P27,To whom did [MASK] owe his allegiance?,1,,0.9763712437827089
+14512,P27,To whom does [MASK] hold allegiance?,1,0.8692899000051946,0.869289900005138
+14513,P27,To whom does [MASK] owe his citizenship?,1,,0.8703978189158565
+14514,P27,Under what country's laws is [MASK] a citizen?,1,0.9283703202489041,1.0844030932464992
+14515,P27,Under what flag does [MASK] fly?,1,0.8843480473383345,0.9393649009826431
+14516,P27,Under what nation was [MASK] a citizen?,1,,0.9006133564183423
+14517,P27,Under which country does [MASK] have allegiance?,1,0.916849181323457,0.916849181323457
+14518,P27,Under which country's laws does [MASK] reside?,1,,0.9503808064773
+14519,P27,Under which flag does [MASK] fly?,1,0.9574033250730597,0.9574033250730597
+14520,P27,Under which nation does [MASK] fall?,1,,0.8829587544704943
+14521,P27,What are the criteria for being a part of the [MASK]?,1,,0.8957451504718076
+14522,P27,What are the qualifications to be a citizen of the [MASK]?,1,,1.2873990432084583
+14524,P27,What citizenship did [MASK] possess?,1,,1.1150169530707918
+14527,P27,What country claimed [MASK] as a citizen?,1,,1.1288859948298682
+14528,P27,What country did [MASK] come from?,1,1.0363445507496178,1.0422577387375715
+14530,P27,What country did [MASK] hold citizenship in?,1,,1.1170937824690699
+14531,P27,What country did [MASK] identify with sovereignty-wise?,1,1.0575197519821513,1.0575197519821513
+14535,P27,What country does [MASK] claim as his own?,1,1.129707700941439,1.129707700941439
+14536,P27,What country does [MASK] claim citizenship in?,1,0.972164748070312,1.1770601126536449
+14537,P27,What country does [MASK] claim to be a citizen of?,1,1.114285592722752,1.114285592722752
+14539,P27,What country does [MASK] consider his own?,1,1.2295741507845988,1.0003586103111013
+14792,P27,Who is [MASK] a citizen of?,1,0.9882755197483702,1.0683030657152666

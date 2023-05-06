@@ -1,0 +1,721 @@
+,p,template,fact_id,effect_gold,effect_top
+4533,P1366,What was [MASK] supplanted by?,200,,1.0239885126486283
+4562,P1366,By what was [MASK] replaced?,179,,1.018348363725627
+4475,P1366,What entity superseded [MASK]?,158,,1.0053492364262804
+4510,P1366,What journal took the place of [MASK]?,145,,1.0216852928228723
+4657,P1366,What country succeeded [MASK]?,55,,1.0163366781580907
+4978,P1366,What nation came after [MASK]?,54,,0.9904637313841026
+4337,P1366,What was the successor to [MASK]?,54,,0.9968130013212503
+4610,P1366,What business has taken the place of [MASK]?,52,,1.0210204232477649
+4334,P1366,What followed [MASK]?,47,,0.9301570451509695
+4329,P1366,What has been substituted for [MASK]?,37,,0.9865446154489451
+5290,P1366,Who or what was substituted for [MASK]?,28,,0.9980554309176982
+4339,P1366,What was the substitute for [MASK]?,24,,0.988730723418389
+4344,P1366,What happened to [MASK]?,23,,0.915411369156061
+4345,P1366,What came to take the place of [MASK]?,21,,1.044233255881301
+4347,P1366,What is the new name of [MASK]?,20,,0.989085433096953
+4343,P1366,What did [MASK] become?,19,,0.9740359849554177
+4336,P1366,What did [MASK] give way to?,19,,1.0186948740643649
+4354,P1366,Who succeeded [MASK]?,18,,0.9806909936104682
+4351,P1366,Who supplanted [MASK]?,18,0.8842962353545045,0.9754458214118079
+4365,P1366,What took [MASK]'s place?,17,,0.9631051250871013
+4353,P1366,What took over from [MASK]?,16,,0.9869140964933076
+4358,P1366,What has been put in the place of [MASK]?,15,,0.9968995607727418
+4366,P1366,What was the replacement for [MASK]?,14,,1.019221141564562
+4385,P1366,What has taken over from [MASK]?,13,,1.0148924684888603
+4377,P1366,Who replaced [MASK]?,12,0.9002536281984902,1.022746676169302
+4386,P1366,What is the alternative to [MASK]?,12,,0.95630272390118
+4393,P1366,Who superseded [MASK]?,12,,1.0190612170643591
+4349,P1366,What came in the stead of [MASK]?,12,,1.005662183930233
+4379,P1366,What assumed the role of [MASK]?,11,,0.9693782780545699
+4397,P1366,What came in the place of [MASK]?,11,,1.0389191212457276
+4418,P1366,What changed [MASK] to?,11,,0.9921827879705404
+4376,P1366,What was put in place of [MASK]?,11,,1.0672078443887953
+4352,P1366,What is the successor of [MASK]?,11,,1.0128394516104
+4356,P1366,What came to replace [MASK]?,11,,1.0238515647507247
+4380,P1366,What changed the [MASK]?,10,0.8897457029452138,0.9087094612395736
+4374,P1366,What took the spot of [MASK]?,10,,1.0435934951513628
+4370,P1366,What did [MASK] get replaced by?,9,,1.0109449262850314
+4361,P1366,What did [MASK] evolve into?,9,,1.0078575630235949
+4362,P1366,What did [MASK] turn into?,8,,0.9971496513788243
+4410,P1366,What was [MASK] replaced with?,8,,1.061573841612382
+4357,P1366,What did [MASK] get replaced with?,8,0.9311699465968525,1.0517911456260218
+4375,P1366,What was brought in to replace [MASK]?,8,,1.006193787500776
+4396,P1366,What came in lieu of [MASK]?,7,,1.0136056776329398
+4382,P1366,What has been brought in to replace [MASK]?,7,,0.9383175125070435
+4457,P1366,Who took over after [MASK]?,7,,1.0173019133484738
+4394,P1366,Who took [MASK]'s place?,7,,1.0044802062344858
+4372,P1366,What replaced [MASK] in the end?,6,1.0064491434534426,1.0195997997178892
+4476,P1366,What eventually replaced the [MASK]?,6,,1.0335385072452072
+4395,P1366,Who took the place of the [MASK]?,6,,1.0332288896029926
+4505,P1366,What is the new version of [MASK]?,6,,0.9517238466103063
+4406,P1366,What has taken the spot of [MASK]?,6,,0.9864895692505394
+4384,P1366,What has taken [MASK]'s place?,6,,0.9632048384531801
+4389,P1366,What took over for [MASK]?,6,,1.0111683870272652
+4390,P1366,What usurped [MASK]?,6,,0.8882383760393194
+4450,P1366,What was the successor of the [MASK]?,5,,0.9973288375507519
+4381,P1366,What did [MASK] get swapped out for?,5,0.858175216458678,1.0037936433443146
+4535,P1366,What was chosen to replace [MASK]?,5,,1.0415221782328956
+4430,P1366,What has come to replace [MASK]?,5,,0.9868924336735759
+4443,P1366,What took the position of [MASK]?,5,,0.9156646421841618
+4447,P1366,What was put in [MASK]'s stead?,5,,0.938614782774801
+4451,P1366,Who followed [MASK]?,5,,0.9206914599232574
+4424,P1366,What did [MASK] transition to?,5,,1.001028394014544
+4401,P1366,What followed in the wake of the [MASK]?,5,,0.8785917101719495
+4488,P1366,What has been the substitute for [MASK]?,5,,1.0027168579603976
+4420,P1366,What did [MASK] get substituted with?,5,,0.9338717943238187
+4485,P1366,What has been substituted in place of [MASK]?,5,,0.9849568972406499
+4441,P1366,What took [MASK]'s spot?,5,,0.9460232159235484
+4541,P1366,What was the outcome of the [MASK]?,4,0.9036410466258853,0.9323240924760664
+4478,P1366,What filled the void left by [MASK]?,4,,0.9881413200914414
+4456,P1366,Who took [MASK]'s spot?,4,0.9382317698694008,0.9452011599268544
+4508,P1366,What journal has replaced [MASK]?,4,,0.9972393832133789
+4862,P1366,What is in the place of [MASK] now?,4,,1.001956559406044
+4515,P1366,What organization took the place of the [MASK]?,4,,0.9800904427644954
+4417,P1366,What came to supplant [MASK]?,4,,1.0172567151387628
+4435,P1366,What is the current name of [MASK]?,4,,1.0054309622580841
+4416,P1366,What came in for [MASK]?,4,,0.9200794598347619
+4423,P1366,What did [MASK] transform into?,4,,0.9918747925088611
+4425,P1366,What has [MASK] been replaced with?,4,0.9982478381236319,0.9840443495252789
+4448,P1366,What was put in the stead of [MASK]?,4,,1.0394226459388518
+4413,P1366,Who or what has replaced [MASK]?,4,,0.962317225811848
+4429,P1366,What has been the successor of [MASK]?,4,,1.0212424454766391
+4409,P1366,What supplanted [MASK]'s position?,4,,0.9129484225794212
+4415,P1366,What became of [MASK]?,4,,0.9584918221197687
+4436,P1366,What is the current version of [MASK]?,4,,0.9561921544085596
+4407,P1366,What is the new incarnation of [MASK]?,4,0.9405845888792759,1.0079997497654594
+4553,P1366,Who took over for [MASK]?,4,,1.0213619769891922
+4403,P1366,What has been put in the stead of [MASK]?,4,,0.9917080088444111
+4506,P1366,What is the replacement of the [MASK]?,3,,1.0099063685164762
+4504,P1366,What is the new substitute for [MASK]?,3,,1.030332153827777
+4501,P1366,What is the modern version of [MASK]?,3,,1.0557840886468415
+4545,P1366,Who assumed the position of [MASK]?,3,,0.896733652145567
+4514,P1366,What occurred after [MASK]?,3,,0.9006961445551745
+4491,P1366,What has come instead of [MASK]?,3,,0.9733520334162721
+4563,P1366,By what was [MASK] superseded?,3,,0.9411851587403423
+4519,P1366,What replaced [MASK] in its stead?,3,0.9956932075193734,1.0299097565185331
+4522,P1366,What replaced the former [MASK]?,3,0.9587787088229128,1.0263023894984817
+4538,P1366,What was the alternative to the [MASK]?,3,,0.8968148395170314
+4552,P1366,Who stepped in for the [MASK]?,3,,0.960244518504456
+4551,P1366,Who or what supplanted the [MASK]?,3,,1.0203602169547599
+4546,P1366,Who came after [MASK]?,3,,0.9393230922898521
+4499,P1366,What institution succeeded [MASK]?,3,0.9661316144458033,0.9990304689002384
+4473,P1366,What entity has replaced [MASK]?,3,1.0300390452136894,1.0276811294688606
+4440,P1366,What replaced [MASK] in its place?,3,,0.9313816684601236
+4454,P1366,Who or what replaced the [MASK]?,3,,1.01837061054896
+4428,P1366,What has been substituted in lieu of [MASK]?,3,,1.0102252105059537
+4439,P1366,What organization superseded the [MASK]?,3,,0.9750090232541989
+4432,P1366,What has taken [MASK]'s spot?,3,,0.9462522277886872
+5003,P1366,What occurred in place of [MASK]?,3,,1.0247931499406258
+4427,P1366,What has been put in [MASK]'s stead?,3,,1.0847356157232046
+4426,P1366,What has [MASK] been substituted with?,3,,1.001312683199725
+4458,P1366,Who took the spot of [MASK]?,3,1.2682968771984133,0.9463644566679376
+4477,P1366,What filled the vacancy left by [MASK]?,3,,0.9414462641228529
+4422,P1366,What did [MASK] switch to?,3,0.9130253284827766,0.9159875376011452
+4487,P1366,What has been the replacement of [MASK]?,3,,1.0407367606380449
+4437,P1366,What is the new identity of [MASK]?,3,0.9702164710745345,0.9809081971909435
+4421,P1366,What did [MASK] get switched out for?,3,,0.9153124064572961
+4449,P1366,What was the [MASK] succeeded by?,3,0.8894549151803318,0.899314148346137
+4444,P1366,What was [MASK] exchanged for?,3,,0.9145663457150143
+4490,P1366,What has come in the stead of [MASK]?,3,,0.9569054000890409
+5165,P1366,What was swapped for [MASK]?,2,,1.116239744291112
+4713,P1366,What entity took the place of [MASK]?,2,,1.0341027818832487
+4760,P1366,What has [MASK] been exchanged for?,2,,0.9004994182783168
+4734,P1366,What followed in the footsteps of [MASK]?,2,,0.9388971063770698
+4728,P1366,What followed Montreal Impact (1992-2011)?,2,,0.9248109218468492
+4725,P1366,What filled the spot of the [MASK]?,2,,0.9259771597044804
+4723,P1366,What filled the gap left by [MASK]?,2,,0.9152503602686084
+4719,P1366,What eventually superseded the [MASK]?,2,,1.0732753895907696
+5042,P1366,What replaced the US Occupation Zone in Germany?,2,,0.972458774480981
+4701,P1366,What dynasty replaced [MASK]?,2,,0.9656116479106109
+4698,P1366,What district replaced Strasbourg-Campagne?,2,,1.0794068734123496
+4695,P1366,What displaced [MASK]?,2,,0.9464141995261051
+5222,P1366,Which replaced [MASK]?,2,,1.0570749199376268
+4674,P1366,What did [MASK] ultimately be replaced by?,2,,1.0223023702835368
+5238,P1366,Who filled [MASK]'s vacancy?,2,,1.0693921350192621
+4666,P1366,What did [MASK] eventually be superseded by?,2,,0.9981145473006882
+5264,P1366,Who or what came in place of [MASK]?,2,,0.948909231332762
+4632,P1366,What came to occupy the position of [MASK]?,2,,0.9312548703999641
+4626,P1366,What came instead of [MASK]?,2,,0.9764515470549926
+4622,P1366,What came in to substitute [MASK]?,2,,0.9522923989018008
+4614,P1366,What came after the [MASK] dynasty?,2,,1.0646488792929247
+4605,P1366,What assumed [MASK]'s position?,2,,0.9733621061139093
+5300,P1366,Who took [MASK]'s position?,2,,1.0598901100530056
+5225,P1366,Who assumed [MASK]'s role?,2,,0.9731515418408779
+4766,P1366,What has assumed the position of [MASK]?,2,,1.0054136309561137
+5163,P1366,What was substituted in place of [MASK]?,2,,0.896864330460919
+4846,P1366,What individual was put in [MASK]'s place?,2,,0.9661970302840325
+4889,P1366,What is the current moniker for [MASK]?,2,0.9683161892090701,0.9683161892090701
+4922,P1366,What is the new name for the [MASK]?,2,,1.0000870905574395
+4886,P1366,What is the current incarnation of [MASK]?,2,,0.9381364157811953
+5068,P1366,What state took the place of [MASK]?,2,,1.0045791185907764
+4927,P1366,What is the new organization that has taken the place of [MASK]?,2,,1.008394947579558
+5018,P1366,What overtook [MASK]?,2,,0.9251252081480229
+4866,P1366,What is now in the stead of [MASK]?,2,,0.9287210321396828
+5009,P1366,What organism was [MASK] switched out for?,2,,0.9464072227032587
+5006,P1366,What occurred to replace the [MASK]?,2,,0.8968187881939088
+4857,P1366,What is [MASK] now?,2,,0.9218816592861792
+5087,P1366,What superseded Athenaeum Illustre Amsterdam?,2,,1.0357721967107287
+4597,P1366,What alternative is there to [MASK]?,2,,1.0291715281271128
+4953,P1366,What is the title of the publication that replaced [MASK]?,2,,1.0221777399797232
+4995,P1366,What new publication succeeded [MASK]?,2,,1.0007453794664778
+4901,P1366,What is the journal that has taken the place of [MASK]?,2,,0.9880832868375362
+4843,P1366,What individual replaced [MASK]?,2,,1.0177775236774926
+4828,P1366,What has taken over the [MASK]?,2,,0.9622866021296033
+4964,P1366,What journal succeeded [MASK]?,2,,1.0094392206170033
+4823,P1366,What has supplanted [MASK]'s role?,2,,0.9105604564312431
+5106,P1366,What title supplanted [MASK]?,2,,1.09472568998086
+5110,P1366,What took over [MASK]'s role?,2,,1.019386646344775
+4804,P1366,What has come in the place of [MASK]?,2,,1.0102041605441487
+4788,P1366,What has been put in the spot of [MASK]?,2,,0.9302608886962171
+5138,P1366,What was [MASK] substituted with?,2,,0.9601443253459816
+4971,P1366,What journal was established in lieu of [MASK]?,2,,0.9491912753132015
+5144,P1366,What was chosen in lieu of [MASK]?,2,,0.9696979470038931
+4972,P1366,What name did [MASK] take on?,2,1.098246133785797,1.0041279496378244
+4769,P1366,What has become the new [MASK]?,2,,0.9914710302319191
+4601,P1366,What area is now occupying the place of [MASK]?,2,,0.9654242800040538
+4671,P1366,What did [MASK] give rise to?,2,,1.039122795411965
+4980,P1366,What nation has replaced [MASK]?,2,0.9966650158519427,0.9966650158519421
+4517,P1366,What publication took the place of [MASK]?,2,,1.0124767661621945
+4583,P1366,To what power did the [MASK] yield?,2,,1.0293891852060055
+4536,P1366,What was instituted in place of [MASK]?,2,0.9132160247591842,0.9451834134383958
+4482,P1366,What has been installed in the stead of [MASK]?,2,,0.9102171202020981
+4543,P1366,What was the substitution for [MASK]?,2,,1.01550631918172
+4483,P1366,What has been installed instead of [MASK]?,2,,1.0297425927360773
+4521,P1366,What replaced the [MASK] in power?,2,,1.0139548614797835
+4503,P1366,What is the new form of [MASK]?,2,0.8509058011709473,0.9219147129648164
+4489,P1366,What has come in lieu of [MASK]?,2,,0.9020811068418595
+4555,P1366,Who took over from the [MASK]?,2,,0.9385486401035492
+4559,P1366,Who was chosen to replace the [MASK]?,2,,0.9483780133346345
+4520,P1366,What replaced [MASK]'s position?,2,,0.8677873602958
+4492,P1366,What has come to supersede [MASK]?,2,,0.9542484617423259
+4524,P1366,What stood in for [MASK]?,2,,0.9098214288429574
+4516,P1366,What publication supplanted [MASK]?,2,,1.0007637616169023
+4493,P1366,What has come to take the place of [MASK]?,2,,0.9762730014308099
+4513,P1366,What nation took over [MASK]?,2,1.1068770492865683,1.0545247318000304
+4560,P1366,Who was given [MASK]'s job?,2,,1.045873661793123
+4512,P1366,What name took the place of [MASK]?,2,0.908525081504421,1.0324987257448988
+4561,P1366,Who was put in [MASK]'s position?,2,,1.0614423630596397
+4500,P1366,What is the current form of [MASK]?,2,1.0705057119931891,0.9926418100086414
+4502,P1366,What is the name of the region that replaced [MASK]?,2,0.8455145723160652,0.9458941315242134
+4511,P1366,What name has superseded [MASK]?,2,1.0216565851520756,1.003007762598738
+4569,P1366,Did [MASK] change its name?,2,1.0828183011590968,0.9456996903814507
+4507,P1366,What is the successor to the [MASK]?,2,1.161627034610072,1.0361830753889634
+4523,P1366,What stepped in for [MASK]?,2,,0.9770021377127102
+4544,P1366,Which journal superseded [MASK]?,2,0.9028602238185977,1.0145237339474842
+4466,P1366,What came to occupy the space of [MASK]?,2,,0.8503411014897726
+4534,P1366,What was [MASK] supplanted with?,2,1.0190969140215504,1.0037162368742631
+4530,P1366,What took the role of [MASK]?,2,1.2247693067524552,1.0224546112524413
+4481,P1366,What has been brought in to take the place of [MASK]?,2,,0.9797675726198201
+4469,P1366,What did [MASK] get supplanted by?,2,,0.9799499877620543
+4526,P1366,What superseded [MASK] in its place?,2,,1.0177871310927573
+4460,P1366,To what was the [MASK] succeeded?,2,,1.1027915501577965
+4459,P1366,How was [MASK] supplanted?,2,0.8901197007450451,0.8893363614719376
+4527,P1366,What supplied the [MASK]?,2,,0.9188918978249179
+4461,P1366,What assumed [MASK]'s role?,2,,0.9619641515970588
+4470,P1366,What did [MASK] morph into?,2,,1.0455113803716078
+4525,P1366,What succeeded [MASK] in its place?,2,1.138522569365872,0.9903494801512642
+4474,P1366,What entity has supplanted [MASK]?,2,1.0468823019703597,0.9965167014716035
+5085,P1366,What superceded the [MASK]?,1,,1.1781647537448683
+5071,P1366,What stepped in to replace [MASK]?,1,,0.9966504709404135
+5088,P1366,What superseded Shantung Province in the Republic of China?,1,,0.8853656738612216
+5123,P1366,What took the spot that [MASK] once held?,1,,0.8728727507209366
+5072,P1366,What stood in the place of [MASK]?,1,,1.0067764610304202
+5119,P1366,What took the place of the US Occupation Zone in Germany?,1,,1.0063810355687082
+5086,P1366,What superseded American Occupation Zone in Germany?,1,,1.0183993590347202
+5073,P1366,What stood in the stead of the [MASK]?,1,,0.9599541983304959
+5083,P1366,What succeeded [MASK] in its role?,1,,1.0251740556489228
+5121,P1366,What took the reigns from [MASK]?,1,,0.994798562935971
+5122,P1366,What took the spot formerly held by [MASK]?,1,,0.9112633792453129
+5080,P1366,What substitution has been made for [MASK]?,1,,0.9620906817189877
+5118,P1366,What took the place of the American Occupation Zone in Germany?,1,,1.0222982178833522
+5079,P1366,What substituted the [MASK]?,1,,0.9369960178565255
+5077,P1366,What subsequently took the place of [MASK]?,1,,0.9125714720595018
+5076,P1366,What structure supplanted the [MASK]?,1,,0.9336618483423215
+5120,P1366,What took the place of the [MASK] dynasty?,1,,1.0361419491951427
+5108,P1366,What took [MASK]'s position?,1,,0.8729267448611426
+5089,P1366,What superseded [MASK] in the long run?,1,1.057449870709123,1.057449870709123
+5090,P1366,What superseded the [MASK] dynasty?,1,,1.0407546961758463
+5104,P1366,What team supplanted Montreal Impact (1992-2011)?,1,,1.0444679034316529
+5109,P1366,What took over [MASK]' duties?,1,,0.914833225263307
+5103,P1366,What team superseded Montreal Impact (1992-2011)?,1,,1.033548562809609
+5102,P1366,What takes the place of [MASK]?,1,,0.9875315705098923
+5111,P1366,What took over after [MASK]?,1,,1.0545340924703384
+5101,P1366,What switched places with [MASK]?,1,1.0318576501792505,1.117573238229971
+5112,P1366,What took over after the [MASK] dynasty?,1,,0.9708847777374504
+5113,P1366,What took over in the stead of [MASK]?,1,,0.9032436691958038
+5116,P1366,What took the place of Shantung Province in the Republic of China?,1,,1.0146377048712376
+5100,P1366,What switch was made to [MASK]?,1,,0.8976160152107054
+5117,P1366,What took the place of Strasbourg-Campagne as an arrondissement?,1,,0.9194905802859976
+5099,P1366,What swapped in for [MASK]?,1,0.9033008293195182,0.9033008293195177
+5098,P1366,What supplied [MASK]'s place?,1,,0.90272002656284
+5097,P1366,What supplanted the [MASK] in its place?,1,,1.085865995900856
+5096,P1366,What supplanted the US occupation zone in Germany?,1,,1.0459195031816684
+5094,P1366,What supplanted [MASK] in its location?,1,,0.8823682345802301
+5093,P1366,What supplanted [MASK] eventually?,1,,0.9652872359355414
+5092,P1366,What supplanted Shantung Province in the Republic of China?,1,,0.8874159459653556
+5091,P1366,What supplanted Athenaeum Illustre Amsterdam?,1,,1.0917600285944251
+5070,P1366,What stepped in to fill the vacuum left by the [MASK]?,1,,0.9446927801063022
+5058,P1366,What rose to take the place of the [MASK]?,1,,1.0894410984440797
+5067,P1366,What state replaced [MASK]?,1,,1.024191497424371
+5066,P1366,What state came after [MASK]?,1,1.0822639691268214,1.0822639691268214
+5026,P1366,What publication came after [MASK]?,1,,0.9811086479042167
+5025,P1366,What position did the [MASK] get switched with?,1,,1.024922099830697
+5024,P1366,What political entity displaced the [MASK]?,1,,1.0510154719681706
+5022,P1366,What person replaced [MASK]?,1,,1.0163016777323346
+5021,P1366,What periodical succeeded [MASK]?,1,,0.9970389292514038
+5020,P1366,What periodical replaced [MASK]?,1,,0.9902065116445791
+5017,P1366,What overthrew the [MASK]?,1,,0.8582337563518471
+5016,P1366,What other food did people use instead of [MASK]?,1,,1.0094982390368283
+5015,P1366,What organization was put in the place of the [MASK]?,1,,0.986327316045863
+5013,P1366,What organization replaced [MASK]?,1,,0.9037234023727694
+5012,P1366,What organization is now publishing [MASK]?,1,,0.9324712115285283
+5011,P1366,What organization has taken the reins from [MASK]?,1,,0.9989049037198175
+5008,P1366,What organism came after [MASK]?,1,,1.0999721678687528
+5005,P1366,What occurred in the stead of [MASK]?,1,,0.8479947587890299
+5001,P1366,What occupied the space once held by the [MASK]?,1,,0.971524856964328
+5000,P1366,What occupied the space once filled by the [MASK]?,1,,0.9039083386938751
+4999,P1366,What occupied the space occupied by Shantung Province in the Republic of China?,1,,0.8788870633546207
+4998,P1366,What occupied [MASK]'s spot?,1,,1.0706899235133478
+4997,P1366,What new system of local government was adopted in Scotland between 1975 and 1996?,1,,0.9237366415774347
+4996,P1366,What new role did the [MASK] get assigned to?,1,,0.9041143994011236
+4994,P1366,What new organization succeeded [MASK]?,1,,0.9931570768528051
+4993,P1366,What new organism took the place of [MASK]?,1,,1.0900660947024432
+4992,P1366,What new name was [MASK] given?,1,1.2792182531216223,1.0066193541632085
+4989,P1366,What new government supplanted [MASK]?,1,1.4450888107619526,0.9104248437299375
+4988,P1366,What new form of local government was put into place in Scotland between 1975 and 1996?,1,,0.9037396246511327
+4985,P1366,What new colony replaced the [MASK]?,1,1.6700297688576813,0.8881864117614441
+4984,P1366,What new arrondissement took the place of Strasbourg-Campagne?,1,,0.9389439797256657
+4983,P1366,What nation took the place of the [MASK]?,1,,1.089269116077379
+4982,P1366,What nation supplanted [MASK]?,1,,1.03862859003464
+5027,P1366,What publication has taken the place of [MASK]?,1,,1.0215006672229325
+5030,P1366,What region took the place of [MASK]?,1,0.9028511507996669,1.0895651653940426
+5031,P1366,What replaced Athenaeum Illustre in Amsterdam?,1,,1.0630830981143817
+5050,P1366,What replaced the [MASK]'s reign?,1,,1.0009034341821812
+5065,P1366,What stands in lieu of [MASK]?,1,,0.9154780769880315
+5064,P1366,What stands in for [MASK] now?,1,,0.9935197569493577
+5063,P1366,What soccer team replaced Montreal Impact (1992-2011)?,1,,1.0258641528041204
+5061,P1366,What soccer club replaced Montreal Impact (1992-2011)?,1,,1.0405152197771974
+5060,P1366,What shifted in the local government area of Scotland between 1975 and 1996?,1,,0.8957752841418615
+5125,P1366,What transformation happened in the local government area of Scotland between 1975 and 1996?,1,,0.893715676057215
+5057,P1366,What replaced the role of the [MASK]?,1,,1.0910347362727868
+5056,P1366,What replaced the requirement to do [MASK]?,1,,0.9013867942418855
+5055,P1366,What replaced the local government area of Scotland between 1975 and 1996?,1,,1.2726340221906107
+5054,P1366,What replaced the existence of the [MASK]?,1,,0.9167299601328118
+5053,P1366,What replaced the city of [MASK]?,1,0.9490680791784841,1.1089131395117173
+5052,P1366,What replaced the area that was formerly known as the [MASK]?,1,,1.092378343825156
+5051,P1366,What replaced the [MASK]'s rule?,1,,0.8971834463342114
+5049,P1366,What replaced the [MASK] in time?,1,,0.9610643207821324
+5032,P1366,What replaced Shantung Province in the Republic of China?,1,,0.9585148613260998
+5048,P1366,What replaced the [MASK] in popularity?,1,,0.9554315884480796
+5047,P1366,What replaced the [MASK] in place?,1,,1.0323469452246532
+5045,P1366,What replaced the [MASK] and why?,1,,1.0973484952531216
+5044,P1366,What replaced the [MASK] after its termination?,1,1.4335692222856344,1.3020422904627065
+5041,P1366,What replaced the American zone in Germany?,1,,1.0131983479580924
+5040,P1366,What replaced [MASK]'s spot?,1,,0.8701543087219101
+5039,P1366,What replaced [MASK] in the timeline?,1,,1.0557158514770806
+5038,P1366,What replaced [MASK] in the long run?,1,,1.0623251037483992
+5037,P1366,What replaced [MASK] in the diet?,1,,0.9680961899236689
+5036,P1366,What replaced [MASK] in its spot?,1,,1.0732873191248224
+5035,P1366,What replaced [MASK] in its former location?,1,,0.9935426183264947
+5034,P1366,What replaced [MASK] as a governmental body?,1,0.8847384140126188,0.9795278131917227
+5033,P1366,What replaced Strasbourg-Campagne as an arrondissement?,1,,0.9171792636567253
+5124,P1366,What town superseded [MASK]?,1,,0.9185613368228653
+5305,P1366,Who took over for Montreal Impact (1992-2011)?,1,,0.892382681037691
+5126,P1366,What transition happened when [MASK] stopped?,1,0.8850376573825233,0.8850376573825217
+5240,P1366,Who filled the role of the [MASK]?,1,,1.021848881341269
+5255,P1366,Who is [MASK]’s successor?,1,,0.9746710474447651
+5254,P1366,Who inherited [MASK]?,1,,0.9146891580186299
+5253,P1366,Who has taken the reins of [MASK]?,1,,0.9361365573639515
+5252,P1366,Who has taken the reins from [MASK]?,1,0.9104631208775379,1.0258219562015338
+5318,P1366,Who was chosen to take [MASK]'s spot?,1,,1.1733941698866543
+5251,P1366,Who has taken over [MASK]?,1,,0.956956380136669
+5249,P1366,Who has filled the shoes of [MASK]?,1,,0.8786489885089813
+5247,P1366,Who has assumed the title that was once held by [MASK]?,1,,1.0058286704488861
+5246,P1366,Who has assumed the role of [MASK]?,1,,0.9680673693295269
+5245,P1366,Who followed after the [MASK] dynasty?,1,,1.0116155267911937
+5244,P1366,Who filled the void left by the [MASK]?,1,,0.9619201492575474
+5319,P1366,Who was given the responsibility of being the [MASK]?,1,,1.082746987999172
+5243,P1366,Who filled the vacancy of the [MASK]?,1,,0.8891740832206784
+5241,P1366,Who filled the role that [MASK] had?,1,,0.8977942152062985
+5320,P1366,Who was put in [MASK]'s shoes?,1,,0.9286297404248917
+5257,P1366,Who is taking the place of [MASK]?,1,0.9477636751265648,1.0089974485672921
+5321,P1366,Who was put in post of [MASK]?,1,,0.907632255617199
+5237,P1366,Who filled [MASK]'s shoes?,1,,0.9225571832786251
+5322,P1366,Who was put in the place of the [MASK]?,1,,0.9815505922959409
+5236,P1366,Who filled [MASK]'s place?,1,,0.8915285341169019
+5234,P1366,Who dethroned the [MASK]?,1,,0.894203086373725
+5233,P1366,Who deposed the sovereign of the Crown of Aragon?,1,,0.9607267974778922
+5231,P1366,Who came in place of Montreal Impact (1992-2011)?,1,,0.9230493164790968
+5230,P1366,Who came in for [MASK]?,1,,0.9918060959405901
+5227,P1366,Who assumed the place of the [MASK]?,1,,1.0066051204706394
+5323,P1366,Who was selected to succeed the [MASK]?,1,,1.0279415481791039
+5324,P1366,Who was selected to take over from the [MASK]?,1,,0.9853550082308773
+5221,P1366,Which publication replaced [MASK]?,1,,1.0182918268826213
+5220,P1366,Which publication has superseded [MASK]?,1,,1.0075342304459562
+5219,P1366,Which political power supplanted the [MASK]?,1,,1.014287094139827
+5256,P1366,Who is now occupying the place of [MASK]?,1,0.8855735734213678,0.951028606199093
+5258,P1366,Who is the new publisher of [MASK]?,1,,0.9564779307893916
+5127,P1366,What transitioned to instead of the [MASK]?,1,,1.1369876490328472
+5313,P1366,Who was appointed in the stead of the [MASK]?,1,,1.0238317574757974
+5302,P1366,Who took on the role formerly held by the [MASK]?,1,,1.0536177466077348
+5301,P1366,Who took control after the [MASK]?,1,,0.8936890147228291
+5309,P1366,Who took the place of Athenaeum Illustre Amsterdam?,1,,0.8957252101104751
+5310,P1366,Who took the place of the sovereign of the Crown of Aragon?,1,,0.8753817067139692
+5299,P1366,Who supplanted the ruler of the Crown of Aragon?,1,,1.112320168407748
+5298,P1366,Who supplanted the [MASK] dynasty?,1,,1.0089231414518793
+5311,P1366,Who took up the mantle of the [MASK]?,1,,0.9237915289833349
+5297,P1366,Who supplanted the King or Queen of the Crown of Aragon?,1,,1.0719044385961514
+5296,P1366,Who succeeded the [MASK] in command?,1,,1.1186331089437729
+5295,P1366,Who succeeded Montreal Impact (1992-2011)?,1,,1.037398236082063
+5312,P1366,Who usurped the authority of the ruler of the Crown of Aragon?,1,,1.1041938707878103
+5294,P1366,Who stepped in to take the place of [MASK]?,1,,0.937995536446076
+5292,P1366,Who overthrew the [MASK]?,1,,0.8662850574135947
+5291,P1366,Who overthrew the King or Queen of the Crown of Aragon?,1,,1.0150731458018156
+5314,P1366,Who was brought in to succeed [MASK]?,1,,1.0399855353559562
+5259,P1366,Who is the successor to [MASK]?,1,,1.0063508295345582
+5288,P1366,Who or what was chosen over [MASK]?,1,,1.007459735592937
+5285,P1366,Who or what took over the duties of the [MASK]?,1,,0.9565289047758558
+5315,P1366,Who was chosen instead of [MASK]?,1,,1.0912760672605855
+5279,P1366,Who or what superseded the [MASK]?,1,,1.0833838865916767
+5316,P1366,Who was chosen to fill [MASK]'s spot?,1,,1.01511128705474
+5275,P1366,Who or what stepped into the shoes of [MASK]?,1,,0.9207348825101865
+5317,P1366,Who was chosen to fill in for the [MASK]?,1,,0.9553684805061669
+5274,P1366,Who or what has taken the place of [MASK]?,1,,0.9291387020959894
+5273,P1366,Who or what has taken [MASK]'s role?,1,,0.901735292703916
+5269,P1366,Who or what followed the [MASK]?,1,,1.057036147975883
+5268,P1366,Who or what came to occupy the space formerly held by the [MASK]?,1,,0.9442392771220369
+5267,P1366,Who or what came to fill the vacancy of the [MASK]?,1,,0.8597918882344392
+5266,P1366,Who or what came into power after the [MASK]?,1,,0.8857057574284811
+5262,P1366,Who or what came in [MASK]'s place?,1,,0.9155508253444177
+5218,P1366,Which organization has superseded the [MASK]?,1,0.9144105611054866,1.011751045616233
+5217,P1366,Which organization has assumed the position of [MASK]?,1,,1.0026994072415345
+5325,P1366,Who was the [MASK] replaced by?,1,,0.8872992746633028
+5156,P1366,What was put in lieu of [MASK]?,1,,1.0467176206412383
+5181,P1366,What was the follow up to [MASK]?,1,0.9182722545005657,1.0725145625989172
+5180,P1366,What was the final result of [MASK]?,1,,0.8850602039227994
+5178,P1366,What was the eventual outcome for [MASK]?,1,,0.8910872641932565
+5177,P1366,What was the end result of the [MASK]?,1,0.9316727173313618,1.1588989379507706
+5176,P1366,What was the dynasty that succeeded [MASK]?,1,,0.8878470505000646
+5175,P1366,What was the change from [MASK]?,1,,0.860112827118511
+5173,P1366,What was the alternate for [MASK]?,1,0.896250698274546,0.9824247063659926
+5170,P1366,What was the [MASK] followed by?,1,,1.053443226866905
+5162,P1366,What was set up in lieu of [MASK]?,1,,1.0754650732026125
+5161,P1366,What was set in the stead of [MASK]?,1,,0.8892889928654041
+5160,P1366,What was selected to take the place of [MASK]?,1,,1.0776839478898257
+5159,P1366,What was selected in the stead of [MASK]?,1,,1.0582950823574044
+5158,P1366,What was put in the spot of [MASK]?,1,1.3723802912112746,0.9427829920006066
+5157,P1366,What was put in the place of Athenaeum Illustre Amsterdam?,1,,0.9918125436924291
+5153,P1366,What was picked as the new arrondissement to take over from Strasbourg-Campagne?,1,,1.0268067200639686
+5216,P1366,Which nation succeeded [MASK]?,1,,1.0403363054278607
+5152,P1366,What was introduced in place of [MASK]?,1,,1.029278807686004
+5151,P1366,What was installed instead of [MASK]?,1,,0.9103927661010948
+5150,P1366,What was installed in the place of [MASK]?,1,,0.9092249873320145
+5146,P1366,What was chosen to fill the void left by [MASK]?,1,,0.900684970752497
+5143,P1366,What was brought in after [MASK]?,1,,0.9534960070691195
+5141,P1366,What was a replacement for [MASK]?,1,,1.066250270132161
+5140,P1366,What was [MASK]'s successor?,1,,0.9239540315936297
+5136,P1366,What was [MASK] substituted by?,1,,0.9007011532060871
+5135,P1366,What was [MASK] overturned by?,1,,0.9152679189383811
+5134,P1366,What usurped the position of [MASK]?,1,,0.9014919934132142
+5307,P1366,Who took over the role of [MASK]?,1,,1.047136699360955
+5131,P1366,What ultimately took the place of [MASK]?,1,,0.9610745465180369
+5130,P1366,What ultimately superseded the [MASK]?,1,,0.9588722103619827
+5128,P1366,What transposed the [MASK]?,1,,1.011458436671607
+5182,P1366,What was the follower to the [MASK]?,1,0.8729066332099048,0.8729066332099044
+5184,P1366,What was the new entity that supplanted the [MASK]?,1,,0.9036728820302997
+5185,P1366,What was the new government after the [MASK]?,1,,0.9318474130004878
+5186,P1366,What was the new name for [MASK]?,1,1.1165891192541828,1.0085639780235913
+5326,P1366,Who was the [MASK] substituted with?,1,,1.0021745504753632
+5215,P1366,Which journal succeeded [MASK]?,1,,1.0185364790844726
+5328,P1366,Who was the successor of [MASK]?,1,0.9052880212285962,0.9830868470614986
+5214,P1366,Which journal has replaced the [MASK]?,1,,1.0214095945141515
+5213,P1366,Which force brought the [MASK] to an end?,1,,0.8551640470634039
+5212,P1366,Which entity has become the replacement for [MASK]?,1,,0.9218857027900514
+5211,P1366,Which dynasty took the place of [MASK]?,1,,0.8924814270461555
+5210,P1366,Which country succeeded [MASK]?,1,0.9222381825449157,1.0520888714583814
+5209,P1366,Which city was established in place of [MASK]?,1,0.9404992271115733,1.098901094163237
+5208,P1366,Which building now occupies the place formerly held by the [MASK]?,1,,0.9989029455500494
+5207,P1366,Which body has taken over where the [MASK] left off?,1,0.9003605509827367,0.9962053891712519
+5206,P1366,When did the [MASK] cease to exist?,1,0.9718977145320997,0.9718977145320863
+5329,P1366,Who was the successor to the [MASK] dynasty?,1,,0.9303206477728707
+5205,P1366,What was utilized instead of [MASK]?,1,,1.0595328415636187
+5204,P1366,What was used to supplant [MASK]?,1,,0.8917949536356741
+5202,P1366,What was the ultimate fate of the [MASK]?,1,,0.9403127877628368
+5201,P1366,What was the successor state to Shantung Province in the Republic of China?,1,,1.1593306358455957
+5330,P1366,With what did [MASK] get superseded?,1,,0.9192856666263451
+5200,P1366,What was the successor of the US occupation zone in Germany?,1,,0.9778732446812253
+5333,P1366,With which was [MASK] supplanted?,1,,1.0588728660057325
+5199,P1366,What was the successor of Athenaeum Illustre Amsterdam?,1,,0.96528292643524
+5198,P1366,What was the succeeding name of [MASK]?,1,4.81113953868511,1.0026136285126295
+5197,P1366,What was the succeeding force to [MASK]?,1,,0.9035079223224867
+5196,P1366,What was the substitution of the US Occupation Zone in Germany?,1,,1.011635393337808
+5193,P1366,What was the result of the termination of the [MASK]?,1,0.9019911645812074,0.9019911645812064
+5191,P1366,What was the outcome of the dissolution of the [MASK]?,1,0.8859214630388407,0.8859214630388379
+5190,P1366,What was the next town to take the place of [MASK]?,1,,0.923151481920325
+5189,P1366,What was the new thing that replaced [MASK]?,1,0.9187476081015418,0.9187476081015409
+5188,P1366,What was the new occupant of [MASK]?,1,,0.9124975714375455
+5132,P1366,What university replaced [MASK]?,1,0.9123920905014729,0.9927791642161042
+4850,P1366,What institution has superseded [MASK]?,1,1.0280667610002971,1.0280667610002971
+4977,P1366,What name was given to [MASK]'s successor?,1,,1.0224039027322673
+4726,P1366,What filled the void left by Shantung Province in the Republic of China?,1,,0.9981211757622483
+4722,P1366,What filled the area that had been [MASK]?,1,,0.9222370247281044
+4721,P1366,What filled [MASK]'s position?,1,,0.9140939463286704
+4717,P1366,What eventually succeeded the [MASK]?,1,,1.0451130955584642
+4715,P1366,What event caused the end of [MASK]?,1,0.892992656804556,1.1107851741466896
+4711,P1366,What entity succeeded [MASK]?,1,0.9193482095150779,1.051773081075691
+4709,P1366,What entity occupied the role of the [MASK]?,1,,0.9730547528414147
+4708,P1366,What entity has taken on the role that the [MASK] filled?,1,0.9112350087486967,1.0082374505703648
+4707,P1366,What entity filled the role of the [MASK]?,1,,1.0090782545097343
+4706,P1366,What ended up replacing [MASK]?,1,,0.9219007509344229
+4705,P1366,What ended the rule of the [MASK]?,1,,0.9378810518427345
+4704,P1366,What ended the [MASK]'s reign?,1,,0.9543565713328597
+4703,P1366,What ended [MASK]?,1,,0.855006447924017
+4702,P1366,What eclipsed [MASK]?,1,,1.0307589175127727
+4699,P1366,What district took the place of Strasbourg-Campagne?,1,,1.097458147368806
+4697,P1366,What district has supplanted Strasbourg-Campagne?,1,,0.8919241859467242
+4694,P1366,What did they switch the [MASK] with?,1,,1.0095242522034635
+4693,P1366,What did they switch the [MASK] out for?,1,,1.1753293451872673
+4692,P1366,What did they put in the [MASK]'s place?,1,,0.9202930280434417
+4691,P1366,What did the necessity for [MASK] give way to?,1,,1.0847371146020168
+4690,P1366,What did the local government area of Scotland turn into from 1975 to 1996?,1,,1.2268302952821737
+4684,P1366,What did the [MASK] get changed to?,1,,1.0229463202583489
+4682,P1366,What did people use as a [MASK] replacement?,1,,0.9599097532872055
+4681,P1366,What did people turn to instead of [MASK]?,1,,0.9964115173531494
+4680,P1366,What did people turn to as an alternative to [MASK]?,1,,1.0585198147850794
+4679,P1366,What did people substitute for [MASK]?,1,,1.0701229124351128
+4678,P1366,What did people start using in place of [MASK]?,1,,1.0097677547988533
+4677,P1366,What did people begin to consume in lieu of [MASK]?,1,,1.0319678936002898
+4675,P1366,What did [MASK] ultimately become?,1,,1.0098085770232854
+4673,P1366,What did [MASK] make way for?,1,,0.9160907221162115
+4724,P1366,What filled the shoes of [MASK]?,1,,0.9927597913121976
+4729,P1366,What followed Shantung Province in the Republic of China?,1,,1.1382710484783365
+4670,P1366,What did [MASK] get substituted for?,1,,1.068716885063501
+4730,P1366,What followed [MASK] in its stead?,1,,0.976519634120549
+4775,P1366,What has been chosen in lieu of [MASK]?,1,,1.0350974687656451
+4774,P1366,What has been brought in to supplant [MASK]?,1,,0.8983437558575647
+4773,P1366,What has been brought in to substitute [MASK]?,1,,1.107863729215891
+4772,P1366,What has been brought in instead of [MASK]?,1,,1.1055753025444632
+4771,P1366,What has been brought in in lieu of [MASK]?,1,,0.8833226016747634
+4770,P1366,What has become the successor to [MASK]?,1,,1.0052290825433143
+4768,P1366,What has become of [MASK]?,1,0.8805047990678754,0.9818918244097506
+4765,P1366,What has assumed control of [MASK]?,1,,0.983918715934477
+4764,P1366,What has [MASK] been switched out for?,1,0.9031933211409998,0.9612439211553775
+4763,P1366,What has [MASK] been superseded by?,1,,0.9712465139416545
+4762,P1366,What has [MASK] been succeeded by?,1,,0.9240909087821029
+4761,P1366,What has [MASK] been rebranded as?,1,0.9109007978103396,0.9109007978103375
+4758,P1366,What happened to the local governance structure of Scotland between 1975 and 1996?,1,,0.9175600303277415
+4756,P1366,What happened to the [MASK] in lieu of its abolition?,1,0.9381519539474992,0.9381519539474965
+4755,P1366,What happened to the [MASK] and what took its place?,1,,1.065883048746839
+4754,P1366,What happened to the [MASK] after it dissolved?,1,0.9402576833017874,0.9402576833017849
+4753,P1366,What happened to the Soviet presence in Germany?,1,0.8833719939490348,0.8833719939490134
+4752,P1366,What happened to [MASK] in the end?,1,,0.9039009896554451
+4749,P1366,What had been the substitution for [MASK]?,1,,0.9108936084122774
+4746,P1366,What had been the alternative to [MASK]?,1,,1.056127822044711
+4745,P1366,What had [MASK] been switched with?,1,,0.9103158410047986
+4744,P1366,What group succeeded the [MASK]?,1,,1.00126279434086
+4742,P1366,What governmental district superseded [MASK]?,1,0.8919381769902457,1.05513333269791
+4741,P1366,What force supplanted the [MASK]?,1,,0.9232585160163782
+4740,P1366,What food did people switch to instead of [MASK]?,1,,0.9412600320954346
+4739,P1366,What followed the end of the [MASK]?,1,0.8972410642839505,0.8972410642839502
+4738,P1366,What followed the [MASK] in power?,1,,1.0606080885489964
+4737,P1366,What followed the [MASK] dynasty?,1,,1.0282795950240498
+4732,P1366,What followed [MASK] in the succession?,1,0.8732770418541721,0.9446528623513876
+4672,P1366,What did [MASK] make room for?,1,,0.913404604032983
+4669,P1366,What did [MASK] get exchanged for?,1,,0.9271637488703754
+4976,P1366,What name supplanted the [MASK]?,1,0.9282074532500517,1.0126808900043072
+4608,P1366,What became of the local government area of Scotland between 1975 and 1996?,1,,1.1421978682733853
+4604,P1366,What area was chosen to replace Strasbourg-Campagne as an arrondissement?,1,,1.0218150371019155
+4603,P1366,What area took the place of [MASK]?,1,,1.028962998309519
+4602,P1366,What area superseded Strasbourg-Campagne?,1,,0.8910789826975034
+4599,P1366,What alternative was given to [MASK]?,1,,0.9092280543330932
+4598,P1366,What alternative to [MASK] emerged?,1,,0.899524593332484
+4596,P1366,What alteration was made to the local government area of Scotland between 1975 and 1996?,1,,0.9090610981208854
+4595,P1366,What alteration took place after the [MASK] was abolished?,1,0.8832998136803693,0.8832998136803655
+4594,P1366,What alteration occurred when the [MASK] was eliminated?,1,0.907692857771315,0.9076928577713129
+4592,P1366,What administrative region succeeded [MASK]?,1,0.9069649250730321,1.0990927446837957
+4591,P1366,What administrative entity replaced [MASK]?,1,0.8978769013919149,1.0936442188068893
+4590,P1366,What administrative division replaced [MASK]?,1,0.8938989089938096,1.0927891658320852
+4589,P1366,Was [MASK] rebranded?,1,1.0086332541392475,1.0086332541392475
+4588,P1366,Was [MASK] changed?,1,,0.9294497994957667
+4587,P1366,To which did [MASK] give way?,1,,0.9841037010511223
+4586,P1366,To what was [MASK] superseded?,1,1.9913656141875415,0.9860639923167003
+4585,P1366,To what was [MASK] replaced?,1,,1.034865517605377
+4582,P1366,To what has [MASK] been transformed?,1,1.0868062532358072,1.0261692664760174
+4581,P1366,To what did the US Occupation Zone in Germany give way?,1,,0.9248723930519542
+4579,P1366,In what way was the [MASK] supplanted?,1,,0.8747030630390653
+4578,P1366,In what was [MASK] replaced?,1,0.8843655817460391,0.8843655817460371
+4576,P1366,"In place of [MASK], what is there?",1,,1.0014003901230708
+4575,P1366,How was [MASK] replaced?,1,,0.9935632855564698
+4574,P1366,How has the [MASK] been transformed?,1,,0.9516102928196766
+4573,P1366,How has [MASK] been rebranded?,1,,0.8906424426326468
+4572,P1366,How did the [MASK] transition?,1,0.8669641121128928,0.8669641121128936
+4571,P1366,How did the [MASK] get replaced?,1,,0.8987354149328342
+4570,P1366,How did the [MASK] evolve?,1,0.8687199786641101,0.8687199786640937
+4568,P1366,By whom was the [MASK] displaced?,1,,0.8828321270767708
+4567,P1366,By whom was [MASK] supplanted?,1,,0.9063854138970261
+4606,P1366,What assumed [MASK]'s spot?,1,,0.8974193214164808
+4609,P1366,What building took the place of [MASK]?,1,,0.9416048338544686
+4667,P1366,What did [MASK] eventually become?,1,,0.9771475786438389
+4611,P1366,What came about as a result of the dissolution of [MASK]?,1,0.8994809769401158,1.1029433755369336
+4665,P1366,What did [MASK] end up being replaced by?,1,,1.0118824528773556
+4664,P1366,What did [MASK] end up as?,1,,1.0022592820150245
+4663,P1366,What did [MASK] change to?,1,0.9506283434575973,0.9658840694628795
+4661,P1366,What did [MASK] become replaced with?,1,,1.01841431857267
+4659,P1366,What country took the place of [MASK]?,1,1.0582990121924567,1.0582990121924567
+4658,P1366,What country superseded [MASK]?,1,,1.0446845915018244
+4656,P1366,What country is now occupying [MASK]?,1,1.0529274975387466,1.0529274975387466
+4654,P1366,What country assumed [MASK]'s place?,1,1.0203458112909531,1.0203458112909531
+4653,P1366,What corporation has succeeded [MASK]?,1,,1.0206189288302334
+4652,P1366,What company has superseded [MASK]?,1,,1.0108807938484496
+4651,P1366,What colony took the place of the [MASK]?,1,1.22139375088492,0.94666655019397
+4650,P1366,What colony superseded the [MASK]?,1,1.3320839219114562,0.9618241721632802
+4649,P1366,What colony came after the [MASK]?,1,0.9300892934881931,0.9300892934881897
+4648,P1366,What club came after Montreal Impact (1992-2011)?,1,,0.9478035626501604
+4647,P1366,What city took the place of [MASK]?,1,1.0592389643096163,1.0592389643096163
+4645,P1366,What city supplanted [MASK]?,1,0.9435241287256625,1.1024354593148897
+4643,P1366,What character succeeded [MASK]?,1,,1.0958109878762183
+4642,P1366,What character followed [MASK]?,1,,1.064823243097244
+4639,P1366,What change occurred in the local government area of Scotland between 1975 and 1996?,1,,0.9163916413620244
+4638,P1366,What change happened instead of [MASK]?,1,2.3988936193462145,1.066564582602524
+4637,P1366,What came to take [MASK]'s place?,1,,0.953208957378101
+4634,P1366,What came to occupy the role of the [MASK]?,1,,1.1428480578190117
+4631,P1366,What came to inhabit the space the [MASK] once occupied?,1,,0.9294504962092238
+4623,P1366,What came in to supersede [MASK]?,1,,1.050900158601879
+4618,P1366,What came in the place of Shantung Province in the Republic of China?,1,,1.1130527744062937
+4617,P1366,What came in place of the [MASK] after its dissolution?,1,0.9019560415586622,1.214149468619974
+4615,P1366,What came after the [MASK] were abolished?,1,,0.8925363128903344
+4613,P1366,What came after the Soviet occupation area of Germany?,1,0.9112418295584945,1.1201138637797132
+4612,P1366,What came after Shantung Province in the Republic of China?,1,,1.0081935066453063
+4776,P1366,What has been chosen to occupy the position of the [MASK]?,1,0.9351409043258294,0.9351409043258295
+4777,P1366,What has been chosen to supersede [MASK]?,1,,0.9030250399647796
+4778,P1366,What has been chosen to take the place of [MASK]?,1,,0.9139978984140134
+4924,P1366,What is the new name given to [MASK]?,1,,0.9738931401858685
+4920,P1366,What is the new journal that replaced [MASK]?,1,,0.9867870276970588
+4919,P1366,What is the new iteration of [MASK]?,1,,1.0049042978082818
+4918,P1366,What is the new entity that succeeded [MASK]?,1,,1.0248017698658491
+4917,P1366,What is the new entity that has superseded [MASK]?,1,,1.0179872629430542
+4916,P1366,What is the new company that has supplanted [MASK]?,1,,0.9682352793427776
+4915,P1366,What is the new business that has replaced [MASK]?,1,,0.9695107053920773
+4914,P1366,What is the new appellation for [MASK]?,1,1.0180532300351597,1.0180532300351597
+4913,P1366,What is the new alternative for [MASK]?,1,,1.0005299747634113
+4911,P1366,What is the name of the university that replaced [MASK]?,1,0.8907492453983997,0.9882271284620127
+4910,P1366,What is the name of the publication that succeeded the [MASK]?,1,,0.9960857269765343
+4908,P1366,What is the name of the metropolis that supplanted [MASK]?,1,0.9690367669707225,1.1792139935793275
+4907,P1366,What is the modern title of [MASK]?,1,,1.0076615501099895
+4906,P1366,What is the modern name of the area that was formerly [MASK]?,1,1.6072266674301947,0.909109219487693
+4905,P1366,What is the modern iteration of [MASK]?,1,0.8953589061871454,0.9725450141736792
+4904,P1366,What is the modern equivalent of [MASK]?,1,,1.0304431629442568
+4902,P1366,What is the latest form of [MASK]?,1,,0.9782396337413264
+4900,P1366,What is the journal that has taken over for [MASK]?,1,,1.0160497739044134
+4899,P1366,What is the current university in the place of [MASK]?,1,0.9009643809088485,0.9731190771929643
+4898,P1366,What is the current title of the journal that used to be called [MASK]?,1,,1.0626297871075612
+4896,P1366,What is the current substitute for [MASK]?,1,,0.876520816423035
+4895,P1366,What is the current status of the [MASK]?,1,,1.0150686232148216
+4894,P1366,What is the current organization that took over the role of the [MASK]?,1,,1.021585659523687
+4893,P1366,What is the current name of the publication that was formerly known as [MASK]?,1,,0.9754587464515398
+4892,P1366,What is the current name of the area that was formerly [MASK]?,1,,0.9636001612162284
+4888,P1366,What is the current iteration of [MASK]?,1,,0.9576564178852789
+4885,P1366,What is the current equivalent of [MASK]?,1,,1.013677639513663
+4884,P1366,What is the current edifice that has come to replace the [MASK]?,1,,1.012913894318558
+4883,P1366,What is the current counterpart of [MASK]?,1,0.9077547124533633,1.019908661254145
+4882,P1366,What is the current building that replaced [MASK]?,1,,1.0193491659923457
+4921,P1366,What is the new moniker of [MASK]?,1,,1.0422644130554524
+4925,P1366,What is the new name of the publication that formerly was the [MASK]?,1,,0.9916959959735037
+4779,P1366,What has been chosen to take the spot of the [MASK]?,1,0.9900143192046842,0.932005175470836
+4926,P1366,What is the new name of the region that used to be [MASK]?,1,1.5329411532215274,0.9115511003880715
+4975,P1366,What name has taken the place of [MASK]?,1,,1.015720280308286
+4974,P1366,What name has replaced [MASK]?,1,,0.9846071655353177
+4973,P1366,What name has been given to the area formerly known as [MASK]?,1,,0.9398956487045348
+4970,P1366,What journal was established after [MASK]?,1,,0.9959293853071132
+4966,P1366,What journal took over [MASK]?,1,,1.0173815460506486
+4965,P1366,What journal superseded [MASK]?,1,,1.0169180402798477
+4960,P1366,What journal has supplanted the [MASK]?,1,,1.0205138005250467
+4956,P1366,What job did the [MASK] get moved to?,1,,0.9231052636818493
+4955,P1366,What is the updated version of [MASK]?,1,,0.9590386597230612
+4951,P1366,What is the substitution for the [MASK]?,1,,1.0309299030179575
+4950,P1366,What is the substitute of [MASK]?,1,1.0223344198561126,1.0223344198561126
+4948,P1366,What is the subsequent building that has taken the place of the [MASK]?,1,,1.02501787327326
+4947,P1366,What is the stand-in for [MASK]?,1,1.0311991259316815,1.0311991259316815
+4946,P1366,What is the savege of the [MASK]?,1,0.8731058403749722,0.8731058403749725
+4945,P1366,What is the revised name for [MASK]?,1,1.0368615700720785,1.0368615700720785
+4944,P1366,What is the replacement publication for the [MASK]?,1,,1.0579107059977686
+4942,P1366,What is the publication's new title after the change from [MASK]?,1,,0.9027185481466115
+4941,P1366,What is the present title of [MASK]?,1,,1.038977469241203
+4940,P1366,What is the present name of [MASK]?,1,,1.0259611920970124
+4939,P1366,What is the present identity of [MASK]?,1,0.9956551909152755,0.9956551909152755
+4938,P1366,What is the newest edition of [MASK]?,1,,0.9223636361368277
+4936,P1366,What is the new title of [MASK]?,1,0.9369264830010409,0.9369264830010278
+4935,P1366,What is the new thing that has taken the space of [MASK]?,1,,0.9127238774216764
+4934,P1366,What is the new thing that has taken [MASK]' place?,1,,1.036007672987653
+4933,P1366,What is the new thing instead of [MASK]?,1,,0.9138165941576315
+4932,P1366,What is the new structure that has taken the place of the [MASK]?,1,,1.0318807483210148
+4931,P1366,What is the new publication that has substituted for [MASK]?,1,,1.0162088123589232
+4930,P1366,What is the new publication replacing [MASK]?,1,,1.0015673523661641
+4929,P1366,What is the new publication of the [MASK]?,1,,0.8942207895877595
+4881,P1366,What is the corresponding entity for [MASK]?,1,,0.93052311051665
+4880,P1366,What is the area that [MASK] was replaced by called?,1,0.8515557815921733,0.8515557815921734
+4877,P1366,What is the alternate group for the [MASK]?,1,,0.9829358811901188
+4876,P1366,What is the alteration to [MASK]?,1,0.9099010579844686,0.9099010579844677
+4821,P1366,What has succeeded the [MASK] in terms of its location?,1,,0.9669162790200277
+4820,P1366,What has stepped in to take the [MASK]'s place?,1,1.4728761983805254,1.0426228403005338
+4819,P1366,What has stepped in to supplant [MASK]?,1,,0.9118887303214332
+4816,P1366,What has replaced [MASK] in its position?,1,,0.9053867437528885
+4815,P1366,What has filled the void of [MASK]?,1,0.8779620010235221,0.8779620010235221
+4811,P1366,What has emerged in place of [MASK]?,1,,0.9165589593677226
+4810,P1366,What has come to take [MASK]'s place?,1,,0.9032651562152677
+4808,P1366,What has come to occupy the position of [MASK]?,1,0.9072934611127664,0.9867126005305794
+4807,P1366,What has come to occupy the place of [MASK]?,1,,0.9691106507294397
+4805,P1366,What has come to be [MASK]'s replacement?,1,,1.0819838290408779
+4802,P1366,What has been used to supplant [MASK]?,1,,0.9009861374753925
+4801,P1366,What has been used to replace [MASK]?,1,,1.0494529630359768
+4800,P1366,What has been used instead of [MASK]?,1,,1.0078226035976008
+4799,P1366,What has been the switch for [MASK]?,1,,0.9068764736494107
+4798,P1366,What has been the successor to the [MASK]?,1,,1.0301909506405478
+4795,P1366,What has been the result of the [MASK]?,1,1.199231763733665,0.9208951585999066
+4794,P1366,What has been the replacing factor for [MASK]?,1,,0.9187648748626159
+4793,P1366,What has been the replacement for the [MASK]?,1,,0.9300672168726936
+4792,P1366,What has been the new name for [MASK]?,1,,1.030407599461601
+4790,P1366,What has been settled on instead of [MASK]?,1,,1.018893261595385
+4789,P1366,What has been selected to take over for the [MASK]?,1,1.017687406414836,0.9023863869774179
+4787,P1366,What has been put in the position of [MASK]?,1,0.8578263537807284,0.8578263537806983
+4786,P1366,What has been put in the place that [MASK] used to fill?,1,,0.8944541257909677
+4785,P1366,What has been put in lieu of [MASK]?,1,,1.1944984677807877
+4784,P1366,What has been instituted instead of [MASK]?,1,,1.019806856982497
+4783,P1366,What has been installed in the place of [MASK]?,1,,0.9101528742987862
+4782,P1366,What has been installed in lieu of [MASK]?,1,,1.087555163386176
+4781,P1366,What has been given the role of the [MASK]?,1,1.1115014624845636,0.9085710223913172
+4780,P1366,What has been empowered in place of the [MASK]?,1,,0.9470211704573656
+4822,P1366,What has superseded [MASK]'s existence?,1,0.9300788062195599,1.0494568674784
+4824,P1366,What has supplanted [MASK]'s spot?,1,,0.9055433487039809
+4825,P1366,What has supplied [MASK]?,1,,0.9763904677596149
+4854,P1366,What institution supplanted [MASK]?,1,1.0149973700448516,1.0734223980141688
+4875,P1366,What is occupying a space formerly held by [MASK]?,1,,1.3646258430004115
+4874,P1366,What is occupying [MASK]'s pre-existing spot?,1,0.903238859215969,0.9486980191998696
+4873,P1366,What is now standing in for [MASK]?,1,,1.1827922933334725
+4872,P1366,What is now occupying the space where [MASK] was?,1,0.9592976122355259,0.9592976122355259
+4868,P1366,What is now inhabiting the place that [MASK] used to occupy?,1,,1.1905069836839128
+4864,P1366,What is now called the [MASK]?,1,,0.9698072124266444
+4863,P1366,What is in the spot of [MASK] now?,1,,0.9993636223691513
+4861,P1366,What is currently occupying the place of [MASK]?,1,0.9640485981646674,1.0550262034362028
+4860,P1366,What is [MASK]'s successor?,1,,0.9787793952315189
+4859,P1366,What is [MASK]'s replacement?,1,0.8369532541071827,0.8369532541071738
+4858,P1366,What is [MASK]'s new identity?,1,0.9972595667716144,0.9972595667716144
+4856,P1366,What institution took up the mantle of [MASK]?,1,1.107850094056029,1.0185052990627572
+4855,P1366,What institution took over for Athenaeum Illustre Amsterdam?,1,,1.1127661150392776
+4853,P1366,What institution replaced [MASK]?,1,,1.0077897203325847
+4826,P1366,What has taken [MASK]’s position?,1,,0.9005388080546723
+4852,P1366,What institution has taken the place of [MASK]?,1,1.039024166128273,0.9931409565382218
+4848,P1366,What individual was the [MASK]'s replacement?,1,,0.9127928757625224
+4847,P1366,What individual was selected to replace the [MASK]?,1,,1.0532671229887545
+4842,P1366,What has the [MASK] developed into?,1,0.9037103742595561,1.0279255555958733
+4839,P1366,What has the [MASK] been changed to?,1,,1.0130688924863944
+4837,P1366,What has taken the title of [MASK]?,1,,1.1068180417036735
+4836,P1366,What has taken the stead of [MASK]?,1,,0.9542747337198694
+4834,P1366,What has taken the position of [MASK]?,1,,1.010042415804005
+4833,P1366,What has taken the place of [MASK] now?,1,,1.0250856984873709
+4832,P1366,What has taken the place of [MASK] in the curriculum?,1,,0.9404314308002537
+4831,P1366,What has taken the mantle of [MASK]?,1,,1.0231624989841885
+4830,P1366,What has taken the mantle from [MASK]?,1,,1.0066433779953756
+4827,P1366,What has taken over [MASK]'s role?,1,0.8606836688098622,0.8606836688098387
+5334,P1366,With whom was [MASK] replaced?,1,,0.9105908137204803

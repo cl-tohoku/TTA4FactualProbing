@@ -14,16 +14,17 @@ import logging
 
 from models import get_transformer_model
 from tools import split_list, init_logging
+from gpt3 import GPT3
 
-def aggregate_sum(texts: list, scores:list, score_max=None):
+def aggregate(texts: list, scores:list, score_max=None, method = 'sum'):
     if score_max != None:
         assert isinstance(score_max, float), "score_max need to be a float"
     aggregated_result = {}
     for text, score in zip(texts, scores):
-        if text in aggregated_result.keys():
-            aggregated_result[text] += score
-        else:
-            aggregated_result[text] = score
+        if method == 'sum':
+            aggregated_result[text] = aggregated_result.get(text, 0) + score
+        elif method == 'count':
+            aggregated_result[text] = aggregated_result.get(text, 0) + 1
 
     aggregated_result = OrderedDict(sorted(aggregated_result.items(), key=lambda x: x[1], reverse=True))
 
@@ -33,6 +34,9 @@ def aggregate_sum(texts: list, scores:list, score_max=None):
         score_list = list(score_list / score_list[0] * score_max)
 
     return {"texts": text_list, "scores": score_list}
+
+
+
 
 class ExpResult():
     logger = logging.Logger
@@ -132,21 +136,22 @@ class ExpResult():
 
         print("step1")
 
-        for aggregation_type in aggr_todo:
-            self.aggregate_thread(aggregation_type)
-        # with ThreadPoolExecutor(thread_name_prefix="thread") as executor:
-        #     for aggregation_type in aggr_todo:
-        #         executor.submit(self.aggregate_thread, aggregation_type)
-
-        # executor = ThreadPoolExecutor(max_workers=64)
         # for aggregation_type in aggr_todo:
-        #     executor.submit(self.aggregate_thread, aggregation_type)
-        # executor.shutdown()
+        #     self.aggregate_thread(aggregation_type)
+        with ThreadPoolExecutor(thread_name_prefix="thread") as executor:
+            for aggregation_type in aggr_todo:
+                executor.submit(self.aggregate_thread, aggregation_type)
+
+        executor = ThreadPoolExecutor(max_workers=64)
+        for aggregation_type in aggr_todo:
+            executor.submit(self.aggregate_thread, aggregation_type)
+        executor.shutdown()
 
         
         print("step2")
         for aggregation_type in aggregation_types:
             filepath = "cache/{}/evaluate_{}.pkl".format(self.settings["name"], aggregation_type["name"])
+            print(filepath)
             with open(filepath, "rb") as f:
                 df = pickle.load(f)
             df = df[['{}'.format(aggregation_type['name']), 'c_{}'.format(aggregation_type['name'])]]
@@ -156,16 +161,23 @@ class ExpResult():
         self.logger.info("thread_{}".format(args["name"]))
         if not "weight_dict" in args.keys():
             args["weight_dict"] = None
+        if not "rand" in args.keys():
+            args["rand"] = None
+            args["rand_state"] = None
         self.facts.evaluate(
             generations_df=self.generations.df,
             prompts_df=self.prompts.df,
             setting_name=self.settings["name"],
             column_name=args["name"],
             prompt_types_to_exclude=args["exclude"],
-            weight_dict = args["weight_dict"]
+            weight_dict = args["weight_dict"],
+            rand=args['rand']
         ) 
         self.logger.info("thread_{} done".format(args["name"]))
         return 0
+
+    def ablation(self):
+        self.prompts.df = self.facts.ablation(self.prompts.df, self.generations.df)
 
 
 class CorrectTable():
@@ -176,6 +188,7 @@ class CorrectTable():
         prompts: Prompts
     ):
         augment_df = facts_df.loc[:,["c_all"]].copy().rename(columns={"c_all": "augment"})
+        # augment_df = facts_df.loc[:,["c_deved"]].copy().rename(columns={"c_d": "augment"})
         num_prompts = prompts.get_num_prompts()
         prompt_is_corrects = prompts.df.loc[:,"is_correct"].values.reshape([-1, num_prompts])
         assert len(augment_df.index) == prompt_is_corrects.shape[0]
@@ -225,7 +238,9 @@ class Facts():
         setting_name: str,
         column_name: str,
         prompt_types_to_exclude: list,
-        weight_dict = None
+        weight_dict = None,
+        rand = None,
+        rand_state = None
     ):
         filename = "cache/{}/evaluate_{}.pkl".format(setting_name, column_name)
         mid_df = self._get_results(
@@ -233,7 +248,9 @@ class Facts():
             generations_df=generations_df,
             column_name=column_name,
             prompt_types_to_exclude=prompt_types_to_exclude,
-            weight_dict = weight_dict
+            weight_dict = weight_dict,
+            rand = rand,
+            rand_state=rand_state
             )
 
         self._judge_correct(mid_df=mid_df ,prompts_df=prompts_df, generations_df=generations_df, column_name=column_name, filename = filename)
@@ -244,7 +261,9 @@ class Facts():
         generations_df: pd.DataFrame,
         column_name: str,
         prompt_types_to_exclude: list,
-        weight_dict = None
+        weight_dict = None,
+        rand = None,
+        rand_state = None
     ):
         if weight_dict == None:
             generations_df["weighted_score"] = generations_df["score"]
@@ -258,21 +277,31 @@ class Facts():
         result_dict = {}
         score_dict = {}
         score_total_dict = {}
+        gold_score = {}
         for fact_id, prompts in prompt_gb_fact:
-            prompts = prompts.loc[~prompts["type"].isin(prompt_types_to_exclude)]
+            gold = self.df.loc[fact_id]['os']
+            if rand == None:
+                prompts = prompts.loc[~prompts["type"].isin(prompt_types_to_exclude)]
+            else:
+                prompts = pd.concat([prompts.loc[prompts['type'] == '0original'], prompts.loc[prompts['type'] != '0original'].sample(n=rand - 1, random_state=rand_state)])
             generation_df = generations_df.loc[generations_df["prompt_id"].isin(prompts.index)]
             if len(generation_df.index) != 0:
                 texts = list(generation_df["generation"].values)
                 scores = list(generation_df["weighted_score"].values)
-                aggregation_result = aggregate_sum(texts=texts, scores=scores)
+                aggregation_result = aggregate(texts=texts, scores=scores)
                 result_dict[fact_id] = aggregation_result["texts"][0]
                 score_dict[fact_id] = aggregation_result["scores"][0]
+                if gold in aggregation_result["texts"]:
+                    gold_score[fact_id] = aggregation_result["scores"][aggregation_result["texts"].index(gold)]
+                else:
+                    gold_score[fact_id] = 0
                 score_total_dict[fact_id] = sum(aggregation_result["scores"])
         result_df = pd.DataFrame({
             "fact_id":result_dict.keys(),
             column_name: result_dict.values(),
             'score': score_dict.values(),
-            'score_total': score_total_dict.values()
+            'gold_score': gold_score.values(),
+            'score_total': score_total_dict.values(),
         }).set_index('fact_id')
         return pd.concat([self.df, result_df], axis=1)
     
@@ -284,7 +313,7 @@ class Facts():
         column_name: str,
         filename: str
     ):
-        valids = mid_df.loc[~mid_df[column_name].isnull(), ["os", column_name, 'score', 'score_total']].copy()
+        valids = mid_df.loc[~mid_df[column_name].isnull(), ["os", column_name, 'score','gold_score', 'score_total']].copy()
         # valids["c_{}".format(column_name)] = valids.apply(lambda row: row[column_name].lower() == row["os"].lower(), axis=1)
         valids["c_{}".format(column_name)] = valids.apply(lambda row: row[column_name] == row["os"], axis=1)
         with open(filename, "wb") as f:
@@ -316,6 +345,39 @@ class Facts():
         ndarray = self.df["p"].unique()
         return list(ndarray)
 
+    def ablation(self, prompts_df, generations_df):
+        prompt_gb_fact = prompts_df.groupby("fact_id")
+        top_confidence = {}
+        gold_confidence = {}
+        score_total_dict = {}
+        for fact_id, prompts in prompt_gb_fact:
+            for i in range(len(prompts.index)):
+                print(prompts.index[i])
+                removed_index = [prompts.index[idx] for idx in range(len(prompts.index)) if idx != i]
+                generation_df = generations_df.loc[generations_df["prompt_id"].isin(removed_index)]
+                if len(generation_df.index) != 0:
+                    texts = list(generation_df["generation"].values)
+                    scores = list(generation_df["score"].values)
+                    aggregation_result = aggregate(texts=texts, scores=scores)
+                    score_total = sum(aggregation_result["scores"])
+                    gold = self.df.loc[fact_id]['os']
+                    if gold in aggregation_result["texts"]:
+                        gold_confidence[prompts.index[i]] = aggregation_result["scores"][aggregation_result["texts"].index(gold)] / score_total
+                    else:
+                        gold_confidence[prompts.index[i]] = 0
+                    top_confidence[prompts.index[i]] = aggregation_result["scores"][0] / score_total
+
+        result_df = pd.DataFrame({
+            "prompt_id":gold_confidence.keys(),
+            "gold_conf": gold_confidence.values(),
+            'top_conf': top_confidence.values(),
+        }).set_index('prompt_id')
+        print(pd.concat([prompts_df, result_df], axis=1))
+        return pd.concat([prompts_df, result_df], axis=1)
+
+    # def prompt_effect(self, prompt_df):
+        
+
 
 
 class Prompts():
@@ -339,15 +401,17 @@ class Prompts():
             self.df["fact_id"] = self.df.index
             self.df["type"] = "0original"
             self.df["score"] = 1.0
-            self._augment(augmentation_methods)
+            self._augment(augmentation_methods, facts_df)
             self.is_evaluated = False
 
-    def _augment(self, augmentation_methods: list[dict]):
+    def _augment(self, augmentation_methods: list[dict], facts_df):
         fact_ids = self.df["fact_id"]
         method_dict = {
             "backtranslation": self._backtranslate,
             "textattack": self._textattack,
-            "heroclean": self._hero_clean
+            "heroclean": self._hero_clean,
+            "gpt3": self._gpt3,
+            "template": self._template
         }
         dfs = []
         for method in augmentation_methods:
@@ -356,6 +420,8 @@ class Prompts():
                 with open(method["filepath"], "rb") as f:
                     df = pickle.load(f)
             else:
+                if method["name"] == "template":
+                    method['args']['facts_df'] = facts_df
                 augment_result = method_dict[method["name"]](**method["args"])
                 df = pd.DataFrame({
                     "fact_id": fact_ids.repeat(method["args"]["num_return_sequences"]),
@@ -367,6 +433,55 @@ class Prompts():
                     pickle.dump(df, f)
             dfs.append(df)
         self.df = pd.concat([self.df]+dfs, axis=0).sort_values(["fact_id", "type", "score"], ascending=[True, True, False]).reset_index(drop=True)
+
+    def _gpt3(self, num_return_sequences:int):
+        logger = init_logging("gpt3", "cache", filename="gpt3.log")
+        original_prompts = self.df.loc[self.df["type"] == "0original", "prompt"]
+        gpt3 = GPT3()
+        augmented_prompts = []
+        augmented_scores = []
+        for fid, original_prompt in enumerate(original_prompts.values.tolist()):
+            last = 12499
+            if fid < last:
+                continue
+            if fid == last:
+                with open("gpt3.tmp.pkl", "rb") as f:
+                    result = pickle.load(f)
+                    augmented_prompts = result["texts"]
+                    augmented_scores = [1]*len(augmented_prompts)
+                continue
+
+            augment_result = gpt3.get_paraphrases(original_sentence=original_prompt)
+            augment_score = [1]*len(augment_result)
+            if len(augment_result) < num_return_sequences:
+                n_more = num_return_sequences - len(augment_result)
+                logger.warning("fid:{}\t{} paraphrases".format(fid, len(augment_result)))
+                augment_result += [""]*n_more
+                augment_score += [0]*n_more
+            elif len(augment_result) > num_return_sequences:
+                logger.warning("fid:{}\t{} paraphrases".format(fid, len(augment_result)))
+                augment_result = augment_result[:10]
+                augment_score += augment_score[:10]
+            augmented_prompts += augment_result
+            augmented_scores += augment_score
+            logger.info("fid:{}\t".format(fid))
+            with open("gpt3.tmp.pkl", "wb") as f:
+                pickle.dump({"texts": augmented_prompts, "scores": augmented_scores}, f)
+        return {"texts": augmented_prompts, "scores": augmented_scores}
+
+    def _template(self, template_df_path: str, facts_df: pd.DataFrame, num_return_sequences: int):
+        template_df = pd.read_csv(template_df_path)
+        augmented_prompts = []
+        augmented_scores = []
+        print(facts_df)
+        for idx, row in facts_df.iterrows():
+            templates = template_df.loc[template_df['pid'] == row['p']]['template'].values.tolist()
+            print(templates)
+            augmented_prompts += [template.replace('[MASK]',row['ss']) for template in templates]
+            augmented_scores += [1]*len(templates)
+
+        return {"texts": augmented_prompts, "scores": augmented_scores}
+        
 
     def _textattack(
         self,
@@ -458,7 +573,7 @@ class Prompts():
         back_result_per_fact_score = np.reshape(back_result["scores"], [-1, sequence_per_transform])
         back_result_per_fact_score = np.reshape((back_result_per_fact_score.T * tar_result["scores"]).T, [-1, sequence_per_transform**2])
         for i in range(len(back_result_per_fact_text)):
-            aggregated_backtranslation = aggregate_sum(
+            aggregated_backtranslation = aggregate(
                 texts = back_result_per_fact_text[i],
                 scores=back_result_per_fact_score[i],
                 score_max= 1.0

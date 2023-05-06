@@ -1,0 +1,548 @@
+,p,template,fact_id,effect_gold,effect_top
+3866,P1365,What entity did the [MASK] supplant?,165,,1.03035333728668
+3702,P1365,What journal did [MASK] take the place of?,163,,1.0391033949611914
+3811,P1365,What did [MASK] supersede with?,163,,1.014166849801431
+3660,P1365,What did [MASK] come to substitute for?,150,,0.9746246690805875
+3867,P1365,What entity was supplanted by [MASK]?,118,,1.0145129501296586
+3758,P1365,What city was replaced by [MASK]?,85,,1.0236921737936426
+4050,P1365,What publication was superseded by [MASK]?,80,,1.0214085537763153
+3515,P1365,What did [MASK] switch out?,59,,0.9362745534170414
+3519,P1365,What had [MASK] taken the place of?,43,,1.0222132194630613
+3518,P1365,What was substituted by [MASK]?,41,,0.9480528870866477
+3523,P1365,What was [MASK] substituted for?,37,,1.0477563316316194
+3994,P1365,What journal had [MASK] replaced?,32,,1.0224267179867976
+3535,P1365,What had [MASK] supplanted?,31,,1.0194837187680619
+3794,P1365,What did [MASK] replace in the sequence?,28,,1.0306774227555326
+3520,P1365,What took the place of [MASK]?,27,0.9693601346740406,1.0288353884477968
+3527,P1365,What had [MASK] superseded?,25,,1.0213705893185032
+3529,P1365,What did [MASK] exchange?,25,,0.908082186708101
+3525,P1365,What did [MASK] displace?,25,,0.987120091767418
+4022,P1365,What position did [MASK] take over?,23,,0.9535994081136255
+3534,P1365,What did [MASK] replace with?,22,0.959826067106576,0.9688094944667569
+3546,P1365,What was the [MASK] a replacement for?,22,,1.0135889554040673
+3910,P1365,What had been substituted for the [MASK]?,20,,0.9942830772045497
+3524,P1365,What did [MASK] come in lieu of?,19,0.9941272650551581,1.0046772333617309
+3528,P1365,What was [MASK]'s predecessor?,19,,0.9995252668582457
+3543,P1365,What did the [MASK] succeed?,17,,0.9012605436692551
+3533,P1365,What was the predecessor of [MASK]?,17,,0.9769311812173482
+3553,P1365,What was exchanged for [MASK]?,16,,0.9554422207925152
+3547,P1365,What was the [MASK] a substitute for?,15,,0.9936867880555579
+3532,P1365,What was displaced by [MASK]?,15,,0.979622669705541
+3581,P1365,What was [MASK] swapped out for?,15,,1.02547662171989
+3539,P1365,What did [MASK] come in place of?,14,,1.0126844606606171
+3561,P1365,What was changed by [MASK]?,14,,0.9050361751743745
+3537,P1365,What did [MASK] stand in for?,14,,0.9398318918149708
+3530,P1365,What did [MASK] take the spot of?,13,,1.0172339051411055
+3540,P1365,What did [MASK] come to replace?,11,,1.0184929273587586
+3587,P1365,What came before [MASK]?,9,,1.005787058089716
+3577,P1365,What has taken the place of [MASK]?,9,,1.048396353536838
+3641,P1365,What was [MASK] put in place of?,9,,1.045662812016846
+3602,P1365,What was [MASK] replaced with?,9,0.9226116640611564,0.9827577435326939
+3631,P1365,What has been supplanted by [MASK]?,9,,1.018208258641765
+3549,P1365,What did the [MASK] come after?,9,,0.9421051101130755
+3552,P1365,What was [MASK]'s substitution?,9,,0.8945726978466051
+3586,P1365,What was the former name of [MASK]?,8,0.9120628861478435,0.9530900085042276
+3557,P1365,What did [MASK] switch with?,8,,0.9909187042633218
+3607,P1365,What was supplanted in lieu of [MASK]?,8,,0.9798157402709815
+3617,P1365,What did [MASK] put in the place of something else?,7,,0.8997885916270848
+3637,P1365,What replaced the [MASK]?,7,,0.9710620883812096
+3636,P1365,What preceded the [MASK]?,7,,0.9994647668368545
+3555,P1365,What did [MASK] replace with something else?,7,0.890479567623406,0.9096083675135791
+3620,P1365,What did [MASK] switch for?,7,,0.941333896586512
+3554,P1365,What did [MASK] replace in its stead?,7,0.918167039259328,1.0241242606531453
+3579,P1365,What was [MASK] replacing?,7,,1.0507493430672816
+3594,P1365,What had been displaced by [MASK]?,6,,0.9594648200505788
+3609,P1365,What was switched out by [MASK]?,6,,0.8986076379843638
+3598,P1365,What has been replaced by [MASK]?,6,,0.9992550758131705
+3642,P1365,What was [MASK] put in the stead of?,6,,0.978221421069502
+3614,P1365,What did [MASK] change to?,5,0.9219739482027064,0.9663642976979212
+3708,P1365,What was [MASK] changed to?,5,,1.0302761975140715
+3671,P1365,What did [MASK] substitute in place of something else?,5,,0.9766606926828951
+3572,P1365,What did [MASK] come in for?,5,0.8831156794813936,0.8837506380989308
+3575,P1365,What did [MASK] take the position of?,5,0.9160811718745794,0.8976075606651023
+3583,P1365,What was changed out for [MASK]?,5,,0.9233586916717995
+3584,P1365,What was substituted in place of [MASK]?,5,0.933607834671553,1.1220195499797305
+3588,P1365,What did [MASK] come in the stead of?,5,,1.0026286339644357
+3632,P1365,What has superseded [MASK]?,5,,0.9575014176647383
+3630,P1365,What has been substituted for [MASK]?,5,,1.0085413758346107
+3606,P1365,What was [MASK]'s substitute?,5,,0.9392982156217696
+3603,P1365,What was [MASK] substituted with?,5,,1.0124931227642808
+3608,P1365,What was swapped out by [MASK]?,4,0.8890362273578324,0.9164198987271954
+3680,P1365,What did [MASK] take the stead of?,4,,1.019690709805427
+3679,P1365,What did [MASK] switch to?,4,,0.953209448581751
+3731,P1365,Who did [MASK] supplant?,4,,1.044864459931021
+3621,P1365,What did [MASK] take the role of?,4,,0.9181199312310672
+3649,P1365,What was the alternative to [MASK]?,4,0.994875241089769,1.0329694046118898
+3695,P1365,What had been exchanged for [MASK]?,4,,0.89445185085317
+3647,P1365,What was the [MASK] a stand-in for?,4,,0.9628429003708646
+3605,P1365,What was [MASK]'s replacement?,4,,0.8905326282600854
+3664,P1365,What did [MASK] exchange for something else?,4,,0.9972529044702709
+3601,P1365,What was [MASK] formerly known as?,4,0.9815832804512867,0.9953311559035747
+3639,P1365,What was [MASK] brought in to replace?,4,,1.10089001134379
+3644,P1365,What was [MASK] switched out for?,4,,0.9415385210558904
+3652,P1365,Who did [MASK] replace?,4,,0.9701548530379964
+4303,P1365,Who or what was [MASK] replaced by?,3,,1.0333270386941227
+3730,P1365,What was the successor of [MASK]?,3,,1.013416952094963
+3729,P1365,What was the prior publication to [MASK]?,3,,0.9005462871353204
+3912,P1365,What had been substituted with [MASK]?,3,,1.0226297365320456
+3725,P1365,What was taken over by [MASK]?,3,0.9296804637524566,0.9638667698318221
+3721,P1365,What was supplanted in place of [MASK]?,3,,1.0872939141248383
+3716,P1365,What was previously in the place of [MASK]?,3,,0.9977660991440501
+3904,P1365,What had been preceded by [MASK]?,3,,0.958024777129952
+3812,P1365,What did [MASK] supplant in its place?,3,,1.088126840511569
+3657,P1365,What did [MASK] change out?,3,,0.9404434639195398
+3688,P1365,What did the [MASK] supplant in its stead?,3,,0.9495561646774543
+3638,P1365,What was [MASK] a substitution for?,3,,1.0436005746248835
+3666,P1365,What did [MASK] give way to?,3,,0.9389337839322692
+3675,P1365,What did [MASK] swap out?,3,0.8723879900379266,0.9254837335451457
+3676,P1365,What did [MASK] switch in?,3,,0.9720174243631172
+3677,P1365,What did [MASK] switch out for something else?,3,,0.9603514434917796
+3619,P1365,What did [MASK] supplace?,3,,1.0741981736549693
+3616,P1365,What did [MASK] overtake?,3,0.9521190501083412,0.9917565811756172
+3618,P1365,What did [MASK] replace in its place?,3,1.0046329203510416,1.0167077099353496
+3804,P1365,What did [MASK] substitute with?,2,,1.0251027745473846
+4006,P1365,What language was supplanted by [MASK]?,2,,1.1706826277976734
+4087,P1365,What was [MASK] substituted in lieu of?,2,,0.9925012307602143
+4088,P1365,What was [MASK] supplanting?,2,,0.9682055252479528
+4223,P1365,What was the name of [MASK] before?,2,,1.0696124645717338
+4224,P1365,What was the name of [MASK] prior to its current name?,2,1.0594053811126107,1.0283910718018765
+3974,P1365,What has now replaced Clinics in Occupational and Environmental Medicine?,2,,1.0682900430885103
+4238,P1365,What was the previous governmental system to the [MASK]?,2,,0.9035021821375977
+3791,P1365,What did [MASK] replace in succession?,2,,0.9959614164140145
+3669,P1365,What did [MASK] sub for?,2,0.8930045661676589,0.9088464247178437
+3990,P1365,What journal did [MASK] substitute for?,2,,0.9841935564558014
+3822,P1365,What did [MASK] switch to something else?,2,0.9573554978270862,1.0888031828224771
+4109,P1365,What was formerly in [MASK]'s place?,2,,0.9575463433383038
+4220,P1365,What was the journal that [MASK] replaced?,2,,1.009879396635883
+3803,P1365,What did [MASK] substitute itself for?,2,,1.019096602247472
+3668,P1365,What did [MASK] replace in its current form?,2,0.9120434179746009,0.9659709552744473
+4118,P1365,What was once in place of [MASK]?,2,,1.1438058100468256
+3694,P1365,What had [MASK] taken over from?,2,,1.030522539402004
+4080,P1365,What was [MASK] exchanged with?,2,,1.0617714528126068
+3935,P1365,What had taken [MASK]'s spot?,2,,1.0751505627398377
+3924,P1365,What had been the predecessor of [MASK]?,2,,1.0054581573686805
+3916,P1365,What had been switched out by [MASK]?,2,,0.9292717949443523
+3654,P1365,To what did [MASK] succeed?,2,0.9060016635110705,0.9939087057845604
+3655,P1365,What did [MASK] assume the place of?,2,0.9015496784059858,1.0630880411916999
+3929,P1365,What had existed before [MASK]?,2,,0.9377425162808901
+3906,P1365,What had been put in the space of [MASK]?,2,,0.9407991305901733
+3656,P1365,What did [MASK] change for?,2,,0.9652220798286644
+3900,P1365,What had been in [MASK]'s place before?,2,,1.0645824358924258
+3869,P1365,What former government did the [MASK] take the place of?,2,,0.9627939878969758
+3945,P1365,What has [MASK] been exchanged for?,2,,0.9046858311501276
+3949,P1365,What has [MASK] been switched for?,2,,0.9789892429089295
+3693,P1365,What had [MASK] succeeded?,2,,0.8944361862814618
+4205,P1365,What was the former entity of [MASK]?,2,,0.9264636320176665
+3885,P1365,What had [MASK] changed for?,2,,0.9666443346232826
+3873,P1365,What government did [MASK] replace?,2,,0.9822740953273572
+4215,P1365,What was the former title of [MASK]?,2,,0.9583285368179324
+4279,P1365,Which government was superseded by [MASK]?,2,,0.9642910073785587
+4007,P1365,What magazine was succeeded by [MASK]?,2,,0.9967533372122053
+3673,P1365,What did [MASK] substitute in the stead of?,2,,0.9388048326983911
+3670,P1365,What did [MASK] substitute in its stead?,2,,0.9744728002630951
+4306,P1365,Who was [MASK] replacing?,2,,1.0493928683472618
+4052,P1365,What ruling body was superseded by the [MASK]?,2,0.9709464783564985,0.9043599851704178
+3732,P1365,Who did the [MASK] succeed?,2,0.921611061810607,0.9158361492978775
+3728,P1365,What was the antecedent to [MASK]?,2,0.975987870042497,0.9391186221265869
+3726,P1365,What was taken the place of by [MASK]?,2,,1.0010147921729502
+3682,P1365,What did the [MASK] change?,2,0.865554914597425,0.9045012508995449
+3724,P1365,What was switched out with [MASK]?,2,0.896800073449759,0.9520112448853901
+3720,P1365,What was substituted in [MASK]'s place?,2,,1.1530511917227966
+3689,P1365,What followed [MASK]?,2,,0.946470273429927
+3715,P1365,What was preceded by [MASK]?,2,,0.9225587617645408
+3713,P1365,What was [MASK]'s prior name?,2,,1.0478826416434397
+3712,P1365,What was [MASK]'s alternative?,2,,0.8544467717347557
+3711,P1365,What was [MASK] used to replace?,2,,0.9759203020507236
+3710,P1365,What was [MASK] taking the place of?,2,,1.069353051911198
+3691,P1365,What had [MASK] come in the stead of?,2,,1.0102778124246472
+3706,P1365,What organization did [MASK] take the place of?,2,1.7051140512284144,1.0445731637069295
+3704,P1365,What language did [MASK] replace?,2,0.929129654454618,1.085587940639735
+3753,P1365,What changed in lieu of [MASK]?,2,,0.9395721122920382
+3919,P1365,What had been the former name of the [MASK]?,2,,0.9999557706031319
+4283,P1365,Which political entity supplanted [MASK]?,2,,1.122613281352287
+4103,P1365,What was eclipsed by the rise of [MASK]?,1,,0.9954109017729788
+4152,P1365,What was supplanted by [MASK]'s current version?,1,0.901505951817448,0.9619468323213283
+4157,P1365,What was supplanted by the formation of [MASK]?,1,,0.9789520716948797
+4092,P1365,What was [MASK]'s alteration?,1,,0.8931641403737031
+4093,P1365,What was [MASK]'s antecedent?,1,,1.0849359003480818
+4155,P1365,What was supplanted by the Pakistani Army?,1,,1.1767273239425613
+4154,P1365,What was supplanted by [MASK]'s presence?,1,,0.9419298469133568
+4094,P1365,What was [MASK]'s forerunner?,1,0.9015656282368526,1.0178436171109249
+4095,P1365,What was changed by the introduction of [MASK]?,1,0.8328318692073247,0.8328318692073209
+4153,P1365,What was supplanted by [MASK]'s emergence?,1,,1.0788546200246263
+4151,P1365,What was supplanted by [MASK] instead?,1,,1.1520672147239228
+4158,P1365,What was supplanted by the introduction of [MASK]?,1,,0.9197985158996952
+4149,P1365,What was supplaced by [MASK]?,1,,1.134372853544813
+4148,P1365,What was superseded due to the development of [MASK]?,1,,0.9318724873046775
+4147,P1365,What was superseded by the rise of [MASK]?,1,,1.0780489225284218
+4146,P1365,What was superseded by the Pakistani Army?,1,,1.1159264004881535
+4100,P1365,What was changed with [MASK]?,1,,0.9129218832549
+4145,P1365,What was superseded by [MASK] instead?,1,0.9027991399772374,0.9996767049068425
+4059,P1365,What team did the [MASK] replace?,1,,1.023300099417664
+4091,P1365,What was [MASK] utilized to substitute?,1,0.8039262179068387,0.8039262179068358
+4159,P1365,What was supplanted by the progression of [MASK]?,1,,1.0346098304935991
+4144,P1365,What was superseded by [MASK] in lieu of?,1,0.8987718047936849,0.9898729056687305
+4086,P1365,What was [MASK] set up in lieu of?,1,,0.9310265614430806
+4172,P1365,What was the Pakistani Army's replacement?,1,,0.9159409347794937
+4083,P1365,What was [MASK] intended to supersede?,1,0.9138933494093754,1.0314878296474614
+4170,P1365,What was taken out to make room for [MASK]?,1,,0.9265605358910407
+4169,P1365,What was taken in place of the [MASK]?,1,,0.9942275830287683
+4084,P1365,What was [MASK] now occupying the space of?,1,,0.9040610148207038
+4167,P1365,What was switched out by the Pakistani Army?,1,,0.8931136733333613
+4085,P1365,What was [MASK] previously referred to as?,1,0.8630201756257476,0.8630201756257464
+4166,P1365,What was swapped in for [MASK]?,1,,0.9453182390348489
+4160,P1365,What was supplanted by the teachings of [MASK]?,1,0.9279946839970341,1.0449392696948654
+4078,P1365,What was [MASK] brought in place of?,1,0.9118258751052596,0.9118258751052559
+4164,P1365,What was supplanted when the [MASK] was established?,1,,1.0199229503436211
+4077,P1365,What was [MASK] an alternative to?,1,,0.9891503226245932
+4076,P1365,What was [MASK] altered to?,1,,1.0315131410693572
+4162,P1365,What was supplanted in favor of [MASK]?,1,,1.0832897982667076
+4089,P1365,What was [MASK] swapped out with?,1,,1.05669768148522
+4161,P1365,What was supplanted due to [MASK]?,1,,1.1537041541768311
+4061,P1365,What team did the [MASK] take the place of?,1,0.9204078752107092,0.9204078752107069
+4062,P1365,What team was replaced by the [MASK]?,1,0.9349552979462407,0.9349552979462316
+4104,P1365,What was employed in lieu of the [MASK]?,1,0.9308224007317208,1.111988052193448
+4123,P1365,What was predated by the [MASK]?,1,0.9019362405231717,1.0290570654598368
+4121,P1365,What was overthrown by [MASK]?,1,,1.024247940383573
+4120,P1365,What was ousted by [MASK]?,1,,0.8901589862097035
+4068,P1365,What type of government existed prior to the [MASK]?,1,,1.1075492820824258
+4069,P1365,What used to be in the region occupied by [MASK]?,1,,0.8933040085393645
+4101,P1365,What was chosen to take the place of the [MASK]?,1,0.9164681493357043,0.9164681493357045
+4117,P1365,What was in the territory before the [MASK]?,1,,1.0100353095417594
+4070,P1365,What used to be located in [MASK]?,1,0.8962812423115247,0.8962812423115246
+4116,P1365,What was in the place of [MASK] before it was founded?,1,,0.9005086185906406
+4115,P1365,What was in the area of [MASK] before?,1,,0.8885594211112474
+4114,P1365,What was in power prior to [MASK]?,1,,1.0207646664246357
+4071,P1365,What used to occupy [MASK]?,1,0.8864432514735647,0.8864432514735633
+4174,P1365,What was the [MASK] a surrogate for?,1,,1.0283439763841749
+4102,P1365,What was displaced by the development of [MASK]?,1,,1.1242737012321742
+4072,P1365,What used to occupy the area where [MASK] is now?,1,,1.0315811429830715
+4112,P1365,What was formerly ruling before the [MASK]?,1,0.9866849149284138,0.9800012981110295
+4111,P1365,What was formerly present before [MASK]?,1,0.9493750035980228,0.9493750035980228
+4073,P1365,What was [MASK] a proxy for?,1,,0.9186466497325358
+4067,P1365,What took the spot of [MASK]?,1,,1.2023619818877387
+4124,P1365,What was put in [MASK]'s place?,1,,1.142725865614483
+4075,P1365,What was [MASK] a switch for?,1,,0.854011020633598
+4125,P1365,What was put in [MASK]'s stead?,1,,0.9752136803726508
+4063,P1365,What took [MASK]'s place?,1,,1.1473895482734076
+4064,P1365,What took [MASK]'s spot?,1,,0.8981618147841618
+4142,P1365,What was subsumed by the [MASK]?,1,,1.0124800159315726
+4138,P1365,What was substituted by the Pakistani Army?,1,,0.8880383070377095
+4074,P1365,What was [MASK] a successor to?,1,,1.0481643459417376
+4065,P1365,What took over for [MASK]?,1,,0.974020018228368
+4137,P1365,What was situated in [MASK] before?,1,0.9187723853265657,1.0671192034644303
+4136,P1365,What was shifted out by [MASK]?,1,,0.8878280774673161
+4081,P1365,What was [MASK] formerly called?,1,,0.9901211438613963
+4135,P1365,What was selected to substitute the [MASK]?,1,0.9181380384649639,0.9181380384649633
+4134,P1365,What was reworked by [MASK]?,1,,0.9263433359374283
+4133,P1365,What was replaced when [MASK] was established?,1,1.1349723217236156,1.0711411149180825
+4132,P1365,What was replaced instead of [MASK]?,1,,0.9073486828406799
+4131,P1365,What was replaced by the rule of [MASK]?,1,,0.931911597243047
+4130,P1365,What was replaced by the publication [MASK]?,1,,0.9065374032165207
+4128,P1365,What was rendered obsolete by the launch of [MASK]?,1,,0.9052168686730971
+4066,P1365,What took the place of Clinics in Occupational and Environmental Medicine?,1,,0.9196284636586624
+4079,P1365,What was [MASK] brought in to supplant?,1,,1.199341405272619
+4201,P1365,What was the earlier version of [MASK]?,1,,0.9133065073207682
+4175,P1365,What was the [MASK] an alternate for?,1,,0.9991168446554644
+4263,P1365,What was the replacement for what [MASK] instituted?,1,,0.8939993282507958
+4276,P1365,What were the consequences of the advancement of [MASK]?,1,,0.8538517639948578
+4275,P1365,What were [MASK] utilized to substitute?,1,0.7960224239173532,0.7960224239173527
+4274,P1365,What was there before [MASK] was established?,1,,1.241656307452483
+4273,P1365,What was the title of the journal that had previously been known as [MASK]?,1,,1.049010495666532
+4271,P1365,What was the thing the [MASK] replaced?,1,,1.0631423052610167
+4270,P1365,What was the thing that had taken the place of [MASK]?,1,0.9344795812033206,0.9344795812033176
+4268,P1365,What was the substitution made by [MASK]?,1,0.8829808130721793,0.8829808130721793
+4267,P1365,What was the substitution for [MASK]?,1,,1.0056527740269305
+4266,P1365,What was the substitute for what [MASK] was instituted?,1,,0.9040358165669892
+4264,P1365,What was the shift away from [MASK]?,1,,0.8995049854935919
+4262,P1365,What was the publication that [MASK] replaced?,1,,1.06459847821396
+4278,P1365,Which entity was displaced by [MASK]?,1,1.1265213474519453,1.0352047262894246
+4260,P1365,What was the prior title of the [MASK]?,1,,1.0146192005791372
+4259,P1365,What was the prior ruling power of the [MASK]?,1,,0.9054246876138967
+4258,P1365,What was the prior ruling power before the [MASK]?,1,,1.0460895120014744
+4257,P1365,What was the prior organization to [MASK]?,1,1.2726337961560488,1.035976491386001
+4256,P1365,What was the prior organization before [MASK]?,1,,0.8967033332212031
+4254,P1365,What was the prior incarnation of [MASK]?,1,0.895037720740628,0.9916754915695557
+4253,P1365,What was the prior group before [MASK]?,1,,0.9115019216230713
+4251,P1365,What was the prior governmental structure to the [MASK]?,1,,1.07652120545166
+4250,P1365,What was the prior form of government to the [MASK]?,1,,1.0570534061241317
+4249,P1365,What was the prior entity of [MASK]?,1,,0.8961546508051534
+4277,P1365,Which entity has been chosen to replace [MASK]?,1,,0.9464827971350759
+4280,P1365,Which journal had [MASK] taken over from?,1,,0.8882693169243029
+4178,P1365,What was the [MASK] exchanging?,1,,0.9107074624178587
+4299,P1365,Who or what did the [MASK] supersede?,1,,1.012389684617522
+4318,P1365,With what did [MASK] supplant?,1,,1.0421852762329804
+4316,P1365,Who was the former ruler of the [MASK]?,1,,0.8951368550846056
+4315,P1365,Who was the former governing body in the [MASK]?,1,,0.8877649689540394
+4313,P1365,Who was supplanted by [MASK]?,1,,1.0048434756946558
+4312,P1365,Who was superseded by the [MASK]?,1,,0.9931689263688944
+4310,P1365,Who was displaced by the [MASK]?,1,,0.9778800650534801
+4307,P1365,Who was [MASK] supplanting?,1,0.9241824079050537,1.012781775803276
+4305,P1365,Who or what was superseded by [MASK]?,1,,1.0400381732553432
+4301,P1365,Who or what did the [MASK] take the place of?,1,,1.0677637225170218
+4300,P1365,Who or what did the [MASK] supplant?,1,,1.0699887845977143
+4298,P1365,Who or what did the [MASK] replace?,1,,1.053277033143477
+4281,P1365,Which operating system did [MASK] take the place of?,1,,0.9890976291932584
+4297,P1365,Who or what did the [MASK] come to power in lieu of?,1,,0.904120625369414
+4295,P1365,Who or what did [MASK] substitute?,1,,0.9903554667423259
+4294,P1365,Who has [MASK] replaced?,1,,0.9224965016267169
+4291,P1365,Who did [MASK] supersede?,1,,0.8945468603561239
+4290,P1365,Which was taken over by [MASK]?,1,,0.8995502532925601
+4288,P1365,Which was replaced by [MASK]?,1,,0.9717799454829236
+4287,P1365,Which structure had [MASK] replaced?,1,,1.053906623931124
+4286,P1365,Which prior entity was replaced by the [MASK]?,1,,1.081036263085838
+4285,P1365,Which polity was supplanted by the [MASK]?,1,0.938510461105768,0.9385104611057666
+4282,P1365,Which operating system was [MASK] replacing?,1,,0.9869633157307692
+4248,P1365,What was the prior edition of [MASK]?,1,0.9075272606623281,0.9701663810776505
+4247,P1365,What was the prior city to [MASK]?,1,0.9561675857357598,0.9561675857357598
+4057,P1365,What swapped locations with [MASK]?,1,,1.073879487345041
+4195,P1365,What was the change from [MASK]?,1,,0.960399509783789
+4210,P1365,What was the former in [MASK]'s stead?,1,,1.0361492706855944
+4209,P1365,What was the former governmental body before [MASK]?,1,0.9903619477142356,0.9903619477142356
+4208,P1365,What was the former governing body that the [MASK] supplanted?,1,,0.999039533456963
+4207,P1365,What was the former entity prior to the [MASK]?,1,,0.9940621319750709
+4204,P1365,What was the former before [MASK]?,1,,1.090438873225028
+4202,P1365,What was the forerunner of [MASK]?,1,,0.8792037208772658
+4200,P1365,What was the earlier publication that [MASK] took the place of?,1,,1.0083212898378353
+4199,P1365,What was the earlier iteration of [MASK]?,1,0.9183347191529888,0.9183347191529859
+4198,P1365,What was the city that [MASK] superseded?,1,0.9478148655305774,0.9478148655305774
+4197,P1365,What was the city that [MASK] replaced?,1,1.0459622283648096,1.0459622283648096
+4194,P1365,What was the area of [MASK] before it was a city?,1,,1.0293483571280682
+4246,P1365,What was the prior body superseded by the [MASK]?,1,,0.9331034961867746
+4193,P1365,What was the antecedent of the [MASK]?,1,,1.0049906487016633
+4192,P1365,What was the alternative to what [MASK] brought about?,1,,0.907000601106387
+4191,P1365,What was the [MASK]'s previous ruling power?,1,,0.9046165906276825
+4190,P1365,What was the [MASK]'s preceding title?,1,,0.9945763786076287
+4189,P1365,What was the [MASK]'s earlier name?,1,,1.0176874232412703
+4188,P1365,What was the [MASK] switched to?,1,0.9309240127819017,1.1833969703769764
+4187,P1365,What was the [MASK] swapping out?,1,,0.8864327714597569
+4186,P1365,What was the [MASK] swapped for?,1,0.904494734559652,0.9044947345596513
+4180,P1365,What was the [MASK] meant to substitute?,1,,0.9965712244725226
+4179,P1365,What was the [MASK] instated to replace?,1,,0.880042259376892
+4211,P1365,What was the former occupant of [MASK]?,1,,0.8886964819344156
+4212,P1365,What was the former occupant of the spot occupied by [MASK]?,1,,0.8633351068413248
+4213,P1365,What was the former parish before Annedals?,1,,0.928468737971697
+4214,P1365,What was the former political power that was replaced by the [MASK]?,1,0.9967402267231007,0.9818164899029556
+4245,P1365,What was the prior administration of the [MASK]?,1,,0.8857539808071889
+4244,P1365,What was the previous thing [MASK] exchanged?,1,,0.8879933030799667
+4243,P1365,What was the previous publication that [MASK] took the place of?,1,0.8966650000408171,0.9922942425568683
+4242,P1365,What was the previous publication that [MASK] supplanted?,1,,1.0277123163037587
+4241,P1365,What was the previous name of [MASK]?,1,,1.0529709952849284
+4240,P1365,What was the previous journal before [MASK]?,1,,1.0115687175903316
+4239,P1365,What was the previous institution to [MASK]?,1,1.0770856834895752,0.9837225925228403
+4237,P1365,What was the previous governmental system that the [MASK] replaced?,1,1.411298924676558,1.0211867511244093
+4235,P1365,What was the previous entity before [MASK]?,1,,1.1243086350526903
+4234,P1365,What was the previous edition of [MASK]?,1,,0.8967563562042585
+4232,P1365,What was the preceding journal that [MASK] took the place of?,1,,1.0110599273659995
+4231,P1365,What was the pre-existing occupant of the space now occupied by [MASK]?,1,,0.8767229245624585
+4230,P1365,What was the pre-existing governing body that the [MASK] replaced?,1,,1.0348682960671953
+4229,P1365,What was the outcome of [MASK]?,1,,0.8975168683521834
+4228,P1365,What was the newer version of the [MASK]?,1,,1.0269302707299852
+4227,P1365,What was the new force used instead of the [MASK]?,1,0.9207893500009224,1.0007562924043545
+4225,P1365,What was the name of the area prior to [MASK]?,1,,0.8788601342742203
+4222,P1365,What was the journal that preceded [MASK]?,1,,0.9865936988231955
+4221,P1365,What was the journal that [MASK] superseded?,1,,0.9969269445801894
+4218,P1365,What was the formerly prevailing power in [MASK]?,1,,0.9145383964193879
+4217,P1365,What was the former version of [MASK]?,1,,1.0191709413194925
+4058,P1365,What switched places with [MASK]?,1,1.0084342481601485,1.0084342481601485
+3966,P1365,What has been put in [MASK]'s stead?,1,,0.9486385089234208
+4056,P1365,What supplanted the [MASK]?,1,1.602775546316718,0.9408075464719565
+3831,P1365,What did [MASK] turn out?,1,,1.348802277120065
+3849,P1365,What did the [MASK] substitute for something else?,1,,1.0503608374871947
+3848,P1365,What did the [MASK] replace as the governing power?,1,,0.8927841899785377
+3846,P1365,What did the [MASK] period supersede?,1,,0.9816831713146664
+3845,P1365,What did the [MASK] opt for instead?,1,,0.913321154674244
+3843,P1365,What did the [MASK] get switched out for?,1,,1.0124466953893123
+3842,P1365,What did the [MASK] get replaced by?,1,0.8845968270273894,0.8845968270273776
+3835,P1365,What did the [MASK] abandon?,1,,0.9022295001087802
+3834,P1365,What did the Pakistani Army take the place of?,1,,1.0944926301462887
+3833,P1365,What did the Pakistani Army exchange?,1,,0.8787341637645946
+3832,P1365,What did [MASK] upgrade to?,1,,0.8879839953861048
+3830,P1365,What did [MASK] transition to?,1,,1.0081142718947236
+4055,P1365,What supplanted Clinics in Occupational and Environmental Medicine?,1,,1.0161970113359937
+3829,P1365,What did [MASK] trade in for?,1,0.902095936023612,0.9020959360236113
+3828,P1365,What did [MASK] trade for something else?,1,0.8907080774788068,1.071186140469493
+3826,P1365,What did [MASK] take the place of instead?,1,,1.0479796358220013
+3825,P1365,What did [MASK] take the place of in power?,1,,0.9728517442339709
+3816,P1365,What did [MASK] supplant with something else?,1,,0.8915484657218614
+3814,P1365,What did [MASK] supplant in place of?,1,,0.8710696741185939
+3809,P1365,What did [MASK] supersede in its stead?,1,,1.075880705127179
+3808,P1365,What did [MASK] supersede in its place?,1,,0.9807548933329192
+3807,P1365,What did [MASK] supersede in its current state?,1,0.8952639273214358,1.0116286995312305
+3806,P1365,What did [MASK] subsume?,1,,1.064214255137259
+3851,P1365,What did the [MASK] supervene?,1,,0.8668122862403504
+3853,P1365,What did the [MASK] swap with?,1,,0.9315587020027153
+3860,P1365,What did the formation of [MASK] replace?,1,,1.0129124357065644
+3861,P1365,What did they switch out in [MASK]'s stead?,1,,1.0784630386034286
+3894,P1365,What had [MASK] taken up the mantle of?,1,0.8826740340201811,0.8826740340201807
+3893,P1365,What had [MASK] taken the location of?,1,0.8535415052736642,0.8535415052736642
+3892,P1365,What had [MASK] taken in place of?,1,,0.9067509197524329
+3891,P1365,What had [MASK] supplanted the place of?,1,,1.0723970035949455
+3890,P1365,What had [MASK] replaced the role of?,1,,0.9181779950452181
+3889,P1365,What had [MASK] relegated?,1,,0.9009945924683735
+3888,P1365,What had [MASK] put in the place of?,1,,0.9479746930587315
+3887,P1365,What had [MASK] formerly been known as?,1,,1.0046419146550543
+3884,P1365,What had [MASK] changed for something else?,1,,0.8962511942596848
+3881,P1365,What had [MASK] been changed to?,1,,1.0798636105959167
+3880,P1365,What governmental system had the [MASK] succeeded?,1,,0.8609206598188969
+3879,P1365,What governmental system did the [MASK] take the place of?,1,1.0777123287335968,1.0070208062535504
+3878,P1365,What governmental system did the [MASK] supplant?,1,,1.1231123157840994
+3877,P1365,What governmental system did the [MASK] follow?,1,,0.8760394214791887
+3876,P1365,What government was ousted by the [MASK]?,1,0.8696755739798516,0.8696755739798508
+3871,P1365,What governing body was displaced by the [MASK]?,1,,1.0020441368305413
+3870,P1365,What gave way to [MASK]?,1,,0.8515419797931308
+3868,P1365,What former currency was replaced by the [MASK]?,1,,0.9402833788631654
+3865,P1365,What entity did the [MASK] supersede?,1,,1.0089711514919202
+3863,P1365,What entity did [MASK] substitute for?,1,1.0479211115418612,1.0479211115418612
+3862,P1365,What does [MASK] have in its stead?,1,,0.9636808295900496
+3805,P1365,What did [MASK] substitution for?,1,,0.9223087300453249
+3802,P1365,What did [MASK] substitute instead of?,1,,1.0053659803067214
+3801,P1365,What did [MASK] substitute in lieu of?,1,0.9102623620442427,0.9102623620442349
+3767,P1365,What did [MASK] assume the role of?,1,,0.9795584256135152
+3765,P1365,What did [MASK] assume in lieu of?,1,0.8812613082374958,0.9564417909823892
+3764,P1365,What did [MASK] alter?,1,,0.9292094451989242
+3763,P1365,What did Ukrainian SSR supplant?,1,,1.1195224412838436
+3762,P1365,What did Ukrainian SSR supersede?,1,,1.143953697027607
+3761,P1365,What did Metroplitan City of Turin substitute?,1,0.9007757008208388,0.9007757008208346
+3755,P1365,What city did [MASK] replace?,1,1.0588716811769787,1.0588716811769787
+3754,P1365,What changed substituted [MASK]?,1,,0.9517225001518688
+3752,P1365,What came to take [MASK]'s spot?,1,,1.135621730128697
+3751,P1365,What came in lieu of [MASK]?,1,,1.0018204583139199
+3750,P1365,What came after [MASK]?,1,,1.0126703761329963
+3748,P1365,To which organization did [MASK] succeed?,1,0.9236040579770272,0.923604057977025
+3746,P1365,To what was [MASK] substituted?,1,,1.09346753644354
+3745,P1365,To what did [MASK] turn?,1,,0.9796136849626353
+3743,P1365,To what did [MASK] serve as a substitute?,1,,0.92122720766624
+3742,P1365,To what did [MASK] become the substitute?,1,,0.8945923396426512
+3741,P1365,In what publication did the [MASK] supersede?,1,,1.0012281132416496
+3740,P1365,In what instances has [MASK] been implemented instead?,1,,0.8684049719938909
+3739,P1365,In what did the [MASK] take the stead?,1,,0.9009765604510187
+3737,P1365,How was [MASK] substituted?,1,,0.8910578856496872
+3736,P1365,For which political movement was [MASK] substituted?,1,,0.8944871111164878
+3735,P1365,For what was the [MASK] an alternative?,1,,0.9008764243976259
+3766,P1365,What did [MASK] assume the position of?,1,,0.8687118673474796
+3768,P1365,What did [MASK] become?,1,,0.9269753033634313
+3799,P1365,What did [MASK] serve as a replacement for?,1,0.9101082771778346,1.022951057181895
+3770,P1365,What did [MASK] change from?,1,1.351453554323423,0.9975510067094748
+3798,P1365,What did [MASK] replace with something new?,1,,0.9065637987942551
+3797,P1365,What did [MASK] replace the rule of?,1,,1.0210655878769923
+3796,P1365,What did [MASK] replace the position of?,1,,0.9903445616561364
+3795,P1365,What did [MASK] replace the governance of?,1,,1.0281552234242994
+3790,P1365,What did [MASK] replace in stead of?,1,,0.9863411395468124
+3789,P1365,What did [MASK] replace in position?,1,1.0039300842866807,1.0039300842866807
+3788,P1365,What did [MASK] replace as?,1,0.8900233200697267,0.8900233200697243
+3787,P1365,What did [MASK] put in the stead of something else?,1,,1.1390253054144728
+3786,P1365,What did [MASK] put in place of?,1,,0.903423408638797
+3784,P1365,What did [MASK] put in lieu of?,1,0.9078284404634636,0.9078284404634636
+3783,P1365,What did [MASK] put in its stead?,1,,0.929113462417427
+3782,P1365,What did [MASK] overthrow?,1,,0.8553107997408657
+3781,P1365,What did [MASK] occupy the space of?,1,,0.9029448638463435
+3780,P1365,What did [MASK] get swapped out for?,1,,1.0954969373339638
+3779,P1365,What did [MASK] get replaced with?,1,,1.026918724881958
+3778,P1365,What did [MASK] convert to?,1,,0.9597096579346898
+3777,P1365,What did [MASK] come to occupy the spot of?,1,,0.9607785737703765
+3776,P1365,What did [MASK] come instead of?,1,,0.927302781103882
+3773,P1365,What did [MASK] change to something else?,1,,0.9367061848169888
+3772,P1365,What did [MASK] change out for something else?,1,0.9386087259682815,1.2420795865764678
+3771,P1365,What did [MASK] change in place of?,1,0.9829037128271126,1.0716704219566238
+3895,P1365,What had assumed the role previously held by the [MASK]?,1,,1.0571512657850126
+3896,P1365,What had been [MASK]'s predecessor?,1,,0.9251171544327871
+3899,P1365,What had been exchanged by [MASK]?,1,,0.901889633662604
+4026,P1365,What predecessor did [MASK] take the place of?,1,0.992516772736403,0.992516772736403
+4024,P1365,What pre-dated the [MASK]?,1,0.886692163835052,0.8866921638350513
+4023,P1365,What power did the [MASK] replace?,1,,0.9088650107080057
+4021,P1365,What political formation superseded [MASK]?,1,,1.0214747457994962
+4020,P1365,What place did [MASK] come to be in the place of?,1,,1.007677371320965
+4019,P1365,What periodical did [MASK] supersede?,1,,1.0108325797803976
+4018,P1365,What periodical did [MASK] succeed?,1,,1.0450324960079045
+4017,P1365,What periodical did [MASK] substitute?,1,,1.0182392406803868
+4016,P1365,What past governmental system did the [MASK] succeed?,1,,0.9089192454319993
+4015,P1365,What other entity did [MASK] take the place of?,1,,1.052951953741492
+4014,P1365,What organization preceded the [MASK]?,1,,0.9102587444618586
+4013,P1365,What organization did [MASK] replace?,1,,0.9081451581205139
+4012,P1365,What occurred when [MASK] took over?,1,,0.9396306515022272
+4011,P1365,What object or entity took the place of [MASK]?,1,,0.9690540047923192
+4010,P1365,What nation was replaced by the [MASK]?,1,1.0151517681151634,1.0151517681151634
+4009,P1365,What name did [MASK] substitute?,1,,1.059449063461496
+4008,P1365,What magazine was supplanted by [MASK]?,1,,0.9780855975808911
+4004,P1365,What language was [MASK] intended to replace?,1,,1.0639134030539716
+4002,P1365,What language has been superseded by [MASK]?,1,,1.0918615103178198
+3999,P1365,What language did the [MASK] take the place of?,1,,1.099930292341984
+3998,P1365,What language did the [MASK] supplant?,1,,1.0228982525162014
+3997,P1365,What language did [MASK] come to displace?,1,1.547164965533397,1.0009501273510768
+4025,P1365,What pre-existed [MASK]?,1,,0.8815636289035337
+4027,P1365,What previous journal was superseded by [MASK]?,1,,1.0715337081339336
+3992,P1365,What journal did [MASK] supersede?,1,,1.080519072443683
+4028,P1365,What previous name did [MASK] assume?,1,0.9253766719218368,1.0972765231709016
+4054,P1365,What substituted Clinics in Occupational and Environmental Medicine?,1,,0.9971603006954999
+4053,P1365,What stood in for [MASK]?,1,,0.9057738742180188
+4051,P1365,What publication was supplanted by [MASK]?,1,,1.0069423688384904
+4049,P1365,What publication was displaced by the [MASK]?,1,,1.010148307271442
+4046,P1365,What publication did the [MASK] supplant?,1,,1.0134550956027342
+4045,P1365,What publication did [MASK] take the place of?,1,,0.9997713387368783
+4044,P1365,What publication did [MASK] succeed?,1,,0.9838071804344978
+4043,P1365,What publication did [MASK] replace?,1,,0.9730845096091589
+4042,P1365,What publication did [MASK] displace?,1,0.9008292985435414,1.013642873060908
+4041,P1365,What program was supplanted by [MASK]?,1,,0.9637820588818443
+4040,P1365,What product did [MASK] take the place of?,1,,0.9520442769456003
+4039,P1365,What product did [MASK] substitute for?,1,,0.904939699018408
+4038,P1365,What prior settlement was replaced by [MASK]?,1,,1.0621156651622181
+4037,P1365,What prior publication was [MASK] intended to replace?,1,0.9114911680984543,1.029401045093457
+4036,P1365,What prior journal was replaced by [MASK]?,1,,1.064808813863619
+4035,P1365,What prior institution did [MASK] take the place of?,1,,1.0107542120398605
+4034,P1365,What prior government did the [MASK] displace?,1,,0.9668375232576313
+4032,P1365,What prior entity was replaced by [MASK]?,1,1.0098842537735437,1.0098842537735437
+4031,P1365,What prior entity did [MASK] supplant?,1,0.8821059252164037,0.882105925216395
+4030,P1365,What previous structure was replaced by [MASK]?,1,,1.0799596448781152
+4029,P1365,What previous name did [MASK] take over?,1,0.9339919259900666,1.1088154552376632
+3993,P1365,What journal did [MASK] supplant?,1,,1.0138891265106738
+3989,P1365,What journal did [MASK] replace?,1,,1.0063057052751967
+3901,P1365,What had been in existence before [MASK]?,1,0.9446944019016639,0.9446944019016639
+3946,P1365,What has [MASK] been replaced with?,1,,1.0958958013066478
+3943,P1365,What had the designation of [MASK] originally been?,1,,1.0058828164157037
+3942,P1365,What had the area where [MASK] is now been previously?,1,,0.9282872692190687
+3940,P1365,What had the [MASK] displace?,1,,0.9712314183766079
+3937,P1365,What had the [MASK] been in place of?,1,,1.0187383134112336
+3933,P1365,What had previously occupied the territory that became the [MASK]?,1,,0.9797833056681905
+3930,P1365,What had existed prior to [MASK]?,1,1.072962144576827,1.072962144576827
+3928,P1365,What had come before the [MASK]?,1,,0.9781996390070845
+3927,P1365,What had been usurped by [MASK]?,1,,0.9564663609306427
+3926,P1365,What had been the title before [MASK]?,1,,1.2020932172615204
+3923,P1365,What had been the name of the journal that [MASK] superseded?,1,,1.0419726252264316
+3922,P1365,What had been the name of the journal supplanted by [MASK]?,1,,1.0777687359614476
+3921,P1365,What had been the name of [MASK] before it changed?,1,,0.9880233621923047
+3918,P1365,What had been the antecedent of the [MASK]?,1,,0.9808294123162125
+3917,P1365,What had been switched with [MASK]?,1,0.9069706380626937,1.1414703626564886
+3915,P1365,What had been switched for [MASK]?,1,0.9074033016202036,0.9074033016202017
+3914,P1365,What had been supplanted in lieu of [MASK]?,1,,0.9528910601980428
+3911,P1365,What had been substituted in lieu of [MASK]?,1,,1.017783991210703
+3908,P1365,What had been replaced in lieu of [MASK]?,1,,0.9719949009156728
+3907,P1365,What had been put in the spot of the [MASK]?,1,,1.0438867542609809
+3905,P1365,What had been put in the position of the [MASK]?,1,,0.8800336442272813
+3903,P1365,What had been in use before [MASK]?,1,,1.162072474082097
+3944,P1365,What happened to the region that [MASK] took over?,1,,0.8796164105038077
+3952,P1365,What has [MASK] changed?,1,,0.9123269305715738
+3988,P1365,What is now standing in for Clinics in Occupational and Environmental Medicine?,1,,0.9072583991948228
+3953,P1365,What has [MASK] come in lieu of?,1,,0.8899035282373268
+3987,P1365,What is now being put in the place of Clinics in Occupational and Environmental Medicine?,1,,1.0212144451946161
+3986,P1365,What is currently occupying the space of Clinics in Occupational and Environmental Medicine?,1,,0.9186913811606273
+3984,P1365,What is [MASK] a substitute for?,1,,1.058508187800487
+3983,P1365,What institution was supplanted by [MASK]?,1,,1.0041447668348455
+3982,P1365,What institution did [MASK] supplant?,1,1.0146066010647636,1.0146066010647636
+3980,P1365,What have [MASK] replaced?,1,0.9456734343522658,1.0641424979690224
+3979,P1365,What has taken the place of Clinics in Occupational and Environmental Medicine?,1,,1.0405518074049394
+3977,P1365,What has superseded Clinics in Occupational and Environmental Medicine?,1,,1.0524562063110767
+3973,P1365,What has been utilized instead of [MASK]?,1,,0.9776734497691617
+3972,P1365,What has been utilized in place of [MASK]?,1,,1.0056708498187494
+3971,P1365,What has been utilized in lieu of [MASK]?,1,,0.9980358764866539
+3968,P1365,What has been substituted by [MASK]?,1,0.8682626528840849,0.8682626528840843
+3965,P1365,What has been brought in to replace [MASK]?,1,,1.064200136207603
+3964,P1365,What has been adopted to substitute [MASK]?,1,,0.926914239440139
+3963,P1365,What has been adopted instead of [MASK]?,1,,0.9888882816582901
+3962,P1365,What has been adopted in place of [MASK]?,1,,1.002780080346631
+3961,P1365,What has been adopted in lieu of [MASK]?,1,,1.0170363025140228
+3960,P1365,What has [MASK] taken the spot of?,1,,0.9477505734991277
+3959,P1365,What has [MASK] taken the role of?,1,,0.8441705035271403
+3958,P1365,What has [MASK] taken over?,1,0.8216357159467489,0.8216357159467369
+3954,P1365,What has [MASK] come to replace?,1,,0.9018983768330319
+4319,P1365,With which language did [MASK] replace?,1,,1.0952859418597232

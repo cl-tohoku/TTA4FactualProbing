@@ -1,0 +1,388 @@
+,p,template,fact_id,effect_gold,effect_top
+13186,P19,What location was the birthplace of [MASK]?,344,,1.051605968910703
+12943,P19,What is the city of origin for [MASK]?,200,,0.9315257183479444
+12770,P19,Where did [MASK] originate from?,176,,0.9975694505706845
+12769,P19,Where did [MASK] come into the world?,128,,0.9241189852051082
+12773,P19,In what location was [MASK] born?,79,0.94195148221756,1.0462689012887925
+12776,P19,What is the hometown of [MASK]?,76,,1.0000658279475945
+12780,P19,What was the place of [MASK]'s birth?,76,,1.061261678182566
+12774,P19,Where did [MASK] enter the world?,70,,0.9325553175407248
+12779,P19,What was [MASK]'s birthplace?,47,,1.0720729100950395
+12777,P19,What was the location of [MASK]'s birth?,37,,1.0728316606636024
+12781,P19,Where did [MASK] take his first breath?,33,,0.8709124562683552
+12787,P19,What city was [MASK] born in?,32,,1.0163137948223808
+12783,P19,What was the site of [MASK]'s birth?,30,,1.0404607458251403
+12795,P19,What was the starting point of [MASK]'s life?,29,,0.9145710264204543
+12789,P19,Where did [MASK] come from?,29,,1.0077069365201035
+12807,P19,What was the point of origin for [MASK]?,23,,0.9450743757993972
+12806,P19,What was the city of [MASK]'s birth?,23,,1.054704981495263
+12805,P19,What was [MASK]'s point of origin?,22,,0.9372600198790427
+12819,P19,What was the place of [MASK]'s origin?,22,,1.0430917763055654
+12788,P19,Where did [MASK]'s life begin?,22,,0.9649618150931151
+12786,P19,In which location was [MASK] born?,19,1.6061998806838387,1.0438892787608054
+12785,P19,In what location did [MASK] originate?,19,1.0320060569610092,1.0358561220145375
+12796,P19,Where did [MASK] first see the light of day?,17,,0.9029362394134153
+12797,P19,What city did [MASK] originate from?,17,,0.9984475665733614
+12790,P19,In what place did [MASK] originate?,16,,1.0198113119534853
+12791,P19,In what place was [MASK] born?,16,1.041815314266711,1.1000319003560957
+12800,P19,In which city was [MASK] born?,15,,1.0620268939519857
+12801,P19,In which place was [MASK] born?,15,,1.0430006430619807
+12793,P19,In what location did [MASK] come into the world?,15,,0.9735455274963809
+12816,P19,In what area was [MASK] born?,15,,1.035053073072297
+12798,P19,Where did [MASK] have his beginnings?,14,,0.9553368818353066
+12830,P19,Where did [MASK] draw his first breath?,14,,0.8627383645814622
+12802,P19,What is the native land of [MASK]?,14,,0.9352449266893865
+12799,P19,From what place did [MASK] originate?,13,,1.0054318804446754
+12809,P19,Where did [MASK] hail from?,12,0.9349816609213116,0.9824570304451532
+12812,P19,In what location was [MASK] brought into the world?,11,,0.9486623479396858
+12897,P19,Where did [MASK] start his life?,11,,0.950153900948149
+12810,P19,What was the starting point for [MASK]?,11,,0.9284243675705504
+12803,P19,From where was [MASK] born?,11,1.3231365720306956,1.0547499429260019
+12842,P19,Where was [MASK]'s origin?,11,,1.0060025974905038
+12823,P19,In what city did [MASK] originate?,10,,1.0081600441246523
+12837,P19,What is the place of birth of [MASK]?,10,,1.0521446556404093
+12829,P19,Where did [MASK] come into existence?,10,,0.878893509930575
+12878,P19,From where did [MASK] emerge?,9,,0.9065477067516459
+12820,P19,What was the place of birth for [MASK]?,9,,1.0169975173619268
+12815,P19,From which place did [MASK] originate?,8,,0.9964743267123346
+12834,P19,What country was [MASK] born in?,8,,0.9672070289991411
+12857,P19,What city was [MASK] from?,8,,0.9842729412138359
+12825,P19,What is the native city of [MASK]?,8,,1.0525664567682977
+12822,P19,From what location did [MASK] originate?,7,0.9233674831787695,1.0088285338683982
+12862,P19,What was the home of [MASK]'s birth?,7,,1.0977234900433537
+12855,P19,What city did [MASK] come from?,7,,1.0326643006790854
+12873,P19,Where was [MASK]'s birth?,7,,1.0606522625580754
+12821,P19,Can you tell me where [MASK] was born?,7,1.055409279485338,1.0194877721013358
+12831,P19,From which city did [MASK] originate?,7,,1.0570730430045667
+12824,P19,In which location did [MASK] originate?,7,1.1145785565571547,1.0423526252275852
+12844,P19,From which location did [MASK] originate?,7,,1.085705108741022
+12841,P19,Where was [MASK] brought into the world?,7,,0.8827008345024471
+12827,P19,Where did [MASK] begin his life?,7,0.9021952676657771,0.9633455870886635
+12832,P19,In which place did [MASK] originate?,6,,0.9591081111384968
+12843,P19,From what area did [MASK] originate?,6,,0.9285273458150045
+12867,P19,What was the site of [MASK]'s origin?,6,,1.0673219568233467
+12856,P19,What city saw the birth of [MASK]?,6,,1.0448723567071028
+12886,P19,What is the country of [MASK]'s birth?,6,,0.9995810544194339
+12866,P19,What was the place of origin for [MASK]?,6,,0.9703133563687905
+12833,P19,What city did [MASK] hail from?,6,1.4872284107369955,1.0037444782418634
+12914,P19,From which place did [MASK] come from?,6,,0.9421882911447912
+12875,P19,Where was the birthplace of [MASK]?,5,,1.0887378418224283
+12900,P19,Where was [MASK] born into this world?,5,,1.0046422106492578
+12885,P19,What is [MASK]'s place of origin?,5,,0.9847863865514567
+12887,P19,What is the home country of [MASK]?,5,,0.9537439688415933
+12874,P19,Where was [MASK]'s birthplace?,5,,1.053429551209459
+12869,P19,Where did [MASK] come into being?,5,,0.9128988947654312
+12849,P19,What is [MASK]'s place of birth?,5,0.8977662704366173,1.0181189347064021
+12851,P19,Where was [MASK] brought into existence?,5,0.8916825416495264,0.9038762897205516
+12848,P19,What country did [MASK] originate from?,5,,0.9747257064266431
+12845,P19,In what place did [MASK] come into the world?,5,,1.0277425722487814
+12852,P19,From what location was [MASK] born?,5,,1.0296390068896497
+12858,P19,What is the birth city of [MASK]?,5,,1.045886238956238
+12872,P19,Where did the life of [MASK] begin?,4,0.875460885299419,0.9213071195893916
+12889,P19,What is the provenance of [MASK]?,4,,0.9090422577057575
+12922,P19,In what locality was [MASK] born?,4,,1.0072864392135885
+12903,P19,Where was [MASK]'s beginning?,4,,0.9328191793068694
+12902,P19,Where was [MASK] initiated into life?,4,,0.8861650678788441
+12945,P19,What is the origin of [MASK]'s life?,4,,0.8897059523965691
+12853,P19,In what city did [MASK] come into the world?,4,,0.99164425952459
+12919,P19,In what city did [MASK] enter the world?,4,,0.9554597141211969
+12868,P19,What was the spot of [MASK]'s birth?,4,,0.9508394081933242
+12859,P19,What is the birthplace of [MASK]'s birth?,4,0.8734250907941469,1.0860320892400424
+12883,P19,What country is [MASK] from?,4,,0.9878995753481623
+12865,P19,What was the place of [MASK]'s nativity?,4,,0.8652318592133167
+12863,P19,What was the origin of [MASK]'s birth?,4,,0.9218712932414069
+12854,P19,In what location did [MASK] enter the world?,4,,0.9835165160370227
+12951,P19,What was [MASK]'s hometown?,3,,1.0055977412575186
+13033,P19,In what city did [MASK] first see the light of day?,3,,1.0541338342442839
+12924,P19,In what location did [MASK] take his first breath?,3,,0.9667100514709466
+12925,P19,In what place did [MASK] enter the world?,3,,0.9540086348367575
+12962,P19,What was the place of [MASK]'s beginning?,3,,0.9135461451761994
+12940,P19,What is the birth nation of [MASK]?,3,,1.0095461091193123
+12937,P19,What is [MASK]'s home of origin?,3,,1.0079044496680984
+12942,P19,What is the birth site of [MASK]?,3,,1.0820129175287234
+13328,P19,Where first saw the light of day [MASK]?,3,,0.9493745429807059
+12955,P19,What was the beginning of [MASK]'s life?,3,,0.8946160744013333
+12954,P19,What was the beginning location of [MASK]?,3,,1.0279269733873864
+13215,P19,What was [MASK]' country of birth?,3,,1.0627906513009175
+12950,P19,What region was [MASK] born in?,3,,1.1099669280032252
+12923,P19,In what location did [MASK] have his origin?,3,,1.0414400285533487
+12973,P19,Where was [MASK] from originally?,3,,0.9660085964080807
+12879,P19,In what part of the world was [MASK] born?,3,0.9663909339693701,0.9808581459675775
+12899,P19,Where did the birth of [MASK] take place?,3,,1.0023068965077027
+12893,P19,What was the site of [MASK]'s nativity?,3,,0.8552055412865905
+12909,P19,From what place did [MASK] emerge?,3,,0.936329166811956
+12910,P19,From what town did [MASK] originate?,3,,0.962196942873106
+12884,P19,What is [MASK]'s hometown?,3,,1.0292250458557406
+12881,P19,In which location did [MASK] enter the world?,3,0.9242614727975682,0.9232105164348519
+12901,P19,Where was [MASK] delivered?,3,0.8912488625901297,0.9139691690876125
+12880,P19,In what place was [MASK] brought into the world?,3,0.9160202198134689,0.9171430748314631
+12904,P19,Where was [MASK]'s first breath taken?,3,,0.8800671602953095
+13009,P19,From which area did [MASK] come into being?,2,,0.9500381036954668
+12993,P19,From what location was [MASK] originally from?,2,,1.0151104083833031
+12989,P19,From what area did [MASK] emerge?,2,,0.9170520004774307
+12982,P19,Can you tell me the origin of [MASK]' birth?,2,,0.9171143414024335
+13019,P19,From which location did [MASK] emerge into the world?,2,,1.1006969979946908
+12978,P19,Where was the beginning of [MASK]?,2,,0.8809239447449759
+12977,P19,Where was the artist [MASK] born?,2,,1.0229450032753453
+12975,P19,Where was [MASK]'s nativity?,2,,0.8765610592425983
+13317,P19,Where did [MASK] take his first step?,2,,0.8906489426818613
+13132,P19,What is [MASK]'s country of origin?,2,,1.0067660516346302
+12974,P19,Where was [MASK] given life?,2,,0.8597963523404565
+13161,P19,What is the native home of [MASK]?,2,,0.9794133245660576
+13314,P19,Where did [MASK] start his journey?,2,,0.9709577243278669
+13303,P19,Where did [MASK] have his origin?,2,,0.9814005555292507
+13185,P19,What location was [MASK]'s point of birth?,2,,0.9675204225337931
+13052,P19,In what nation was [MASK] born?,2,,1.07543151771136
+13061,P19,In what town did [MASK] enter the world?,2,,0.9738849751465699
+13064,P19,In what town did [MASK] originate?,2,,1.0882842823304402
+13069,P19,In which city did [MASK] enter the world?,2,,0.9660607011431741
+13082,P19,In which place did [MASK] begin his life?,2,,1.0823064642922695
+13242,P19,What was the cradle of [MASK]'s birth?,2,,0.9942189016958695
+13232,P19,What was the birth area of [MASK]?,2,,0.9879741113178111
+13231,P19,What was the beginnings of [MASK]?,2,,0.9743906115166303
+13138,P19,What is the area of [MASK]'s birth?,2,,0.9543666190513045
+13134,P19,What is [MASK]'s origin city?,2,,0.9376392788004639
+13162,P19,What is the native town of [MASK]?,2,,0.9006955482178423
+12965,P19,Where did [MASK] enter life?,2,,0.8838116623495708
+12972,P19,Where was [MASK] first seen?,2,,0.8918564920425212
+12916,P19,From which place was [MASK] born?,2,,1.0809801045545149
+12964,P19,Where did [MASK] commence his life?,2,,0.9188553295886183
+12958,P19,What was the location of [MASK]'s origin?,2,1.0787879639440667,1.112928920463074
+12918,P19,In what area did [MASK] enter the world?,2,,0.9890597422850035
+12949,P19,What is the starting point of [MASK]?,2,0.9000335325111899,0.9185582125430289
+12939,P19,What is the birth location of [MASK]?,2,,0.9425411659652709
+12921,P19,In what locale was [MASK] born?,2,,1.0909146663302236
+12936,P19,What is [MASK]'s birth city?,2,,0.9560860498812441
+12935,P19,What country saw the birth of [MASK]?,2,,1.0085236760424898
+12934,P19,What country did [MASK] come from?,2,,0.9529393298483357
+12926,P19,In what spot was [MASK] born?,2,,0.9402471166081177
+12927,P19,In which city did [MASK] originate?,2,,1.0188310142651051
+12928,P19,In which city or town did [MASK] come into the world?,2,0.9527317308205112,1.0212237174331902
+12933,P19,What city saw [MASK]'s birth?,2,1.2193984075756374,1.0575621384768104
+12929,P19,In which country was [MASK] born?,2,,1.0338049883613472
+12932,P19,What area saw the emergence of [MASK]?,2,,1.0282986007897148
+12970,P19,Where did [MASK]'s birth take place?,2,,1.0267288503704453
+12931,P19,In which town was [MASK] born?,2,0.9263812485983046,0.9791773340951664
+12917,P19,From which region did [MASK] originate?,2,0.9136007124768759,0.9948562110780201
+12953,P19,What was the area where [MASK] was born?,2,0.9169283415490365,0.9892947348127661
+12911,P19,From which city did [MASK] hail?,2,,1.1006771481262152
+12913,P19,From which location was [MASK] born?,2,,1.1473769031998509
+12968,P19,Where did [MASK] make his entrance into the world?,2,0.9009019851697047,0.8907967718974452
+12967,P19,Where did [MASK] first take a breath?,2,,0.8856019725874071
+12907,P19,Can you tell me the birthplace of [MASK]?,2,0.9115660706774507,0.960884936852031
+12908,P19,Can you tell me the hometown of [MASK]?,2,,0.9752399940103377
+12966,P19,Where did [MASK] first appear?,2,,0.9975769441883411
+12930,P19,In which place did [MASK] enter the world?,2,,0.9027136629275064
+13190,P19,What place did [MASK] begin his life?,1,,1.0980850219222482
+13189,P19,What place can be credited as [MASK]'s origin?,1,0.9263281757850604,1.0712055785573582
+13237,P19,What was the city of birth for [MASK]?,1,1.1658010164054529,1.1658010164054529
+13181,P19,What location is [MASK] from?,1,,1.040906140950508
+13243,P19,What was the first place [MASK] saw the light of day?,1,,0.8519023098224883
+13244,P19,What was the genesis of [MASK]?,1,,0.8943791765730651
+13198,P19,What place saw the arrival of [MASK]?,1,,0.9345204897732301
+13246,P19,What was the geographic site of the birth of [MASK]?,1,0.9104759664871646,0.9858259344944134
+13247,P19,What was the geographical area of [MASK]'s birth?,1,,0.9615647771871604
+13248,P19,What was the home town of [MASK]?,1,,0.9664479483599593
+13249,P19,What was the homeland of [MASK]?,1,,1.236805354050076
+13180,P19,What location did [MASK] emerge?,1,,1.0677531595903673
+13250,P19,What was the initial spot of [MASK]?,1,,0.8793877880487097
+13179,P19,What location did [MASK] come from?,1,,1.0916279688034567
+13177,P19,What locality did [MASK] hail from?,1,0.9068658449771159,1.1135702460503163
+13252,P19,What was the locality of [MASK]'s origin?,1,0.9425285768483987,1.096322104576425
+13195,P19,What place did [MASK] take her first breath?,1,,0.8541405786999229
+13253,P19,What was the location of [MASK]'s introduction to the world?,1,,1.1365252249390738
+13254,P19,What was the location of [MASK]'s nativity?,1,,0.92096873601333
+13255,P19,What was the natal area of [MASK]?,1,,1.145087396779709
+13256,P19,What was the natal home of [MASK]?,1,,1.012501808394984
+13182,P19,What location saw the birth of [MASK]?,1,,1.0430626330774364
+13199,P19,What place saw the birth of [MASK]?,1,0.9185618550086926,1.1169408498234985
+13230,P19,What was the beginning point of [MASK]?,1,,0.9228914771358327
+13209,P19,What site was [MASK] born at?,1,,0.8168888740034486
+13202,P19,What place was [MASK] given life?,1,,0.8671099281548162
+13204,P19,What place was the birthplace of [MASK]?,1,0.8889507904589944,0.8889507904589944
+13205,P19,What region did [MASK] come from?,1,1.0858241582347854,1.0858241582347854
+13206,P19,What region did [MASK] hail from?,1,,1.0945128614324782
+13207,P19,What region did [MASK] originate from?,1,,0.9364438018365328
+13257,P19,What was the natal site of [MASK]?,1,0.8846631758379981,0.9029716030325775
+13208,P19,What region saw the birth of [MASK]?,1,,0.9602004777932501
+13188,P19,What place brought [MASK] into existence?,1,,1.054769180446948
+13187,P19,What nation did [MASK] hail from?,1,,1.152453666568279
+13227,P19,What was the area of origin for [MASK]?,1,,0.9336109615823583
+13213,P19,What town was [MASK] born in?,1,,1.0323960877662122
+13191,P19,What place did [MASK] call home at birth?,1,,1.2009500164283753
+13220,P19,What was [MASK]'s city of origin?,1,,1.1383775392309587
+13200,P19,What place was [MASK] birthed in?,1,,1.1073285774879837
+13223,P19,What was [MASK]'s start in life?,1,,0.8700230805400899
+13225,P19,What was the area in which [MASK] made his entrance into the world?,1,,0.8267856735709547
+13197,P19,What place saw [MASK]'s first breath?,1,,0.8932028819119169
+13194,P19,What place did [MASK] start life?,1,,1.0824946374255882
+13196,P19,What place of birth did [MASK] have?,1,,0.9135661487153902
+13268,P19,What was the place where [MASK] was born?,1,,1.2187006809694387
+13261,P19,What was the origin of [MASK]'s existence?,1,,0.8863968503408979
+13263,P19,What was the original home of [MASK]?,1,1.0099266053571319,0.9640840047226531
+13326,P19,Where did the story of [MASK] begin?,1,,0.9148079132621563
+13327,P19,Where does [MASK] come from?,1,,0.8906104350169423
+13329,P19,Where in the world did [MASK] originate?,1,,1.1474942619960178
+13330,P19,Where is [MASK] from?,1,,1.0970027251351064
+13331,P19,Where is [MASK]'s point of origin?,1,,0.8790105234815716
+13333,P19,Where is the origin of [MASK]?,1,,0.9333447615898612
+13336,P19,Where was [MASK] brought into this life?,1,,0.9931881722705662
+13337,P19,Where was [MASK] conceived?,1,,0.9195302065751366
+13338,P19,Where was [MASK] delivered into existence?,1,,0.9029495444037418
+13339,P19,Where was [MASK] first born?,1,,0.9897525181468074
+13340,P19,Where was [MASK] initially from?,1,,0.9916828345679236
+13342,P19,Where was [MASK] introduced to the world?,1,,0.8553434553434954
+13344,P19,Where was [MASK] presented to the world?,1,,0.907379880277965
+13346,P19,Where was [MASK]'s natal location?,1,,1.1152839786764197
+13175,P19,What land did [MASK] originate from?,1,,0.9496507624720736
+13350,P19,Where was the first breath of [MASK] taken?,1,,0.8724287688040369
+13351,P19,Where was the first place [MASK] called home?,1,,1.0103003864337723
+13352,P19,Where was the painter [MASK] from?,1,,1.0779256707277713
+13353,P19,Which city did [MASK] first see?,1,,0.9343446663955275
+13355,P19,Which city was [MASK] from?,1,1.0072555242679213,1.0072555242679213
+13356,P19,Which city was the birthplace of [MASK]?,1,,1.2247752062420263
+13357,P19,Which place saw the birth of [MASK]?,1,0.9558222776100681,0.9676098092691691
+13358,P19,Who can tell us where [MASK] was born?,1,,0.8679797590051899
+13359,P19,Who knows the place of birth of [MASK]?,1,,0.9000755831778833
+13360,P19,[MASK]'s place of birth: where?,1,,0.8990606914221204
+13325,P19,Where did the journey of [MASK] begin?,1,,0.9034621099085013
+13323,P19,Where did [MASK]'s life start?,1,,0.9628796960837265
+13322,P19,Where did [MASK]'s journey begin?,1,0.9479541541348797,0.9479541541348789
+13285,P19,Whence did [MASK] hail?,1,,0.8852360439643033
+13264,P19,What was the origination point for [MASK]?,1,,0.8911883459802917
+13266,P19,What was the place of [MASK]'s arrival on Earth?,1,,0.850078619193773
+13267,P19,What was the place of [MASK]'s delivery?,1,,0.8823438495411201
+13271,P19,What was the region of [MASK]'s beginning?,1,,0.9788766815121628
+13274,P19,What was the source of [MASK]?,1,,0.8773162883495487
+13275,P19,What was the spot where [MASK] first appeared?,1,,0.8342457034073718
+13276,P19,What was the spot where [MASK] took his first breath?,1,,0.8972833074503164
+13277,P19,What was the start of [MASK]’s journey?,1,,0.9168186745614494
+13278,P19,What was the starting city for [MASK]?,1,,0.9319325762604497
+13280,P19,What was the starting point of [MASK]'s existence?,1,,0.8895564498914277
+13281,P19,What was the town of [MASK]'s birth?,1,,1.0938674941586763
+13287,P19,Where came into the world [MASK]?,1,0.9061964066645009,0.9061964066644961
+13321,P19,Where did [MASK]'s first moments occur?,1,,1.0508641930671665
+13288,P19,Where did [MASK] arrive on the scene?,1,,0.9798814194441117
+13291,P19,Where did [MASK] come to life?,1,,0.8685380555338045
+13293,P19,Where did [MASK] enter into existence?,1,,0.8648237463819056
+13295,P19,Where did [MASK] experience his first breath?,1,,0.8724104085692828
+13298,P19,Where did [MASK] first emerge?,1,,0.8969530035025065
+13299,P19,Where did [MASK] get her start in life?,1,,0.9195592098536506
+13305,P19,Where did [MASK] have his start?,1,,0.8765069472186021
+13308,P19,Where did [MASK] kick off his life?,1,0.964984363536883,0.9649843635368798
+13309,P19,Where did [MASK] make his debut?,1,,0.885460825648922
+13316,P19,Where did [MASK] start out?,1,,0.8989675032788946
+13320,P19,Where did [MASK]'s first breaths take place?,1,,0.8675819917675546
+13176,P19,What locality did [MASK] come from?,1,,1.0313053091260294
+13034,P19,In what city did [MASK] have his birth?,1,,1.1855892264355385
+13173,P19,What is the source of [MASK]'s origin?,1,,0.9021715858265248
+13038,P19,In what city was [MASK] brought into being?,1,,0.9045283395167557
+13018,P19,From which location did [MASK] come into the world?,1,,0.9533930533247689
+13021,P19,From which place did [MASK] arise?,1,,1.0302236228785737
+13024,P19,From which place did [MASK] emerge?,1,,0.9092703258207601
+13025,P19,From which place did [MASK] first enter the world?,1,,0.9710616915393414
+13026,P19,From which point did [MASK] start life?,1,,0.8900254707673627
+13027,P19,From which spot did [MASK] emerge?,1,,0.88968509241377
+13028,P19,From which town did [MASK] hail?,1,,1.0688568371905165
+13029,P19,From which town was [MASK] born?,1,1.0422906371322822,1.0422906371322822
+13030,P19,In what area did [MASK] arrive into the world?,1,,0.927205348062359
+13031,P19,In what area did [MASK] originate?,1,,0.9246281767985016
+13032,P19,In what area was [MASK] first seen?,1,,0.8965596192298941
+13039,P19,In what country did [MASK] enter the world?,1,,1.191043479104612
+13016,P19,From which locale did [MASK] come into the world?,1,,1.0123243137505555
+13040,P19,In what country did [MASK] originate?,1,,0.9363187720862737
+13043,P19,In what location did [MASK] hail from?,1,,1.0652222457870082
+13044,P19,In what location did [MASK] have his beginning?,1,,1.209660098736099
+13047,P19,In what location was [MASK] birthed?,1,,1.0156259506437344
+13050,P19,In what location was [MASK] welcomed into the world?,1,,0.9005307967256581
+13051,P19,In what location was [MASK]'s birth?,1,,1.0556266966844408
+13053,P19,In what place did [MASK] arrive into existence?,1,,1.1124373384346018
+13055,P19,In what place did [MASK] take his first breath?,1,,0.8778923812693833
+13056,P19,In what place did [MASK]'s life begin?,1,,1.158117697822413
+13057,P19,In what place was [MASK] born into the world?,1,,1.0206081293097329
+13059,P19,In what spot did [MASK] come into the world?,1,0.9125122204277032,0.9125122204277006
+13017,P19,From which locale did [MASK] hail?,1,,1.1181873999681446
+13015,P19,From which country did [MASK] originate?,1,,0.9088494865968845
+13062,P19,In what town did [MASK] first come into the world?,1,,1.0019583926819646
+12995,P19,From what place did [MASK] arise?,1,,0.9050601502968072
+12979,P19,At which place was [MASK] born?,1,,1.184376770373443
+12980,P19,Can you name the place of [MASK]'s birth?,1,,0.8907922066845406
+12981,P19,Can you tell me the location of [MASK]'s birth?,1,,0.9747246276365754
+12984,P19,Can you tell me the place of birth of [MASK]?,1,,1.0669390357384998
+12985,P19,Can you tell me where [MASK] originated from?,1,,1.0033357173791149
+12986,P19,Could you share the location of [MASK]'s birth?,1,,0.9151578823102419
+12987,P19,Could you tell me where [MASK] was born?,1,,1.0698208805141407
+12988,P19,Could you tell me where [MASK] was from originally?,1,,0.932712873157439
+12991,P19,From what city or town did [MASK] originally hail?,1,,1.0701109061430265
+12992,P19,From what locality did [MASK] originate?,1,,1.0584091401861044
+12994,P19,From what part of the world did [MASK] originate?,1,,0.9484075998615681
+12996,P19,From what place did [MASK] come into being?,1,,0.9401710187225382
+13013,P19,From which city is [MASK] originally from?,1,0.9209150559329223,0.9748503576744085
+12997,P19,From what place did [MASK] come into existence?,1,,0.8635043339200028
+12998,P19,From what place did [MASK] come into the world?,1,,0.9967673658439062
+12999,P19,From what place did [MASK] hail?,1,,0.8906626589316591
+13000,P19,From what place was [MASK] born?,1,,0.8881114070826256
+13001,P19,From what region was [MASK] born?,1,,1.070435308780859
+13002,P19,From what spot did [MASK] enter the world?,1,,0.9219756161066925
+13003,P19,From what spot did [MASK] originate?,1,,1.0099749884574865
+13004,P19,From what spot was [MASK] born?,1,,0.8730111977303042
+13007,P19,From where was [MASK] birthed?,1,,0.88799961740652
+13011,P19,From which area did [MASK] hail?,1,,1.0306288707418605
+13012,P19,From which area did [MASK] originate?,1,,1.0042143046242933
+13060,P19,In what spot was [MASK] delivered?,1,,0.8758773819262285
+13063,P19,In what town did [MASK] have his beginnings?,1,,0.9130927680498562
+13172,P19,What is the source of [MASK]'s birth?,1,,0.8856456927205335
+13142,P19,What is the birthplace of [MASK]'s life?,1,,0.8864500021241042
+13109,P19,What city hosted the birth of [MASK]?,1,,1.0959673615907886
+13114,P19,What city or country was [MASK]'s birthplace?,1,,1.1933691548672347
+13116,P19,What city or town housed [MASK]'s birth?,1,,0.9373134388055122
+13121,P19,What country did [MASK] come into the world?,1,,0.9134982330112179
+13122,P19,What country did [MASK] hail from?,1,,0.9539081798426692
+13124,P19,What country or region gave birth to [MASK]?,1,,0.9492536670008451
+13133,P19,What is [MASK]'s native location?,1,,1.020375473715517
+13135,P19,What is [MASK]'s origin of birth?,1,,0.9566479876760206
+13136,P19,What is [MASK]'s origin point?,1,,0.8528268141051871
+13139,P19,What is the birth town of [MASK]?,1,,1.1169291505165635
+13141,P19,What is the birthplace of [MASK]'s arrival?,1,,1.1944987008216517
+13147,P19,What is the city where [MASK] was born?,1,,1.0039727758524015
+13104,P19,What city did [MASK] come into existence?,1,,1.3979967733021015
+13149,P19,What is the country of [MASK]'s birthplace?,1,,0.9679385307365842
+13150,P19,What is the country of origin for [MASK]?,1,,0.9647764053884821
+13151,P19,What is the home city of [MASK]?,1,,1.02526955848166
+13154,P19,What is the land of [MASK]'s birth?,1,,0.9289158805020136
+13155,P19,What is the locality of [MASK]'s birth?,1,,0.8930818441298881
+13157,P19,What is the location of [MASK]'s birthplace?,1,,1.0639055919579872
+13158,P19,What is the natal place of [MASK]?,1,,1.1109075302353495
+13163,P19,What is the origin location of [MASK]?,1,,0.8876616616093966
+13164,P19,What is the origin of [MASK]' birth?,1,,0.9386276731015206
+13165,P19,What is the origin of [MASK]'s birthplace?,1,0.9363808639301303,0.9363808639301298
+13166,P19,What is the origin point of [MASK]?,1,,0.8564089623481401
+13105,P19,What city did [MASK] emerge from?,1,,1.0112071353156113
+13102,P19,What city did [MASK] call home?,1,,0.9315298957144542
+13065,P19,In which area did [MASK] originate?,1,,0.9717698536079383
+13085,P19,In which place did [MASK] enter life?,1,,1.1493429402041382
+13066,P19,In which area was [MASK] born?,1,,1.1300266777894548
+13067,P19,In which city did [MASK] come into being?,1,,0.9715642977686162
+13068,P19,In which city did [MASK] come into existence?,1,,1.0639920510658516
+13073,P19,In which city was [MASK] birthed?,1,,1.046001081685756
+13074,P19,In which country did [MASK] originate?,1,,1.0834447319572253
+13075,P19,In which country did [MASK] start her life?,1,,1.0404835077632102
+13076,P19,In which geographic area did [MASK] come into the world?,1,0.9273417514631506,0.9273417514631016
+13077,P19,In which locality was [MASK] born?,1,,1.0227771382147293
+13079,P19,In which location did [MASK] emerge?,1,,1.0525590145735966
+13081,P19,In which location was [MASK] delivered?,1,,1.031509341706875
+13084,P19,In which place did [MASK] come into existence?,1,,0.8820506150273254
+13086,P19,In which place did [MASK] make his debut into the world?,1,,0.9050584060188182
+13101,P19,What brought [MASK] into this world?,1,0.940683456165599,0.9406834561655968
+13087,P19,In which place was [MASK]'s birth?,1,,1.0276110670796859
+13089,P19,Name the place where [MASK] was born.,1,,1.0581131439132625
+13090,P19,Name the spot where [MASK] was born.,1,,1.0051978311897762
+13091,P19,Of what area was [MASK] a native?,1,,0.9688332589929367
+13092,P19,Of what city or town was [MASK] a native?,1,,0.901973901335987
+13093,P19,Out of what city was [MASK] born?,1,,1.0220478900754886
+13094,P19,What area did [MASK] come from?,1,,0.8697410174593756
+13096,P19,What area did [MASK] first enter the world?,1,,1.2424275027674094
+13097,P19,What area saw [MASK]’s first breath?,1,,0.8489145555113939
+13098,P19,What area was [MASK] from originally?,1,,0.9544092740885589
+13099,P19,What area was [MASK] ushered into the world?,1,,0.9254038550710261
+13361,P19,[MASK]'s starting point in life - where was it?,1,0.8889703896075198,0.8889703896075177

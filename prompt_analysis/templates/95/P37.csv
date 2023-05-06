@@ -1,0 +1,823 @@
+,p,template,fact_id,effect_gold,effect_top
+17264,P37,What is the language formally recognized in [MASK]?,194,,1.0059076246220622
+16869,P37,What is the formal language spoken in [MASK]?,89,,0.9956987086704582
+17437,P37,What is the language that is officially used in the [MASK]?,75,,1.0073963815651419
+17575,P37,What is the officially recognized language in [MASK]?,39,,1.0062701480718994
+17005,P37,What is the language that is accepted in [MASK]?,38,,1.014139782517683
+17308,P37,What is the language of [MASK]'s official documents?,36,,1.0206968240272463
+16810,P37,What is the official tongue of [MASK]?,31,1.0370625720764413,1.0145882657141267
+17815,P37,What language is designated as the lingua franca of [MASK]?,26,,1.0215987213204922
+18037,P37,What language is the primary one used in [MASK]?,25,,1.016931021472096
+17741,P37,What language is accepted as official in the [MASK]?,22,,1.0219332118396807
+17988,P37,What language is the language of the state in [MASK]?,21,,0.9848420310888848
+17912,P37,What language is recognized in [MASK] as the official one?,21,,1.0208102734516518
+17153,P37,What is the accepted form of language in [MASK]?,21,,1.0160730214579803
+17567,P37,What is the officially accepted language in the [MASK]?,20,,1.0207928857535702
+17932,P37,What language is spoken by the people of the [MASK]?,19,,0.9989565871407221
+17944,P37,What language is spoken in the government of [MASK]?,19,,1.0021662288944773
+16846,P37,What is the predominant language in [MASK]?,18,0.9889342252615916,0.9943238367218298
+17182,P37,What is the authorized spoken language in [MASK]?,18,,1.0153405117216914
+17105,P37,"In [MASK], what is the language of choice for official communication?",17,,0.9973946631669516
+17798,P37,What language is considered the primary language of [MASK]?,17,,1.0064041714098457
+16824,P37,What is the approved language of [MASK]?,17,,1.0076092346250005
+17367,P37,What is the language recognized by [MASK]'s government?,16,,0.973138137563524
+17792,P37,What language is commonly used in the country of [MASK]?,16,,0.9845488895432715
+17858,P37,What language is legally sanctioned in [MASK]?,16,,0.9999719494994165
+16828,P37,What language is used for official purposes in [MASK]?,16,,1.0136582055530852
+16821,P37,What is the standard language of [MASK]?,15,,0.9886112684330769
+16844,P37,What is the authorized language of the [MASK]?,15,,1.0143119454775866
+17423,P37,What is the language that is designated as official in [MASK]?,14,,1.0193502452740149
+16825,P37,What is the formal language of [MASK]?,14,,0.9710223544732663
+17770,P37,What language is acknowledged as the standard in [MASK]?,14,,1.0159539264151713
+17527,P37,What is the national language of the [MASK]?,13,,1.012854871954224
+17578,P37,What is the officially spoken language in [MASK]?,13,,0.9981854076942336
+17786,P37,What language is chosen as the official one in [MASK]?,12,,1.037021932269867
+18218,P37,What was the favored language of the [MASK]?,12,,1.0048854545467942
+16832,P37,What is the language of authority in [MASK]?,12,,0.9761884887376496
+16859,P37,What is the official tongue spoken in [MASK]?,12,,1.018819696941049
+16839,P37,What is the lingua franca of [MASK]?,12,1.5723934080721664,0.9372051668655564
+17825,P37,What language is employed as the standard in [MASK]?,11,,1.0039297988444233
+16871,P37,What is the language sanctioned by [MASK]?,11,,1.0091658307600126
+17306,P37,What is the language of [MASK] which is recognized officially?,11,,1.0091980347883804
+17478,P37,What is the language used by [MASK]'s citizens?,11,,0.9930038626802783
+16957,P37,What tongue is recognized as the official language of [MASK]?,10,1.0112370690342798,0.9953063791014627
+17398,P37,What is the language spoken on an official level in [MASK]?,10,,1.015348116491832
+16864,P37,What language is used as the official language in [MASK]?,10,,1.0276939415090358
+16830,P37,What is the native language of [MASK]?,10,1.0052041231955593,0.9826279893867585
+16855,P37,What is the endorsed language of [MASK]?,10,,1.0105772453991875
+16887,P37,What language is the law of [MASK]?,10,,0.9391274705179871
+17595,P37,What is the primary language utilized in [MASK]?,9,,1.001112803481076
+16829,P37,What is the main language of [MASK]?,9,1.0497843034683993,1.0068659146610912
+16836,P37,What is the language of choice in [MASK]?,9,0.9939282119600578,0.9936696253591202
+18313,P37,Which language is used as the official speech in [MASK]?,9,,1.0319944299764887
+16895,P37,What is [MASK]'s official language?,9,,1.0300359458111386
+17718,P37,What language does the government of the [MASK] recognize as its official language?,9,,1.002388074306751
+17900,P37,What language is recognized as the primary verbal communication in [MASK]?,9,,1.0254086510631721
+18087,P37,What language is used in the nation of [MASK]?,9,,0.9855811819333158
+16955,P37,What language was spoken in the [MASK]?,8,1.0035053973603143,1.0002227608133412
+17754,P37,What language is accepted by the [MASK] administration?,8,,1.0187048114899513
+16930,P37,What language do the people of [MASK] use?,8,,0.9682696403010285
+16929,P37,What language do people use in [MASK]?,8,,0.9773274482719507
+17810,P37,What language is declared by the authorities of [MASK]?,8,,1.01289732309814
+16917,P37,What is the official dialect of [MASK]?,8,0.9472974815773527,0.9640548024859825
+18023,P37,What language is the one declared as official in [MASK]?,8,,1.0051513804563914
+16988,P37,What is the language of [MASK] that is recognized by the government?,7,0.973817007507483,0.9944508187974803
+16898,P37,What is the authoritative language in [MASK]?,7,,0.9645215620515242
+16873,P37,What is the main language used in [MASK]?,7,0.9773875393922989,1.0246994353299534
+16900,P37,What is the designated language used in [MASK]?,7,,1.0278903495130847
+16980,P37,What is the language adopted by [MASK]?,7,,0.9583456393101543
+16861,P37,What is the prescribed language of [MASK]?,7,1.010534770187501,1.0059196802880757
+16941,P37,What language is most commonly spoken in [MASK]?,7,,1.0358575361710556
+16923,P37,What is the official verbal communication of [MASK]?,7,0.8393322047426165,0.8274652571078516
+16921,P37,What is the official speech of [MASK]?,7,,0.8560054465066064
+16854,P37,What language is typically used in [MASK]?,7,,0.9899861733717719
+17006,P37,What is the language that is given official recognition in [MASK]?,7,,1.0120851200723533
+16878,P37,What is the sanctioned tongue of [MASK]?,6,1.0199543138912557,1.0371344391035986
+17145,P37,What is spoken as the primary language in [MASK]?,6,,1.0378110168664705
+16879,P37,What language is legally recognized in [MASK]?,6,,1.0126922718081157
+17225,P37,What is the language accepted as the official language of [MASK]?,6,,1.0232172545420537
+16984,P37,What is the language designated as the official language of [MASK]?,6,,1.0198146595094932
+17011,P37,What is the language that is spoken in [MASK]?,6,,0.9631636462395448
+16952,P37,What language is used for official communication in [MASK]?,6,,1.0174442099697665
+16911,P37,What is the language that is acknowledged in [MASK]?,6,1.0043624229569907,1.0019100228354316
+16931,P37,What language does [MASK] officially recognize?,6,0.9601969655114478,0.9765955044833593
+17330,P37,What is the language of the city of [MASK]?,6,,1.0024496374536174
+16934,P37,What language is acknowledged as the official language of [MASK]?,6,,1.0352644696655322
+16935,P37,What language is considered official in [MASK]?,6,,1.0015626790177996
+16987,P37,What is the language endorsed by the [MASK]?,6,0.9256469223727491,0.9602845484645526
+17057,P37,What language is formally used in [MASK]?,6,1.0352079997651635,1.016021815416541
+16901,P37,What is the established language of [MASK]?,6,,1.0269740675619035
+16959,P37,Which language is accepted as the official language of [MASK]?,6,,1.0125604492220868
+17164,P37,What is the acknowledged language of [MASK]?,6,,1.022300198102786
+16985,P37,What is the language employed by the [MASK]?,6,,0.9566642404148457
+16866,P37,What is the accepted language for [MASK]?,5,0.9654828988988878,1.0515030323096455
+17074,P37,What language is the law in [MASK]?,5,,1.0097165263978993
+17093,P37,What tongue is accepted in [MASK]?,5,,0.9744705877948778
+16881,P37,What language is officially sanctioned by [MASK]?,5,1.073557936226469,0.9921981779895754
+17055,P37,What language is endorsed in [MASK]?,5,0.9320815136083276,0.9926458621360545
+16867,P37,What is the authoritative language of the [MASK]?,5,,1.0051526745876136
+16870,P37,What is the language of [MASK]'s government?,5,1.013572216872206,0.9597846984928445
+16868,P37,What is the dominant language of [MASK]?,5,0.9862461339483601,1.0279549210961936
+16888,P37,What language is the norm in [MASK]?,5,1.008325248905461,1.02969156137536
+16940,P37,What language is given official status in [MASK]?,5,,1.0230659532777615
+16956,P37,What tongue is officially used in [MASK]?,5,0.983485357984317,0.9841214067108457
+17301,P37,What is the language of [MASK] that is recognized as official?,5,,1.0126064042246292
+16977,P37,What is the designated language spoken in [MASK]?,5,,1.0051432297737726
+16896,P37,What is spoken in [MASK]?,5,1.0021013563699432,1.012840326496184
+17801,P37,What language is considered to be the language of [MASK]?,5,,0.9898855983092968
+17052,P37,What language is declared as the official language of [MASK]?,5,,1.0345949439489752
+17056,P37,What language is formally accepted in the [MASK]?,4,0.9942519217285554,1.0403495577619855
+17283,P37,What is the language of [MASK] citizens?,4,,0.9659214349533325
+16912,P37,What is the language that is officially sanctioned in [MASK]?,4,0.9841716854557252,0.9935270756433529
+16916,P37,What is the legal language of [MASK]?,4,1.0347017442284914,1.0254612353677846
+17336,P37,What is the language of the municipality of [MASK]?,4,,0.9998064046403954
+16953,P37,What language is used in official documents in [MASK]?,4,1.0021998044134035,0.9844535625703115
+17002,P37,What is the language spoken by the majority in [MASK]?,4,1.0253127139469234,1.0253127139469234
+17015,P37,What is the main language spoken in the [MASK]?,4,1.0111154189803497,0.99354360469533
+16874,P37,What is the official form of communication in [MASK]?,4,0.8486427150473397,0.8535482293102596
+17029,P37,What is the primary tongue spoken in [MASK]?,4,,0.9890836814352864
+17240,P37,What is the language approved by [MASK]?,4,0.9359228620087682,0.9598937648225926
+17035,P37,What language do the citizens of [MASK] use?,4,,0.9690726360134558
+17089,P37,What language is utilized by the government of [MASK]?,4,,0.9920711283861627
+17477,P37,What is the language used as the primary form of communication in [MASK]?,4,,0.991802663582388
+17088,P37,What language is used to conduct official business in [MASK]?,4,,0.9993471996004659
+17078,P37,What language is the official verbal communication in [MASK]?,4,0.9590080997467778,0.9859322637842107
+17160,P37,What is the accepted speech of [MASK]?,3,,0.8961394902583297
+17232,P37,What is the language accepted by the government of the [MASK]?,3,,0.9783803544117061
+17204,P37,What is the designated tongue of [MASK]?,3,,0.9968567058953214
+17447,P37,What is the language that is sanctioned by the state of [MASK]?,3,1.0438853735364788,1.0078075004505334
+17272,P37,What is the language in [MASK] that is officially declared?,3,0.9761858518498691,1.0419144540024723
+17358,P37,What is the language primarily used in [MASK]?,3,1.291705774648028,1.0047546118862565
+17185,P37,What is the common language in [MASK]?,3,,1.0077569991224598
+17369,P37,What is the language recognized by the government in [MASK]?,3,,0.9586274090313154
+17404,P37,What is the language that [MASK] officially uses?,3,0.9562569634593087,0.9882251698593666
+17421,P37,What is the language that is allowed to be used in [MASK]?,3,,1.01456156379652
+18285,P37,Which language is officially used in [MASK]?,3,0.9927532379305367,1.0208400330027398
+17193,P37,What is the designated language for official business in [MASK]?,3,,1.0582395928027237
+17547,P37,What is the official language of the [MASK] area?,3,,1.044978863314985
+17095,P37,What tongue is utilized in [MASK]?,3,1.000641574140445,0.9781412802017554
+17051,P37,What language is customary in [MASK]?,3,0.9448335579212207,0.9313497185011963
+16973,P37,What is the authorized tongue of [MASK]?,3,1.0015225237498957,1.0528298096931024
+17030,P37,What is the principal language of [MASK]?,3,,1.0187189630394533
+17019,P37,What is the official idiom of [MASK]?,3,0.864941454163468,0.9378196700715957
+17058,P37,What language is generally accepted in [MASK]?,3,,0.9961897431021294
+17097,P37,What was the official tongue of the [MASK]?,3,0.9753512185268288,0.9753512185268288
+17779,P37,What language is authorized as official in [MASK]?,3,,1.018000726056417
+17103,P37,"During the rule of the [MASK], what language was used?",3,1.0289305078646436,1.0289305078646436
+17017,P37,What is the native language spoken in [MASK]?,3,0.9301182552601291,1.0072863669219319
+17118,P37,"In [MASK], which language is sanctioned?",3,,1.013408238651291
+16991,P37,What is the language of record in [MASK]?,3,0.9362935628388245,0.9618513262005886
+17021,P37,What is the official lingo of [MASK]?,3,0.8437502478211704,0.8977411087511079
+16899,P37,What is the customary language of [MASK]?,3,0.8751526287247305,0.9420796487322397
+16968,P37,What is the authorised language of [MASK]?,3,,1.0390396541182456
+17038,P37,What language does [MASK] have as its official language?,3,,0.9976702267266792
+16933,P37,What language does the [MASK] use?,3,1.0014854762594079,1.0014854762594079
+16939,P37,What language is generally used in [MASK]?,3,1.0053644379601725,1.0190548784736455
+17040,P37,What language has been designated as the language of [MASK]?,3,1.0134011524094488,0.9817739586525249
+17039,P37,What language does [MASK] use officially?,3,,0.9882352538116694
+16961,P37,What dialect is officially recognized in [MASK]?,3,0.836123981013762,0.8843072541667558
+16964,P37,What is the accepted form of communication in [MASK]?,3,,0.9621180701308095
+16967,P37,What is the approved tongue of [MASK]?,3,0.9733163861668009,0.9530847066818245
+17028,P37,What is the primary tongue of [MASK]?,3,0.9239893086102793,0.9563738677567182
+17460,P37,What is the language that is used for legal documents in [MASK]?,2,,1.0312514402655393
+17874,P37,What language is officially utilized by the [MASK]?,2,0.9940254696089805,0.9940254696089805
+17875,P37,What language is officially utilized in [MASK]?,2,,0.9378814741072707
+17455,P37,What is the language that is the most widely used in [MASK]?,2,1.1174804499749609,1.0079365903997362
+17443,P37,What is the language that is recognized in the [MASK]?,2,0.9900313899156998,0.9900313899156998
+17431,P37,What is the language that is legally used in [MASK]?,2,,1.0137702489147007
+17425,P37,What is the language that is employed as the official language in [MASK]?,2,0.9965670259734363,0.9965670259734363
+17446,P37,What is the language that is sanctioned by the government in [MASK]?,2,1.0476895227334904,1.003120642589416
+17408,P37,What is the language that has been adopted as the official language of the [MASK]?,2,,1.0050479231728415
+17420,P37,What is the language that is acknowledged as the official language in the [MASK]?,2,1.0230626193030223,1.0230626193030223
+17415,P37,What is the language that has legal status in [MASK]?,2,,1.0039982508164593
+17414,P37,What is the language that has been set as the standard in [MASK]?,2,1.0254940205511178,1.0254940205511178
+17413,P37,What is the language that has been sanctioned by the government of [MASK]?,2,0.9605329880172648,0.9973219514967502
+17411,P37,What is the language that has been established as the official dialect in [MASK]?,2,0.9448832742961449,0.9791182842039781
+17405,P37,What is the language that [MASK] recognizes as its official language?,2,,1.0153650250879818
+17400,P37,What is the language spoken primarily in [MASK]?,2,,1.039711231262093
+17399,P37,What is the language spoken predominantly in [MASK]?,2,,1.0272650000808703
+18182,P37,What tongue is employed in [MASK]?,2,,1.0124345211461834
+17365,P37,What is the language recognized as the primary language of [MASK]?,2,1.0239911807048687,1.0239911807048687
+17838,P37,What language is established in [MASK]?,2,0.9578338358291032,1.0073986545304847
+18206,P37,What tongue was official in the [MASK]?,2,,1.0150629996260534
+18209,P37,What tongue was used officially by the [MASK]?,2,,0.998867067126819
+17347,P37,What is the language officially approved in [MASK]?,2,,0.9958922860157655
+17482,P37,What is the language used for official government business in [MASK]?,2,,1.0364017235205036
+17657,P37,What language did the [MASK] choose as its official language?,2,1.01208516532732,1.01208516532732
+17488,P37,What is the language used in official proceedings in [MASK]?,2,0.9613569737358323,1.0148740471418538
+17608,P37,What is the recognized speech of [MASK]?,2,0.972137946544557,1.0741225922950037
+17928,P37,What language is spoken by [MASK]?,2,1.001771550133638,0.9909461198504548
+17576,P37,What is the officially sanctioned language of [MASK]?,2,,1.090900118228625
+17719,P37,What language has [MASK] declared as official?,2,,1.0333102499844422
+17941,P37,What language is spoken in [MASK] in an official capacity?,2,,1.0195307103322204
+17585,P37,What is the preferred language in [MASK]?,2,,1.0462940498137638
+17589,P37,What is the prevalent language spoken in [MASK]?,2,0.9912783855718038,0.9912783855718038
+17710,P37,What language does [MASK] utilize?,2,,0.9798117766340216
+17602,P37,What is the proper language of [MASK]?,2,,1.0572015689811731
+17975,P37,What language is the customary means of communication in [MASK]?,2,,1.0085684628759222
+18033,P37,What language is the primary mode of communication in [MASK]?,2,0.9489790089689704,1.0025425040578733
+17612,P37,What is the regulated language of [MASK]?,2,,0.9717380516800418
+17680,P37,What language do people of [MASK] use to communicate officially?,2,,1.1225255612390352
+17615,P37,What is the sanctioned language for [MASK]?,2,0.9492598545335618,1.0051053024049141
+18060,P37,What language is used by [MASK]?,2,,0.9971171245278793
+18052,P37,What language is used as a standard in [MASK]?,2,0.9391558567827034,0.9391558567827034
+18041,P37,What language is the recognized form of communication in [MASK]?,2,,1.0347511308759707
+17677,P37,What language do people in [MASK] speak?,2,,1.0199838539498132
+17660,P37,What language did the [MASK] primarily use?,2,0.9885312516539373,0.9885312516539373
+17922,P37,What language is set as the official language of [MASK]?,2,1.007128608066914,1.007128608066914
+18095,P37,What language is used to communicate in [MASK]?,2,1.003627912510995,1.003627912510995
+17564,P37,What is the official vernacular of the [MASK]?,2,,0.849874852151602
+17556,P37,What is the official mode of communication in [MASK]?,2,,0.9557013745241365
+17492,P37,What is the language used in the administration of [MASK]?,2,,0.9951311300563614
+18121,P37,What language was employed by the [MASK]?,2,1.0338825434304002,1.0033004670796355
+18120,P37,What language was employed as the formal language in the [MASK]?,2,,1.0063555413483916
+17502,P37,What is the language which is used in [MASK]?,2,,0.9942017536561426
+17504,P37,What is the language with official status in [MASK]?,2,1.025871950229218,1.010383965208832
+18118,P37,What language was designated as the formal language of [MASK]?,2,1.0142247102631337,1.0142247102631337
+17510,P37,What is the legitimate language of [MASK]?,2,,1.000369576793049
+18117,P37,What language was declared the official language of the [MASK]?,2,0.9957824490220393,0.9957824490220393
+17530,P37,What is the native tongue of [MASK]?,2,0.9744920027783339,0.9744920027783339
+18110,P37,What language was adopted by the [MASK]?,2,0.8821511426344221,0.9662946131814099
+17762,P37,What language is accepted in [MASK] for official business?,2,,1.023793055405812
+17535,P37,What is the official communication medium of [MASK]?,2,0.9659787877015213,0.986481880354905
+17539,P37,What is the official idiom in [MASK]?,2,,0.9653371472014074
+18107,P37,What language was accepted as the official language of the [MASK]?,2,0.9596564615183467,1.0058438450652933
+17743,P37,What language is accepted as the formal language in [MASK]?,2,,1.0108714915702992
+17324,P37,What is the language of the [MASK] population?,2,,0.957270153801788
+18101,P37,What language is utilized as the official tongue of [MASK]?,2,1.0295715338963642,1.0295715338963642
+17675,P37,What language do inhabitants of [MASK] use?,2,,0.9341263404189997
+17386,P37,What is the language spoken by the authorities in [MASK]?,2,0.965573020636129,1.0162024610134341
+17321,P37,What is the language of the [MASK] officially recognized as?,2,,0.9723524058683113
+17120,P37,In what language are official documents written in [MASK]?,2,,1.030199986740898
+17155,P37,What is the accepted language for official purposes in [MASK]?,2,,1.0366903239709155
+17157,P37,What is the accepted language used in the [MASK]?,2,,0.9983124483784611
+18298,P37,Which language is the authorized language in the [MASK]?,2,1.0007575085910736,1.0007575085910736
+18296,P37,Which language is the accepted standard in [MASK]?,2,,0.9997338326873126
+17168,P37,What is the approved language used in [MASK]?,2,,0.935989029288075
+17175,P37,What is the authoritative tongue of [MASK]?,2,,0.984148243205222
+17179,P37,What is the authorized form of communication in [MASK]?,2,,0.930441884030836
+18284,P37,Which language is officially supported by the [MASK]?,2,,1.0545792398385423
+18282,P37,Which language is officially recognized in [MASK]?,2,,1.0141811181594083
+18278,P37,Which language is endorsed in [MASK]?,2,0.9457324010441361,1.0172584045154052
+18272,P37,Which language is authorized by [MASK]?,2,1.2961029044839323,1.022684855516329
+18257,P37,Which is the sanctioned language of [MASK]?,2,0.9756798321347115,1.0210564573554837
+18255,P37,Which is the authoritative language of [MASK]?,2,,0.9276044528532081
+17263,P37,What is the language established as the official language of the [MASK]?,2,,0.9975578178675826
+17269,P37,What is the language held in high regard in the [MASK]?,2,1.0223759687573541,1.0223759687573541
+17278,P37,What is the language legally mandated in [MASK]?,2,,1.0374901734859516
+17287,P37,What is the language of [MASK] identified as?,2,0.950070373058804,0.950070373058804
+17129,P37,What dialect is spoken in the city of [MASK]?,2,0.8749335123090509,0.8749335123090485
+17115,P37,"In [MASK], which language is accepted as official?",2,1.0210254738016675,1.0210254738016675
+17293,P37,What is the language of [MASK] that has been declared official?,2,,0.9903368351517375
+17092,P37,What speech is used in [MASK]?,2,,0.9357597423142957
+16963,P37,What is [MASK]'s native language?,2,1.0435014331224008,1.0382083702077418
+16974,P37,What is the common language of [MASK]?,2,1.0175357610816052,0.9496566824331092
+16989,P37,What is the language of choice for [MASK]?,2,0.939979161183135,0.988232017869066
+16992,P37,What is the language of the [MASK] region?,2,1.0728820223750284,1.0272799905327652
+16994,P37,What is the language of the land in [MASK]?,2,0.9735394937184165,0.9735394937184165
+17013,P37,What is the linguistic norm of [MASK]?,2,,0.9263295099427589
+17016,P37,What is the mother tongue of [MASK]?,2,0.9983007389395285,0.990823008204583
+17033,P37,What language did the [MASK] declare as its official language?,2,0.9681773386231697,1.016336275957636
+17037,P37,What language do they speak in [MASK]?,2,1.0052982384356977,0.9524014119283172
+17041,P37,What language holds official status in [MASK]?,2,1.0250685479598483,1.0250685479598483
+17047,P37,What language is approved for use in [MASK]?,2,0.9868001155429225,0.9670882864331606
+17048,P37,What language is authorized by [MASK]?,2,0.9546127587366428,0.9989248726927813
+17059,P37,What language is mainly spoken in [MASK]?,2,0.9740425298142514,1.0233920764977182
+17061,P37,What language is most widely spoken in [MASK]?,2,0.9781600522085686,1.0250452638054801
+17062,P37,What language is native to [MASK]?,2,0.975037140515912,0.9850463569176697
+17070,P37,What language is supported by the government of [MASK]?,2,0.9492108237553183,0.9978074855614281
+17082,P37,What language is typically spoken in [MASK]?,2,0.9898505634777954,1.0529492026907445
+17292,P37,What is the language of [MASK] that has been chosen as the official one?,2,,1.0431147561984073
+17845,P37,What language is given legal status in [MASK]?,2,0.958195010753571,1.0097082547019047
+17305,P37,What is the language of [MASK] that is used?,2,,0.9895832202272077
+17317,P37,What is the language of governmental proceedings in [MASK]?,2,,0.9931675138757089
+17310,P37,What is the language of choice for official documents in [MASK]?,2,0.9500641360096951,0.9500641360096929
+17295,P37,What is the language of [MASK] that has been officially chosen?,2,,1.0502047494867603
+18232,P37,What was the language of the [MASK]'s official documents?,1,0.9174320364505248,1.0144765191965412
+17952,P37,What language is the [MASK] known to use?,1,0.891176238146578,0.9890030955066728
+18317,P37,Which language was spoken in the [MASK]?,1,1.0241046541094876,1.0241046541094876
+17974,P37,What language is the country of [MASK]'s language of choice?,1,0.9869109162907724,1.0282321828357892
+17972,P37,What language is the common form of communication in [MASK]?,1,1.0366743883552885,1.0366743883552885
+17967,P37,What language is the accepted verbal communication in [MASK]?,1,1.0138840897004617,1.0138840897004617
+17962,P37,What language is the accepted mode of expression in [MASK]?,1,,0.9251448720588733
+17961,P37,What language is the accepted mode of communication in [MASK]?,1,,1.0531391466596676
+17956,P37,What language is the [MASK] recognized as using officially?,1,1.0064144895555405,1.0064144895555405
+17955,P37,What language is the [MASK] officially declaring as its language?,1,1.0362474743801455,1.0362474743801455
+17954,P37,What language is the [MASK] making use of as its official language?,1,1.005621412838585,1.005621412838585
+17953,P37,What language is the [MASK] known to utilize as its official language?,1,1.0052833894454303,1.0052833894454303
+17951,P37,What language is the [MASK] government utilizing officially?,1,1.01214783195719,1.01214783195719
+18314,P37,Which language is used by the citizens of [MASK]?,1,0.8792922639554964,0.8792922639554958
+17950,P37,What language is the Government of [MASK] obligated to use?,1,,0.9766021863158629
+17949,P37,What language is suggested for use in [MASK]?,1,1.0246143463184352,1.0246143463184352
+17948,P37,What language is standardly used in the [MASK] region?,1,0.9971446635060494,0.9971446635060494
+18318,P37,Which language was the primary one in the [MASK]?,1,1.0507453828496172,1.0507453828496172
+17946,P37,What language is spoken predominately in [MASK]?,1,1.0366267689385833,1.0366267689385833
+17945,P37,What language is spoken in the kingdom of [MASK]?,1,,1.0075505640234546
+18319,P37,Which language was traditionally the language of the [MASK]?,1,1.0724753449535973,0.9883870222113368
+17943,P37,What language is spoken in the [MASK] as a matter of official policy?,1,0.9253400184900271,0.9253400184900271
+18320,P37,Which language was used by the [MASK]?,1,1.0210685747980033,1.0210685747980033
+18321,P37,Which language was used for official documents in the [MASK]?,1,1.0062966589101345,1.0062966589101345
+18322,P37,Which speech is the state language of [MASK]?,1,,1.035527806353481
+17939,P37,What language is spoken in [MASK] by the government?,1,0.979077831790296,0.9772654661587918
+17938,P37,What language is spoken in [MASK] by official decree?,1,0.9488948302447735,0.9560426719693464
+17935,P37,What language is spoken in [MASK] as the primary means of communication?,1,1.0216570572755919,1.0216570572755919
+18316,P37,Which language is utilized officially in [MASK]?,1,1.0150652214923013,1.0150652214923013
+17976,P37,What language is the de facto choice in [MASK]?,1,1.0453574573109095,1.0453574573109095
+17933,P37,What language is spoken in Serbia's Principality?,1,1.0147594185964008,1.0147594185964008
+18015,P37,What language is the official one for [MASK]?,1,,1.0673368108796453
+18038,P37,What language is the primary speech in [MASK]?,1,1.0143855936312671,1.0143855936312671
+18303,P37,Which language is the most widely used in [MASK]?,1,1.034160820479599,1.034160820479599
+18036,P37,What language is the primary one spoken in [MASK]?,1,0.9988299174532425,0.9988299174532425
+18035,P37,What language is the primary mode of expression in [MASK]?,1,0.9953353198422742,0.9953353198422742
+18305,P37,Which language is the officially declared language of [MASK]?,1,0.9989469560497278,0.9989469560497278
+18028,P37,What language is the primary form of communication used in government of [MASK]?,1,,1.0199571945537813
+18026,P37,What language is the primary communication medium in the [MASK]?,1,1.0165603793291371,1.0165603793291371
+18024,P37,What language is the one legally used in [MASK]?,1,0.8907647431979929,0.8907647431979933
+18307,P37,Which language is the regulation of [MASK]?,1,0.996600336987432,1.037081899088691
+18020,P37,What language is the officially accepted language of the [MASK]?,1,0.9944361413828667,0.9944361413828667
+18308,P37,Which language is the standard authority in [MASK]?,1,1.0190056921912576,1.0190056921912576
+18018,P37,What language is the official verbal expression in [MASK]?,1,,1.0248856800376382
+18016,P37,What language is the official one in [MASK] by law?,1,1.0186832609543908,1.0186832609543908
+18309,P37,Which language is the standard for the [MASK]?,1,1.006973537415303,0.9811159536697227
+17977,P37,What language is the de facto language of [MASK]?,1,0.9929372732084341,0.9929372732084341
+18013,P37,What language is the official language of the town of [MASK]?,1,1.0864094728618754,1.0864094728618754
+18006,P37,What language is the official communication medium in [MASK]?,1,1.0038171942753025,1.030172127453114
+18311,P37,Which language is the standard of communication in [MASK]?,1,1.0153079540641048,1.0373235721677612
+18001,P37,What language is the most widely accepted in [MASK]?,1,,0.9921265132234854
+18000,P37,What language is the most commonly used language in [MASK]?,1,,0.9265974441907756
+17998,P37,What language is the main mode of communication in [MASK]?,1,,1.067014977300759
+17994,P37,What language is the legal tongue in [MASK]?,1,,1.0302013525540055
+17992,P37,What language is the law-making body of [MASK] using?,1,1.004771929075188,1.004771929075188
+18312,P37,Which language is used as the official language of [MASK]?,1,0.994576173038809,0.994576173038809
+17986,P37,What language is the government of [MASK] primarily conducted in?,1,0.955370788928694,1.0770134245808034
+17985,P37,What language is the government of [MASK] designated as the formal language?,1,1.0667743845732542,0.9358492813134175
+17984,P37,What language is the governing body of the [MASK] officially recognizing?,1,0.9576685746440068,0.9576685746440068
+17978,P37,What language is the de facto official language in [MASK]?,1,0.9342956104061457,1.095915163973728
+17934,P37,What language is spoken in [MASK] as a matter of public record?,1,1.0123893231246428,1.0123893231246428
+18194,P37,What tongue is the authenticated language in [MASK]?,1,0.9991166081005654,0.9991166081005654
+18044,P37,What language is the standard for communication in [MASK]?,1,0.9743721127641599,0.9743721127641599
+17865,P37,What language is normally spoken in the [MASK]?,1,1.011117584390036,1.011117584390036
+18226,P37,What was the language of communication for [MASK]?,1,1.0034822102229968,1.0034822102229968
+17881,P37,What language is primarily used in [MASK] for official business?,1,,1.0174342541623926
+17878,P37,What language is predominantly used in [MASK]?,1,,1.0291608933558312
+17877,P37,What language is predominantly used by the [MASK]?,1,0.9851548845450959,0.9851548845450959
+18211,P37,What verbal communication is officially endorsed in [MASK]?,1,0.9471042659274379,0.9471042659274379
+18212,P37,What verbal communication is recognised in the [MASK]?,1,,0.871734254209244
+17871,P37,What language is officially recognized in Serbia?,1,0.9949250964110169,0.9949250964110169
+17868,P37,What language is officially declared as the language of [MASK]?,1,,0.9891272879335875
+18213,P37,What verbal expression is the [MASK]'s authoritative language?,1,,0.8801519698149429
+17867,P37,What language is officially adopted by [MASK]?,1,0.9970450164952592,0.9970450164952592
+18215,P37,What was the designated language of the Slovak State for the period of 1939-1945?,1,1.0197459275271221,1.0197459275271221
+17866,P37,What language is officially acknowledged in [MASK]?,1,1.0051600931206486,1.0051600931206486
+18217,P37,What was the designated language of the former [MASK]?,1,0.9193323683066733,1.0145326212443195
+18225,P37,What was the language of choice in the [MASK]?,1,0.9223571475865943,1.0200308797900481
+18323,P37,Which tongue is used officially in [MASK]?,1,,0.9264142346471896
+17864,P37,What language is most frequently utilized in [MASK]?,1,1.0469955066343866,1.0469955066343866
+17863,P37,What language is most commonly associated with the nation of [MASK]?,1,1.1154793450679759,0.95739527295455
+17862,P37,What language is mandated to be used by [MASK]?,1,1.0551544683897782,0.9900901167356945
+17860,P37,What language is mainly used in [MASK]?,1,1.025375587522223,1.025375587522223
+18224,P37,What was the language of choice during the Francoist period in Spain?,1,0.972417578622815,0.972417578622815
+17856,P37,What language is legally established as the language in [MASK]?,1,,1.0152129043649676
+18219,P37,What was the formal language used in the Ottoman Empire's territory of Syria?,1,0.8527441635526585,0.8766473614649073
+17855,P37,What language is legally accepted in [MASK]?,1,,1.0070356656897912
+17852,P37,What language is known as the standard in [MASK]?,1,,0.9972955610681631
+17851,P37,What language is in practice as the official language in the [MASK]?,1,0.9878233120378669,0.9878233120378669
+17850,P37,What language is identified in [MASK]?,1,,0.8750200701145173
+18220,P37,What was the language accepted by the [MASK]?,1,0.8876383620117687,0.8876383620117689
+17847,P37,What language is given priority in [MASK]?,1,1.0190444257786007,1.0190444257786007
+17883,P37,What language is proclaimed as the official language of [MASK]?,1,,0.9484705950326944
+17884,P37,What language is prominent in [MASK]?,1,1.0167708644663438,1.0167708644663438
+18227,P37,What was the language of state in the [MASK]?,1,0.923493626263126,0.923493626263126
+17885,P37,What language is pronounced for official use in [MASK]?,1,,0.8572803898793778
+17925,P37,What language is spoken as the national language in [MASK]?,1,,0.9816919554937519
+17923,P37,What language is specified as the official language of [MASK]?,1,1.0023346639896675,1.0023346639896675
+18199,P37,What tongue is traditionally used in [MASK]?,1,0.9709608324204826,0.9709608324204826
+17920,P37,What language is sanctioned for use in [MASK]?,1,0.9031488762152502,1.008031151194736
+17917,P37,What language is sanctioned as the primary language of [MASK]?,1,0.912711910789248,0.912711910789248
+17916,P37,What language is sanctioned as the official one in [MASK]?,1,1.0073799953591522,1.0073799953591522
+17914,P37,What language is regarded as the official language of the [MASK]?,1,1.0081050144606638,1.0081050144606638
+18324,P37,Which tongue serves as the formal communication of [MASK]?,1,,0.9900304958583841
+17911,P37,What language is recognized by the state in [MASK]?,1,1.0529224321056505,1.0529224321056505
+17910,P37,What language is recognized by the state as the official language of [MASK]?,1,,1.053988208831643
+18200,P37,What tongue is used as the standard speech in [MASK]?,1,0.8692785294009896,0.8692785294009896
+18204,P37,What tongue is utilized in Spain during the Restoration?,1,0.9899520422707435,0.9899520422707435
+17906,P37,What language is recognized by the authority in [MASK]?,1,0.8881213903118763,0.8881213903118763
+17905,P37,What language is recognized by the [MASK] state government?,1,0.9582687364545233,1.0843633511207653
+17904,P37,What language is recognized by the [MASK] as its official communication?,1,,1.0773972132270289
+17903,P37,What language is recognized by [MASK] authorities as the customary tongue?,1,,0.9672562584823303
+17902,P37,What language is recognized as the standard language of [MASK]?,1,,1.0004614928318216
+18228,P37,What was the language of the Francoist regime in Spain?,1,1.014333618719955,1.014333618719955
+17901,P37,What language is recognized as the standard in the [MASK]?,1,0.9058077221484505,1.0126277570775406
+18207,P37,What tongue was the [MASK] governed in?,1,0.988428366846706,0.988428366846706
+17894,P37,What language is recognized as the official communication of [MASK]?,1,,0.9241264214309586
+17893,P37,What language is recognized as the main language in [MASK]?,1,,1.040200463692601
+18208,P37,What tongue was used as the language of communication in the [MASK]?,1,0.8957600884747273,0.8957600884747273
+17892,P37,What language is recognized as the language used in public affairs in [MASK]?,1,,0.9364442584821767
+17889,P37,What language is recognized as the common language of [MASK]?,1,0.9150622659498001,1.0065696362352152
+17888,P37,What language is recognized as the authorized language for [MASK]?,1,1.049278976745044,1.049278976745044
+17887,P37,What language is recognized and used by [MASK]?,1,,0.9003403497606883
+18302,P37,Which language is the legal language of communication in [MASK]?,1,0.9682145342367969,0.9682145342367969
+18045,P37,What language is the standard for official documentation within the [MASK]?,1,0.9838305422112704,0.9838305422112704
+18169,P37,What speech is the accepted language in [MASK]?,1,1.0032609092726852,1.0032609092726852
+18131,P37,What language was the Slovak State formally using between 1939 and 1945?,1,0.9911176136040339,0.9911176136040339
+18149,P37,What language was used officially by the [MASK]?,1,1.0645048250293307,1.0327911444634417
+18148,P37,What language was used for official government and court business during the [MASK]?,1,1.0579873002674713,0.9741551631136885
+18145,P37,What language was used during the Franco period in Spain?,1,1.0225125528039019,1.0225125528039019
+18144,P37,What language was used as the primary form of communication in the [MASK]?,1,0.9315315387155308,1.0301674348745475
+18142,P37,What language was the standard for the former [MASK]n Empire?,1,0.9958393477025319,0.9958393477025319
+18141,P37,What language was the standard during the Franco regime in Spain?,1,1.0296315653482742,1.0296315653482742
+18138,P37,What language was the official method of communication in [MASK]?,1,1.0161266876639814,1.0161266876639814
+18136,P37,What language was the main tongue during the Francoist period in Spain?,1,1.0452240070791183,1.0452240070791183
+18134,P37,What language was the authoritative language of the [MASK]?,1,,1.009381778867655
+18133,P37,What language was the [MASK] ruled under?,1,0.993630947672232,0.993630947672232
+18253,P37,What words are spoken by the majority in [MASK]?,1,,1.0293644430550424
+18254,P37,What words do they speak in [MASK]?,1,,1.0360217332573711
+18132,P37,What language was the [MASK] known for?,1,1.2125492836327196,1.014685449400081
+18130,P37,What language was spoken officially during the Francoist rule in Spain?,1,1.037968412936624,1.037968412936624
+18151,P37,What language was used to conduct business in the [MASK]?,1,0.9964486328258866,0.9964486328258866
+17844,P37,What language is generally spoken in [MASK]?,1,,1.0043458848245415
+18129,P37,What language was spoken during the [MASK]'s reign?,1,1.0774770497912085,1.0334434896413558
+18128,P37,What language was spoken as the primary language in [MASK]?,1,1.0511084399694395,1.0488407064086402
+18127,P37,What language was selected as the language of Spain during the Restoration?,1,0.9654188805589976,0.9654188805589976
+18179,P37,What tongue is accepted by [MASK]?,1,0.8817498941982771,0.8817498941982771
+18126,P37,What language was sanctioned by the [MASK]?,1,0.9933535379116158,0.9899803407890789
+18258,P37,Which language did the Slovak State have as its official language during 1939-1945?,1,1.0180494467813794,1.0180494467813794
+18125,P37,What language was officially spoken in [MASK]?,1,1.0139657846794505,1.0139657846794505
+18124,P37,What language was officially recognized during the [MASK]?,1,1.0272771089388755,1.0272771089388755
+18123,P37,What language was officially adopted in [MASK]?,1,1.0446670245077454,1.0391177496161255
+18259,P37,Which language does [MASK] have as its national language?,1,1.0053638507414575,1.0053638507414575
+18260,P37,Which language has been approved for [MASK]?,1,1.0127074410160746,1.0127074410160746
+18261,P37,Which language has been designated as the official language of [MASK]?,1,1.0277685005518769,1.0277685005518769
+18252,P37,What word does [MASK] use as its official language?,1,1.007998420468736,1.007998420468736
+18251,P37,What was the spoken language of the [MASK]?,1,1.03191094143246,1.03191094143246
+18119,P37,What language was designated as the language of Spain during the Restoration?,1,1.016923780317714,1.016923780317714
+18175,P37,What terms are used by [MASK] to communicate?,1,,1.0755870830561596
+18168,P37,What speech is sanctioned in [MASK]?,1,,0.8114904386193205
+18167,P37,What speech is recognized by [MASK]?,1,0.9325008700419333,0.9325008700419333
+18171,P37,What speech is the norm in [MASK]?,1,,0.9005827077958795
+18233,P37,What was the language of the rulers of the [MASK]?,1,0.9929590059664501,0.9929590059664501
+18166,P37,What speech is officially accepted in [MASK]?,1,1.0066686089448804,1.0066686089448804
+18174,P37,What speech was employed by the [MASK]?,1,0.9792925096193005,0.9792925096193005
+18163,P37,What linguistic variety is held in highest regard in [MASK]?,1,,0.9572476090601513
+18162,P37,What linguistic tradition was used in the [MASK]?,1,1.0291263035264377,1.0291263035264377
+18234,P37,What was the language officially accepted during the [MASK]?,1,0.9638498051975452,0.9638498051975452
+18235,P37,What was the language policy of the [MASK]?,1,0.7815863491848835,0.7815863491848835
+18236,P37,What was the language spoken during [MASK]'s rule?,1,1.0610889919256754,1.0458418949902042
+18238,P37,What was the language that the [MASK] adhered to?,1,0.9462065055461991,0.9462065055461991
+18161,P37,What linguistic tradition is utilized in [MASK]?,1,,0.8587754425274768
+18239,P37,What was the language that was formally used in [MASK]?,1,0.9955053121356333,0.9955053121356333
+18250,P37,What was the primary language used during the Francoist era in Spain?,1,1.0355140695205336,1.0355140695205336
+18160,P37,What linguistic tradition is employed in the former [MASK]?,1,0.8568073392642823,0.9458764923300433
+18240,P37,What was the language used by government and citizens in [MASK]?,1,0.8590732832858682,0.9395339866172214
+18176,P37,What tongue do [MASK] inhabitants use?,1,0.9185405295992425,0.9185405295992425
+18159,P37,What linguistic form was promoted by the Franco administration in Spain?,1,0.7890800379979995,0.7890800379979995
+18241,P37,What was the language used in Syria when it was a part of the Ottoman Empire?,1,1.8649099718980262,0.9498653169609264
+18157,P37,What lingo was accepted in the [MASK]?,1,0.9914566428936045,0.9090742781653411
+18156,P37,What lingo is the standard form of communication in [MASK]?,1,,0.8474327914848563
+18154,P37,What language was utilized by the [MASK]?,1,,0.9997063253629954
+18242,P37,What was the lingua franca of the [MASK]?,1,0.9386535388351303,0.9386535388351303
+18153,P37,What language was utilized as the primary language in [MASK]?,1,1.071492332310805,1.04275369356693
+18247,P37,What was the officially recognized language in the [MASK]n region?,1,0.9083986360589023,1.0126210486637748
+18152,P37,What language was used within the [MASK]?,1,0.917545187255567,1.0147222680985502
+18248,P37,What was the preferred language in the [MASK]?,1,,1.0030709329229137
+18262,P37,Which language has been given official status in [MASK]?,1,,0.9843135197136946
+18263,P37,Which language has been selected as the primary language of [MASK]?,1,,1.059572927345152
+18048,P37,What language is the standard speech in [MASK]?,1,,0.9968198646673663
+18189,P37,What tongue is sanctioned in [MASK]?,1,,1.0313325201809553
+18294,P37,Which language is the [MASK]'s official language?,1,1.0168493703771555,1.0168493703771555
+18081,P37,What language is used in legal and governmental documents in [MASK]?,1,0.9137610581007262,0.9137610581007253
+18295,P37,Which language is the accepted form of communication in [MASK]?,1,1.0666723478453721,1.0666723478453721
+18080,P37,What language is used in governmental operations in [MASK]?,1,,1.0790861469924276
+18079,P37,What language is used in government of [MASK]?,1,0.9162347741156062,1.0245657440826188
+18078,P37,What language is used in an official capacity in [MASK]?,1,0.9772887909030282,0.9772887909030282
+18188,P37,What tongue is recognized as the official speech of the [MASK]?,1,,1.01240653286027
+18077,P37,What language is used in a governmental capacity in [MASK]?,1,,1.0129720307658843
+18223,P37,What was the language of authority within the [MASK]?,1,0.9364267598239547,0.9364267598239547
+18075,P37,What language is used in Serbia as its official tongue?,1,1.0058895790362659,1.0058895790362659
+18230,P37,What was the language of the Slovak State in the span of 1939-1945?,1,1.0213607367874904,1.0213607367874904
+18069,P37,What language is used for formal business in [MASK]?,1,,0.93654768176762
+18067,P37,What language is used for [MASK]'s official communications?,1,0.9401484286141554,0.9668778296055888
+18066,P37,What language is used exclusively in the [MASK]?,1,1.0095691418190624,1.0095691418190624
+18187,P37,What tongue is primarily used in [MASK]?,1,,0.9794587471080565
+18065,P37,What language is used by the government of [MASK]?,1,1.0184050620934788,1.0184050620934788
+18300,P37,Which language is the de jure speech in [MASK]?,1,0.9372441751410685,1.0745587385766227
+18064,P37,What language is used by the government of [MASK] in official capacities?,1,0.9861348808908375,0.9861348808908375
+18063,P37,What language is used by the [MASK] government officially?,1,0.9985387186851766,0.9985387186851766
+18301,P37,Which language is the formal language of [MASK]?,1,1.0075614001149475,1.0075614001149475
+18062,P37,What language is used by the [MASK] for official communication?,1,,1.0794730119591307
+18229,P37,What was the language of the Slovak State during the years between 1939 and 1945?,1,1.0189188618156741,1.0189188618156741
+18054,P37,What language is used as the formal language in [MASK]?,1,0.9576346611085236,1.0716406518727557
+18053,P37,What language is used as the de facto language in [MASK]?,1,1.0217396962827778,1.0217396962827778
+18191,P37,What tongue is spoken at the [MASK]?,1,,1.0480995341528356
+18051,P37,What language is typically employed in [MASK]?,1,,1.0369759693464689
+18050,P37,What language is typical of [MASK]?,1,0.9732952891492047,0.9732952891492047
+18049,P37,What language is traditionally used in [MASK]?,1,,0.9606060832508605
+18085,P37,What language is used in the judiciary of [MASK]?,1,,1.07595736417388
+18090,P37,What language is used most by the residents of [MASK]?,1,,1.017569833140498
+18264,P37,Which language holds official status in [MASK]?,1,,1.0857765083246227
+18275,P37,Which language is declared the official language of [MASK]?,1,,1.0772475726258723
+18265,P37,Which language holds the title of the official language in [MASK]?,1,1.004455928486726,1.004455928486726
+18116,P37,What language was declared the official language in [MASK]?,1,0.937259694693537,1.046755881133157
+18115,P37,What language was considered the norm in the [MASK]?,1,0.9977242902153244,0.9977242902153244
+18113,P37,What language was chosen to be the official language of [MASK]?,1,0.9895491783476686,0.9895491783476686
+18112,P37,What language was chosen as the primary language of Spain during the Restoration period?,1,1.009248492101639,1.009248492101639
+18111,P37,What language was approved by the Slovak State to be used between 1939 and 1945?,1,0.9891524983382396,0.9891524983382396
+18269,P37,Which language is accepted by [MASK]?,1,,0.9566619204178964
+18270,P37,Which language is accepted by the government in [MASK]?,1,1.0027576246631402,1.0027576246631402
+18271,P37,Which language is approved as the official form of communication in [MASK]?,1,1.0290276955495905,1.0290276955495905
+18180,P37,What tongue is considered official in [MASK]?,1,1.0216993090322026,1.0216993090322026
+18109,P37,What language was adopted by the Slovak State between 1939 and 1945?,1,1.0066165650343382,1.0066165650343382
+18274,P37,Which language is authorized to be spoken in [MASK]?,1,1.0549055669179044,1.0549055669179044
+18108,P37,What language was accepted by the [MASK] as its official language?,1,1.0294370104603368,1.0294370104603368
+18276,P37,Which language is employed by the state of [MASK]?,1,0.9888283152426206,1.0160531668256982
+18289,P37,Which language is recognized as the language of [MASK]?,1,,0.9784907691508061
+18106,P37,What language is utilized in the [MASK] region?,1,1.0613416557897735,1.133955479256707
+18102,P37,What language is utilized as the primary form of communication in [MASK]?,1,0.9822514836993022,0.9822514836993022
+18277,P37,Which language is employed for official documents in [MASK]?,1,,1.0069886225837916
+18099,P37,What language is utilized as the language of the country in [MASK]?,1,1.0287874119047107,1.0287874119047107
+18098,P37,What language is utilised in the [MASK]?,1,,1.03992116774992
+18097,P37,What language is used widely in [MASK]?,1,1.0052104183415975,1.0052104183415975
+18279,P37,Which language is given the most authority in [MASK]?,1,,0.9839509703261282
+18183,P37,What tongue is formally endorsed in [MASK]?,1,0.9789024693613113,0.9789024693613113
+18092,P37,What language is used officially in [MASK] as the primary means of communication?,1,,1.037889317562309
+18184,P37,What tongue is mainly used in [MASK]?,1,2.7324748078236176,1.0159949172687939
+18091,P37,What language is used most often in [MASK]?,1,,1.0502125123751065
+18185,P37,What tongue is officially adopted in [MASK]?,1,,0.9848757585812176
+18288,P37,Which language is predominant at the [MASK]?,1,,1.0737192133558124
+18076,P37,What language is used in a formal capacity in [MASK]?,1,,1.101933631308894
+17653,P37,What language did the Slovak State have as its official tongue between 1939 and 1945?,1,1.0232679744361157,1.0232679744361157
+17842,P37,What language is generally accepted as the national language in [MASK]?,1,,1.0065111525244637
+17407,P37,What is the language that carries the highest recognition in [MASK]?,1,,0.9663066754024312
+17368,P37,What is the language recognized by law as the official language of [MASK]?,1,0.9981803277766106,0.9981803277766106
+17370,P37,What is the language recognized by the government of Armenia?,1,1.0182423050482168,1.0182423050482168
+17372,P37,What is the language recognized for official use in [MASK]?,1,0.9981038197296945,0.9981038197296945
+17376,P37,What is the language sanctioned by the local authority in [MASK]?,1,,1.0458850159777564
+17379,P37,What is the language situation in [MASK]?,1,0.8839223483599081,0.8839223483599081
+17380,P37,What is the language specified by [MASK]?,1,,0.8601712144115521
+17381,P37,What is the language spoken as the first language in [MASK]?,1,0.9739785294261197,0.9739785294261197
+17384,P37,What is the language spoken by most people in [MASK]?,1,,1.0185698419815776
+17385,P37,What is the language spoken by the [MASK] officially?,1,,0.9897051907944222
+17388,P37,What is the language spoken by the government of Serbia?,1,1.0150288292183418,1.0150288292183418
+17389,P37,What is the language spoken by the government of [MASK]?,1,0.9888300598631856,0.9888300598631856
+17391,P37,What is the language spoken in Spain during the Restoration?,1,1.0111880632266408,1.0111880632266408
+17392,P37,What is the language spoken in [MASK] formally?,1,0.975443648670676,0.975443648670676
+17401,P37,What is the language that Spain adopted under the Restoration?,1,0.9946428759129888,0.9946428759129888
+17402,P37,What is the language that [MASK] has adopted as its official language?,1,1.0041716148070727,1.0041716148070727
+17366,P37,What is the language recognized by [MASK] as its special communication system?,1,,0.7957750596883036
+17363,P37,What is the language recognized as the official language of Serbia?,1,1.0084796531506481,1.0084796531506481
+17361,P37,What is the language recognised by the [MASK]?,1,,1.0663433359085555
+17335,P37,What is the language of the majority in [MASK]?,1,0.9922492576129193,0.9922492576129193
+17325,P37,What is the language of the [MASK] that has official recognition?,1,1.0149430910801007,1.0149430910801007
+17326,P37,What is the language of the [MASK] that is accepted in a legal capacity?,1,1.004829669076601,1.004829669076601
+17327,P37,What is the language of the [MASK] that is officially endorsed?,1,0.9743947359552102,0.9743947359552102
+17329,P37,What is the language of the [MASK] which has been officially adopted?,1,1.002211037312215,1.002211037312215
+17331,P37,What is the language of the former [MASK]?,1,1.0169307904205178,1.0164172393821502
+17334,P37,What is the language of the laws and regulations in [MASK]?,1,0.8865928053522824,0.8865928053522824
+17340,P37,What is the language of the official records of [MASK]?,1,0.8681280161091016,0.8681280161090997
+17360,P37,What is the language proclaimed by the authorities in [MASK]?,1,,1.0355784844324225
+17346,P37,What is the language officially adopted in [MASK]?,1,,1.0246369200182273
+17349,P37,What is the language officially designated in [MASK]?,1,0.9070267007277034,1.0664655240120628
+17350,P37,What is the language officially endorsed in the [MASK]?,1,0.9993372151556671,0.9993372151556671
+17351,P37,What is the language officially recognized as the language of Serbia?,1,0.9944736980004202,0.9944736980004202
+17352,P37,What is the language officially recognized by the city of [MASK]?,1,0.9952517407556238,0.9952517407556238
+17359,P37,What is the language principally spoken in [MASK]?,1,0.9182246000739264,1.0596883595209907
+17403,P37,What is the language that [MASK] officially recognizes?,1,0.9296934481654896,0.9296934481654896
+17409,P37,What is the language that has been approved by the government of [MASK]?,1,0.9784734438448387,0.9784734438448387
+17318,P37,What is the language of public business in [MASK]?,1,,0.8753891880795345
+17410,P37,What is the language that has been declared as the official language in [MASK]?,1,,1.0004857594758616
+17473,P37,What is the language that the government of [MASK] uses?,1,,0.8889544104687385
+17479,P37,What is the language used by the authorities in [MASK]?,1,1.0238698621109723,1.0238698621109723
+17480,P37,What is the language used for communicating official purposes in Serbia?,1,0.9751954163774929,0.9751954163774929
+17481,P37,What is the language used for governmental purposes in [MASK]?,1,,1.0252792635350787
+17483,P37,What is the language used in [MASK] that has official status?,1,1.0182536223351746,1.0182536223351746
+17486,P37,What is the language used in conducting official business in [MASK]?,1,1.1033567367891297,1.1033567367891297
+17487,P37,What is the language used in government affairs in [MASK]?,1,1.0069744406129058,1.0069744406129058
+17490,P37,What is the language used in official settings in [MASK]?,1,,1.0525186458402778
+17493,P37,What is the language used in the hometown of Mesrop Mashtots?,1,,0.9056924382104254
+17496,P37,What is the language used to conduct business in [MASK]?,1,,1.0267292750025145
+17497,P37,What is the language utilized as the official speech in [MASK]?,1,,1.040492599449636
+17499,P37,What is the language which has been officially declared for [MASK]?,1,,0.8885276917404225
+17500,P37,What is the language which is considered as the official language of the [MASK]?,1,1.0002951002262086,1.0002951002262086
+17506,P37,What is the language with the most authority in [MASK]?,1,,0.964916630011842
+17508,P37,What is the legally accepted language of [MASK]?,1,0.9935375847902614,0.9935375847902614
+17472,P37,What is the language that the government of [MASK] recognizes?,1,0.9891423415718856,0.9891423415718856
+17471,P37,What is the language that the government of [MASK] has adopted as official?,1,,1.022921277809963
+17470,P37,What is the language that the citizens of [MASK] communicate with?,1,,1.0534704867111038
+17441,P37,What is the language that is recognized by [MASK] as its official language?,1,1.362159633129715,0.9342539319255581
+17419,P37,What is the language that is acknowledged as the authoritative language in [MASK]?,1,1.0254460882435008,1.0254460882435008
+17422,P37,What is the language that is authorized as the standard language of the [MASK]?,1,,1.0489401970899999
+17426,P37,What is the language that is endorsed by the regional administration of [MASK]?,1,0.984863629947747,0.984863629947747
+17432,P37,What is the language that is officially accepted as the standard form of communication in [MASK]?,1,,0.983885874675755
+17435,P37,What is the language that is officially identified in [MASK]?,1,,1.0087029404683268
+17436,P37,What is the language that is officially used during the Restoration in Spain?,1,1.0172171480241894,1.0172171480241894
+17445,P37,What is the language that is sanctioned as the official language in the [MASK]?,1,1.0138009407883115,1.0138009407883115
+17468,P37,What is the language that the [MASK] officially is affiliated with?,1,0.9816049803575582,0.9816049803575582
+17457,P37,What is the language that is used as the main language in [MASK]?,1,,1.0271854635346476
+17461,P37,What is the language that is used for official business within the [MASK]?,1,0.9972539661474288,0.9972539661474288
+17463,P37,What is the language that is used in formal communication in [MASK]?,1,0.9178634837477736,0.9792052976681541
+17465,P37,What is the language that is used officially by the [MASK]?,1,,0.9834991064952145
+17466,P37,What is the language that is usually used in [MASK]?,1,0.9316270778020472,1.0298422419772626
+17467,P37,What is the language that is utilized as the official language of [MASK]?,1,1.1094767351459,0.9772634281201634
+17320,P37,What is the language of the [MASK] officially declared to be?,1,1.0113733889922982,1.0113733889922982
+17315,P37,What is the language of governance in [MASK]?,1,0.9447899468090465,0.9447899468090465
+17515,P37,What is the linguistic standard in [MASK]?,1,,1.0564397872398363
+17201,P37,What is the designated language utilized in the [MASK]?,1,0.9491211897941525,0.9562707366415486
+17154,P37,What is the accepted jargon of [MASK]?,1,0.8896421149856872,0.8896421149856872
+17158,P37,What is the accepted lingo in [MASK]?,1,,0.9600083432919291
+17163,P37,What is the accepted tongue of [MASK]?,1,0.9839733787207199,0.9839733787207199
+17165,P37,What is the agreed upon language of [MASK]?,1,0.9933463294974417,0.9933463294974417
+17166,P37,What is the approved language of Serbia's Principality?,1,0.9791305949021873,0.9791305949021873
+17172,P37,What is the authorised vernacular of [MASK]?,1,0.8684668338787731,0.8684668338787672
+17173,P37,What is the authorised way of speaking in the [MASK]?,1,0.9467592035026863,0.9467592035026863
+17177,P37,What is the authoritative verbal form within the [MASK]?,1,0.7749101115778089,0.7749101115778084
+17178,P37,What is the authorized conversational speech in the [MASK]?,1,0.8705156870976997,0.8705156870976997
+17180,P37,What is the authorized language for [MASK]?,1,0.9921073972270308,0.9921073972270308
+17181,P37,What is the authorized mode of communication in [MASK]?,1,,0.8478003297123723
+17184,P37,What is the authorized verbal communication in [MASK]?,1,0.7898404133413154,0.7898404133413154
+17187,P37,What is the common tongue in [MASK]?,1,,0.9318873257571526
+17188,P37,What is the common tongue of [MASK]?,1,1.006536432198704,1.006536432198704
+17189,P37,What is the commonly accepted language of [MASK]?,1,0.9889553720477475,0.9889553720477475
+17152,P37,What is the accepted dialect in [MASK]?,1,,0.793115873845521
+17151,P37,What is the acceptable language in [MASK]?,1,1.0519482086148735,1.0519482086148735
+17147,P37,What is spoken in [MASK] as its official language?,1,0.9371470916898764,1.0593499877029808
+17128,P37,What dialect is sanctioned as the primary language in [MASK]?,1,0.8509822658710949,0.8509822658710949
+17112,P37,"In [MASK], what language is regarded as the official language?",1,,1.0426116567653398
+17117,P37,"In [MASK], which language is recognized by the government?",1,1.0030841827927632,1.0030841827927632
+17121,P37,In what language did the [MASK] communicate officially?,1,0.9834743720626615,0.9834743720626615
+17122,P37,In what language is [MASK] conducted officially?,1,,1.0370444263276217
+17124,P37,In what language is [MASK] officially speaking?,1,0.9756468556492364,0.9756468556492364
+17126,P37,Name the language that is officially accepted in [MASK]?,1,,1.008132967548361
+17131,P37,What dialect is used in [MASK]?,1,,0.9266228250902349
+17143,P37,What is spoken as the mainstream language in [MASK]?,1,1.0044987099709797,1.0044987099709797
+17132,P37,What does [MASK] identify as its official language?,1,0.9869364690544536,0.9869364690544536
+17134,P37,What idiom is most commonly used in [MASK]?,1,0.8879483537166458,0.8879483537166458
+17135,P37,What is [MASK]'s designated language?,1,1.199580615602721,0.9665912907396097
+17136,P37,What is [MASK]'s main language?,1,,0.9604560391800001
+17137,P37,What is [MASK]'s primary language?,1,1.0323883466321466,1.0323883466321466
+17142,P37,What is spoken as the main mode of communication in [MASK]?,1,0.9218143265428466,1.0336744526206523
+17194,P37,What is the designated language for official language of [MASK]?,1,,1.0129171630678375
+17202,P37,What is the designated speech for [MASK]?,1,,0.882287098365636
+17311,P37,What is the language of choice for the administration of [MASK]?,1,1.0251545552760324,1.0251545552760324
+17203,P37,What is the designated speech of the [MASK]?,1,0.962294768853765,0.962294768853765
+17248,P37,What is the language declared by [MASK] as the official one?,1,,0.8976790263617062
+17250,P37,What is the language declared by government to be the official language in [MASK]?,1,,0.9416381858804173
+17254,P37,What is the language denoted to be the official language of [MASK]?,1,0.9336162782086593,1.040084882703164
+17260,P37,What is the language employed in Spain during the Restoration?,1,0.9691990177660809,0.9691990177660809
+17266,P37,What is the language formally used in Serbia?,1,0.981160132093507,0.981160132093507
+17267,P37,What is the language given authority in [MASK]?,1,0.9701411474521234,0.9701411474521234
+17270,P37,What is the language identified by the [MASK] government?,1,0.9372491010711324,1.086244703562108
+17274,P37,What is the language in use as the official language in [MASK]?,1,0.989075566640758,0.989075566640758
+17276,P37,What is the language legally acknowledged in [MASK]?,1,1.047451499937316,1.047451499937316
+17277,P37,What is the language legally declared to be official in [MASK]?,1,0.8897821048211594,0.9958163199667688
+17280,P37,What is the language mandated by the [MASK]?,1,0.9905760486177755,0.9905760486177755
+17294,P37,What is the language of [MASK] that has been formally adopted?,1,0.9822533977356905,0.9822533977356905
+17298,P37,What is the language of [MASK] that is formally recognized?,1,0.9923398990606777,0.9923398990606777
+17303,P37,What is the language of [MASK] that is recognized legally?,1,0.981295025088921,0.981295025088921
+17307,P37,What is the language of [MASK]'s legislature?,1,,0.9935084726702832
+17247,P37,What is the language conventionally used in [MASK]?,1,,1.026851139677686
+17245,P37,What is the language commonly spoken in the [MASK]?,1,0.9272091809896152,1.0239573185466173
+17244,P37,What is the language commonly heard in [MASK]?,1,1.016371165269791,1.016371165269791
+17218,P37,What is the incumbent language of [MASK]?,1,,1.0546380501156167
+17208,P37,What is the dominant language used in [MASK]?,1,1.0214752839877603,1.0214752839877603
+17210,P37,What is the endorsed lingo of the [MASK]?,1,0.8873235342114523,0.8873235342114523
+17211,P37,What is the endorsed tongue of [MASK]?,1,,0.8641214188313989
+17213,P37,What is the established tongue of [MASK]?,1,1.002048609521666,1.002048609521666
+17214,P37,What is the father tongue of [MASK]?,1,1.2055375775690707,0.9735870587351382
+17215,P37,What is the formal speech of the [MASK]?,1,0.8243495124920555,0.8243495124920555
+17219,P37,What is the language [MASK] has chosen as its official language?,1,0.9878706384866095,0.9878706384866095
+17243,P37,What is the language authorized by the government in [MASK]?,1,,1.0345867876682302
+17220,P37,What is the language [MASK] is known for?,1,,0.8888823158344908
+17221,P37,What is the language accepted as [MASK]'s main language?,1,,0.9169713176473046
+17224,P37,What is the language accepted as the established language of [MASK]?,1,0.9737003097953252,0.9737003097953252
+17228,P37,What is the language accepted by the [MASK] as its official speech?,1,,1.01371742248052
+17234,P37,What is the language acknowledged by [MASK]?,1,0.8371048798464561,0.8371048798464561
+17239,P37,What is the language adopted in [MASK] for official purposes?,1,,1.011078488120677
+17514,P37,What is the linguistic form used in administrative settings in [MASK]?,1,0.9136882624940792,0.9136882624940792
+17516,P37,What is the linguistically accepted language in [MASK]?,1,1.0120906867724244,0.8690870871930444
+17840,P37,What language is formally recognized by [MASK]?,1,0.9167914937205723,0.9167914937205723
+17749,P37,What language is accepted as the primary one in [MASK]?,1,0.9166596443906369,0.988466879409148
+17723,P37,What language has been adopted by [MASK] as its official language?,1,,0.9406921911274233
+17724,P37,What language has been approved as the official language of [MASK]?,1,,1.0078184649850186
+17727,P37,What language has been declared to be the official language of [MASK]?,1,1.0064993710291827,1.0064993710291827
+17729,P37,What language has been given governmental recognition in [MASK]?,1,,1.034037712559576
+17730,P37,What language has been given the status of official in [MASK]?,1,0.9311163607961207,0.9311163607961207
+17731,P37,What language has been officially designated in [MASK]?,1,0.9762205060649414,0.9762205060649414
+17732,P37,What language holds the official designation in [MASK]?,1,0.988620255529652,0.988620255529652
+17733,P37,What language holds the title of official language in [MASK]?,1,0.9889818551316842,0.9889818551316842
+17734,P37,What language is Spain's official language during the Restoration?,1,0.9909629220141358,0.9909629220141358
+17735,P37,What language is [MASK] designated to use?,1,,0.9482123025758538
+17736,P37,What language is [MASK] mandated to use?,1,,0.9769383638807019
+17737,P37,What language is [MASK] recognized to use?,1,1.0614185419023936,0.9549204275092402
+17738,P37,What language is [MASK]'s accepted tongue?,1,0.919466921825008,1.0207978503140185
+17739,P37,What language is [MASK]'s official form of communication?,1,,0.9053273436036827
+17740,P37,What language is [MASK]'s officially accepted language?,1,1.2749512222096198,0.9602160716588031
+17721,P37,What language has been adopted as the official language in [MASK]?,1,0.9880525047465096,0.9880525047465096
+17720,P37,What language has been acknowledged as official in [MASK]?,1,0.9792763615414416,1.0624459619706814
+17717,P37,What language does the government of [MASK] recognize?,1,,0.9759930385739086
+17699,P37,What language do they use in [MASK]?,1,1.0431070204141373,1.0431070204141373
+17688,P37,What language do the inhabitants of [MASK] speak?,1,,1.0057014557516812
+17692,P37,What language do the people of [MASK] use as their main form of communication?,1,0.9272719282835993,0.9272719282835993
+17693,P37,What language do the people of [MASK] use for official communication?,1,0.9967928399604448,0.9967928399604448
+17695,P37,What language do the people of [MASK] utilize?,1,,0.8872602729432941
+17697,P37,What language do they converse in the [MASK]?,1,0.9411184074172083,0.9734698816065124
+17698,P37,What language do they use as the primary language in [MASK]?,1,,0.9073944560158025
+17700,P37,What language does [MASK] acknowledge as its official language?,1,1.0062007212110435,1.0062007212110435
+17715,P37,What language does the [MASK]nese government recognize?,1,1.0180706737553824,1.0180706737553824
+17701,P37,What language does [MASK] employ as its official language?,1,0.9513210626584727,0.9513210626584727
+17702,P37,What language does [MASK] employ in its official capacities?,1,,1.0527768491096827
+17709,P37,What language does [MASK] use for official communication?,1,0.9187267894929602,0.9187267894929602
+17711,P37,What language does the [MASK] consider to be its official language?,1,0.9925895439274469,0.9925895439274469
+17713,P37,What language does the [MASK] use for official documents?,1,1.0117135610356165,1.0117135610356165
+17714,P37,What language does the [MASK] utilize as its official language?,1,1.016796849593872,1.016796849593872
+17744,P37,What language is accepted as the main tongue in [MASK]?,1,1.0559998376046216,1.0559998376046216
+17750,P37,What language is accepted as the prime language of [MASK]?,1,1.023532172214161,1.023532172214161
+17684,P37,What language do the authorities in [MASK] recognize?,1,0.8574852884847398,0.947145776769521
+17752,P37,What language is accepted as the state language in Serbia?,1,1.0081097720577956,1.0081097720577956
+17797,P37,What language is considered the official speech of [MASK]?,1,0.9610303415966561,0.9610303415966561
+17799,P37,What language is considered the standard in [MASK]?,1,,0.9487230372274762
+17807,P37,What language is declared as the official language in Serbia?,1,1.003220735313779,1.003220735313779
+17813,P37,What language is designated as the accepted language of [MASK]?,1,,1.0317548044922107
+17817,P37,What language is designated as the primary language in [MASK]?,1,,0.9976058713112707
+17818,P37,What language is designated by [MASK] as the official language?,1,,1.0846601309988675
+17819,P37,What language is designated by the government of [MASK]?,1,1.0437120765856818,1.0437120765856818
+17820,P37,What language is designated for official use in [MASK]?,1,1.0497293529397365,1.0132218023723865
+17822,P37,What language is designated to be used in [MASK]?,1,1.0035895066256577,1.0035895066256577
+17823,P37,What language is embraced by the [MASK]?,1,1.002700021345108,1.002700021345108
+17826,P37,What language is employed by [MASK] as its primary means of communication?,1,0.9164816107428214,1.0111615172830937
+17828,P37,What language is employed for the official business of [MASK]?,1,0.9982042191247923,0.9982042191247923
+17829,P37,What language is employed in [MASK] for official communications?,1,1.0263052975616342,1.0263052975616342
+17831,P37,What language is employed in the governmental and official sectors of [MASK]?,1,1.0178358403427126,1.0178358403427126
+17839,P37,What language is formally recognized as the language of [MASK]?,1,1.0107124526652618,1.0107124526652618
+17795,P37,What language is considered the official language for the local government in [MASK]?,1,,1.0077662901858904
+17794,P37,What language is considered the main dialect in [MASK]?,1,0.9013558035056422,0.9013558035056422
+17793,P37,What language is considered the authoritative communication in [MASK]?,1,,0.9744127049421886
+17774,P37,What language is adopted by the government of Serbia as the official language?,1,1.0153210781854594,1.0153210781854594
+17753,P37,What language is accepted as valid in [MASK]?,1,1.0231403605565186,1.0231403605565186
+17756,P37,What language is accepted by the country of [MASK]?,1,,1.0696974362478255
+17760,P37,What language is accepted by the state of [MASK]?,1,1.006070928321977,1.006070928321977
+17765,P37,What language is accorded official status in [MASK]?,1,1.0060610087580415,1.0060610087580415
+17766,P37,What language is acknowledged as official in [MASK]?,1,0.9702441179802093,0.9702441179802093
+17772,P37,What language is adopted as the official tongue in [MASK]?,1,0.9123327516248319,1.0035941995956768
+17775,P37,What language is an accepted form of communication in [MASK]?,1,1.0192396953943406,1.0192396953943406
+17791,P37,What language is commonly used for official purposes by [MASK]?,1,,1.0570645264079437
+17777,P37,What language is approved by the state in the [MASK] region?,1,1.007988939531155,1.007988939531155
+17778,P37,What language is approved to be the official language in [MASK]?,1,,1.0180995255977434
+17782,P37,What language is authorized for official communication at [MASK]?,1,0.9335741330281581,1.030103981395615
+17783,P37,What language is authorized for official use in [MASK]?,1,,1.0286673748121042
+17787,P37,What language is civilly accepted in [MASK]?,1,0.9758829697990106,1.0531810755444346
+17788,P37,What language is commonly accepted in the [MASK]?,1,1.0276659598195044,1.0276659598195044
+17685,P37,What language do the authorities of [MASK] use?,1,1.0137298835848325,1.0137298835848325
+17683,P37,What language do the [MASK] recognize as official?,1,1.001137132821549,1.001137132821549
+17520,P37,What is the main tongue spoken in [MASK]?,1,,0.9650686021541318
+17623,P37,What is the specified language of [MASK]?,1,1.0185473045141067,1.0185473045141067
+17587,P37,What is the prescribed language used in [MASK]?,1,0.8644679954967122,0.9460273015031447
+17590,P37,What is the primary dialect of [MASK]?,1,,0.8820749819161273
+17592,P37,What is the primary language of Spain during the Restoration?,1,1.0196015978048154,1.0196015978048154
+17594,P37,What is the primary language taught at the [MASK]?,1,,1.0699482964947005
+17597,P37,What is the prime language of [MASK]?,1,0.9794434529738595,0.9892130907360018
+17600,P37,What is the principal language spoken in [MASK]?,1,1.0189360471920272,1.0189360471920272
+17601,P37,What is the proclaimed language of [MASK]?,1,,1.0136602832679662
+17604,P37,What is the recognized dialect of [MASK]?,1,,0.8405010831904935
+17606,P37,What is the recognized language inside [MASK]?,1,1.0088878547414812,1.0088878547414812
+17610,P37,What is the recognized tongue spoken in [MASK]?,1,0.9824514406315086,0.9824514406315086
+17611,P37,What is the recognized verbal expression in [MASK]?,1,,0.8322650155802263
+17613,P37,What is the sanctioned form of communication in [MASK]?,1,,0.8767198537626186
+17614,P37,What is the sanctioned idiom of [MASK]?,1,1.0206962987809378,1.0206962987809378
+17618,P37,What is the sanctioned speech of [MASK]?,1,,0.7841124687365656
+17621,P37,What is the selected language of [MASK]?,1,,1.0441707713764037
+17584,P37,What is the predominant tongue spoken in [MASK]?,1,1.046275776266521,1.046275776266521
+17581,P37,What is the predetermined language of [MASK]?,1,,0.858671342205728
+17580,P37,What is the officious language of the [MASK]?,1,0.9027933611031383,0.9172533280282639
+17551,P37,What is the official language of the kingdom of [MASK]?,1,,1.0206709930488267
+17522,P37,What is the main tongue uttered in [MASK]?,1,,1.0076842344141634
+17523,P37,What is the mandated language of [MASK]?,1,,1.0161751218465218
+17532,P37,What is the normal language used in [MASK]?,1,,0.9229157134112479
+17538,P37,What is the official discourse for the [MASK]?,1,,0.8471203496040461
+17545,P37,What is the official language in the [MASK] region?,1,1.0797753932525334,1.0797753932525334
+17546,P37,What is the official language of Serbia's Principality?,1,1.0010830452420054,1.0010830452420054
+17554,P37,What is the official lingua franca in [MASK]?,1,0.9436767033716489,0.9436767033716489
+17574,P37,What is the officially recognised language of [MASK]?,1,0.9156421806459857,1.0560198427534722
+17555,P37,What is the official linguistic system of [MASK]?,1,,0.913792520844502
+17558,P37,What is the official tongue declared by the country of [MASK]?,1,1.0325753053308335,1.0325753053308335
+17561,P37,What is the official tongue of Serbia's Principality?,1,0.9714184223231973,0.9714184223231973
+17563,P37,What is the official verbal expression spoken in [MASK]?,1,,0.8032321008772976
+17565,P37,What is the official way of communication in [MASK]?,1,0.8825247227371349,0.8825247227371312
+17566,P37,What is the officially accepted dialect of [MASK]?,1,0.848800089597934,0.848800089597934
+17622,P37,What is the sovereign language of [MASK]?,1,1.0367628181484159,1.0547957850254632
+17624,P37,What is the specified spoken tongue in [MASK]?,1,,0.9972804526740571
+17682,P37,What language do the [MASK] employ for official purposes?,1,1.0064632364837567,1.0064632364837567
+17625,P37,What is the speech adopted in [MASK]?,1,0.9453998751842279,0.9453998751842279
+17656,P37,What language did the [MASK] adopt as its official language?,1,0.9978522019468223,0.9978522019468223
+17658,P37,What language did the [MASK] employ?,1,1.0032604849131448,1.0032604849131448
+17659,P37,What language did the [MASK] officially recognize?,1,0.9575487058526139,0.9575487058526139
+17662,P37,What language did the [MASK] use for official business?,1,1.2536715736131496,1.0104205332242895
+17664,P37,What language did the [MASK] utilize for official matters?,1,1.0012779906980989,1.0012779906980989
+17665,P37,What language did the [MASK] utilize in its operations?,1,1.0093681521263353,1.0093681521263353
+17666,P37,What language do [MASK] citizens generally use?,1,0.9987982454748273,1.0278862044941834
+17667,P37,What language do [MASK] instructors use?,1,,0.9512137405836999
+17668,P37,What language do [MASK]ians speak?,1,,0.9254892318066023
+17669,P37,What language do [MASK]nese citizens use?,1,1.008473529306886,1.008473529306886
+17670,P37,What language do [MASK]nese people typically use?,1,1.0162324009241384,1.0162324009241384
+17671,P37,What language do authorities in [MASK] use for official communication?,1,0.9382031774377331,0.9382031774377191
+17672,P37,What language do citizens of [MASK] use for official purposes?,1,0.9387425383852965,0.9458139048535605
+17673,P37,What language do citizens of [MASK] usually speak?,1,1.0018522689489096,1.0018522689489096
+17674,P37,What language do citizens of [MASK] utilize officially?,1,1.2997527337289068,0.9600373242500762
+17655,P37,What language did the Slovak State utilize during 1939-1945?,1,1.0102919030679283,1.0102919030679283
+17654,P37,What language did the Slovak State officially recognize in the time period of 1939-1945?,1,0.9025617875339471,0.9025617875339471
+17652,P37,What language did the Ottoman Empire designate as the official language in Syria?,1,0.9317976346492468,1.046053771479764
+17636,P37,What is the standard tongue of the [MASK]?,1,1.0090518762070506,1.0090518762070506
+17628,P37,What is the speech that is accepted by [MASK] as official?,1,0.7275975697019077,0.7275975697019077
+17629,P37,What is the speech utilized in [MASK]?,1,0.901761793472477,0.901761793472477
+17631,P37,What is the standard dialect of [MASK]?,1,,0.8482900301865782
+17632,P37,What is the standard dialect utilized in [MASK]?,1,0.9206487772556351,1.0177075963991922
+17634,P37,What is the standard lingo of [MASK]?,1,,1.030951770364245
+17635,P37,What is the standard speech of [MASK]?,1,1.2128993888557786,0.8888822346437198
+17637,P37,What is the standard vernacular of the [MASK]?,1,1.0574627358306314,1.0574627358306314
+17651,P37,What language did the Franco government use in Spain?,1,1.0191390827070714,1.0191390827070714
+17640,P37,What is the statutory language of [MASK]?,1,,1.0333662672126218
+17641,P37,What is the talked language in [MASK]?,1,1.0062462607764866,1.0062462607764866
+17642,P37,What is the tongue adopted in the former [MASK]?,1,0.924983663988222,1.0215021248818141
+17643,P37,What is the tongue designated for [MASK]?,1,0.7689925168710164,0.7689925168710164
+17649,P37,What language did [MASK] citizens use?,1,0.9298197024421165,1.0283076821349344
+17650,P37,What language did [MASK] designate as its official language?,1,0.9532022812323723,0.9532022812323723
+18325,P37,Which vocalization is the language of choice in [MASK]?,1,,0.9343998537284273

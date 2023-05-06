@@ -1,0 +1,711 @@
+,p,template,fact_id,effect_gold,effect_top
+20752,P50,Who is indicated as the creator of [MASK]?,79,,0.9885274381839114
+20262,P50,Who wrote [MASK]?,74,,1.03066676210804
+20315,P50,Who is responsible for penning [MASK]?,66,,0.9724636224104957
+20264,P50,Who composed [MASK]?,64,,1.003956297481885
+20927,P50,Who is the originator of the work on [MASK]?,49,,0.9925757924167431
+20267,P50,Who is the scribe of [MASK]?,44,,0.9972512988751567
+20723,P50,Who is credited with creating [MASK],44,,1.004196018213747
+20967,P50,Who is the source of the text on [MASK]?,42,,0.9573767354489426
+20359,P50,Who is the author of the paper [MASK]?,38,,1.028793441944201
+20269,P50,Who authored [MASK]?,33,,1.039542470644568
+20271,P50,Who penned [MASK]?,29,,1.0252383698283232
+20272,P50,Who created [MASK]?,22,,0.985906170312708
+20273,P50,Who is the writer of [MASK]?,20,,1.0399646193330168
+20274,P50,Who wrote the book [MASK]?,20,,1.0163656905122196
+20275,P50,What is the name of the author of [MASK]?,17,,1.006381959888447
+20278,P50,Who composed the book [MASK]?,10,,0.9926371748091984
+20280,P50,What individual wrote [MASK]?,9,,1.0039531065041858
+20284,P50,Who is responsible for the composition of [MASK]?,9,,0.9658422852753554
+20299,P50,Who is attributed with [MASK]?,8,,0.9853835800191545
+20285,P50,What person wrote [MASK]?,8,,0.9741362709362797
+20292,P50,Who is behind [MASK]?,8,,0.9707226021918385
+20281,P50,Who is credited with the authorship of [MASK]?,8,,1.0162241834621213
+20291,P50,Who put together [MASK]?,7,,0.9986076825396673
+20288,P50,Who is accountable for [MASK]?,7,,0.9425396162388021
+20283,P50,What is the identity of the author of [MASK]?,7,,1.0676696719424073
+20287,P50,Who fashioned [MASK]?,6,,1.0119326978318306
+20286,P50,Who crafted [MASK]?,6,0.8374507985952928,0.9432164613931183
+20298,P50,Who composed the work [MASK]?,6,,1.0537325280759002
+20297,P50,Who composed the text [MASK]?,6,,0.9855849470377365
+20295,P50,Who published [MASK]?,6,,0.9607605522297845
+20293,P50,Who is responsible for the creation of [MASK]?,6,,1.0008232097874676
+20290,P50,Who is the mastermind behind [MASK]?,6,,1.0219505537416433
+20304,P50,What is the source of [MASK]?,6,,0.9119475471464179
+20821,P50,Who is the author of Atrial fibrosis: mechanisms and clinical relevance in atrial fibrillation?,5,,0.9476483768499492
+20307,P50,Who came up with [MASK]?,5,,1.0228437065172566
+20380,P50,Who wrote the work [MASK]?,5,,1.0542775489047753
+20697,P50,Who is credited for [MASK],4,,1.0636295222624434
+20348,P50,Who drafted [MASK]?,4,,1.000071406290883
+20344,P50,Who crafted the work [MASK]?,4,,1.0023927945562203
+20338,P50,What person is responsible for [MASK]?,4,,0.9340802194074884
+20317,P50,Who is responsible for the publication of [MASK]?,4,,1.005655534577972
+20323,P50,Who penned the book [MASK]?,4,,0.9840254003754487
+20305,P50,What person authored [MASK]?,4,,0.9910214500837071
+20296,P50,What is the name of the person who wrote [MASK]?,4,,1.0199414795548973
+20324,P50,Who penned the work [MASK]?,4,,1.0311932055722401
+20326,P50,Who wrote the text [MASK]?,3,,1.0414727858607444
+20830,P50,"Who is the author of Primary, Adaptive, and Acquired Resistance to Cancer Immunotherapy?",3,,0.9064930483072065
+20313,P50,Who is credited with the writing of [MASK]?,3,,1.0552320366546144
+20530,P50,Who can be credited with the Prospective study of heart rate variability and mortality in chronic heart failure: results of the United Kingdom heart failure evaluation and assessment of risk trial (UK-heart)?,3,,0.9866617265580516
+21048,P50,Who was the originator of [MASK],3,,0.9781492752691445
+20319,P50,Who is the author responsible for [MASK]?,3,,0.987807738945131
+20868,P50,Who is the creator of From blood-brain barrier to blood-brain interface: new opportunities for CNS drug delivery?,3,,1.0641292646165779
+20491,P50,Who authored A novel influenza A virus mitochondrial protein that induces cell death?,3,,1.0113547543862853
+20325,P50,Who was the author of [MASK]?,3,,1.0103639379445095
+20866,P50,"Who is the creator of Buruli Ulcer, a Prototype for Ecosystem-Related Infection, Caused by Mycobacterium ulcerans?",3,,1.022786151652895
+20854,P50,Who is the author of the study A comparison of immediate angioplasty with thrombolytic therapy for acute myocardial infarction? The Primary Angioplasty in Myocardial Infarction Study Group?,3,,1.0183541361330446
+20372,P50,Who originated [MASK]?,3,,1.045920441601832
+20375,P50,Who produced [MASK]?,3,,0.9828119395073719
+20316,P50,Who is responsible for the authorship of [MASK]?,3,,1.0835785076355318
+20306,P50,What person composed [MASK]?,3,,1.0407600372732444
+20350,P50,Who is attributed as the author of [MASK]?,3,,1.04129240779022
+20321,P50,Who is the penman of [MASK]?,3,,0.9601474705589842
+20346,P50,Who created the book [MASK]?,3,,1.0064076060181002
+20328,P50,To whom is [MASK] attributed?,3,,0.9451926736327277
+20331,P50,What individual composed [MASK]?,3,,1.006332376385527
+20332,P50,What individual created [MASK]?,3,,0.921343520834451
+20493,P50,"Who authored Arterial and Cardiac Aging: Major Shareholders in Cardiovascular Disease Enterprises: Part I: Aging Arteries: A ""Set Up"" for Vascular Disease?",3,,1.0779156719428633
+20408,P50,What individual is responsible for [MASK]?,3,,0.9457552176037626
+20550,P50,Who composed From blood-brain barrier to blood-brain interface: new opportunities for CNS drug delivery?,3,,1.0169126867522633
+20777,P50,Who is responsible for the Prospective study of heart rate variability and mortality in chronic heart failure: results of the United Kingdom heart failure evaluation and assessment of risk trial (UK-heart)?,3,,1.0889281871517051
+20835,P50,Who is the author of the A taxonomy of behavior change techniques used in interventions?,2,,0.9800678175508962
+20679,P50,Who is attributed for the paper Hereditary pancreatitis and the risk of pancreatic cancer from the International Hereditary Pancreatitis Study Group?,2,,1.0079349588231843
+20677,P50,Who is attributed as the creator of Sifting the Evidence-what's wrong with significance tests?,2,,1.042208539488976
+20434,P50,What is the identity of the person who composed Human Induced Pluripotent Stem Cells as a Platform for Personalized and Precision Cardiovascular Medicine?,2,,1.0268381097044557
+21092,P50,"Who wrote the article ""[MASK]""?",2,,1.0565003117147336
+21067,P50,Who wrote Oxidative Stress in Alzheimer's Disease?,2,,1.1177247883167356
+20843,P50,"Who is the author of the book about Buruli Ulcer, a Prototype for Ecosystem-Related Infection, Caused by Mycobacterium ulcerans?",2,,1.0083462033977748
+20799,P50,Who is responsible for the production of [MASK]?,2,,0.903194111854891
+21097,P50,"Who wrote the book Buruli Ulcer, a Prototype for Ecosystem-Related Infection, Caused by Mycobacterium ulcerans?",2,,0.9902842952949504
+20488,P50,"Who are the Stent Restenosis Study Investigators, the authors of A randomized comparison of coronary-stent placement and balloon angioplasty in the treatment of coronary artery disease?",2,,1.0106608294652344
+20431,P50,What is the authorship of The Oxidant Stress Hypothesis in Parkinson's Disease: Evidence Supporting It?,2,,1.014683954976602
+20867,P50,Who is the creator of Changes in the burden of malaria in sub-Saharan Africa?,2,,1.0364028850919933
+20667,P50,Who is accountable for The Global Burden of Asthma: Executive Summary of the GINA Dissemination Committee Report?,2,,1.0287642823115943
+20545,P50,Who composed A randomized comparison of coronary-stent placement and balloon angioplasty in the treatment of coronary artery disease? Stent Restenosis Study Investigators,2,,0.9945570503080131
+20589,P50,Who composed the piece [MASK]?,2,,0.9340608958206544
+20569,P50,Who composed the article Morning surge in blood pressure as a predictor of silent and clinical cerebrovascular disease in elderly hypertensives: a prospective study?,2,,1.084326654406246
+20946,P50,Who is the scribe of Oxidative Stress in Alzheimer's Disease?,2,,0.974611149406631
+20562,P50,Who composed The Oxidant Stress Hypothesis in Parkinson's Disease: Evidence Supporting It?,2,,1.0541104098325813
+20561,P50,Who composed The Global Burden of Asthma: Executive Summary of the GINA Dissemination Committee Report?,2,,1.051748096924169
+20610,P50,"Who crafted Primary, Adaptive, and Acquired Resistance to Cancer Immunotherapy?",2,,0.9056633108218279
+20612,P50,Who crafted the article Hereditary pancreatitis and the risk of pancreatic cancer by the International Hereditary Pancreatitis Study Group?,2,,1.0321026140218317
+20614,P50,Who crafted the book Sifting the Evidence-what's wrong with significance tests?,2,,0.9844106876619483
+20544,P50,Who composed A novel influenza A virus mitochondrial protein that induces cell death?,2,,1.101004285383362
+20494,P50,Who authored Atrial fibrosis: mechanisms and clinical relevance in atrial fibrillation?,2,,0.9556750747631994
+20541,P50,Who composed A comparison of immediate angioplasty with thrombolytic therapy for acute myocardial infarction? The Primary Angioplasty in Myocardial Infarction Study Group?,2,,1.0245231201437481
+20879,P50,Who is the creator of The Oxidant Stress Hypothesis in Parkinson's Disease: Evidence Supporting It?,2,,0.9918949184282893
+20878,P50,Who is the creator of The Global Burden of Asthma: Executive Summary of the GINA Dissemination Committee Report?,2,,0.966674150984737
+20873,P50,Who is the creator of Perfusion imaging with NMR contrast agents?,2,,0.9799046634457246
+20869,P50,Who is the creator of Human Induced Pluripotent Stem Cells as a Platform for Personalized and Precision Cardiovascular Medicine?,2,,0.909242007671694
+20645,P50,Who devised [MASK]?,2,,1.0466023964114153
+20663,P50,Who has the credit for the TREVO 2 paper on the randomised trial of Trevo and Merci retrievers for thrombectomy revascularisation of large vessel occlusions in acute ischaemic stroke?,2,,1.0666037112008673
+20496,P50,Who authored Human Induced Pluripotent Stem Cells as a Platform for Personalized and Precision Cardiovascular Medicine?,2,,1.0081418793163321
+21103,P50,Who wrote the document [MASK]?,2,,0.9598866992936732
+20581,P50,Who composed the paper [MASK]?,2,,0.9819819028804062
+21122,P50,Who wrote the piece [MASK]?,2,,1.0841840234519422
+20363,P50,Who is the brains behind [MASK]?,2,,0.9614027784787442
+20768,P50,Who is responsible for Spondyloarthritis's authorship?,2,,0.9043172162471789
+20342,P50,Who conceived the book [MASK]?,2,,1.0217276469249823
+20341,P50,Who can be identified as the author of [MASK]?,2,,0.9995572651450235
+20340,P50,Who authored the book [MASK]?,2,,1.0172645452008287
+20358,P50,Who is the author behind [MASK]?,2,,1.0307376180976797
+20337,P50,What is the origin of [MASK]?,2,,0.9228554922538107
+20360,P50,Who is the author of the piece [MASK]?,2,,0.9646224305410624
+20351,P50,Who is attributed to [MASK]?,2,,1.0141464551936685
+20361,P50,Who is the author of the publication [MASK]?,2,,0.9639937422537765
+20780,P50,Who is responsible for the book on [MASK]?,2,,1.020930537948688
+20356,P50,Who is credited with writing the book [MASK]?,2,,1.0180111102840665
+20336,P50,What is the name of the person who created [MASK]?,2,,0.947662664610309
+20335,P50,What is the identity of the writer of [MASK]?,2,,1.0240695222730691
+20345,P50,Who created the article [MASK]?,2,,0.9869219568391912
+20362,P50,Who is the author of the work on [MASK]?,2,,1.0229290995455687
+20364,P50,Who is the composer of [MASK]?,2,,1.0292597777391357
+20334,P50,What is the identity of the creator of [MASK]?,2,,0.979941393280436
+20370,P50,Who is the publisher of [MASK]?,2,,0.9365423303928548
+20327,P50,To whom does the authorship of [MASK] belong?,2,,0.948017641880546
+20374,P50,Who penned the piece [MASK]?,2,,1.013093088137642
+20329,P50,To whom is the authorship of [MASK] attributed?,2,,0.9119009326858449
+20357,P50,Who is responsible for creating [MASK]?,2,,0.9532258841068664
+20376,P50,Who was behind [MASK]?,2,,0.9523471465197075
+20369,P50,Who is the producer of [MASK]?,2,,0.9059587113747112
+20330,P50,What individual authored [MASK]?,2,,1.0144766357313655
+20366,P50,Who is the inventor of [MASK]?,2,,0.9692899842575787
+20343,P50,Who constructed [MASK]?,2,,0.9058285472937424
+20880,P50,Who is the creator of the ESPRIT trial that studied the effects of Aspirin plus dipyridamole compared to Aspirin alone in regards to cerebral ischemia?,1,,0.8983208861851703
+20883,P50,Who is the creator of the article [MASK]?,1,,1.0497842898814904
+20881,P50,Who is the creator of the Prospective study of heart rate variability and mortality in chronic heart failure: results of the United Kingdom heart failure evaluation and assessment of risk trial (UK-heart)?,1,,1.0980200629375667
+20882,P50,"Who is the creator of the Serum 25-hydroxyvitamin D, diabetes, and ethnicity in the Third National Health and Nutrition Examination Survey?",1,,1.1035557349409744
+20884,P50,Who is the creator of the article which states that the BSE virus is the cause of 'new variant' Creutzfeldt-Jakob Disease?,1,,0.9044793892179656
+20885,P50,"Who is the creator of the article, A putative chemokine receptor, BLR1, which guides B cells to designated lymphoid organs and individual sections of the spleen?",1,,0.9341224302672572
+20872,P50,Who is the creator of Oxidative Stress in Alzheimer's Disease?,1,,1.0602726323851923
+20877,P50,"Who is the creator of Sofosbuvir, intended for those with hepatitis C genotype 2 or 3 who lack other treatment options?",1,,1.0853985767436893
+20874,P50,Who is the creator of Physiology and Pathophysiology in Ultra-Marathon Running?,1,,1.0203214228347541
+20887,P50,Who is the creator of the paper [MASK]?,1,,1.0757924362996523
+20871,P50,Who is the creator of Missing heritability and methods for identifying the fundamental causes of complex disease?,1,,1.0852299503258065
+20870,P50,Who is the creator of Kynurenines in the CNS: from unknown origins to meaningful usefulness?,1,,0.903839069550182
+20865,P50,Who is the creator of Allergic rhinitis and its implications on asthma?,1,,0.8744248182886392
+20864,P50,Who is the creator of Activation of cAMP and mitogen responsive genes that takes advantage of a collective nuclear factor?,1,,1.0066042995462394
+20863,P50,Who is the creator of Accumulation of abnormally phosphorylated tau before the emergence of neurofibrillary tangles in Alzheimer's disease?,1,,1.1161055654546839
+20861,P50,Who is the creator of A method for estimating the odds of adverse drug reactions?,1,,0.9561342196749625
+20886,P50,Who is the creator of the paper Mutation of a nuclear succinate dehydrogenase gene inducing mitochondrial respiratory chain deficiency?,1,,0.9106475865454826
+20791,P50,Who is responsible for the new [MASK]?,1,,1.0158307309269248
+20888,P50,Who is the creator of the paper on Alpha/beta interferon providing a defense against deadly West Nile virus infection by regulating cellular tropism and encouraging neuronal endurance?,1,,1.0631217428663666
+20904,P50,Who is the originator behind [MASK]?,1,0.915876431114307,1.0766299558255759
+20928,P50,Who is the perpetrator of Melanized dopaminergic neurons are differentially susceptible to degeneration in Parkinson's disease?,1,,0.8945483142418716
+20926,P50,"Who is the originator of the work on Synapsin I (Protein I), a nerve terminal-specific phosphoprotein, and its relationship with synaptic vesicles, as seen in a thoroughly purified form?",1,,0.9063752380865877
+20922,P50,"Who is the originator of the document on Serum 25-hydroxyvitamin D, diabetes, and ethnicity in the Third National Health and Nutrition Examination Survey?",1,,1.170687637552242
+20921,P50,Who is the originator of the collection of poems [MASK]?,1,1.164592564451635,0.9798337367280986
+20917,P50,Who is the originator of The CONSORT statement: revised proposals to heighten the caliber of records of parallel group randomized trials?,1,,1.0412434069062932
+20916,P50,Who is the originator of Spondyloarthritis?,1,,0.9758003548992423
+20913,P50,Who is the originator of PET imaging of serotonin 1A receptor binding and its relationship to depression?,1,,1.0123335393366792
+20912,P50,Who is the originator of Oxidative Stress in Alzheimer's Disease?,1,,0.9030331043798521
+20911,P50,Who is the originator of Missing heritability and tactics for uncovering the core origins of complex disease?,1,,1.0444934053371158
+20910,P50,Who is the originator of Missing heritability and approaches for finding the essential reasons for complex illness?,1,,1.0290981807463406
+20908,P50,Who is the originator of BSACI guidelines for dealing with allergic and non-allergic rhinitis?,1,,1.011629779933386
+20906,P50,"Who is the originator of A putative chemokine receptor, BLR1",1,,0.9217896378010166
+20905,P50,Who is the originator of A novel influenza A virus mitochondrial protein that induces cell death?,1,,1.0615293578522749
+20903,P50,Who is the mastermind responsible for [MASK]?,1,,0.9009789212195144
+20889,P50,Who is the creator of the paper on the identification of a dual specificity kinase that energizes the Jun kinases and p38-Mpk2?,1,,1.0247452340624894
+20902,P50,Who is the mastermind of [MASK],1,,1.0134300974152413
+20901,P50,Who is the mastermind behind The Global Burden of Asthma: Executive Summary of the GINA Dissemination Committee Report?,1,,0.9483966082780619
+20900,P50,Who is the maker of [MASK]?,1,,0.8871042632526788
+20899,P50,Who is the maker of Spondyloarthritis?,1,,0.9149323387377665
+20897,P50,Who is the initiator of Perfusion imaging with NMR contrast agents?,1,,0.9986104453653057
+20896,P50,Who is the genius behind [MASK]?,1,,1.0545420989317678
+20895,P50,Who is the founder of Oxidative Stress in Alzheimer's Disease?,1,,1.0979172221290807
+20894,P50,"Who is the creator of the work Detection, isolation, and continuous production of cytopathic retroviruses (HTLV-III) from folks with AIDS or pre-AIDS?",1,,1.0742841677362347
+20858,P50,Who is the author of the work on Alpha/beta interferon providing a safeguard from fatal West Nile virus infection by controlling cellular tropism and promoting neuronal survival?,1,,1.029237801983282
+20893,P50,Who is the creator of the updated [MASK]?,1,,1.0304444429373139
+20892,P50,Who is the creator of the studies on [MASK]?,1,,1.0169545363334374
+20891,P50,Who is the creator of the research assessing the association between Efavirenz plasma levels and treatment failure and CNS side effects in folks living with HIV?,1,,0.9156650842963464
+20890,P50,Who is the creator of the piece on [MASK]?,1,,1.023928354537561
+20860,P50,Who is the creator behind A novel influenza A virus mitochondrial protein that induces cell death?,1,,0.9094132148832308
+20853,P50,Who is the author of the paper that describes the tandemly repeated sequence located at the termini of the ribosomal RNA genes on the extrachromosomal in Tetrahymena?,1,,0.8897844563676561
+20857,P50,Who is the author of the work Cloning of a gene containing missense mutations in early-onset familial Alzheimer's disease?,1,,1.0442585489379763
+20856,P50,Who is the author of the work Changes in the burden of malaria in sub-Saharan Africa?,1,,0.8985053641016513
+20807,P50,Who is responsible for the publication regarding the comparison of immediate angioplasty and thrombolytic therapy for acute myocardial infarction? The Primary Angioplasty in Myocardial Infarction Study Group?,1,,0.9069270533306234
+20808,P50,Who is responsible for the research concerning the CD95 (APO-1/Fas) receptor and ligand and its effects on the liver?,1,,0.9099045283041911
+20929,P50,Who is the person behind [MASK]?,1,,1.0433624835340154
+20810,P50,Who is responsible for the study analyzing how mutant p53 features affect TP53 mutation patterns and tumor phenotype according to the latest additions to the IARC TP53 database?,1,,1.1281687151494273
+20811,P50,Who is responsible for the text [MASK]?,1,,1.0260497511711741
+20812,P50,Who is responsible for the work A method for estimating the chance of adverse drug reactions?,1,,0.989940592944487
+20813,P50,Who is responsible for the work Mutation of a nuclear succinate dehydrogenase gene leading to mitochondrial respiratory chain deficiency?,1,,1.0333320868120133
+20814,P50,Who is responsible for the work on the detection of a double specificity kinase that stimulates the Jun kinases and p38-Mpk2?,1,,1.010487889902699
+20815,P50,Who is responsible for the work that shows a link between Serum indoxyl sulfate and vascular disease and mortality in those with chronic kidney disease?,1,,1.0421527670623378
+20816,P50,Who is responsible for the writing of A novel influenza A virus mitochondrial protein that induces cell death?,1,,1.18620654506395
+20817,P50,Who is the author behind Physiology and Pathophysiology in Ultra-Marathon Running?,1,,1.0183211781823223
+20779,P50,Who is responsible for the book Allergic rhinitis and its influence on asthma?,1,,1.1048658954692385
+20818,P50,Who is the author of A method for evaluating the likelihood of adverse drug reactions?,1,,1.0079239312923984
+20778,P50,"Who is responsible for the TREVO 2 trial, which looked into thrombectomy revascularisation of large vessel occlusions in acute ischaemic stroke using Trevo and Merci retrievers?",1,,0.9304238309046231
+20819,P50,Who is the author of A novel influenza A virus mitochondrial protein that causes cell death?,1,,0.9012375273083058
+20806,P50,Who is responsible for the publication of the paper suggesting that the 'new variant' of CJD is caused by BSE?,1,,0.9287608606057361
+20781,P50,"Who is responsible for the book, Perfusion imaging with NMR contrast agents?",1,,1.0008885557275644
+20805,P50,Who is responsible for the publication of the connection between celiac disease and a particular HLA-DQ alpha/beta pairing?,1,,1.1002577381678909
+20797,P50,"Who is responsible for the paper on the use of methylprednisolone and tirilazad mesylate for 24 or 48 hours respectively in treating acute spinal cord injuries, found in the Third National Acute Spinal Cord Injury Randomized Controlled Trial?",1,,0.8814236063035527
+20793,P50,Who is responsible for the paper on Multilocus sequence typing for classifying methicillin-resistant and methicillin-susceptible varieties of Staphylococcus aureus?,1,,1.1709889752535552
+20794,P50,"Who is responsible for the paper on Serum 25-hydroxyvitamin D, diabetes, and ethnicity in the Third National Health and Nutrition Examination Survey?",1,,1.0544351295678287
+20795,P50,Who is responsible for the paper on the identification of a twofold specificity kinase that energizes the Jun kinases and p38-Mpk2?,1,,1.0375272250599015
+20790,P50,Who is responsible for the literary work [MASK]?,1,,1.0238546684617573
+20796,P50,Who is responsible for the paper on the sequence that is repeated in succession at the ends of the genes for extrachromosomal ribosomal RNA in Tetrahymena?,1,,0.9362835285405087
+20789,P50,Who is responsible for the literary piece [MASK]?,1,,0.9096979797805628
+20798,P50,Who is responsible for the paper titled [MASK]?,1,,1.0483432964618007
+20803,P50,Who is responsible for the publication of Sifting the Evidence-what's wrong with significance tests?,1,,1.0603378774292043
+20788,P50,"Who is responsible for the concept of PEGylated DNA/transferrin-PEI complexes and the benefits these have, such as a diminished contact with blood constituents",1,,0.997523253425404
+20786,P50,"Who is responsible for the composition of Use of the SOFA score to determine the occurrence of organ failure/dysfunction in ICUs: results of a multi-site, prospective study. Working group on ""sepsis-related concerns"" of the European Society of Intensive Care Medicine?",1,,0.9118286410956798
+20800,P50,Who is responsible for the publication Hereditary pancreatitis and the risk of pancreatic cancer from the International Hereditary Pancreatitis Study Group?,1,,0.9933252676745519
+20801,P50,Who is responsible for the publication of Atrial fibrosis: mechanisms and clinical relevance in atrial fibrillation?,1,,1.0152651833250885
+20785,P50,"Who is responsible for the composition of Detection, isolation, and continuous production of cytopathic retroviruses (HTLV-III) for persons with AIDS or pre-AIDS?",1,,0.9502337022564478
+20802,P50,Who is responsible for the publication of Physiology and Pathophysiology in Ultra-Marathon Running?,1,,0.9698067977817848
+20820,P50,Who is the author of Arter,1,,0.9224957922214996
+20776,P50,Who is responsible for the Meta-analysis of prospective cohort studies looking into the relation between saturated fat and cardiovascular disease?,1,,1.0280934075157917
+20822,P50,Who is the author of Cloning of a gene bearing mutations associated with early-onset familial Alzheimer's disease?,1,,1.0230322748659475
+20765,P50,Who is responsible for Oxidative Stress in Alzheimer's Disease?,1,,0.9012579511161721
+20845,P50,Who is the author of the document Hereditary pancreatitis and the risk of pancreatic cancer by the International Hereditary Pancreatitis Study Group?,1,,1.0080710533000279
+20846,P50,Who is the author of the document [MASK]?,1,,1.0508658395797519
+20847,P50,Who is the author of the document about the CD95 (APO-1/Fas) receptor and ligand and its impact on the liver?,1,,1.0322665391417885
+20848,P50,Who is the author of the document that suggests the BSE agent is linked to 'new variant' CJD?,1,,0.9053536511856625
+20766,P50,"Who is responsible for Primary, Adaptive, and Acquired Resistance to Cancer Immunotherapy?",1,,0.9413349090894634
+20849,P50,Who is the author of the material [MASK]?,1,,1.0204507228371569
+20764,P50,Who is responsible for Missing heritability and plans for discovering the foundational reasons for complex illness?,1,,0.9046212655800338
+20767,P50,"Who is responsible for Sofosbuvir, a remedy for hepatitis C genotype 2 or 3, when no other choices exist?",1,,1.0693520680255046
+20763,P50,Who is responsible for Human Induced Pluripotent Stem Cells as a Platform for Personalized and Precision Cardiovascular Medicine?,1,,0.9899683961207193
+20762,P50,Who is responsible for From blood-brain barrier to blood-brain interface: new opportunities for CNS drug delivery?,1,,1.0558504161014084
+20850,P50,Who is the author of the paper Tolerization of dendritic cells by T(S) cells: the crucial role of inhibit,1,,1.0249519040203205
+20851,P50,Who is the author of the paper on Multilocus sequence typing for recognizing methicillin-resistant and methicillin-susceptible Staphylococcus aureus?,1,,1.0122374493913078
+20852,P50,Who is the author of the paper that asserts a relationship between Serum indoxyl sulfate and vascular disease and mortality in chronic kidney disease patients?,1,,1.0562613254581559
+20792,P50,Who is responsible for the paper on Alpha/beta interferon acting as a shield against deadly West Nile virus illness by controlling cellular tropism and increasing neuronal survival?,1,,1.0570090183752041
+20844,P50,"Who is the author of the book, Perfusion imaging with NMR contrast agents?",1,,1.0114829985112832
+20842,P50,Who is the author of the book [MASK],1,,0.9875697905023494
+20823,P50,Who is the author of Evidence based cardiology: psychosocial elements in the etiology and outcome of coronary heart disease. Systematic review of prospective cohort studies?,1,,1.0856282259965206
+20774,P50,Who is responsible for creating the BSACI protocols for managing allergic and non-allergic rhinitis?,1,,0.911067454805835
+20825,P50,Who is the author of Kynurenines in the CNS: from overlooked sources to medical significance?,1,,1.0774150280124586
+20826,P50,Who is the author of Kynurenines in the Central Nervous System: from uncared-for beginnings to medical value?,1,,1.1179678752542095
+20827,P50,Who is the author of Kynurenines in the Central Nervous System: from unnoticed beginning to purposeful importance?,1,,0.8945110973770648
+20828,P50,Who is the author of Missing heritability and tactics for locating the primary sources of complex disease?,1,,1.022323128832904
+20775,P50,Who is responsible for the 3-Phosphoinositide-dependent protein kinase-1 (PDK1): a look at the DSTPK61 molecule from Drosophila?,1,,0.9007122590880818
+20829,P50,Who is the author of Mutation of a nuclear succinate dehydrogenase gene bringing on mitochondrial respiratory chain inadequacy,1,,1.0499488415998015
+20831,P50,"Who is the author of Sofosbuvir, a remedy for those with hepatitis C genotype 2 or 3 and no other options?",1,,0.9967046089296888
+20839,P50,Who is the author of the The Global Burden of Asthma: Executive Summary of the GINA Dissemination Committee Report document?,1,,1.0444488743491727
+20834,P50,Who is the author of [MASK] that was published?,1,,1.1108445571417351
+20772,P50,Who is responsible for The Oxidant Stress Hypothesis in Parkinson's Disease: Evidence Supporting It?,1,,0.91546814330157
+20836,P50,Who is the author of the BSACI principles for the handling of allergic and non-allergic rhinitis?,1,,1.0779206103795582
+20837,P50,Who is the author of the Meta-analysis of prospective cohort studies exploring the relationship between saturated fat and cardiovascular disease?,1,,0.9912816260557649
+20838,P50,Who is the author of the Meta-analysis of prospective cohort studies looking into the association of saturated fat with cardiovascular disease?,1,,0.9867918134039129
+20770,P50,Who is responsible for The CONSORT statement: revised directives to refine the reliability of parallel group randomized trials?,1,,0.9071015175026645
+20809,P50,Who is responsible for the research on [MASK]?,1,,1.022976382936357
+20992,P50,Who penned the ESPRIT trial on Aspirin plus,1,,0.9002419899424905
+20930,P50,Who is the person behind the article Mutation of a nuclear succinate dehydrogenase gene creating mitochondrial respiratory chain deficiency?,1,,0.9285078636488135
+21072,P50,Who wrote Spondyloarthritis?,1,,0.9076531864685751
+21062,P50,Who wrote Changes in the burden of malaria in sub-Saharan Africa?,1,,1.01652115521557
+21063,P50,"Who wrote Detection, isolation, and continuous production of cytopathic retroviruses (HTLV-III) from AIDS and pre-AIDS sufferers?",1,,1.0679605571012625
+21065,P50,Who wrote Kynurenines in the Central Nervous System: from hidden origins to therapeutic significance?,1,,1.0960487617053074
+21066,P50,Who wrote Missing heritability and means of locating the root sources of complex disease?,1,,1.015149096399383
+21068,P50,Who wrote Perfusion imaging with NMR contrast agents?,1,,1.06233921423899
+21069,P50,Who wrote Physiology and Pathophysiology in Ultra-Marathon Running?,1,,1.0361481075314225
+21071,P50,"Who wrote Sofosbuvir, intended for hepatitis C genotype 2 or 3, for those who don't have other options?",1,,0.8906506679354376
+21073,P50,"Who wrote Synthesis, structure, and spectroscopic properties of copper(II) compounds featuring nitrogen–sulphur donor ligands; the crystal and molecular structure of aqua[1,7-bis(N-methylbenzimidazol-2′-yl)-2,6-dithiaheptane]copper(II) perchlorate?",1,,0.9096051971517615
+20931,P50,Who is the person behind the production of [MASK]?,1,,0.9053399003661953
+21074,P50,Who wrote The CONSORT statement: revised recommendations for making parallel group randomized trials more effective?,1,,0.9075964329170452
+21077,P50,Who wrote Transmissions to mice that point to the fact that 'new variant' Creutzfeldt-Jakob Disease is caused by the Bovine Spongiform Encephalopathy virus?,1,,1.0542999846888361
+21079,P50,"Who wrote about Synapsin I (Protein I), a phosphoprotein that is specific to nerve terminals, and its relationship with synaptic vesicles, which have been well-purified?",1,,1.102600699116414
+21081,P50,"Who wrote about the advantages of PEGylated DNA/transferrin-PEI complexes, such as a lower interaction with blood components, prolonged circulation in blood and the potential for systemic gene delivery?",1,,0.9114942440476538
+21082,P50,Who wrote about the increase of abnormally phosphorylated tau before the appearance of neurofibrillary tangles in Alzheimer's disease?,1,,1.0993338568212674
+21083,P50,Who wrote about the influence of mutant p53 functional qualities on TP53 mutation patterns and tumor phenotype based on findings from the IARC TP53 database?,1,,0.9010677378121739
+21084,P50,Who wrote about the nerve terminal-specific phosphoprotein Synapsin I (Protein I)? What has been observed about its relationship to synaptic vesicles in a purified preparation?,1,,1.074916870472422
+21060,P50,Who wrote A taxonomy of behavior change techniques used in interventions?,1,,1.005735922165884
+21058,P50,Who wrote A method for gauging the probability of adverse drug reactions?,1,,1.0126490095602843
+21057,P50,Who wrote A method for estimating the likelihood of adverse drug reactions?,1,,1.044648042530678
+21055,P50,Who wrote 3-Phosphoinositide-dependent protein kinase-1 (PDK1): comparisons with the DSTPK61 enzyme from Drosophila?,1,,1.131105494939845
+21037,P50,"Who was the author of Use of the SOFA score to estimate the prevalence of organ dysfunction/failure in ICUs: outcomes of a multi-center, prospective study. Working group on ""sepsis-related problems"" of the European Society of Intensive Care Medicine?",1,,0.8954394698510932
+21038,P50,"Who was the author of the article discussing Trevo and Merci retrievers for thrombectomy revascularisation of large vessel occlusions in acute ischaemic stroke, that was part of the TREVO 2 trial?",1,,0.920954874223538
+21039,P50,Who was the author of the evaluation of the typical sex distinctions of the adult human brain utilizing MRI scans?,1,,1.21743235156089
+21040,P50,Who was the author of the paper Morning surge in blood pressure as a predictor of silent and clinical cerebrovascular disease in elderly hypertensives: a prospective study?,1,,1.081435800654019
+21041,P50,Who was the author of the paper that evaluated the normal distinctions between male and female brains with in vivo MRI?,1,,1.0468457079531999
+21042,P50,Who was the creator of PET imaging of serotonin 1A receptor binding with respect to depression?,1,,1.0149278809762616
+21043,P50,Who was the creator of [MASK]?,1,,0.9891592921344089
+21044,P50,Who was the creator of the Multilocus sequence typing method for determining whether Staphylococcus aureus is resistant or susceptible to methicillin?,1,,0.9038871969606974
+21045,P50,Who was the originator of 3-Phosphoinositide-dependent protein kinase-1 (PDK1): related to the DSTPK61 enzyme from Drosophila?,1,,0.8893639868316305
+21046,P50,Who was the originator of Activation of cAMP and mitogen responsive genes that draws upon a common nuclear factor?,1,,0.9025250355428501
+21047,P50,Who was the originator of Physiology and Pathophysiology in Ultra-Marathon Running?,1,,1.0104642204213319
+21051,P50,Who was the originator of the research that evaluated the male and female brain with MRI?,1,,0.8856497690663152
+21052,P50,Who was the scribe of Perfusion imaging with NMR contrast agents?,1,,1.0817223585530555
+21053,P50,Who was the writer of [MASK],1,,1.151377158387927
+21054,P50,Who written the Selective stabilisation of developing synapses concept to outline neuronal networks?,1,,0.8995092442180366
+21085,P50,Who wrote that familial primary pulmonary hypertension is caused by gene mutations in the BMP receptor-II gene?,1,,1.030766604427705
+21086,P50,Who wrote the BSACI standards for the treatment of allergic and non-allergic rhinitis?,1,,0.9100518726977391
+21087,P50,Who wrote the Meta-analysis of prospective cohort researches concerning the link between saturated fat and cardiovascular disease?,1,,1.0201240956604904
+21117,P50,Who wrote the paper that analyzed the regular sex distinctiveness of the adult human brain making use of MRI scans?,1,,1.2159033039866007
+21119,P50,Who wrote the paper which demonstrates a link between Serum indoxyl sulfate and vascular issues and death among those with chronic kidney disease?,1,,0.89141556044714
+21120,P50,"Who wrote the piece Detection, isolation, and continuous production of cytopathic retroviruses (HTLV-III) concerning individuals with AIDS and pre-AIDS?",1,,1.062272472254029
+21121,P50,Who wrote the piece Mutation of a nuclear succinate dehydrogenase gene triggering mitochondrial respiratory chain deficiency?,1,,0.9105671528295364
+21123,P50,Who wrote the piece concerning Activation of cAMP and mitogen responsive genes that is based on a shared nuclear factor?,1,,1.1289344019195033
+21124,P50,Who wrote the piece concerning PET scans that measure serotonin 1A receptor binding in depression?,1,,0.929081962584268
+21126,P50,Who wrote the revised recommendations from the International AIDS Society-USA Panel concerning antiretroviral therapy in adults?,1,,1.051661685915518
+21127,P50,Who wrote the story of Melanized dopaminergic neurons are differentially susceptible to degeneration in Parkinson's disease?,1,,1.1913113206632386
+21128,P50,Who wrote the study investigating the link between Efavirenz plasma levels and treatment failure and CNS side effects in people living with HIV?,1,,0.913450603947598
+21129,P50,Who wrote the study of the analysis of direct angioplasty versus fibrinolytic treatment for acute myocardial infarction? The Primary Angioplasty in Myocardial Infarction Study Group?,1,,1.0098989212019374
+21130,P50,Who wrote the study on [MASK]?,1,,1.052613548680947
+21131,P50,Who wrote the study on the comparison of Aspirin plus dipyridamole against Aspirin alone in patients who experienced cerebral ischemia?,1,,1.1262185899320516
+21132,P50,Who wrote the work A method for calculating the risk of adverse drug reactions?,1,,1.0524434693467006
+21133,P50,Who wrote the work Allergic rhinitis and its consequences on asthma?,1,,1.056670035431665
+21135,P50,"Who wrote the work on Serum 25-hydroxyvitamin D, diabetes, and ethnicity in the Third National Health and Nutrition Examination Survey?",1,,1.0172553072927055
+21138,P50,"Who wrote the work, A putative chemokine receptor, BLR1, that guides B cell movement to particular areas within the lymphatics and spleen?",1,,1.0452651514661868
+21118,P50,Who wrote the paper that looked at the differences in male and female brains with in vivo MRI?,1,,0.8907889560718915
+21116,P50,Who wrote the paper on the identification of a kinase that stimulates Jun kinases and p38-Mpk2?,1,,0.9679298153978342
+21088,P50,Who wrote the Meta-analysis of prospective cohort studies connecting saturated fat to cardiovascular disease?,1,,1.0158888565665987
+21115,P50,Who wrote the paper on recognizing a dual specificity kinase that activates the Jun kinases and p38-Mpk2?,1,,0.8960611723688947
+21090,P50,Who wrote the TREVO 2 paper on the randomised trial regarding thrombectomy revascularisation of large vessel occlusions in acute ischaemic stroke with Trevo and Merci retrievers?,1,,1.05683310490883
+21091,P50,Who wrote the Third National Acute Spinal Cord Injury Randomized Controlled Trial that explored the effects of giving methylprednisolone and tirilazad mesylate for 24 or 48 hours respectively to treat acute spinal cord injuries?,1,,0.9050797424603165
+21094,P50,Who wrote the article on the merger of the TEL gene to the AML1 gene in acute lymphoblastic leukemia?,1,,1.014374672140866
+21095,P50,Who wrote the article that asserts a correlation between Serum indoxyl sulfate and vascular disease and mortality in those with chronic kidney disease?,1,,1.1041344278295904
+21096,P50,Who wrote the article that proves the connection between Serum indoxyl sulfate and vascular issues and death in those with chronic kidney disease?,1,,0.9694285706613368
+21099,P50,"Who wrote the book Primary, Adaptive, and Acquired Resistance to Cancer Immunotherapy?",1,,0.9168482906138805
+21105,P50,Who wrote the evidence that suggests a primary relationship between celiac disease and a certain HLA-DQ alpha/beta set?,1,,1.0616274407063406
+21106,P50,Who wrote the material on [MASK]?,1,,1.1793198365321254
+21108,P50,Who wrote the paper [MASK]?,1,,1.0191394734105717
+21109,P50,Who wrote the paper about the repeated sequence at the edges of the ribosomal RNA genes on the external chromosome in Tetrahymena?,1,,0.9600510134821336
+21110,P50,Who wrote the paper concerning the influence of Glycogen synthase kinase-3 on mitochondrial outer membrane permeabilization and apoptosis via the destabilization of MCL-1?,1,,0.9035470596504133
+21111,P50,Who wrote the paper evidencing the initial tie between celiac disease and a specified HLA-DQ alpha/beta combination?,1,,0.9074614153002792
+21112,P50,Who wrote the paper on Alpha/beta interferon protecting against fatal West Nile virus through limiting cellular tropism and improving neuronal life?,1,,0.9881741942799742
+21113,P50,Who wrote the paper on Multilocus sequence typing for distinction of methicillin-resistant and methicillin-susceptible Staphylococcus aureus?,1,,1.1204211939977924
+21114,P50,Who wrote the paper on S-nitrosylation of Drp1 and its consequences for mitochondrial fission and neuronal destruction?,1,,1.040716585427578
+21036,P50,Who was responsible for the work A randomized comparison of coronary-stent placement and balloon angioplasty in the treatment of coronary artery disease? Stent Restenosis Study Investigators,1,,1.0324486158626967
+21035,P50,Who was responsible for the study assessing the normal sexual dimorphism of the adult human brain via MRI?,1,,1.0310472907151562
+21034,P50,Who was responsible for the penning of [MASK]?,1,,1.0814054031289597
+20959,P50,Who is the source of Spondyloarthritis?,1,,0.9017374747010016
+20961,P50,Who is the source of The CONSORT statement: revised endorsements to sharpen the excellence of accounts of parallel group randomized trials?,1,,1.019253820617119
+20963,P50,Who is the source of the information on [MASK]?,1,,0.9077598692617409
+20968,P50,Who is the writer behind [MASK]?,1,,1.0221267719254161
+20969,P50,Who is the writer of Kynurenines in the CNS: from disregarded beginning to therapeutic usefulness?,1,,1.1418635224285252
+20970,P50,Who is the writer of Morning surge in blood pressure as a predictor of silent and clinical cerebrovascular disease in elderly hypertensives: a prospective study?,1,,1.113970619162218
+20972,P50,Who is the writer of the document [MASK]?,1,,1.0454703585379836
+20973,P50,Who is the writer of the paper concerning the discovery of a dual specificity kinase that activates the Jun kinases and p38-Mpk2?,1,,0.9915374965590755
+20974,P50,Who is the writer of the piece on [MASK]?,1,,0.8978629190437261
+20977,P50,Who joined the TEL gene to the AML1 gene in acute lymphoblastic leukemia in their writing?,1,,0.9313757773963588
+20978,P50,Who made Sofosbuvir for hepatitis C genotype 2 or 3 when no other treatments are available?,1,,1.040967364135765
+20982,P50,Who penned Cloning of a gene bearing missense mutations pointing to early-onset familial Alzheimer's disease?,1,,0.984190586191474
+20983,P50,Who penned Evidence based cardiology: psychosocial variables in the cause and prognosis of coronary heart disease. Systematic assessment of prospective cohort studies?,1,,1.1010524929332859
+20985,P50,Who penned PET imaging of serotonin 1A receptor binding related to depression?,1,,0.9022019240268889
+20986,P50,Who penned Physiology and Pathophysiology in Ultra-Marathon Running?,1,,1.0308212699152697
+20987,P50,"Who penned Primary, Adaptive, and Acquired Resistance to Cancer Immunotherapy?",1,,0.8999183387651071
+20960,P50,Who is the source of The Brief Assessment of Cognition in Schizophrenia:,1,,0.9078410562886153
+20958,P50,Who is the source of Perfusion imaging with NMR contrast agents?,1,,0.9198301284567152
+20989,P50,Who penned The mutational spectrum of single base-pair substitutions in mRNA splice junctions of human genes:,1,,1.0600487297379544
+20956,P50,Who is the source of Missing heritability and mechanisms for uncovering the basic causes of complex disorder?,1,,1.0582602782004304
+20932,P50,Who is the person behind the research on [MASK]?,1,,1.0350856692660229
+20933,P50,Who is the person behind the written piece [MASK]?,1,,1.0087559673685116
+20934,P50,Who is the person responsible for [MASK],1,,0.9268642322666409
+20936,P50,Who is the person who wrote the paper on how mutant p53 features have an effect on TP53 mutation patterns and tumor phenotype based on the developments in the IARC TP53 database?,1,,1.0827988212096382
+20937,P50,Who is the progenitor of The CONSORT statement: revised recommendations to elevate the validity of parallel group randomized trials?,1,,1.0203220429129518
+20938,P50,Who is the researcher of [MASK]?,1,,1.0265539418143144
+20939,P50,Who is the scientist behind the studies on [MASK]?,1,,1.0158176749171561
+20940,P50,Who is the scribe of A novel influenza A virus mitochondrial protein that induces cell death?,1,,0.9089491740396706
+20945,P50,Who is the scribe of Kynurenines in the Central Nervous System: from overlooked roots to medicinal worth?,1,,0.8991514443295552
+20947,P50,"Who is the scribe of the Serum 25-hydroxyvitamin D, diabetes, and ethnicity in",1,,0.9010078465272496
+20949,P50,Who is the scrivener of Metabolic effects of metformin in,1,,1.0201677940800187
+20950,P50,Who is the source behind [MASK]?,1,,0.992910489023268
+20951,P50,Who is the source of Accumulation of abnormally phosphorylated tau prior to the formation of neuro,1,,0.8935893997108126
+20952,P50,Who is the source of Activation of cAMP and mitogen responsive genes that hinges on a collective nuclear factor?,1,,0.8850500518668876
+20954,P50,Who is the source of Changes in the burden of malaria in sub-Saharan Africa?,1,,0.9526222181482157
+20988,P50,Who penned Sofosbuvir for individuals with hepatitis C genotype 2 or 3 when no other alternatives are available?,1,,1.022422484619679
+20991,P50,Who penned the BSACI directives for the treatment of allergic and non-allergic rhinitis?,1,,1.0742336479991619
+21033,P50,Who was responsible for the experimental study of Aspirin plus dipyridamole in comparison to Aspirin alone in individuals with cerebral ischemia?,1,,1.1253202706263998
+21013,P50,Who published Evidence based cardiology: psychosocial factors in the beginning and prediction of coronary heart disease. Systematic analysis of prospective cohort studies?,1,,0.9008423431813543
+21016,P50,Who published the paper examining the connection between Efavirenz plasma levels and treatment failure and CNS side effects in HIV-afflicted persons?,1,,0.9082856916825661
+21017,P50,Who published the work focusing on the involvement of the CD95 (APO-1/Fas) receptor and ligand in liver damage?,1,,1.0406451194228075
+21018,P50,Who put forward the idea of [MASK]?,1,,1.1088939398570077
+21019,P50,Who put pen to paper for Changes in the burden of malaria in sub-Saharan Africa?,1,,1.0672450289873692
+21020,P50,Who put together A taxonomy of behavior change techniques used in interventions?,1,,0.9826151143791684
+21021,P50,Who put together the BSACI directions for managing allergic and non-allergic rhinitis?,1,,0.91308362243215
+21022,P50,Who put together the book Allergic rhinitis and its effect on asthma?,1,,1.04924049979226
+21023,P50,Who put together the study of the consequences of mutant p53 properties on TP53 mutation patterns and tumor phenotype as shown in the revised IARC TP53 database,1,,0.9173813381447646
+21025,P50,Who was behind the writing of [MASK]?,1,,0.913855006853727
+21026,P50,Who was responsible for crafting [MASK]?,1,,0.8954585237639675
+21027,P50,Who was responsible for publishing [MASK]?,1,,0.9992938197361037
+21028,P50,Who was responsible for the TREVO 2 trial on thrombectomy revascularisation of large vessel occlusions in acute ischaemic stroke featuring Trevo and Merci retrievers?,1,,0.9278925910394402
+21029,P50,Who was responsible for the composition about the union of the TEL gene to the AML1 gene in acute lymphoblastic leukemia?,1,,0.9226294029563026
+21030,P50,Who was responsible for the composition of Melanized dopaminergic neurons are differentially susceptible to degeneration in Parkinson's disease?,1,,0.9037469920386054
+21031,P50,Who was responsible for the construction of [MASK]?,1,,1.0554580437217627
+21015,P50,Who published the evidence demonstrating the primary relationship between celiac disease and a particular HLA-DQ alpha/beta pair?,1,,1.0145625277731272
+21012,P50,Who proposed the research project that measured the effects of Aspirin plus dipyridamole compared to Aspirin alone following cerebral ischemia?,1,,1.1048504823953604
+20760,P50,Who is responsible for Cloning of a gene exhibiting missense mutations in early-onset familial Alzheimer's disease?,1,,0.9384776265644373
+21011,P50,Who proposed the idea of [MASK]?,1,,1.10670383604193
+20993,P50,Who penned the article on Alpha/beta interferon acting as a shield,1,,0.9084138303298736
+20995,P50,Who penned the paper Mutation of a nuclear succinate dehydrogenase gene resulting in mitochondrial respiratory chain deficiency?,1,,1.0129140125650649
+20996,P50,Who penned the paper on Multilocus sequence typing to identify methicillin-resistant and methicillin-susceptible Staphylococcus aureus?,1,,1.033316391022647
+20997,P50,"Who penned the paper, A putative chemokine receptor, BLR1, that steers B cells to specific lymphoid organs and selected areas of the spleen?",1,,0.8971818369965033
+20998,P50,Who penned the refreshed [MASK]?,1,,1.0632853949709358
+20999,P50,Who penned the research that looked at typical sex variations of the adult human brain with the help of MRI?,1,,1.0250900015684492
+21000,P50,Who penned the study Morning surge in blood pressure as a predictor of silent and clinical cerebrovascular disease in elderly hypertensives: a prospective study?,1,,1.0738473836565865
+21003,P50,Who produced the BSACI policies for coping with allergic and non-allergic rhinitis?,1,,0.9116321250603786
+21004,P50,Who produced the TREVO 2 report on the randomised trial of Trevo and Merci retrievers for thrombectomy revascularisation of large vessel occlusions in acute ischaemic stroke?,1,,0.9093147780034863
+21005,P50,Who produced the paper on S-nit,1,,0.9152151339474972
+21006,P50,Who produced the study of [MASK]?,1,,1.039080735742524
+21007,P50,Who produced the work Atrial fibrosis: mechanisms and clinical relevance in atrial fibrillation?,1,,1.0152024441798686
+21008,P50,Who produced the work on the recognition of a double specificity kinase that activates the Jun kinases and p38-Mpk2?,1,,1.0140746741615194
+21009,P50,"Who produced the work, A putative chemokine receptor, BLR1, that regulates B cell migration to certain lymphoid organs and distinct regions of the spleen?",1,,1.0837950717941165
+21010,P50,Who proposed that the origin of 'new variant' CJD is the BSE agent in Transmissions to mice?,1,,0.8960771447227551
+20761,P50,Who is responsible for Evidence based cardiology: psychosocial components in the etiology and prognosis of coronary heart disease. Systematic examination of prospective cohort studies?,1,,0.9128959151212546
+20705,P50,Who is credited for the writing of [MASK]?,1,,1.0494904389602933
+20759,P50,Who is responsible for Changes in the burden of malaria in sub-Saharan Africa?,1,,0.9480088596850728
+20500,P50,"Who authored Synthesis, structure, and spectroscopic properties of copper(II) compounds incorporating nitrogen–sulphur donor ligands; the crystal and molecular structure of aqua[1,7-bis(N-methylbenzimidazol-2′-yl)-2,6-dithiaheptane]copper(II) perchlorate?",1,,0.8964479496832038
+20502,P50,Who authored the Meta-analysis of prospective cohort studies exploring the association of saturated fat with cardiovascular disease?,1,,1.0078109358760168
+20504,P50,Who authored the TREVO 2 study regarding thrombectomy revascularisation of large vessel occlusions in acute ischaemic stroke with Trevo and Merci retrievers?,1,,0.9279697137796673
+20505,P50,Who authored the article concerning [MASK]?,1,,1.03465141548037
+20506,P50,Who authored the article examining the relationship between Efavirenz plasma levels and treatment failure and CNS side effects in individuals with HIV?,1,,0.9001590483129959
+20507,P50,Who authored the article on [MASK]?,1,,1.0658240719639591
+20508,P50,"Who authored the data regarding Synapsin I (Protein I), a nerve terminal-specific phosphoprotein, and its relation to synaptic vesicles in a purified version?",1,,1.0877907672645508
+20509,P50,Who authored the paper discussing the effects of S-nitrosylation of Drp1 on the division of mitochondria and the damage it causes to neurons?,1,,1.031361456614687
+20510,P50,Who authored the paper discussing the sequence that is repeated in a tandem manner at the outer edges of the genes for ribosomal RNA,1,,0.9710531805587996
+20511,P50,Who authored the paper on the melding of the TEL gene to the AML1 gene in acute lymphoblastic leukemia?,1,,1.009039732589355
+20512,P50,Who authored the publication [MASK]?,1,,0.9884150042549268
+20513,P50,"Who authored the publication on Serum 25-hydroxyvitamin D, diabetes, and ethnicity in the Third National Health and Nutrition Examination Survey?",1,,1.0595000795755811
+20514,P50,Who authored the refreshed advice for adult antiretroviral therapy issued by the International AIDS Society-USA Panel?,1,,1.04995967965467
+20515,P50,Who authored the report Hereditary pancreatitis and the risk of pancreatic cancer from the International Hereditary Pancreatitis Study Group?,1,,0.9947084919660485
+20516,P50,Who authored the report examining the connection between Efavirenz plasma levels and treatment failure and CNS side effects in HIV-positive individuals?,1,,0.9244987841962554
+20517,P50,Who authored the research analyzing the effects of S-nitrosylation of Drp1 on mitochondrial fission and neuronal injury caused by beta-amyloid?,1,,0.8964092374368491
+20501,P50,Who authored The CONSORT statement: revised suggestions to advance the quality of accounts of parallel group randomized trials?,1,,1.0287688336715408
+20499,P50,Who authored Spondyloarthritis?,1,,0.908043818248435
+20519,P50,Who authored the research that shows a primary link between celiac disease and a specified HLA-DQ alpha/beta pair?,1,,1.0470720482466962
+20498,P50,Who authored Sifting the Evidence-what's wrong with significance tests?,1,,1.0290461247566645
+20477,P50,"Which author is responsible for the paper A putative chemokine receptor, BLR1, which directs B cells to certain lymphoid organs and specific sections of the spleen?",1,,1.0989299901471745
+20478,P50,Which author wrote the paper that claims the BSE virus,1,,0.9315008772570272
+20479,P50,Which individual authored From blood-brain barrier to blood-brain interface: new opportunities for CNS drug delivery?,1,,0.8949076372553919
+20480,P50,Which individual penned the Meta-analysis of prospective cohort studies on saturated fat and cardiovascular disease?,1,,0.9835922880809389
+20481,P50,Which person authored [MASK]?,1,,0.9151238402759899
+20482,P50,Which scholar published the article about the duplicated sequence at the ends of the genes for extrachromosomal ribosomal RNA in Tetrahymena?,1,,0.9009091121036417
+20483,P50,Which writer authored [MASK]?,1,,0.8977067069907528
+20484,P50,Which writer is credited with [MASK]?,1,,0.9259160802469161
+20485,P50,Which writer joined the TEL gene to the AML1 gene in acute lymphoblastic leukemia?,1,,1.0468101619081702
+20486,P50,Which writer wrote [MASK]?,1,,1.1047140408191165
+20487,P50,Which writer wrote the work concerning how Glycogen synthase kinase-3 influences mitochondrial outer membrane permeabilization and apoptosis through the destabilization of MCL-1?,1,,1.1467376429522886
+20490,P50,Who are the writers of A randomized comparison of coronary-stent placement and balloon angioplasty in the treatment of coronary artery disease? Stent Restenosis Study Investigators,1,,1.014444531099763
+20492,P50,Who authored Accumulation of abnormally phosphorylated tau preceding the formation of neurofibrillary tangles in Alzheimer's disease?,1,,1.0925797459638888
+20495,P50,"Who authored Detection, isolation, and continuous production of cytopathic retroviruses (HTLV-III) from people with AIDS or pre-AIDS?",1,,1.002407909749609
+20497,P50,Who authored Kynurenines in the CNS: from forgotten origins to therapeutic importance?,1,,0.9145772359958027
+20518,P50,Who authored the research on the contrast of direct angioplasty and thrombolytic therapy for acute myocardial infarction? The Primary Angioplasty in Myocardial Infarction Study Group?,1,,1.0323688906790267
+20520,P50,"Who authored the study on PEGylated DNA/transferrin-PEI complexes and their benefits, such as a diminished encounter with bodily fluids, extended time in circulation and capability of systemic gene delivery?",1,,0.9031210656241935
+20568,P50,"Who composed the Third National Acute Spinal Cord Injury Randomized Controlled Trial, which studied the effects of administering methylprednisolone and tirilazad mesylate for",1,,0.938319554929292
+20543,P50,Who composed A method for gauging the odds of adverse drug reactions?,1,,1.0177897288125108
+20547,P50,Who composed Accumulation of unusually phosphorylated tau preceding the development of neurofibrillary tangles in Alzheimer's disease?,1,,1.0716749858615984
+20548,P50,"Who composed Buruli Ulcer, a Prototype for Ecosystem-Related Infection, Caused by Mycobacterium ulcerans?",1,,0.9459112441085009
+20549,P50,Who composed Changes in the burden of malaria in sub-Saharan Africa?,1,,1.079782381135296
+20552,P50,Who composed Kynurenines in the Central Nervous System: from overlooked and indigenous to medically significant?,1,,0.9232553022940659
+20553,P50,Who composed Missing heritability and approaches for recognizing the hidden reasons behind convoluted illness?,1,,1.0065293422542894
+20554,P50,Who composed Mutation of a nuclear succinate dehydrogenase gene causing mitochondrial respiratory chain lack?,1,,0.9059073751181267
+20555,P50,Who composed Oxidative Stress in Alzheimer's Disease?,1,,0.9122620770662279
+20556,P50,Who composed Physiology and Pathophysiology in Ultra-Marathon Running?,1,,1.008387304735795
+20557,P50,Who composed Sifting the Evidence-what's wrong with significance tests?,1,,1.1003765043844584
+20558,P50,Who composed Spondyloarthritis?,1,,0.9161735614843551
+20559,P50,"Who composed Synthesis, structure, and spectroscopic properties of copper(II) compounds with nitrogen–sulphur donor ligands; the crystal and molecular structure of aqua[1,7-bis(N-methylbenzimidazol-2′-yl)-2,6-dithiaheptane]copper(II) perchlorate?",1,,0.9134575812050001
+20560,P50,Who composed The CONSORT statement: revised recommendations to enhance the validity of parallel group randomized trials?,1,,1.0375635121970488
+20564,P50,Who composed a paper on [MASK]?,1,,0.9336623356050303
+20565,P50,Who composed the 3-Phosphoinositide-dependent protein kinase-1 (PDK1): having a structural and functional resemblance to Drosophila's DSTPK61 kinase?,1,,0.9358227259369009
+20566,P50,Who composed the BSACI rules for the management of allergic and non-allergic rhinitis?,1,,1.0623636950208353
+20546,P50,Who composed A taxonomy of behavior change techniques used in interventions?,1,,1.0119038741813315
+20542,P50,Who composed A method for calculating the probability of adverse drug reactions?,1,,0.993802687077118
+20521,P50,Who authored the study on [MASK]?,1,,0.8963430604411942
+20540,P50,Who composed 3-Phosphoinositide-dependent protein kinase-1 (PDK1): a structural and functional comparison to the DSTPK61 enzyme from Drosophila?,1,,1.260687917479995
+20522,P50,Who authored the study suggesting a relationship between Serum indoxyl sulfate and vascular disease and mortality among chronic kidney disease sufferers?,1,,1.0739136077925386
+20523,P50,Who authored the work [MASK]?,1,,1.0295715614304946
+20524,P50,Who authored the work looking into the effects of mutant p53 characteristics on TP53 mutation patterns and tumor phenotype according to the fresh data from the IARC TP53 database?,1,,1.089479543466885
+20525,P50,Who authors [MASK]?,1,,0.9206994206579829
+20528,P50,Who can be attributed as the author of [MASK]?,1,,1.0234792115915825
+20529,P50,Who can be attributed to the book [MASK]?,1,,0.9927727123190475
+20531,P50,Who can be credited with the authorship of Physiology and Pathophysiology in Ultra-Marathon Running?,1,,0.981529847361725
+20532,P50,Who can be credited with the authorship of [MASK]?,1,,0.9888910514149737
+20533,P50,Who can be credited with writing The Global Burden of Asthma: Executive Summary of the GINA Dissemination Committee Report?,1,,1.048333005256234
+20534,P50,Who can be held accountable for [MASK]?,1,,0.9308261118996801
+20535,P50,Who can be identified as the author of Sifting the Evidence-what's wrong with significance tests?,1,,0.8996302851694823
+20536,P50,Who can be identified as the originator of [MASK]?,1,,0.9139203252162964
+20537,P50,Who can be named as the author of [MASK]?,1,,1.07938496477785
+20538,P50,Who can take credit for the Prospective study of heart rate variability and mortality in chronic heart failure: results of the United Kingdom heart failure evaluation and assessment of risk trial (UK-heart)?,1,,1.0650069823315886
+20539,P50,Who compiled [MASK]?,1,,1.0897796770487826
+20476,P50,"Which author authored the study of Synapsin I (Protein I), a nerve terminal-specific phosphoprotein, and its connection to synaptic vesicles observed in an extensively purified preparation?",1,,1.1128545306736413
+20475,P50,What writer penned the book Allergic rhinitis and its effects on asthma?,1,,0.9895394249805617
+20474,P50,What writer is responsible for the material related to Activation of cAMP and mitogen responsive genes that relies on a shared nuclear factor?,1,,1.118156877233488
+20399,P50,What author wrote Melanized dopaminergic neurons are differentially susceptible to degeneration in Parkinson's disease?,1,,1.2140018704337194
+20401,P50,"What individual composed Primary, Adaptive, and Acquired Resistance to Cancer Immunotherapy?",1,,0.9377167753880891
+20402,P50,What individual composed Sofosbuvir for hepatitis C genotype 2 or 3 in situations where no treatment is possible?,1,,0.9353608760721419
+20404,P50,What individual composed the updated guidelines from the International AIDS Society-USA Panel regarding antiretroviral therapy in grown-ups?,1,,0.9203356713368619
+20406,P50,What individual created the publication [MASK],1,,1.0980854165811096
+20407,P50,What individual is credited with authoring [MASK]?,1,,0.9118554480968792
+20412,P50,What individual is responsible for the report Morning surge in blood pressure as a predictor of silent and clinical cerebrovascular disease in elderly hypertensives: a prospective study?,1,,0.9231950308209957
+20413,P50,What individual is responsible for the writing of the piece on [MASK]?,1,,0.919447181889592
+20414,P50,What individual is the creator of [MASK],1,,0.9086249880479991
+20415,P50,What individual is the originator of [MASK]?,1,,0.9807908874313953
+20416,P50,What individual penned [MASK]?,1,,1.0399971360849607
+20417,P50,What individual published [MASK]?,1,,1.0327689609613722
+20418,P50,What individual wrote Alpha/beta interferon protecting against fatal West Nile virus through controlling cell tropism and fostering neuronal existence?,1,,0.920125347403262
+20419,P50,"What individual wrote Arterial and Cardiac Aging: Major Shareholders in Cardiovascular Disease Enterprises: Part I: Aging Arteries: A ""Set Up"" for Vascular Disease?",1,,1.2304059933624674
+20420,P50,What individual wrote Evidence based cardiology: psychosocial elements in the origin and prediction of coronary heart disease. Systematic audit of upcoming cohort studies?,1,,1.0586101754061408
+20421,P50,What individual wrote Kynurenines in the Central Nervous System: from neglected origin to therapeutic value?,1,,1.0618092686639384
+20400,P50,What creator of Melanized dopaminergic neurons are differentially susceptible to degeneration in Parkinson's disease can be identified?,1,,0.9035739413606042
+20398,P50,What author penned [MASK]?,1,,1.0303206742862048
+20473,P50,What writer is associated with the link between celiac disease and a certain HLA-DQ alpha/beta combination?,1,,0.9044595527958351
+20397,P50,What author is associated with [MASK]?,1,,1.0241955415249424
+20381,P50,Can you tell me who has authored [MASK]?,1,,0.9012833055546462
+20382,P50,From whom does [MASK] originate?,1,,0.9283619735045785
+20383,P50,Of whom is Sifting the Evidence-what's wrong with significance tests the work?,1,,0.9024882512755674
+20384,P50,To whom can we attribute the work [MASK]?,1,,0.9117806742459617
+20385,P50,To whom do we attribute [MASK]?,1,,0.9008489692867786
+20386,P50,To whom do we owe [MASK]?,1,,0.9726142241647351
+20387,P50,To whom does [MASK] owe its authorship?,1,0.869985358582728,0.869985358582728
+20388,P50,To whom does the book [MASK] belong?,1,,0.9161419315583661
+20389,P50,To whom does the credit for A comparison of immediate angioplasty with thrombolytic therapy for acute myocardial infarction go? The Primary Angioplasty in Myocardial Infarction Study Group?,1,,0.9268044834221676
+20390,P50,To whom does the work [MASK] belong?,1,,0.922755565400961
+20391,P50,To whom does the writing [MASK] belong?,1,,0.9042302161023275
+20392,P50,To whom is [MASK] ascribed?,1,,0.91823452621792
+20393,P50,To whom is the authorship of [MASK] ascribed?,1,,0.9309477781447669
+20395,P50,To whom should the Prospective study of heart rate variability and mortality in chronic heart failure: results of the United Kingdom heart failure evaluation and assessment of risk trial (UK-heart) be attributed?,1,,0.896353292671317
+20396,P50,What author created the work [MASK]?,1,,0.9143297296485964
+20422,P50,What individual wrote Melanized dopaminergic neurons are differentially susceptible to degeneration in Parkinson's disease?,1,,0.9079514370030997
+20423,P50,What individual wrote Perfusion imaging with NMR contrast agents?,1,,1.0592395037375033
+20424,P50,What individual wrote The Oxidant Stress Hypothesis in Parkinson's Disease: Evidence Supporting It?,1,,1.0249097379009109
+20425,P50,"What individual wrote Use of the SOFA score to evaluate the frequency of organ dysfunction/deterioration in ICUs: conclusions of a multi-site, forward-looking study. Working group on ""sepsis-related issues"" of the European Society of Intensive Care Medicine?",1,,0.8932863378039417
+20449,P50,What is the name of the person who penned [MASK]?,1,,1.051379813241603
+20450,P50,What is the name of the writer of [MASK]?,1,,1.0711688201685634
+20451,P50,What is the source of Melanized dopaminergic neurons are differentially susceptible to degeneration in Parkinson's disease?,1,,0.9015114593421595
+20455,P50,What person authored the paper on [MASK]?,1,,1.083523806843139
+20456,P50,What person created From blood-brain barrier to blood-brain interface: new opportunities for CNS drug delivery?,1,,0.9155881859963139
+20457,P50,What person created [MASK]?,1,,1.1262966022615475
+20458,P50,What person is credited with creating [MASK]?,1,,1.0007875222572507
+20461,P50,What person is the author of [MASK]?,1,,1.0412133622136086
+20463,P50,What person published [MASK]?,1,,0.8981178658986608
+20464,P50,What person wrote Human Induced Pluripotent Stem Cells as a Platform for Personalized and Precision Cardiovascular Medicine?,1,,1.0494192587342632
+20468,P50,What person wrote the report on the CD95 (APO-1/Fas) receptor and ligand's involvement in liver damage?,1,,1.0540820936281237
+20469,P50,What researcher is credited with the paper that provides evidence for a direct connection between celiac disease and a specific HLA-DQ alpha/beta duo?,1,,1.0480105972907723
+20470,P50,What researcher wrote the paper: A randomized comparison of coronary-stent placement and balloon angioplasty in the treatment of coronary artery disease? Stent Restenosis Study Investigators,1,,0.9947637138850033
+20471,P50,What scribe created Activation of cAMP and mitogen responsive genes that depends on a common nuclear element?,1,,1.1264047902560137
+20472,P50,What writer created the research paper entitled Morning surge in blood pressure as a predictor of silent and clinical cerebrovascular disease in elderly hypertensives: a prospective study?,1,,0.9187041844075333
+20448,P50,What is the name of the person who composed the paper [MASK]?,1,,0.975537976789025
+20447,P50,What is the name of the person who composed the Meta-analysis of prospective cohort studies examining the relationship between saturated fat and cardiovascular disease?,1,,0.9917739936323314
+20446,P50,What is the name of the people who wrote the study A randomized comparison of coronary-stent placement and balloon angioplasty in the treatment of coronary artery disease? Stent Restenosis Study Investigators,1,,1.0371383295610141
+20435,P50,What is the identity of the person who wrote [MASK]?,1,,1.1044773196404742
+20427,P50,"What individual wrote the paper, Involvement of the CD95 (APO-1/Fas) receptor and ligand in liver damage?",1,,1.0923801469544554
+20428,P50,What individual wrote the piece about the combination of the TEL gene to the AML1 gene in acute lymphoblastic leukemia?,1,,0.910760428753967
+20429,P50,What individual wrote the work called [MASK]?,1,,0.9946282281609231
+20430,P50,What is the author of Evidence based cardiology: psychosocial elements in the cause and prognosis of coronary heart disease. Systematic investigation of prospective cohort studies?,1,,1.1386005248545787
+20432,P50,What is the identity of the authors of A randomized comparison of coronary-stent placement and balloon angioplasty in the treatment of coronary artery disease? Stent Restenosis Study Investigators,1,,1.0036483629146027
+20433,P50,What is the identity of the individual who wrote Activation of cAMP and mitogen responsive genes that utilizes a unified nuclear factor?,1,,1.0703983635513252
+20436,P50,What is the identity of the writer of Human Induced Pluripotent Stem Cells as a Platform for Personalized and Precision Cardiovascular Medicine?,1,,1.0351629642276765
+20445,P50,What is the name of the individual who wrote the study about the tandemly repeated sequence at the extremities of the ribosomal RNA genes outside the chromosome in Tetrahymena?,1,,0.899576841557996
+20438,P50,What is the name of the author of Accumulation of abnormally phosphorylated tau before the formation of neurofibrillary tangles in Alzheimer's disease?,1,,1.0820406086012422
+20440,P50,What is the name of the author of the piece about how Glycogen synthase kinase-3 impacts mitochondrial outer membrane permeabilization and apoptosis due to the destabilization of MCL-1?,1,,1.1457738513231677
+20441,P50,What is the name of the author who composed Activation of cAMP and mitogen responsive genes that is founded on a mutual nuclear factor?,1,,1.0158932330487056
+20442,P50,What is the name of the individual behind [MASK]?,1,,0.916287731536646
+20443,P50,What is the name of the individual who created Human Induced Pluripotent Stem Cells as a Platform for Personalized and Precision Cardiovascular Medicine?,1,,1.0253811178038443
+20444,P50,What is the name of the individual who published Allergic rhinitis and its influence on asthma?,1,,1.0554211826309363
+20567,P50,Who composed the Meta-analysis of prospective cohort studies addressing the relationship between saturated fat and cardiovascular disease?,1,,0.9920467963168871
+20570,P50,Who composed the article about Aspirin plus dipyridamole compared to just Aspirin for those who experienced cerebral ischemia?,1,,1.163387133282989
+20758,P50,"Who is responsible for Buruli Ulcer, a Prototype for Ecosystem-Related Infection, Caused by Mycobacterium ulcerans?",1,,0.91912038150177
+20695,P50,"Who is behind the Serum 25-hydroxyvitamin D, diabetes, and ethnicity in the Third National Health and Nutrition Examination Survey?",1,,0.9233978131427656
+20699,P50,Who is credited for the authorship of [MASK]?,1,,1.0649511453764868
+20700,P50,Who is credited for the new guidelines for adult antiretroviral treatment as set out by the International AIDS Society-USA Panel?,1,,1.0371150294553448
+20702,P50,Who is credited for the publication of [MASK]?,1,,1.0486669999263147
+20704,P50,Who is credited for the writing about the CD95 (APO-1/Fas) receptor and ligand's role in liver damage?,1,,0.9881345416005834
+20707,P50,Who is credited with A method for estimating the chance of adverse drug reactions?,1,,1.0152513196282176
+20708,P50,Who is credited with A taxonomy of behavior change techniques used in interventions?,1,,1.0336387741782127
+20709,P50,Who is credited with Allergic rhinitis and its effect on asthma?,1,,0.8983800128013876
+20710,P50,"Who is credited with Arterial and Cardiac Aging: Major Shareholders in Cardiovascular Disease Enterprises: Part I: Aging Arteries: A ""Set Up"" for Vascular Disease?",1,,1.0627133788393064
+20711,P50,"Who is credited with Buruli Ulcer, a Prototype for Ecosystem-Related Infection, Caused by Mycobacterium ulcerans?",1,,1.1184264071924108
+20712,P50,Who is credited with Changes in the burden of malaria in sub-Saharan Africa?,1,,1.0582878522998982
+20713,P50,Who is credited with From blood-brain barrier to blood-brain interface: new opportunities for CNS drug delivery?,1,,0.899224738784925
+20714,P50,"Who is credited with Primary, Adaptive, and Acquired Resistance to Cancer Immunotherapy?",1,,0.9055220515620644
+20715,P50,Who is credited with Synthesis,1,,0.9138319708451119
+20716,P50,Who is credited with The Oxidant Stress Hypothesis in Parkinson's Disease: Evidence Supporting It?,1,,1.0012634658356474
+20717,P50,Who is credited with authoring Effect of Rosiglitazone on the Risk of Myocardial Infarction and Death from,1,,1.0174755773077135
+20696,P50,Who is behind the updated [MASK]?,1,,0.9780034848567885
+20693,P50,Who is behind The Oxidant Stress Hypothesis in Parkinson's Disease: Evidence Supporting It?,1,,0.8922827543393378
+20719,P50,Who is credited with authoring the book [MASK]?,1,,0.9379921138083002
+20692,P50,"Who is behind Sofosbuvir, a cure for hepatitis C genotype 2 or 3 for people who have no other options?",1,,1.10721056165639
+20671,P50,Who is accountable for the composition of Activation of cAMP and mitogen responsive genes that is based on a joint nuclear factor?,1,,0.8985989620573478
+20672,P50,Who is accountable for the composition of [MASK]?,1,,0.9279380583636272
+20673,P50,Who is accountable for the document Mutation of a nuclear succinate dehydrogenase gene producing mitochondrial respiratory chain deficit?,1,,1.1030570631883891
+20675,P50,Who is accountable for the publication of [MASK]?,1,,1.0320275478744254
+20676,P50,Who is acknowledged as the author of [MASK]?,1,1.0791948862165346,1.0791948862165346
+20678,P50,Who is attributed for the [MASK]?,1,,1.0106313325265228
+20680,P50,Who is attributed to penning the book [MASK]?,1,,0.9268568645557074
+20682,P50,Who is attributed to the authorship of the [MASK]?,1,,1.015440307835842
+20684,P50,Who is attributed with the creation of [MASK]?,1,,1.031172543839277
+20685,P50,Who is attributed with the work that implies 'new variant' CJD is a result of the BSE agent?,1,,1.0591339554992136
+20686,P50,Who is attributed with the writing of [MASK]?,1,,1.0085672538756776
+20687,P50,Who is attributed with writing Physiology and Pathophysiology in Ultra-Marathon Running?,1,,1.0438685788787534
+20689,P50,Who is attributed with writing the paper [MASK]?,1,,1.006182388856044
+20690,P50,Who is behind Changes in the burden of malaria in sub-Saharan Africa?,1,,0.9480301438672322
+20691,P50,Who is behind Melanized dopaminergic neurons are differentially susceptible to degeneration in Parkinson's disease?,1,,1.1019601089549067
+20718,P50,Who is credited with authoring Sifting the Evidence-what's wrong with significance tests?,1,,1.0014558096472308
+20720,P50,Who is credited with composing the text [MASK]?,1,,1.015167063012454
+20571,P50,Who composed the article covering the effects of mutant p53 characteristics on TP53 mutation patterns and tumor phenotype as evidenced by the new data in the IARC TP53 database?,1,,1.1377711885819344
+20740,P50,Who is credited with the production of [MASK]?,1,,1.0660218774241312
+20742,P50,Who is credited with the randomised control trial on Aspirin plus dipyridamole versus Aspirin alone following cerebral ischemia?,1,,1.0199143286306693
+20743,P50,Who is credited with the report on the ties between S-nitrosylation of Drp1 and the destruction of neurons due to beta-amyloid-related mitochondrial division?,1,,1.0529198020118957
+20744,P50,Who is credited with the research exploring the impact of mutant p53 properties on TP53 mutation patterns and tumor phenotype that is included in the most recent IARC TP53 database?,1,,0.9017785694198872
+20745,P50,Who is credited with the research linking Serum indoxyl sulfate and mortality issues among patients with chronic kidney disease?,1,,0.9015305995411149
+20746,P50,Who is credited with the study that suggests a primary connection between celiac disease and a given HLA-DQ alpha/beta pair?,1,,1.1154516498316778
+20747,P50,Who is credited with the tome [MASK]?,1,,1.0119169699496167
+20748,P50,Who is credited with the work [MASK]?,1,,0.9950772169626901
+20749,P50,Who is credited with the writing of Physiology and Pathophysiology in Ultra-Marathon Running?,1,,0.9832440555670712
+20750,P50,Who is credited with the writing of the paper that claims 'new variant' CJD is a consequence of BSE?,1,,0.9022220783144151
+20751,P50,Who is credited with writing the paper [MASK]?,1,,0.9083781716560947
+20753,P50,Who is known for [MASK]?,1,,0.9063528252103745
+20754,P50,Who is named as the author of [MASK]?,1,,1.041752387131881
+20755,P50,Who is responsible for A taxonomy of behavior change techniques used in interventions?,1,,0.9718949386607667
+20756,P50,Who is responsible for Accumulation of abnormally phosphorylated tau prior to the creation of neurofibrillary tangles in Alzheimer's disease?,1,,0.8932483768502764
+20757,P50,"Who is responsible for Arterial and Cardiac Aging: Major Shareholders in Cardiovascular Disease Enterprises: Part I: Aging Arteries: A ""Set Up"" for Vascular Disease?",1,,0.880040125202905
+20741,P50,Who is credited with the publication of [MASK]?,1,,1.000575082300998
+20739,P50,Who is credited with the paper on Multilocus sequence typing for categor,1,,0.9192897840636559
+20721,P50,Who is credited with creating A method for estimating the risk of adverse drug reactions?,1,,1.038518435667163
+20738,P50,Who is credited with the literature on the combination of the TEL gene to the AML1 gene in acute lymphoblastic leukemia?,1,,1.0194438159911352
+20722,P50,Who is credited with creating Evidence based cardiology: psychosocial aspects in the genesis and outcome of coronary heart disease. Systematic review of prospective cohort studies?,1,,0.9012235276598491
+20724,P50,Who is credited with creating the Meta-analysis of prospective cohort studies dealing with saturated fat and cardiovascular disease?,1,,1.015631788481777
+20725,P50,Who is credited with discovery of a dual specificity kinase that energizes the Jun kinases and p38-Mpk2?,1,,1.0348094275823239
+20726,P50,Who is credited with generating [MASK]?,1,,0.9146541095037316
+20727,P50,Who is credited with having written [MASK]?,1,,1.0011523380811806
+20728,P50,Who is credited with penning [MASK]?,1,,0.9893086994006389
+20729,P50,Who is credited with producing [MASK]?,1,,0.9812653238579822
+20730,P50,Who is credited with the BSACI regulations for treating allergic and non-allergic rhinitis?,1,,1.0884597829178255
+20731,P50,Who is credited with the TREVO 2 paper on the randomised trial examining the comparative effects of Trevo and Merci retrievers for thrombectomy revascularisation of large vessel occlusions in acute ischaemic stroke?,1,,1.0453064090613966
+20732,P50,"Who is credited with the article about the implications of administering methylprednisolone and tirilazad mesylate for 24 or 48 hours respectively to address acute spinal cord injuries, as found in the Third National Acute Spinal Cord Injury Randomized Controlled Trial?",1,,0.8958606884733741
+20733,P50,Who is credited with the article on the effects of Glycogen synthase kinase-3 on mitochondrial outer membrane permeabilization and apoptosis by undermining MCL-1?,1,,0.9030517966114507
+20734,P50,Who is credited with the authoring of the paper on the identification of a twofold specificity kinase that energizes the Jun kinases and p38-Mpk2?,1,,1.0279918120165028
+20735,P50,Who is credited with the creation of [MASK]?,1,,0.903888269756417
+20736,P50,"Who is credited with the formulation of Detection, isolation, and continuous production of cytopathic retroviruses (HTLV-III) for those with AIDS or pre-AIDS?",1,,1.0525874558008124
+20737,P50,Who is credited with the literature concerning the connection between S-nitrosylation of Drp1 and neuronal destruction resulting from beta-amyloid-related mitochondrial fission?,1,,1.053310517402199
+20670,P50,Who is accountable for the book Transmissions to mice claiming that the BSE virus is responsible for 'new variant' CJD?,1,,0.9362562193069094
+20669,P50,Who is accountable for the article on [MASK]?,1,,0.9013963270396071
+20668,P50,Who is accountable for the article discussing S-nitrosylation of Drp1 and its effects on mitochondrial division and neuron harm?,1,,1.0576309603960887
+20594,P50,Who composed the publication [MASK]?,1,,0.8963568033033747
+20596,P50,Who composed the study of the typical differences between the male and female adult human brain using MRI scans?,1,,1.1024673837037962
+20597,P50,Who composed the study on the identification of a double specificity kinase that energizes the Jun kinases and p38-Mpk2?,1,,1.0088268037725698
+20600,P50,Who composed the work Allergic rhinitis and its consequences on asthma?,1,,0.9290907688140536
+20601,P50,Who composed the work discussing the integration of the TEL gene to the AML1 gene in acute lymphoblastic leukemia?,1,,0.9249398016118028
+20602,P50,Who composed the work on Alpha/beta interferon providing a safeguard from lethal West Nile virus infestation by confining cellular tropism and boosting neuronal endurance?,1,,0.9296458497390828
+20603,P50,"Who composed the work on PEGylated DNA/transferrin-PEI complexes and their advantages, such as a decreased interaction with blood components, extended circulation in blood and the possibility for systemic gene delivery?",1,,0.9090083699979341
+20605,P50,"Who composed the work, Perfusion imaging with NMR contrast agents?",1,,0.9018218914593701
+20606,P50,Who conceived Spondyloarthritis?,1,,1.0304962826216577
+20607,P50,Who conceived the article Mutation of a nuclear succinate dehydrogenase gene causing mitochondrial respiratory chain insufficiency?,1,,1.0080586210281715
+20609,P50,Who constructed A taxonomy of behavior change techniques used in interventions?,1,,0.9989599378175523
+20611,P50,"Who crafted Use of the SOFA score to quantify the incidence of organ dysfunction/disorder in ICUs: outcomes of a multi-center, prospective study. Working group on ""sepsis-related matters"" of the European Society of Intensive Care Medicine?",1,,0.8907869035948811
+20613,P50,Who crafted the article examining the usual sex differences of the mature human brain with MRI?,1,,0.9143756684788437
+20616,P50,Who crafted the collection of poems [MASK]?,1,1.10994272064018,1.0314087375896943
+20617,P50,Who crafted the paper about the effects of Glycogen synthase kinase-3 on mitochondrial outer membrane permeabilization and apoptosis via weakening of MCL-1?,1,,0.9168234295557034
+20620,P50,Who created Oxidative Stress in Alzheimer's Disease?,1,,0.8953575098877876
+20595,P50,Who composed the study [MASK]?,1,,0.9184025574393986
+20593,P50,Who composed the play [MASK]?,1,0.9595816358736918,0.9595816358736918
+20666,P50,Who is accountable for Missing heritability and methods for unearthing the prime causes of complex disease?,1,,0.9684168160372534
+20592,P50,Who composed the piece stating that familial primary pulmonary hypertension is caused by genetic changes in the BMP receptor-II gene?,1,,0.9242797567932154
+20572,P50,Who composed the article exploring the correlation between Efavirenz plasma levels and treatment failure and CNS side effects in HIV-infected patients?,1,,1.0375210502570087
+20573,P50,Who composed the article on Glycogen synthase kinase-3 controlling mitochondrial outer membrane permeabilization and apoptosis with the destabilization of MCL-1?,1,,0.8982576017131934
+20574,P50,Who composed the article on Multilocus sequence typing for the identification of methicillin-resistant and methicillin-susceptible strains of Staphylococcus aureus?,1,,1.0976479572141158
+20575,P50,Who composed the article on the CD95 (APO-1/Fas) receptor and ligand's part in liver harm?,1,,0.9911358660264592
+20577,P50,Who composed the book on how [MASK] are linked?,1,,0.9700928368501243
+20578,P50,Who composed the document on the relationship between S-nitrosylation of Drp1 and beta-amyloid-related mitochondrial division and neuronal harm?,1,,1.0424631866707887
+20579,P50,"Who composed the literature on Serum 25-hydroxyvitamin D, diabetes, and ethnicity in the Third National Health and Nutrition Examination Survey?",1,,1.124808903184972
+20580,P50,Who composed the literature on [MASK]?,1,,1.1129078537563244
+20582,P50,Who composed the paper concerning the repeated sequence at the edges of the genes related to ribosomal RNAs outside the chromosome in Tetrahymena?,1,,0.9571350572722643
+20583,P50,Who composed the paper on Alpha/beta interferon acting as a barrier against lethal West Nile virus infection by confining cellular tropism and augmenting neuronal existence?,1,,0.9780264539934029
+20584,P50,Who composed the paper on PET imaging of serotonin 1A receptor binding and its connection to depression?,1,,0.9058135495980978
+20586,P50,"Who composed the paper, A putative chemokine receptor, BLR1, that points B cells to distinct lymphoid organs and particular compartments of the spleen?",1,,0.8982648129260022
+20587,P50,Who composed the piece Hereditary pancreatitis and the risk of pancreatic cancer from the International Hereditary Pancreatitis Study Group?,1,,0.9001692702768573
+20588,P50,Who composed the piece Melanized dopaminergic neurons are differentially susceptible to degeneration in Parkinson's disease?,1,,0.937856076486154
+20591,P50,Who composed the piece of writing that points out the relationship between Serum indoxyl sulfate and vascular problems and mortality in those with chronic kidney disease?,1,,0.9908557948490134
+20621,P50,Who created Spondyloarthritis?,1,,0.9020090668177371
+20622,P50,Who created The CONSORT statement: revised instructions to better the standard of reports of parallel group randomized trials?,1,,1.0313717451446622
+20623,P50,Who created Use of the SOFA score to assess the number of organ,1,,0.9229477250266941
+20625,P50,Who created the 3-Phosphoinositide-dependent protein kinase-1 (PDK1): similarity to the DSTPK61 kinase from Drosophila?,1,,0.894988413161379
+20647,P50,Who drafted Missing heritability and strategies for locating the core origins of complex disease?,1,,0.9052799582307003
+20648,P50,Who drafted the volume [MASK]?,1,,0.9424253756088559
+20649,P50,Who fashioned the piece [MASK]?,1,,1.0356168909607981
+20650,P50,Who formulated A taxonomy of behavior change techniques used in interventions?,1,,1.0379998759519813
+20651,P50,Who formulated Melanized dopaminergic neurons are different,1,,0.9263037993055327
+20652,P50,Who formulated The CONSORT statement: revised rules to boost the accuracy of parallel group randomized trials?,1,,0.982843896358299
+20653,P50,Who formulated the BSACI counsel for addressing allergic and non-allergic rhinitis?,1,,1.0617094660096191
+20654,P50,"Who formulated the PEGylated DNA/transferrin-PEI complexes and discovered the advantages, including a decrease in contact with blood elements, increased flow through the bloodstream and potential for systemic gene delivery?",1,,0.9152656565704084
+20655,P50,Who formulated the article Mutation of a nuclear succinate dehydrogenase gene bringing about mitochondrial respiratory chain deficiency?,1,,1.0079753467128754
+20656,P50,Who has authored A taxonomy of behavior change techniques used in interventions?,1,,1.0116381887426253
+20658,P50,Who has authorship of [MASK]?,1,,1.0538467298452887
+20660,P50,"Who has conducted a study of Synapsin I (Protein I), a nerve terminal-specific phosphoprotein and its association with synaptic vesicles in a highly refined preparation?",1,,1.0202722161522553
+20662,P50,"Who has the authorship of A subcortical pathway to the right amygdala dealing with ""unseen"" fear?",1,,0.9023483387972104
+20664,P50,Who has the credit for the writing of [MASK]?,1,,0.949686801529201
+20665,P50,Who is accountable for Accumulation of abnormally phosphorylated tau before the origin of neurofibrillary tangles in Alzheimer's disease?,1,,0.9005621282433545
+20644,P50,Who devised Selective stabilisation of developing synapses to mark out neuronal networks?,1,,1.0053695333684154
+20643,P50,Who developed the book [MASK]?,1,,1.0578461014033682
+20642,P50,"Who developed Sofosbuvir, created for hepatitis C genotype 2 or 3, when there are no other choices?",1,,1.0786543236878483
+20633,P50,Who created the paper on the comparison of direct angioplasty and thrombolytic therapy for acute myocardial infarction? The Primary Angioplasty in Myocardial Infarction Study Group?,1,,0.9970672419665864
+20626,P50,"Who created the TREVO 2 study on thrombectomy revascularisation of large vessel occlusions in acute ischaemic stroke, featuring Trevo and Merci retrievers?",1,,0.9027470999641398
+20628,P50,Who created the analysis of the use of stent positioning and balloon angioplasty for coronary artery illness? Stent Restenosis Study Investigators,1,,0.9135353746524496
+20629,P50,Who created the article describing the CD95 (APO-1/Fas) receptor and ligand's involvement in liver damage?,1,,1.0536552953560565
+20630,P50,Who created the book Atrial fibrosis: mechanisms and clinical relevance in atrial fibrillation?,1,,1.0066575197705616
+20631,P50,"Who created the concept of PEGylated DNA/transferrin-PEI complexes to take advantage of lower interaction with bodily fluids, extended movement in the blood and the capacity for systemic gene delivery?",1,,0.9292568310432198
+20632,P50,Who created the novel [MASK]?,1,,1.0349470562138678
+20634,P50,Who created the piece on the efficacy of administering methylprednisolone and tirilazad mesylate for 24 or 48 hours respectively to treat acute spinal cord injuries as presented in the Third National Acute Spinal Cord Injury Randomized Controlled Trial?,1,,0.9071880223643148
+20641,P50,Who designed [MASK]?,1,,1.0430897920326072
+20635,P50,Who created the publication [MASK]?,1,,1.0122379706830553
+20636,P50,Who created the trial that compared Aspirin plus dipyridamole to just Aspirin in patients with cerebral ischemia?,1,,1.0385805735550377
+20637,P50,Who created the work examining the combination of the TEL gene to the AML1 gene in acute lymphoblastic leukemia?,1,,0.931810017412634
+20638,P50,Who created the work examining the regular variations between male and female adult human brains with the help of MRI?,1,,0.9023914455247424
+20639,P50,Who created the work on [MASK]?,1,,1.1195342587190895
+20640,P50,Who designed The CONSORT statement: revised advice to increase the precision of parallel group randomized trials?,1,,0.9729212093046452
+21139,P50,Whose name is associated with the Prospective study of heart rate variability and mortality in chronic heart failure: results of the United Kingdom heart failure evaluation and assessment of risk trial (UK-heart)?,1,,0.9037111053978354

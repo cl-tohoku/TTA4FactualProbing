@@ -1,0 +1,537 @@
+,p,template,fact_id,effect_gold,effect_top
+24709,P937,Where is [MASK] employed?,244,,0.9697354084219267
+24777,P937,What is the site of [MASK]'s job?,159,,0.9802514863330318
+24885,P937,What is [MASK]'s job position?,127,,1.0268039628769885
+24712,P937,What is [MASK]'s place of employment?,107,,1.0049972368862692
+25216,P937,What is the main occupation of [MASK]?,96,,0.9992269805022874
+24714,P937,What is [MASK]'s occupation?,84,,1.0090578342433558
+25253,P937,What is the role of [MASK] in the workplace?,71,,1.020028577125371
+24798,P937,What is the nature of [MASK]'s employment?,70,,1.0066105415824194
+24717,P937,What is [MASK]'s place of work?,56,,0.9938287119242231
+24803,P937,What is the work setting of [MASK]?,54,,0.9512334574275582
+24716,P937,What is [MASK]'s line of work?,54,,0.976371497894162
+24718,P937,What is [MASK]'s profession?,38,,1.069276745780224
+24719,P937,What is the profession of [MASK]?,35,,1.0028570257084521
+24721,P937,What is the source of [MASK]'s income?,35,,0.9192300704236168
+24720,P937,What company does [MASK] work for?,33,,0.9627351954805444
+24722,P937,In what capacity does [MASK] work?,26,0.8925635053975892,1.0205711034795304
+25274,P937,What is the work position of [MASK]?,25,,0.9644310481726049
+24738,P937,What kind of job does [MASK] have?,25,,1.0065004370954538
+24724,P937,Where does [MASK] labor?,25,1.0486817670591109,0.9217537043526898
+24725,P937,Where does [MASK] make a living?,22,0.9899609725647015,0.9329437645991732
+24726,P937,What is [MASK]'s workplace?,22,0.9071429736058153,0.9876928063994885
+24728,P937,What kind of work does [MASK] do?,19,,0.9970639771885818
+24743,P937,What job does [MASK] do?,18,,1.0529770733860784
+24731,P937,In what capacity is [MASK] employed?,17,,0.8961382860182742
+24733,P937,What line of work is [MASK] in?,17,,0.9985424101305611
+24730,P937,In what capacity does [MASK] labor?,16,0.9037896897890038,1.0027061983221275
+24732,P937,What does [MASK] do for a living?,15,0.9358818741216701,0.9851716129647786
+24739,P937,What is the career of [MASK]?,14,,0.9560559752692608
+24736,P937,Where does [MASK] make his living?,14,,0.9210281525478726
+24744,P937,What is the location of [MASK]'s job?,13,,0.9592380438880908
+24755,P937,What is the professional role of [MASK]?,11,,1.0681661169966432
+24778,P937,What job does [MASK] hold?,10,,1.0520185005814473
+24748,P937,Where does [MASK] have his job?,9,2.1264780972118102,0.962765226429661
+24790,P937,What is [MASK]'s current position?,9,,0.9057031453905159
+24747,P937,Where does [MASK] have a job?,9,,0.9791518640361837
+24779,P937,What kind of employment does [MASK] have?,9,,1.0332851851784473
+24765,P937,What is the professional setting of [MASK]?,9,,0.9488518343925781
+24787,P937,In what field does [MASK] work?,8,,1.017444911242083
+24783,P937,Where does [MASK] spend his working hours?,8,,0.9181608116563935
+24768,P937,What occupation does [MASK] have?,8,,1.082828747552393
+24804,P937,What is the work site of [MASK]?,8,,0.9649239451214566
+24758,P937,Where is [MASK]'s workplace?,8,,0.9067159612219065
+24753,P937,What is [MASK]'s vocation?,8,,1.022843773172457
+24774,P937,What company is [MASK] employed by?,7,,1.0042928743615942
+24767,P937,What is the vocation of [MASK]?,7,,0.9630027202657939
+24761,P937,What is [MASK]'s place of business?,7,,0.9368482189181052
+24757,P937,Where is [MASK]'s place of employment?,7,1.0233980209676097,0.9367950415076566
+24752,P937,At what company does [MASK] work?,7,0.912831809551377,0.9830861182278297
+24795,P937,What is [MASK]'s work environment?,6,,0.9060377006489246
+24802,P937,What is the work environment for [MASK]?,6,,0.8976588919574461
+24771,P937,Where is [MASK] employed professionally?,6,0.9078697667183534,0.9906335661886146
+24766,P937,What is the source of [MASK]'s livelihood?,6,0.8800088275311222,0.8949355182736798
+24759,P937,What company employs [MASK]?,6,0.9290817144078961,0.9419368503041491
+24770,P937,Where does [MASK] toil?,6,2.2451584260311277,0.9809053303314909
+24769,P937,What type of work does [MASK] do?,6,,0.9801309929084089
+24785,P937,At what place is [MASK] employed?,5,,1.0464472445529256
+24832,P937,What is the location of [MASK]'s work?,5,,0.9917855311460382
+24838,P937,What is the source of [MASK]'s employment?,5,,0.9735345429940075
+24848,P937,Who is the employer of [MASK]?,5,,0.9013583374079843
+24855,P937,At what workplace is [MASK] employed?,5,,0.9841876533301009
+24870,P937,In what profession is [MASK] engaged?,5,,0.9347167025408238
+24782,P937,Where does [MASK] ply his trade?,5,,0.9007746054722828
+24823,P937,What is [MASK]'s professional life?,5,,1.0221477622359365
+24801,P937,What is the professional situation of [MASK]?,5,,0.9405756556223224
+24772,P937,At what job is [MASK] employed?,5,,1.0134090793694301
+24773,P937,In what capacity does [MASK] serve?,5,,0.9063193106260089
+24775,P937,What is [MASK]'s area of employment?,5,,0.9061089462005236
+24780,P937,Where can [MASK] be found working?,5,0.9168753329108391,0.901202064447068
+24781,P937,Where does [MASK] make her living?,5,0.9127156701276761,0.9311243361054569
+24894,P937,What is the business of [MASK]?,4,,0.9261786504223352
+24827,P937,What is the company where [MASK] works?,4,,0.883579435295582
+24876,P937,In which location is [MASK] employed?,4,,0.9164310526827781
+24849,P937,At what company is [MASK] employed?,4,,0.9271128901652623
+24843,P937,What organization does [MASK] work for?,4,,0.8913387223823626
+24831,P937,What is the line of work of [MASK]?,4,,0.911405471294671
+24896,P937,What is the company [MASK] works for?,4,,0.9294127273729398
+25194,P937,What is the employment place of [MASK]?,4,,0.939727863405168
+24791,P937,What is [MASK]'s employment situation?,4,,0.9510633414774159
+24794,P937,What is [MASK]'s professional position?,4,,1.0431347504049362
+24789,P937,What is [MASK]'s career?,4,0.9237480894032648,1.0723651170412651
+24816,P937,In what setting does [MASK] work?,4,,0.9722386936770068
+24786,P937,In what capacity does [MASK] operate?,4,,0.8724141070490659
+24810,P937,Where is [MASK]'s place of work?,4,,0.8897463820732238
+24805,P937,What is the work situation of [MASK]?,4,0.8877173606118801,0.9842651670215906
+24806,P937,What is the working environment of [MASK]?,4,0.8969013916136099,0.923710936408367
+24809,P937,Where is [MASK]'s office?,4,,0.9774716489908586
+24864,P937,In what kind of workplace is [MASK] employed?,3,,0.9689540629320316
+24865,P937,In what location does [MASK] have employment?,3,,0.9702521186230414
+24866,P937,In what occupation is [MASK] engaged?,3,,0.9866035192679236
+24867,P937,In what organization does [MASK] work?,3,,0.8982139315697841
+24811,P937,At which company is [MASK] employed?,3,,0.9250107391625049
+24872,P937,In what setting does [MASK] labor?,3,,0.9841043398751959
+24878,P937,In which workplace is [MASK] employed?,3,,1.075196704538084
+24826,P937,What is [MASK]'s work situation?,3,,0.9631913461102982
+24863,P937,In what job is [MASK] employed?,3,,1.0380194763723865
+24900,P937,What is the employment location of [MASK]?,3,,1.0822909222320842
+24829,P937,What is the job location for [MASK]?,3,,0.9099357273154643
+24904,P937,What is the job that [MASK] has?,3,,0.9642773539720886
+24907,P937,What is the name of the organization [MASK] works for?,3,,0.9478304349469875
+24909,P937,What is the professional activity of [MASK]?,3,,0.9593354645392397
+25397,P937,Where is Michael Mann currently employed?,3,,1.109223583266429
+24917,P937,What line of work does [MASK] engage in?,3,,0.922395859890838
+24953,P937,At what establishment is [MASK] employed?,3,,1.0125377145002725
+24929,P937,What type of job is [MASK] engaged in?,3,,1.065275927026498
+24890,P937,What is [MASK]'s professional situation?,3,,0.9057337345048374
+24880,P937,What industry does [MASK] work in?,3,,0.9160419468695897
+24860,P937,In what company is [MASK] employed?,3,,1.0206626475259741
+24822,P937,What is [MASK]'s employment location?,3,,0.9198105195426162
+24837,P937,What is the role of [MASK]?,3,,0.905221188409727
+24842,P937,What line of work does [MASK] pursue?,3,,0.9245427389407662
+24815,P937,In what occupation does [MASK] engage?,3,,0.9924742708955879
+24834,P937,What is the office of [MASK]?,3,0.8699281006593186,1.005838805257397
+24845,P937,What sort of work does [MASK] do?,3,,1.0239617377834789
+24846,P937,Where does [MASK] do his job?,3,1.292838000690558,1.1344261932904407
+24847,P937,Where is [MASK]'s professional home?,3,,0.932188920471842
+24817,P937,In which organization is [MASK] employed?,3,,1.1207017470582425
+24814,P937,In what location is [MASK] employed?,3,0.920834738384589,1.007484352319446
+24850,P937,At what job does [MASK] have?,3,,1.007124036468561
+24813,P937,In what job does [MASK] have?,3,,1.039820519303818
+24839,P937,What is the source of income for [MASK]?,3,,0.9054051114647718
+24853,P937,At what place does [MASK] have employment?,3,,1.1248529606016655
+24830,P937,What is the job site for [MASK]?,3,0.8972067769852169,0.8884173910325189
+24812,P937,In what job does [MASK] engage?,3,,0.9715929492407142
+24980,P937,At which place does [MASK] hold a job?,2,,0.9771919430843456
+24940,P937,Where is [MASK] based?,2,1.1624315023860403,1.0493135552324222
+24942,P937,Where is [MASK] making a living?,2,,0.9635240925989086
+24943,P937,Where is [MASK] occupied?,2,,0.9110878092825213
+25401,P937,Where is [MASK] active professionally?,2,,0.9131594010822458
+24983,P937,At which place is [MASK] employed?,2,,0.9850978632619821
+24944,P937,Where is [MASK]'s work located?,2,,0.9251631592052415
+24948,P937,Who employs [MASK]?,2,,0.8864167008871737
+24963,P937,At what organization does [MASK] have a job?,2,,0.9742465091450074
+24946,P937,Where was [MASK] employed?,2,0.8817583084961649,0.9128639545515043
+24947,P937,Which company employs [MASK]?,2,,0.9971079696395723
+25411,P937,Where is [MASK] in terms of employment?,2,,1.1442540820932523
+24978,P937,At which location is [MASK] employed?,2,,0.9207113368684394
+24974,P937,At where is [MASK] working?,2,,1.0408609421505464
+25393,P937,Where does [MASK] work at?,2,,1.124332985360898
+25419,P937,Where is [MASK]'s job located?,2,,1.100210029895243
+24945,P937,Where is the office of [MASK]?,2,1.0780311117891244,1.1337429547169129
+25369,P937,Where does [MASK] carry out her duties?,2,,0.938373604088119
+25386,P937,Where does [MASK] practice his trade?,2,,1.0407737500069079
+25014,P937,In what field is [MASK] employed?,2,,0.9667462816180332
+25229,P937,What is the nature of [MASK]' work?,2,,0.9917474394812904
+25228,P937,What is the name of the place of work for [MASK]?,2,,0.891552078863843
+25109,P937,What business is [MASK] involved in?,2,,1.0485325578771034
+25107,P937,What business is [MASK] employed by?,2,,0.8873399083277891
+25203,P937,What is the job site of Michael Mann?,2,,1.1035745906326961
+25283,P937,What job is [MASK] doing?,2,,1.0954203563777427
+25293,P937,What kind of position does [MASK] hold?,2,,0.8829224559170714
+25087,P937,In which place does [MASK] labor?,2,,1.0631184507592906
+25198,P937,What is the job [MASK] does?,2,,1.0420953930046248
+25076,P937,In which job does [MASK] hold a position?,2,,1.067846206328091
+24937,P937,Where does [MASK] make his career?,2,0.9185422013449771,1.038311957984514
+25062,P937,In what type of working environment is [MASK]?,2,,0.9379464127926218
+25331,P937,What was [MASK]'s job?,2,,1.0816458875201196
+25332,P937,What was [MASK]'s workplace?,2,,0.9276479184609943
+25335,P937,What was the [MASK]'s line of work?,2,,0.8968512963913557
+25053,P937,In what professional setting is [MASK] employed?,2,,0.9201063221457069
+25045,P937,In what position is [MASK] working?,2,,0.901073727994151
+25367,P937,Where does [MASK] allocate her working hours?,2,,0.8937351896306209
+25232,P937,What is the occupation for [MASK]?,2,,1.0049597897214688
+24938,P937,Where does [MASK] make his livelihood?,2,,1.0062466259750735
+24957,P937,At what job does [MASK] occupy?,2,,0.9645163376185382
+24936,P937,Where does [MASK] hold his job?,2,,0.9782056440758526
+24884,P937,What is [MASK]'s current employment?,2,0.8780924722590511,1.0026822950178638
+24912,P937,What is the work address of [MASK]?,2,,0.9171134811923405
+24911,P937,What is the trade of [MASK]?,2,,0.912372657068709
+24910,P937,What is the source of employment for [MASK]?,2,,1.109110541416749
+24908,P937,What is the place where [MASK] works?,2,,0.9060653896869574
+24905,P937,What is the job title of [MASK]?,2,,0.883871513880413
+24903,P937,What is the job place of [MASK]?,2,,0.9447231464180352
+24902,P937,What is the job address of [MASK]?,2,,0.9177845382848151
+24901,P937,What is the employment setting of [MASK]?,2,,0.9923903377759558
+24898,P937,What is the current employment of [MASK]?,2,,0.9004776359235486
+24895,P937,What is the business where [MASK] is employed?,2,,0.8937913092202825
+24893,P937,What is [MASK]'s work site?,2,0.8711050350608144,0.8871199448453964
+24935,P937,Where does [MASK] hold a position?,2,,0.9665682450722728
+24888,P937,What is [MASK]'s professional role?,2,,1.0938076012985527
+24886,P937,What is [MASK]'s livelihood?,2,,0.9366215319564408
+24881,P937,What is [MASK] employed as?,2,,0.976232621847938
+24918,P937,What occupation is [MASK] employed in?,2,,1.0516010107819946
+24879,P937,What does [MASK] do for work?,2,,0.9943069145855372
+24875,P937,In which job is [MASK] engaged?,2,,0.9262977715367025
+24874,P937,In which field is [MASK] employed?,2,0.9219190848649059,0.9768727495304776
+24873,P937,In which company is [MASK] employed?,2,,0.8855313471695836
+24869,P937,In what place does [MASK] labor?,2,,0.9077042721715874
+24868,P937,In what organization is [MASK] employed?,2,,0.8939621713378543
+24862,P937,In what job does [MASK] labor?,2,,0.9127900670536616
+24861,P937,In what institution is [MASK] employed?,2,,1.1201259583386474
+24859,P937,In what company does [MASK] work?,2,,1.0379461597796582
+24858,P937,In what capacity does [MASK] toil?,2,,1.003746044727374
+24857,P937,At which place does [MASK] labor?,2,,0.8944106938814093
+24856,P937,At which company does [MASK] work?,2,,1.1193308327430402
+24854,P937,At what place does [MASK] work?,2,,1.1765917150341827
+24852,P937,At what job does [MASK] work?,2,,1.023269404293664
+24916,P937,What line of work does [MASK] do?,2,,1.102287029718992
+24889,P937,What is [MASK]'s professional setting?,2,,1.0092712444389462
+24919,P937,What organization is [MASK] affiliated with?,2,,0.9449477096748846
+24920,P937,What organization is [MASK] employed by?,2,,1.0766708768696527
+24924,P937,What sort of employment does [MASK] have?,2,,1.167172280235259
+24923,P937,What profession does [MASK] pursue?,2,0.9610303571336061,1.0662465379723447
+24922,P937,What place of work does [MASK] have?,2,,0.9176873451399872
+24925,P937,What sort of employment does [MASK] pursue?,2,0.9577825918972525,1.0104828255959348
+24927,P937,What type of employment does [MASK] have?,2,0.9274206959856233,1.089679661669087
+24921,P937,What place of employment does [MASK] have?,2,,1.2011235291754363
+24928,P937,What type of job does [MASK] have?,2,,1.2220219255648055
+24926,P937,What sort of job does [MASK] have?,2,0.9031901389145719,1.0482131356232562
+24934,P937,Where does [MASK] hold a job?,2,,1.0046453485968336
+24930,P937,What type of work does [MASK] engage in?,2,,0.9662089907571476
+25432,P937,Which company does [MASK] work for?,1,,0.937978229091779
+25289,P937,What kind of establishment does [MASK] work at?,1,,0.9048116521201611
+25287,P937,What kind of employment does [MASK] engage in?,1,0.9168548904965721,0.9168548904965681
+25285,P937,What kind of career does [MASK] pursue?,1,,1.0882094760799734
+25284,P937,What job is [MASK] working?,1,,1.1329558305105378
+25313,P937,What place of employment is [MASK] associated with?,1,,0.8675560551121211
+25436,P937,Which workplace does [MASK] work in?,1,,1.16756871032988
+25315,P937,What position is [MASK] employed in?,1,,0.9113002768504302
+25282,P937,What job has [MASK] taken up?,1,,1.3032498686000362
+25437,P937,Who does [MASK] work for?,1,,0.8691634159922798
+25280,P937,What job did [MASK] have?,1,,0.9195688266152846
+25279,P937,What is the workplace of Michael Mann?,1,,0.9061778812205742
+25275,P937,What is the work premises of [MASK]?,1,,1.0457116433739515
+25438,P937,Who is [MASK] employed by?,1,,0.9072241291356998
+25272,P937,What is the work establishment of [MASK]?,1,,0.8912769618766571
+25288,P937,What kind of employment does [MASK] hold?,1,,1.0233303236019236
+25434,P937,Which job has [MASK] taken up?,1,,0.9277008649597175
+25308,P937,What organization does [MASK] have employment with?,1,,0.9249671870175815
+25301,P937,What occupation does [MASK] carry out?,1,,0.937046783154196
+25309,P937,What organization employs [MASK]?,1,,0.9301198780473745
+25306,P937,What organization does [MASK] belong to?,1,,0.912671093613055
+25304,P937,What occupation has [MASK] taken on?,1,,0.9298755502322934
+25310,P937,What organization is [MASK] associated with?,1,,0.9169198537988092
+25303,P937,What occupation does [MASK] pursue?,1,,0.9321096731047824
+25302,P937,What occupation does [MASK] do?,1,,1.2193762467963976
+25300,P937,What milieu was [MASK]'s studio?,1,0.8740325498028644,0.8740325498028647
+25294,P937,What kind of territory does the [MASK] cover?,1,,0.8773230524500266
+25298,P937,What line of work does [MASK] practice?,1,,0.9365906326033392
+25311,P937,What place of business is [MASK] located in?,1,,0.9164019424938843
+25270,P937,What is the work area of [MASK]?,1,1.07371018907862,0.8976959121681503
+25312,P937,What place of employment does [MASK] hold?,1,,0.9140839897975802
+25297,P937,What kind of work is [MASK] engaged in?,1,,0.9226722846007804
+25295,P937,What kind of work did [MASK] do?,1,0.920385302371314,0.920385302371314
+25271,P937,What is the work atmosphere for [MASK]?,1,0.8841439887070937,0.8841439887070938
+25262,P937,What is the situation of [MASK]'s job?,1,,0.9006962691652133
+25269,P937,What is the work [MASK] does?,1,,0.9354060774130718
+25268,P937,What is the venue of [MASK]'s craft?,1,,0.8990591254944423
+25226,P937,What is the name of the place [MASK] is employed?,1,,0.8831562169072592
+25225,P937,What is the name of the establishment where [MASK] works?,1,,0.9089263973173527
+25220,P937,What is the name of the business [MASK] works for?,1,,0.8757160409707005
+25219,P937,What is the name of [MASK]'s employer?,1,,0.837886600468196
+25218,P937,What is the name of [MASK]'s current workplace?,1,,1.0258565067693795
+25212,P937,What is the location of [MASK]'s labors?,1,,1.2429561493797665
+25209,P937,What is the location of Michael Mann's employment?,1,,0.9371168481549818
+25208,P937,What is the locale of [MASK]'s production?,1,,1.2487085381117398
+25207,P937,What is the line of work in which [MASK] is employed?,1,,1.098280208852734
+25206,P937,What is the job that [MASK] is involved in?,1,,1.0553340405529563
+25205,P937,What is the job that [MASK] holds?,1,,0.9058580079610578
+25201,P937,What is the job environment of [MASK]?,1,,0.9027134106320346
+25200,P937,What is the job [MASK] is engaged in?,1,,1.1008947722129667
+25197,P937,What is the environment in which [MASK] works?,1,,0.9116878303982663
+25196,P937,What is the employment venue of [MASK]?,1,,0.9136078725868337
+25233,P937,What is the occupation place of [MASK]?,1,,0.915765755668437
+25234,P937,What is the occupational station of [MASK]?,1,,0.9006169824787954
+25240,P937,What is the place of toil for [MASK]?,1,0.8871061569224505,0.8871061569224508
+25252,P937,What is the professional status of [MASK]?,1,,0.9421207803070136
+25266,P937,What is the spot of employment for [MASK]?,1,1.1906389937586968,0.8729567134895975
+25265,P937,What is the source of [MASK]'s remuneration?,1,,0.8976756800913329
+25318,P937,What profession does [MASK] practice?,1,,0.9072604729196118
+25259,P937,What is the site of [MASK]'s creation?,1,,0.9355414018730935
+25256,P937,What is the scope of the [MASK]'s responsibilities?,1,,1.50313943342855
+25254,P937,What is the role of [MASK]'s current occupation?,1,,1.3108445785686875
+25251,P937,What is the professional sphere that [MASK] operates in?,1,,0.8815246123400252
+25241,P937,What is the place where [MASK] spends his working hours?,1,0.9136143018841881,0.9387764169860526
+25250,P937,What is the professional role occupied by [MASK]?,1,,1.202803638042354
+25247,P937,What is the professional location of [MASK]?,1,,0.9335593320464487
+25246,P937,What is the professional environment of [MASK]?,1,,0.8947367489401592
+25245,P937,What is the professional background of [MASK]?,1,,0.9194596457469032
+25244,P937,What is the professional affiliation of [MASK]?,1,,0.9006591077277787
+25243,P937,What is the present occupation of [MASK]?,1,,1.1570635459205907
+25317,P937,What profession does [MASK] have?,1,,0.9685713680169317
+25431,P937,Which business is [MASK] employed by?,1,,0.8931024364845269
+25319,P937,What role does [MASK] have in the working world?,1,,0.9285493100697817
+25422,P937,Where is [MASK]'s place of business?,1,,0.9355278704832374
+25382,P937,Where does [MASK] have a career?,1,,0.9173174442153732
+25381,P937,Where does [MASK] get his paycheck?,1,,0.9033097032432038
+25380,P937,Where does [MASK] gain employment?,1,,0.9138904627000436
+25379,P937,Where does [MASK] fit into the workforce?,1,,0.8860445492334666
+25378,P937,Where does [MASK] find employment?,1,0.8962198436894179,0.8962198436894179
+25377,P937,Where does [MASK] exercise his trade?,1,,0.9228593717740056
+25376,P937,Where does [MASK] earn his income?,1,,0.8816931496497682
+25375,P937,Where does [MASK] earn a paycheck?,1,,0.9115157316990009
+25384,P937,Where does [MASK] have his/her career?,1,,1.246929454194807
+25374,P937,Where does [MASK] earn a living?,1,,0.9051185310213997
+25373,P937,Where does [MASK] draw his salary from?,1,,0.8902992034880084
+25372,P937,Where does [MASK] carry out his work?,1,1.139253040058713,1.139253040058713
+25370,P937,Where does [MASK] carry out his activities?,1,,1.0614443991507663
+25423,P937,Where is [MASK]'s professional position?,1,,1.0696303192865326
+25424,P937,Where is [MASK]'s seat of employment?,1,,0.8916385317306663
+25366,P937,Where did the [MASK] toil?,1,,0.8993377025764343
+25383,P937,Where does [MASK] have her job?,1,,0.8792793982757573
+25421,P937,Where is [MASK]'s occupation?,1,0.9146622105081083,0.9146622105081064
+25364,P937,Where did [MASK] work on his masterpieces?,1,0.9820389546871298,1.1675372055649285
+25402,P937,Where is [MASK] an active worker?,1,,0.8783825607161397
+25410,P937,Where is [MASK] holding down a job?,1,,0.9529137536612493
+25409,P937,Where is [MASK] engaged in professional duties?,1,,1.279146145091021
+25415,P937,Where is [MASK] putting in his time?,1,0.9242239005532247,0.9242239005532242
+25406,P937,Where is [MASK] employed in a professional capacity?,1,,0.933920034709112
+25405,P937,Where is [MASK] earning his livelihood?,1,,0.8750244389055221
+25404,P937,Where is [MASK] carrying out his professional duties?,1,,0.9159426809800759
+25403,P937,Where is [MASK] carrying out his job?,1,1.3117868689962078,0.91712668900526
+25417,P937,Where is [MASK]'s career?,1,,0.9564210110095245
+25388,P937,Where does [MASK] pursue his livelihood?,1,,1.1475876536895917
+25400,P937,Where is [MASK] a member of the workforce?,1,,0.9068931306752065
+25396,P937,Where has [MASK] been employed?,1,,0.8879300322597764
+25395,P937,Where does the [MASK] render service?,1,,0.8931089691097688
+25418,P937,Where is [MASK]'s center of activity?,1,,0.8832258219911681
+25391,P937,Where does [MASK] spend his workdays?,1,0.8827526212627456,0.8827526212627433
+25390,P937,Where does [MASK] receive his wages?,1,,0.8923227459159155
+25389,P937,Where does [MASK] put in his hours?,1,,0.9034414713319789
+25365,P937,Where did the [MASK] function?,1,,0.9198358511975416
+25363,P937,Where did [MASK] practice his painting?,1,0.9332531183215054,1.1720177511842147
+25414,P937,Where is [MASK] professionally located?,1,,0.9366296867127527
+25328,P937,What type of employment is [MASK] doing?,1,,0.8833868428241942
+25333,P937,What was the [MASK]'s employment?,1,,1.11950510238916
+25428,P937,Where is the employment of [MASK]?,1,,0.9195467226605022
+25429,P937,Where is the job of [MASK]?,1,,1.1729431517441857
+25430,P937,Where is the workplace of [MASK]?,1,,0.9163864379388198
+25330,P937,What vocation does [MASK] pursue?,1,,0.9762698999160633
+25193,P937,What is the daily job for [MASK]?,1,,1.0631414232238954
+25329,P937,What type of position does [MASK] hold?,1,,0.9075575293476245
+25327,P937,What type of employment does [MASK] pursue?,1,,0.9979633664474846
+25336,P937,What was the [MASK]'s occupation?,1,,0.8885764178665966
+25326,P937,What type of career has [MASK] chosen?,1,,0.9669664441325362
+25325,P937,What type of career does [MASK] pursue?,1,,0.989183874646813
+25324,P937,What type of business does [MASK] participate in?,1,,0.9497221128050184
+25323,P937,What sort of work does [MASK] carry out?,1,,0.9023402642554939
+25322,P937,What sort of job does [MASK] occupy?,1,0.9215502301322076,0.9215502301322076
+25321,P937,What sort of career does [MASK] pursue?,1,,1.158793157690745
+25320,P937,What role does [MASK] have?,1,,0.8616001181896091
+25426,P937,Where is [MASK]'s working environment?,1,,0.9407817263045388
+25338,P937,What was the job of [MASK]?,1,0.9012557579677326,0.9012557579677326
+25362,P937,Where did [MASK] practice his craft?,1,1.1884386359986918,1.1884386359986918
+25351,P937,What workplace does [MASK] inhabit?,1,,0.9090058362529377
+25361,P937,Where did [MASK] make his living?,1,,0.8916492039760405
+25360,P937,Where did [MASK] have his career?,1,0.9093100211414946,0.9093100211414946
+25359,P937,Where did [MASK] earn his wages?,1,,0.9083784106143394
+25358,P937,Where did [MASK] create his artwork?,1,1.2039163051052362,1.0039824380331621
+25357,P937,Where can one find [MASK] at work?,1,0.8895672989029237,0.9092600490613187
+25354,P937,What's [MASK]'s job title?,1,,0.8785201405506492
+25352,P937,What workplace is [MASK] associated with?,1,,0.8832275837635991
+25350,P937,What workplace does [MASK] hold?,1,,0.904913461625051
+25341,P937,What was the site of [MASK]'s artistic production?,1,1.0954328715588828,0.9716757286207415
+25349,P937,What workplace does [MASK] have?,1,,0.9273688645577327
+25425,P937,Where is [MASK]'s work station?,1,0.9106135300091303,0.9106135300091271
+25348,P937,What workplace does [MASK] frequent?,1,,0.9143283219038204
+25347,P937,What working environment does [MASK] inhabit?,1,,0.9116556122281129
+25345,P937,What was the workspace for [MASK]?,1,0.9028087350104732,0.9922244839129127
+25343,P937,What was the venue of [MASK]'s paintings?,1,0.9790868971360066,1.0649394089935447
+25342,P937,What was the venue for [MASK]'s work?,1,1.1505177616229947,1.1505177616229947
+25385,P937,Where does [MASK] occupy a position?,1,,0.9300433162434918
+25064,P937,In what workplace does [MASK] labor?,1,,0.8494263312767961
+25192,P937,What is the current workspace of [MASK]?,1,,1.2180068987436388
+25022,P937,In what job is [MASK] occupied?,1,,0.9012827565122521
+25035,P937,In what location does [MASK] work?,1,,0.9607001202637756
+25034,P937,In what location does [MASK] toil?,1,,1.0060457464872152
+25033,P937,In what location does [MASK] labor?,1,,0.8948184242232017
+25032,P937,In what location does Michael Mann work?,1,,0.9052914347858134
+25031,P937,In what location did [MASK] carry out his art?,1,0.931639825421001,1.053723179938359
+25029,P937,In what kind of workplace does [MASK] work?,1,,0.8712223886991726
+25027,P937,In what kind of organization does [MASK] labor?,1,,0.904852143620725
+25025,P937,In what kind of job does [MASK] partake?,1,,1.119663055440376
+25020,P937,In what job does [MASK] work?,1,,1.2480527956018286
+25037,P937,In what occupation does [MASK] participate?,1,,1.087327427414346
+25019,P937,In what job does [MASK] toil?,1,,0.9271145824932754
+25018,P937,In what job does [MASK] spend his days?,1,,0.9351124053777237
+25017,P937,In what job does [MASK] participate?,1,,1.2443034516306786
+25013,P937,In what field does [MASK]'s employment lie?,1,,0.9656383383053712
+25012,P937,In what field does [MASK] toil?,1,,1.1282899141009954
+25011,P937,In what field does [MASK] practice?,1,,0.909631227665782
+25010,P937,In what field does [MASK] ply his trade?,1,,0.9206022221351113
+25009,P937,In what field does [MASK] operate?,1,,0.9039457780019297
+25036,P937,In what locations does the [MASK] serve?,1,,0.8790256190804928
+25038,P937,In what occupation is [MASK] involved?,1,,0.8744718604269673
+25006,P937,In what environment does the [MASK] operate?,1,,0.9301320375666975
+25051,P937,In what profession is [MASK] employed?,1,,1.0106899922434933
+25063,P937,In what work environment is [MASK] employed?,1,,0.9062842573500173
+25061,P937,In what type of job is [MASK] involved?,1,,0.9203984800633123
+25059,P937,In what setting does [MASK] operate?,1,,0.9060674629903993
+25058,P937,In what setting does [MASK] have employment?,1,,0.8993090069863664
+25057,P937,In what setting did [MASK] paint?,1,0.8505777940050608,0.8505777940050611
+25056,P937,In what sector does [MASK] work?,1,,0.9394093945789292
+25055,P937,In what sector does [MASK] labor?,1,,0.9289592903595681
+25054,P937,In what regions does the [MASK] provide assistance?,1,,0.9031016894650017
+25049,P937,In what profession is [MASK] active?,1,,0.905430244598135
+25039,P937,In what place does [MASK] conduct his business?,1,,0.9054817529125267
+25048,P937,In what profession does [MASK] make a living?,1,,1.0149937493968102
+25047,P937,In what profession does [MASK] engage?,1,,0.9086094980012396
+25046,P937,In what profession does [MASK] devote his time to?,1,0.9457886669255173,0.9457886669255171
+25044,P937,In what position does [MASK] serve?,1,,0.8849067521611803
+25043,P937,In what place of work is [MASK]?,1,,0.8942555895495649
+25042,P937,In what place is [MASK] employed?,1,0.9959518749956688,0.9959518749956688
+25041,P937,In what place does [MASK] toil?,1,,0.8838507353253787
+25040,P937,In what place does [MASK] ply his trade?,1,1.252489725390662,1.0573404090582295
+25007,P937,In what establishment does [MASK] labor?,1,0.881956227795313,0.8819562277953098
+25005,P937,In what environment does [MASK] work?,1,,1.0870636873906963
+25189,P937,What is the current place of work for Michael Mann?,1,,0.8967831236486153
+24962,P937,At what location does [MASK] report to?,1,,0.8995886347871178
+24975,P937,At which institution is [MASK] employed?,1,,0.9206320393621605
+24973,P937,At what workplace is [MASK] situated?,1,,0.9012456753373463
+24972,P937,At what workplace does [MASK] operate?,1,,0.884753672405061
+24971,P937,At what profession is [MASK] engaged?,1,,1.0031050210636285
+24970,P937,At what position did [MASK] hold?,1,,0.9295136454641739
+24969,P937,At what place of employment is [MASK]?,1,,0.9033883317129143
+24967,P937,At what place does [MASK] labor?,1,,0.8991571471214069
+24965,P937,At what organization is [MASK] a member of staff?,1,,0.9512524627544032
+24961,P937,At what location does [MASK] perform his tasks?,1,0.8677159703807314,0.8677159703807314
+24977,P937,At which job is [MASK] employed?,1,,0.974252500171976
+24960,P937,At what location does [MASK] labor?,1,,0.8837208444186928
+24958,P937,At what job does [MASK] spend his time?,1,0.9301375304049,0.9301375304048946
+24956,P937,At what job does [MASK] labor?,1,,0.9437350435543754
+24955,P937,At what firm does [MASK] labor?,1,,0.8613994695492443
+24954,P937,At what facility does [MASK] labor?,1,,1.1832825936633398
+24951,P937,At what company does [MASK] labor?,1,0.9161712350120534,0.916171235012035
+24950,P937,At what company does [MASK] have a role?,1,,0.9158491345568491
+24949,P937,At what business does [MASK] work?,1,,1.5001049572104934
+24976,P937,At which job does [MASK] toil?,1,,0.8850926956753661
+24979,P937,At which location is [MASK] occupying a job?,1,,0.916248643044576
+25004,P937,In what environment does [MASK] labor?,1,,0.8963161990109485
+24994,P937,In what capacity does [MASK] find employment?,1,,0.9195196793762817
+25003,P937,In what environment did [MASK] create his art?,1,1.231093896265597,1.231093896265597
+25002,P937,In what employment site does [MASK] work?,1,0.9133732200978064,0.9133732200978074
+25001,P937,In what corporation does [MASK] function?,1,,0.9472220390745197
+25000,P937,In what context is [MASK] employed?,1,,0.8917266721941703
+24998,P937,In what company does [MASK] labor?,1,,0.8925794065943772
+24997,P937,In what company does [MASK] have employment?,1,,0.9777339373362526
+24996,P937,In what career does [MASK] participate?,1,,0.9320022019463944
+24995,P937,In what capacity does [MASK] make his living?,1,,1.1180389697738033
+24993,P937,In what capacity did the [MASK] labor?,1,,1.237672626461855
+24981,P937,At which place does [MASK] toil?,1,,0.9366356505883163
+24992,P937,In what business is [MASK] employed?,1,,0.9381236431410467
+24991,P937,In what business does [MASK] operate?,1,,0.9031333755629514
+24990,P937,In what area does [MASK] labor?,1,,0.9162767366172154
+24989,P937,In what area did [MASK] spend his time?,1,,0.8998456139307675
+24988,P937,How is [MASK] employed?,1,,0.8780142974400813
+24987,P937,How does [MASK] make a living?,1,,1.3515013106020568
+24985,P937,At which workplace does [MASK] labor?,1,,0.897040119096741
+24982,P937,At which place does [MASK] work?,1,,0.8847118949556553
+25065,P937,In what workplace is [MASK] based?,1,,1.2588196861059446
+25067,P937,In what workplace is [MASK] engaged?,1,0.9095125925459187,0.9095125925459006
+25068,P937,In which capacity does [MASK] serve?,1,,0.8903999810456166
+25141,P937,What is [MASK]'s current employer?,1,,1.0914666085569327
+25152,P937,What is [MASK]'s line of employment?,1,,1.012736579922767
+25151,P937,What is [MASK]'s field of work?,1,,1.1490545016833806
+25150,P937,What is [MASK]'s field of employment?,1,,1.0000831939343486
+25149,P937,What is [MASK]'s employment status?,1,,1.2213219715850612
+25148,P937,What is [MASK]'s employment setting?,1,,0.9220377886598042
+25147,P937,What is [MASK]'s current work?,1,,0.9451518559919503
+25146,P937,What is [MASK]'s current role?,1,,0.8939197946953527
+25144,P937,What is [MASK]'s current professional capacity?,1,,1.132316594276477
+25138,P937,What is [MASK]'s business activity?,1,,0.9444693150168072
+25154,P937,What is [MASK]'s occupational situation?,1,,0.9805497829463071
+25137,P937,What is [MASK]'s area of work?,1,,0.9274766959667478
+25130,P937,What is [MASK] doing for a living?,1,,0.9721146435715963
+25129,P937,What institution does [MASK] work for?,1,,1.0044023206390165
+25128,P937,What institution does [MASK] labor for?,1,,0.899659076324558
+25127,P937,What institution does [MASK] hold a position at?,1,,0.9304174653788672
+25126,P937,What industry is [MASK] engaged in?,1,,1.597827337780007
+25123,P937,What establishment does [MASK] toil in?,1,,1.122149021491942
+25121,P937,"What employment is Richard FitzWilliam, Seventh Viscount, involved in?",1,,0.89145218310298
+25153,P937,What is [MASK]'s occupational role?,1,,0.9309206919956872
+25155,P937,What is [MASK]'s office?,1,,0.9125712720823637
+25069,P937,In which company does [MASK] have a job?,1,,1.012904861435414
+25175,P937,What is the area of employment for [MASK]?,1,,0.955284745716841
+25188,P937,What is the current place of employment for Michael Mann?,1,,1.0206911433739474
+25187,P937,What is the current field of business for [MASK]?,1,,1.1458690772386098
+25185,P937,What is the context of [MASK]'s job?,1,0.9013701262830208,0.9013701262830207
+25184,P937,What is the company that [MASK] is working for?,1,,1.1104369077142293
+25183,P937,What is the company of [MASK]?,1,,0.9330228943400816
+25179,P937,What is the business that [MASK] is employed at?,1,,0.8839339130041286
+25178,P937,What is the business for which [MASK] works?,1,,0.9272482335519191
+25176,P937,What is the area of operation for the [MASK]?,1,,0.9132824121558519
+25174,P937,What is the area in which [MASK] produces his art?,1,,1.217465024409504
+25156,P937,What is [MASK]'s present employment?,1,,0.9049918832561752
+25173,P937,What is the area in which [MASK] is employed?,1,0.9086763076552343,0.9086763076552343
+25165,P937,What is [MASK]'s work setting?,1,,0.905249434123544
+25164,P937,What is [MASK]'s work address?,1,,0.9073754876897262
+25163,P937,What is [MASK]'s role in the working world?,1,,0.8776213014723779
+25162,P937,What is [MASK]'s professional sphere?,1,0.8840165866665269,0.8840165866665255
+25159,P937,What is [MASK]'s professional environment?,1,0.8899281128103093,0.8899281128103086
+25158,P937,What is [MASK]'s professional affiliation?,1,,0.9033339380324032
+25157,P937,What is [MASK]'s professional activity?,1,,1.2241930500924494
+25120,P937,What domain does the [MASK] administer?,1,,0.9433061495816638
+25119,P937,What did the [MASK] do for a living?,1,,1.0840890546747408
+25118,P937,What company or organization is [MASK] working for?,1,,0.9230098272235034
+25081,P937,In which occupation does [MASK] engage?,1,,0.9817047407686206
+25091,P937,In which role does [MASK] work?,1,,0.8992668666109368
+25090,P937,In which role does [MASK] have employment?,1,,1.0576313829581456
+25089,P937,In which profession is [MASK] employed?,1,,0.9233104127736659
+25086,P937,In which place does [MASK] have employment?,1,,0.885122885294037
+25085,P937,In which organization does [MASK] work?,1,,0.89221621370345
+25084,P937,In which organization does [MASK] perform his job?,1,,1.118767896240922
+25083,P937,In which organization does [MASK] have employment?,1,,1.1101050423073315
+25082,P937,In which organization does [MASK] have a job?,1,,0.9011713580916607
+25080,P937,In which location does [MASK] have a job?,1,,0.9485398522106712
+25116,P937,What company or institution employs [MASK]?,1,,0.8983040471560952
+25079,P937,In which job does [MASK] work?,1,,1.268219994008323
+25078,P937,In which job does [MASK] toil?,1,,0.9068242055565816
+25075,P937,In which job does [MASK] have a role?,1,,0.8738761462920984
+25074,P937,In which industry does [MASK] work?,1,,0.9235934956394543
+25073,P937,In which field of work is [MASK] engaged?,1,,0.9547700937799727
+25072,P937,In which establishment does [MASK] hold employment?,1,,0.9112538591436401
+25071,P937,In which environment does [MASK] work?,1,0.890722382717711,0.8907223827176987
+25070,P937,In which company does [MASK] work?,1,,0.9518042579127917
+25092,P937,In which setting does [MASK] labor?,1,,0.9014164717148007
+25093,P937,In which setting does [MASK] operate?,1,,0.9058876048754205
+25094,P937,In which workplace is [MASK] functioning?,1,,1.237741941007436
+25095,P937,To what kind of labor does [MASK] dedicate himself?,1,0.8787175819296692,0.8787175819296695
+25115,P937,What company is [MASK] employed with?,1,,0.910387278032513
+25113,P937,What company is [MASK] affiliated with?,1,,0.900329333966885
+25112,P937,What company does [MASK] have employment with?,1,,1.039740697718049
+25111,P937,What company does [MASK] call his workplace?,1,,0.8979313390491576
+25110,P937,What career does [MASK] have?,1,,1.0814731861358817
+25108,P937,What business is [MASK] employed with?,1,,0.877441239946765
+25106,P937,What business does [MASK] work for?,1,,0.8852601565555207
+25105,P937,What areas does the [MASK] defend?,1,,1.2266751103507993
+25104,P937,What area does [MASK] work in?,1,0.9513466311697221,0.9513466311697225
+25103,P937,What area does [MASK] specialize in?,1,,0.8908756442044158
+25102,P937,What are the boundaries of the [MASK]'s duties?,1,,1.418050878813282
+25101,P937,To which job does [MASK] owe his allegiance?,1,,0.9069206341283857
+25100,P937,To which company or organization is [MASK] attached?,1,,0.8993497565423493
+25099,P937,To which business does [MASK] belong?,1,,0.9044064899526509
+25098,P937,To where is [MASK] attached professionally?,1,,0.8946251763970827
+25097,P937,To where is [MASK] affiliated professionally?,1,,0.9075365195298128
+25096,P937,To where does [MASK] devote his professional life?,1,,0.9182975919897691
+25439,P937,Who is [MASK]'s employer?,1,,0.9033256024780372

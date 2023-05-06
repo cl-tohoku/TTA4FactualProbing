@@ -1,0 +1,480 @@
+,p,template,fact_id,effect_gold,effect_top
+19870,P495,What country is responsible for the origin of [MASK]?,208,,1.0248839710708995
+19698,P495,What nation is considered the birthplace of [MASK]?,198,0.9976165490679572,1.0064943261022612
+20011,P495,What is the source country of the discipline of [MASK]?,156,,0.9991639862996468
+19910,P495,What is the ancestral homeland of [MASK]?,133,,1.0207205583236683
+19629,P495,Where did [MASK] first originate?,127,0.8854153844508476,0.9132370731740702
+20100,P495,What nation is credited with the origin of [MASK]?,99,,1.0348851881120364
+19618,P495,What is the source nation of the [MASK]?,66,1.021125115251278,1.0309887959627653
+19498,P495,Where does [MASK] come from?,52,,0.9073920433085311
+19501,P495,What country is the birthplace of [MASK]?,41,,1.0551946362868325
+19513,P495,Where did [MASK] come from?,40,,0.911476419092617
+19504,P495,From which country did [MASK] originate?,39,,1.0283333509897952
+19507,P495,From which nation did [MASK] originate?,30,1.0100273583898496,1.0069008218660298
+19515,P495,From which country does [MASK] originate?,27,0.9759250671884002,1.0341801444434007
+19517,P495,From which nation does [MASK] originate?,26,1.0686003701840106,1.0557359517610345
+19529,P495,Where does [MASK] originate from?,25,,0.898940503549547
+20183,P495,Where did the [MASK] first start?,25,,0.8868908023349131
+19526,P495,From what nation does [MASK] originate?,24,0.9849543812234859,1.0173744933374311
+19519,P495,Where did [MASK] begin?,24,,0.8898158299309284
+19528,P495,What is the home country of [MASK]?,22,,1.0307579297012024
+19537,P495,What is the starting point of [MASK]?,22,,0.9306637201772369
+19516,P495,From what country did [MASK] originate?,22,1.0287952958095787,1.0099249655797726
+19543,P495,What is the land of origin for [MASK]?,21,,1.011372883245467
+19518,P495,What is the original country of [MASK]?,20,,1.066329897318195
+19525,P495,From what country does [MASK] originate?,18,1.0126099270853135,1.038818205760522
+19545,P495,What land is the source of [MASK]?,17,0.9412096382642064,0.960814042191869
+19553,P495,From what nation did [MASK] originate?,17,,1.0244550788461901
+19536,P495,What is the point of origin for [MASK]?,17,,0.885704756477575
+19547,P495,What country is the [MASK] from?,16,,1.0752062210973843
+19541,P495,In what country did [MASK] originate?,13,,1.0378811829494066
+20106,P495,What nation is responsible for the birth of [MASK]?,12,,1.0276950004372307
+19565,P495,What nation is [MASK] from?,12,,1.0713614695289926
+19530,P495,Where was [MASK] first established?,12,0.9967255187359803,0.9083196911632229
+19581,P495,What is the place of origin for [MASK]?,12,,0.9640190224628434
+19564,P495,What is the provenance of [MASK]?,11,,0.8557394024192418
+19561,P495,What country is the root of [MASK]?,11,,1.0265689325857439
+19544,P495,What land is the birthplace of [MASK]?,11,,0.9876910593821939
+19549,P495,What is the native land of [MASK]?,11,1.1381619705819512,1.0262977781677523
+19552,P495,Where was [MASK] first published?,11,0.9087133186682266,0.9377112242079211
+19558,P495,What nation is the originator of [MASK]?,10,,1.0463944772297524
+19583,P495,What land is the [MASK] from?,10,1.014947728196895,1.024549810736842
+19569,P495,Where is the [MASK] from?,10,,0.9542077765515842
+19574,P495,In what nation did [MASK] originate?,9,0.9670792120281158,1.0555450170431127
+19563,P495,What is the original home of [MASK]?,9,,0.9188063520165907
+19609,P495,What country did [MASK] come from?,8,,1.0121563804016214
+19592,P495,What country is responsible for the creation of [MASK]?,7,,1.0597427241029374
+19557,P495,What nation is the foundation of [MASK]?,7,1.1519008923469531,1.035571109058491
+19575,P495,What country gave rise to [MASK]?,7,0.9817533501618766,1.014425201950489
+19590,P495,From which country does the [MASK] come?,7,1.0697883590313655,1.0585607287866607
+19584,P495,What nation first developed [MASK]?,7,,1.026232709908059
+19577,P495,What country spawned [MASK]?,7,1.0388302845391657,1.0349061578367718
+19631,P495,Where does [MASK] have its roots?,6,0.8657720288365081,0.8774415322873214
+19585,P495,What nation gave rise to [MASK]?,6,0.9058891401815737,0.9976666854309094
+19610,P495,What country first developed [MASK]?,6,,1.0192897690311817
+19602,P495,What nation was the birthplace of the [MASK]?,6,,1.0524837160515366
+19608,P495,In what country was [MASK] founded?,6,1.2956934102560211,1.07660283258526
+19580,P495,What is the native country of [MASK]?,5,1.1302785433371316,1.0657835260513453
+19588,P495,Where was [MASK] first developed?,5,0.8875532265286671,0.938074675587092
+19594,P495,What country is the originator of [MASK]?,5,1.0173410093760227,1.0411053175723226
+19601,P495,What nation spawned [MASK]?,5,1.1965020827455988,1.0281601492781653
+19664,P495,What country is associated with [MASK]?,5,,0.9853864345441888
+19632,P495,Where does [MASK] trace its roots?,5,0.863692572755002,0.8740223997674361
+19603,P495,Where did [MASK] have its beginnings?,5,,0.8476664311499651
+19625,P495,What nation is the home of [MASK]?,5,,1.0256491420527865
+19617,P495,What is the source nation for [MASK]?,5,0.916506863582712,1.010557694171323
+19705,P495,What nation was the origin of [MASK]?,5,,0.9431500857929913
+19685,P495,What is the nation of beginning for [MASK]?,4,,1.0774498140230702
+19665,P495,What country is credited with the founding of [MASK]?,4,,1.0292264132110103
+19679,P495,What is the beginning point of [MASK]?,4,0.8681092054540389,0.8681092054540389
+19694,P495,What nation did [MASK] come from?,4,,0.9752932334610935
+19701,P495,What nation is the progenitor of [MASK]?,4,,1.0850824754410815
+19648,P495,From which country did [MASK] come?,4,0.9056457701639422,1.0105017930593045
+19673,P495,What country is the starting point for [MASK]?,4,,1.0019950372713071
+19703,P495,What nation produced [MASK]?,4,,1.0561331488758725
+19642,P495,From what country does [MASK] come from?,4,,1.064169422582621
+19639,P495,Which nation is the birthplace of [MASK]?,4,0.9471814551550841,1.0059529417734556
+19633,P495,Where does the [MASK] originate?,4,0.8258190113085696,0.9264267386225011
+19620,P495,What land gave rise to the [MASK]?,4,0.8504904138313469,0.8648589556311298
+19671,P495,What country is the progenitor of [MASK]?,4,0.9674732288745616,1.0469046925944838
+19591,P495,In which country did [MASK] originate?,4,2.6547696234172786,1.0895616338961598
+19707,P495,What nation was the starting point of [MASK]?,3,0.9575747076997606,0.9812567063823169
+19696,P495,What nation first published [MASK]?,3,,1.082196767319096
+19712,P495,Where did [MASK] first appear?,3,0.8450807334039002,0.8340219752341668
+19692,P495,What land is the originator of [MASK]?,3,,0.956701011653339
+19716,P495,Where does [MASK] hail from?,3,,0.9000449833536942
+19828,P495,What country can be credited with [MASK]?,3,,1.047265978641782
+19724,P495,Which country is the birthplace of [MASK]?,3,,1.1019715749330936
+19725,P495,Which country is the source of [MASK]?,3,1.0980399810458625,1.1611597853206845
+20057,P495,What land was the starting point for [MASK]?,3,,0.8880592878916564
+19649,P495,From which country did [MASK] emerge?,3,,0.9974542166570411
+19611,P495,What country is the foundation of [MASK]?,3,25.292272493257908,0.9344010088351852
+19655,P495,From which nation does [MASK] stem?,3,0.8537701150692213,0.9387627164938589
+19641,P495,From what country did [MASK] emerge?,3,0.9555032793175914,1.0022025919974606
+19638,P495,Which is the country of origin for [MASK]?,3,1.095661330685912,1.115905095800769
+19645,P495,From what nation does [MASK] come from?,3,,1.1565745186182104
+19637,P495,Where was the [MASK] originally from?,3,0.965349324111892,1.0533574008457853
+19647,P495,From where does the [MASK] stem?,3,,0.9771971500046334
+19635,P495,Where was [MASK] first created?,3,0.8821127029108466,0.9296723412977976
+19652,P495,From which land did the [MASK] originate?,3,0.9248852871915499,1.010114229307389
+19607,P495,From which land does [MASK] originate?,3,1.0582117103827553,0.9881001288053916
+19661,P495,In which nation did [MASK] originate?,3,,1.0174309047122045
+19663,P495,What country initiated [MASK]?,3,,1.1122299523934713
+19621,P495,What land is the progenitor of [MASK]?,3,0.9329078259974003,0.992345789881275
+19615,P495,What is the original nation of the [MASK]?,3,1.0517896289029827,1.0309753875792718
+19640,P495,Which nation is the source of [MASK]?,3,,1.0775495315876202
+19806,P495,In what nation did [MASK] first start?,2,,1.079404206174616
+19799,P495,In what country did [MASK] start?,2,,1.008292672903212
+19808,P495,In what nation did the [MASK] begin?,2,,1.025846673727258
+19964,P495,What is the land of origin of Hormones: International Journal of Endocrinology and Metabolism?,2,,0.9253647339625539
+19965,P495,What is the land that gave birth to the [MASK]?,2,,0.9833642406002716
+19864,P495,What country is responsible for the beginning of [MASK]?,2,,0.9793293489436503
+20212,P495,Where is [MASK] from originally?,2,,0.9284442055751431
+19971,P495,What is the nation of creation for [MASK]?,2,1.0941306399049604,1.0369066320053226
+19815,P495,In which country was [MASK] first published?,2,0.9991452449785535,1.0045545933613353
+19973,P495,"What is the nation of origin of the Pakistan Journal of Biological Sciences, known as PJBS?",2,1.0507412776428455,1.0175521563360679
+19977,P495,What is the nation responsible for the foundation of [MASK]?,2,,1.007470308825318
+19786,P495,From which nation did the [MASK] come?,2,0.8868549514557575,1.0313244091387999
+19783,P495,From which nation did [MASK] start?,2,,1.0735865306126826
+19981,P495,What is the nation that created [MASK]?,2,,0.9923673384616672
+19775,P495,From which land did [MASK] come?,2,,0.9254505923448446
+20053,P495,What land was the beginning of [MASK]?,2,,0.8511218936982206
+19810,P495,In which country did [MASK] begin?,2,,0.9683824911944732
+20092,P495,What nation is associated with [MASK]?,2,1.29156392242868,0.9228517906735256
+19950,P495,What is the homeland for [MASK]?,2,1.4577415350202751,0.9878758195972557
+19947,P495,What is the home country of Diagnostic and interventional radiology: official journal of the Turkish Society of Radiology?,2,1.275365135246486,0.9664407444957799
+19858,P495,What country is home to [MASK]?,2,,0.9928150492700916
+20156,P495,What state is the origin of [MASK]?,2,,0.8966838321254434
+19868,P495,What country is responsible for the introduction of [MASK]?,2,,0.8697162638393532
+19852,P495,What country is [MASK] linked to?,2,1.1449873682222012,1.1061966757243027
+20142,P495,What nation started [MASK]?,2,,0.9879238639909586
+19928,P495,What is the country of origin for the publication [MASK]?,2,,1.036189285390027
+19762,P495,From which country did Diagnostic and interventional radiology: official journal of the Turkish Society of Radiology originate?,2,0.9366683755413128,1.1673227378892328
+19932,P495,What is the country of origin of the Mymensingh medical journal (MMJ)?,2,0.9687227432546655,0.9687227432546655
+19893,P495,What country produced the [MASK]?,2,1.108561251509438,0.9846465047977531
+20174,P495,Where did [MASK] have its roots?,2,,0.8356885447636516
+20097,P495,What nation is credited as the starting point for [MASK]?,2,,1.0902053053326801
+19843,P495,What country first produced [MASK]?,2,,1.083713095539498
+19934,P495,What is the country of production for [MASK]?,2,,0.9776311774328077
+20110,P495,What nation is responsible for the inception of [MASK]?,2,,1.0880526315142527
+19827,P495,What country birthed [MASK]?,2,1.1098428214992517,1.1098428214992517
+19771,P495,From which country does [MASK] stem?,2,,0.9573576853081407
+19727,P495,Who founded [MASK]?,2,0.8871315898440939,0.8871315898440888
+19723,P495,Where was the [MASK] founded?,2,0.9067261866774935,0.9167641459771778
+19690,P495,What land is [MASK] from originally?,2,,1.0298149671017818
+19726,P495,Which nation gave rise to [MASK]?,2,0.9061858016746985,1.0094358200415448
+19722,P495,Where was the [MASK] established?,2,0.9352842138816366,0.9854404483388381
+19721,P495,Where was [MASK] initially from?,2,,0.8688281517955755
+19720,P495,Where was [MASK] initially created?,2,4.204662528947377,0.8772156580142088
+19719,P495,Where does the publication [MASK] come from?,2,0.9506731115138369,0.918860890563099
+19715,P495,Where did the concept of [MASK] originate?,2,0.8425874467950359,0.891658880438085
+19710,P495,What was the country of origin of [MASK]?,2,,1.0363497493956086
+19709,P495,What state is the source of [MASK]?,2,,0.9927283891746613
+19708,P495,What state is the root of [MASK]?,2,,0.9822322368562707
+19702,P495,What nation is the root of [MASK]?,2,,1.038884388665755
+19697,P495,What nation founded [MASK]?,2,,1.01222816356801
+19684,P495,What is the motherland of [MASK]?,2,1.0115726939861567,1.0115726939861562
+20027,P495,What land first produced [MASK]?,2,,1.088691168898348
+19678,P495,What country was the source of [MASK]?,2,,1.0191061518668307
+19677,P495,What country was the birthplace of the [MASK]?,2,0.9747121337492788,1.0898552469341316
+19674,P495,What country is the wellspring of [MASK]?,2,1.1984328469214796,1.1832066112489523
+19669,P495,What country is the parent of [MASK]?,2,1.098340762977137,1.0356106528066185
+19666,P495,What country is credited with the invention of [MASK]?,2,0.9257807793910792,1.006892324867934
+19660,P495,In which country is [MASK] from?,2,1.059387100575199,1.059387100575199
+19659,P495,In which country did [MASK] first appear?,2,,0.8970705421796192
+19656,P495,In what country did [MASK] begin?,2,0.9350169512521994,1.01289983359575
+19654,P495,From which nation did [MASK] emerge?,2,0.9092556289084881,1.0259813700280618
+19653,P495,From which land does [MASK] hail?,2,1.0512491974183327,1.0512491974183327
+19644,P495,From what land does [MASK] originate?,2,1.0102588716733996,1.0668377718784854
+20258,P495,Who produced the [MASK]?,2,,0.8988475414507038
+19899,P495,What country was the inception point for [MASK]?,2,,1.081476748176681
+20248,P495,Which nation is the origin of [MASK]?,2,,1.0891622782585406
+20243,P495,Which land is the source of [MASK]?,2,,0.981687768588191
+19747,P495,From what nation does [MASK] hail?,2,1.1947734330554796,1.055315061976345
+20241,P495,Which land is the foundation of [MASK]?,2,,0.9476271640941434
+19752,P495,From what nation is the [MASK] originally from?,2,1.0103568687853852,1.0103568687853852
+20039,P495,What land is the foundation for [MASK]?,2,,0.902623057640145
+20030,P495,What land gave rise to Nursing RSA?,1,0.8471230676260739,0.8841115201567397
+20052,P495,What land was the [MASK] first published in?,1,,0.9419495689648104
+20099,P495,What nation is credited with the founding of [MASK]?,1,0.9277081474759723,1.0495473199607304
+20059,P495,"What land was the starting point of the Revista portuguesa de cardiologia, the official publication of the Portuguese Society of Cardiology?",1,0.8581621823858258,0.8581621823858258
+20107,P495,What nation is responsible for the creation of Nursing RSA?,1,0.8972203689880578,1.057901499851393
+20056,P495,What land was the origin of [MASK]?,1,0.8883670085613409,0.8883670085613409
+20109,P495,What nation is responsible for the founding of the [MASK]?,1,0.9594477435287838,0.9828505846517871
+20037,P495,What land is the [MASK] native to?,1,1.042629423045989,1.042629423045989
+20112,P495,What nation is responsible for the production of the [MASK]?,1,,1.0094330274822132
+20116,P495,What nation is the birthplace for the [MASK]?,1,1.0144367865231354,1.0144367865231354
+20117,P495,What nation is the birthplace of Diagnostic and interventional radiology: official journal of the Turkish Society of Radiology?,1,1.062711515610432,1.1239405052339422
+20060,P495,What nation began the [MASK]?,1,2.195884278597728,0.953102452669339
+20051,P495,What land was [MASK] first created in?,1,,0.9538319880784588
+20118,P495,What nation is the birthplace of Mymensingh medical journal (MMJ)?,1,1.0898686340530148,1.0898686340530148
+20119,P495,What nation is the birthplace of Nursing RSA?,1,1.1010843254466844,0.9818367983393056
+20050,P495,What land spawned [MASK]?,1,1.2481098571308864,0.9032202970860504
+20120,P495,"What nation is the birthplace of the South African journal of surgery, Suid-Afrikaanse tydskrif vir chirurgie?",1,0.9908718072734545,1.1435129278691447
+20047,P495,What land is the root of [MASK]?,1,,0.8747408197813094
+20121,P495,What nation is the birthplace of the journal [MASK]?,1,,1.212201035732099
+20122,P495,What nation is the cradle of [MASK]?,1,,1.1788057663445826
+20046,P495,What land is the predicate of [MASK]?,1,0.8268085704834063,0.8268085704834063
+20123,P495,What nation is the fulcrum of [MASK]?,1,,1.0791623608371468
+20125,P495,What nation is the origin of Medicina: organo de la Sociedad Argentina de Investigación Clínica?,1,1.1387018584901571,1.1387018584901571
+20041,P495,What land is the foundation of the [MASK]?,1,0.8402992710810665,0.8402992710810665
+20126,P495,What nation is the origin of the journal [MASK]?,1,1.0185665375306716,1.0185665375306716
+20127,P495,What nation is the place of birth of [MASK]?,1,2.48880307285601,1.1395903476979663
+20098,P495,What nation is credited with creating the [MASK] alphabet?,1,1.0201160965999498,1.0201160965999498
+20061,P495,What nation can Mikrobiyoloji bülteni be traced back to?,1,0.91609483298811,0.91609483298811
+20028,P495,What land gave birth to [MASK]?,1,0.8372551233225816,0.8372551233225815
+20083,P495,What nation first came up with [MASK]?,1,0.9428220474314115,1.0693443993968064
+20068,P495,What nation did the [MASK] arise from?,1,,1.0635946239997383
+20071,P495,What nation did the journal Hormones: International Journal of Endocrinology and Metabolism originate from?,1,,1.0803701331250064
+20032,P495,What land is [MASK] rooted in?,1,,0.9316528457470599
+20033,P495,What land is [MASK]'s origin?,1,,0.8648135463028157
+20073,P495,What nation do [MASK] roots stem from?,1,0.9400070123371186,1.009751800534789
+20026,P495,What land did the [MASK] start from?,1,,0.936808340133746
+20074,P495,What nation do [MASK] trace its roots to?,1,,1.1218134654263785
+20075,P495,What nation do the Pakistan Journal of Biological Sciences (PJBS) have their roots in?,1,1.0581388132347354,1.0789802186360757
+20076,P495,What nation do the [MASK] come from?,1,1.1441569336285795,1.1441569336285795
+20130,P495,What nation is the root of the journal Mikrobiyoloji bülteni?,1,0.999648152506893,0.999648152506893
+20077,P495,What nation do the [MASK] stem from?,1,1.0853582510949078,1.0853582510949078
+20078,P495,What nation do we associate with the beginnings of [MASK]?,1,,1.2191635253287783
+20081,P495,What nation does [MASK] have its roots in?,1,,1.0452283460690452
+20066,P495,What nation created the publication [MASK]?,1,1.0083192522412086,1.0083192522412086
+20036,P495,What land is responsible for the invention of [MASK]?,1,,1.0586135057684265
+20084,P495,What nation first created [MASK]?,1,,1.1490178096934387
+20043,P495,What land is the homeland of [MASK]?,1,1.0857655911979909,1.0857655911979909
+20086,P495,What nation first recognised the concept of [MASK]?,1,,1.1613962999893952
+20087,P495,What nation formed the [MASK]?,1,,0.9209383014700115
+20064,P495,What nation can be credited with the beginning of the [MASK]?,1,,0.926238113561831
+20063,P495,What nation can be attributed as the birthplace of [MASK]?,1,0.9803382818655869,0.9803382818655869
+20088,P495,What nation gave birth to [MASK]?,1,,1.0877712356767604
+20090,P495,What nation initiated [MASK]?,1,,1.131081750033444
+20034,P495,What land is responsible for [MASK]?,1,0.900253617132743,0.9987123853864427
+20062,P495,What nation can [MASK] be traced back to?,1,1.0161435073068752,1.0399739815328157
+20095,P495,What nation is associated with the origination of [MASK]?,1,0.9257854479026046,1.131451035857757
+20096,P495,What nation is credited as the birthplace of [MASK]?,1,0.9127607031392239,0.9227658111481764
+20035,P495,What land is responsible for the development of [MASK]?,1,,1.093384100549835
+20042,P495,What land is the home of [MASK]?,1,1.0872085004087941,1.0872085004087941
+20219,P495,Where was [MASK] first identified?,1,,0.8794367163949449
+20133,P495,What nation is the wellspring of [MASK]?,1,1.66039360632063,1.0540231959827164
+20229,P495,Which country is responsible for the production of [MASK]?,1,1.0051162888074139,1.0051162888074139
+20227,P495,Which country is credited for the creation of [MASK]?,1,,1.0064039316997058
+20226,P495,Which country can be considered the birthplace of the [MASK]?,1,0.9448791323497797,1.2751359700432303
+20225,P495,Which country brought about the journal [MASK]?,1,0.9206150127465353,0.9206150127465353
+20224,P495,Which country birthed [MASK]?,1,0.8890328881496387,0.9596657273373087
+20223,P495,Where was the foundation of [MASK]?,1,,0.8490702315433375
+20222,P495,Where was the [MASK] created?,1,0.8808112766599309,1.0060704707950807
+20221,P495,Where was the [MASK] alphabet invented?,1,0.9763963041110759,0.9763963041110759
+20220,P495,Where was [MASK] first located?,1,0.8574907924108082,0.8574907924108082
+20024,P495,What land did [MASK] have its beginnings in?,1,,1.0289596238278322
+20218,P495,Where was [MASK] first formulated?,1,,0.8506790125039987
+20217,P495,Where is the source of Mikrobiyoloji bülteni?,1,0.8689897469876219,0.8689897469876219
+20216,P495,Where is the origin of [MASK]?,1,,0.977151056580351
+20215,P495,Where is the birthplace of [MASK]?,1,0.9366800264048059,0.9366800264048059
+20211,P495,Where has [MASK] originated from?,1,,1.012565346499082
+20210,P495,Where does the publication [MASK] originate from?,1,0.8563784529866921,0.8563784529866927
+20208,P495,Where does the history of [MASK] begin?,1,0.8662107047333966,0.8662107047333786
+20206,P495,Where does the [MASK] trace its origin?,1,,0.8325016392387362
+20228,P495,Which country is responsible for the creation of the [MASK]?,1,0.9885785203641388,0.9885785203641388
+20230,P495,Which country is the home of [MASK]?,1,,0.9841189136347661
+20135,P495,What nation originally published the [MASK]?,1,1.0552489975516313,1.0552489975516313
+20231,P495,Which country is the origin point of [MASK]?,1,,1.1535774155137684
+20260,P495,Who spawned [MASK]?,1,,0.8667794728443247
+20257,P495,Who originated [MASK]?,1,,0.8162512820005325
+20256,P495,Who is the launching country of the [MASK]?,1,1.1137391454769545,1.0832514009482894
+20255,P495,Who can be credited with initiating [MASK]?,1,,0.9390765643895456
+20254,P495,Which territory is the root of [MASK]?,1,0.8737589352065853,0.8737589352065828
+20253,P495,Which state is the point of origin of [MASK]?,1,,0.9113305025373544
+20252,P495,Which nation was the source of the [MASK]?,1,0.9211452330317518,1.1531645304467446
+20251,P495,"Which nation was the source of the Revista portuguesa de cardiologia, the official publication of the Portuguese Society of Cardiology?",1,0.9304653438674558,0.9304653438674558
+20250,P495,Which nation is the root of [MASK]?,1,0.97454343694787,1.0480933220630146
+20246,P495,Which nation is the ancestor of [MASK]?,1,1.036814955775392,1.036814955775392
+20240,P495,Which land is credited with the beginnings of [MASK]?,1,,1.0286341741813403
+20239,P495,Which is the homeland of [MASK]?,1,,0.9271596615648354
+20237,P495,Which country was the birthplace of the [MASK]?,1,0.9078142285188537,0.9648114098006088
+20235,P495,Which country was the [MASK] started in?,1,1.1101715003464703,0.9511485515420468
+20234,P495,Which country produced the [MASK]?,1,1.1077780156803554,0.974281680485424
+20233,P495,Which country is the starting point of Mikrobiyoloji bülteni?,1,0.9724727058935284,0.9724727058935284
+20232,P495,Which country is the originator of [MASK]?,1,0.919621851287842,1.0412603823646056
+20203,P495,"Where does the South African journal of surgery, Suid-Afrikaanse tydskrif vir chirurgie, originate from?",1,0.8836088424157463,1.0503629818016582
+20202,P495,"Where does the Pakistan Journal of Biological Sciences, or PJBS, have its roots?",1,0.865907117622275,0.8659071176222746
+20201,P495,Where does the Mymensingh medical journal (MMJ) come from?,1,0.9183772545114991,0.9183772545114991
+20199,P495,Where does [MASK] trace its beginnings?,1,,0.8927710454946287
+20167,P495,Where did African American heritage begin?,1,0.9243325567459229,1.042837745807587
+20166,P495,"When [MASK] was first established, what was the source nation?",1,,0.976837750997873
+20165,P495,What's the source of [MASK]?,1,0.7858917983869753,0.7858917983869753
+20162,P495,What was the originating country of [MASK]?,1,1.065325910422039,1.065325910422039
+20159,P495,What state was the [MASK] founded in?,1,,0.9212271618194438
+20158,P495,What state issued [MASK]?,1,,0.9524085492980946
+20155,P495,What state is credited with the beginnings of the [MASK]?,1,,0.9207242984253037
+20154,P495,What state is [MASK] from?,1,0.920441407822494,0.920441407822493
+20153,P495,What sovereign state is responsible for the [MASK]?,1,,0.9363113154013486
+20152,P495,What region is responsible for the founding of [MASK]?,1,0.8532522935035756,0.8532522935035756
+20147,P495,What nation was the first to create [MASK]?,1,1.1053928104329542,1.1053928104329542
+20145,P495,What nation was the [MASK] first established in?,1,1.1556362057021565,1.1556362057021565
+20140,P495,What nation spawned Diagnostic and interventional radiology: official journal of the Turkish Society of Radiology?,1,0.9698918708693129,1.183812058577844
+20139,P495,What nation sparked the development of [MASK]?,1,1.6645568318922956,1.0927950063245717
+20138,P495,What nation serves as the source of the [MASK]?,1,,0.9498471025293406
+20137,P495,What nation served as the source of [MASK]?,1,,1.09619296697656
+20136,P495,What nation served as the birthplace of [MASK]?,1,,0.9412257780335466
+20168,P495,Where did Hormones: International Journal of Endocrinology and Metabolism come from?,1,,0.8235751141934493
+20169,P495,Where did Medicina: organo de la Sociedad Argentina de Investigación Clínica originate?,1,0.8637650525023799,0.8637650525023799
+20170,P495,Where did Nursing RSA originate?,1,0.8440109095182897,0.8808634739863588
+20190,P495,Where did the creation and exploration of [MASK] start?,1,,0.9230157587821923
+20198,P495,Where does [MASK] have its source?,1,,0.8363168759881456
+20196,P495,Where does Medicina: organo de la Sociedad Argentina de Investigación Clínica originate from?,1,0.84287021227094,0.84287021227094
+20195,P495,Where did the science of [MASK] begin?,1,,0.8549150499181185
+20194,P495,Where did the journal [MASK] originate?,1,0.8951007436188626,0.8951007436188626
+20193,P495,Where did the journal Hormones: International Journal of Endocrinology and Metabolism originate from?,1,,1.0204810900310637
+20192,P495,Where did the initial concept of the [MASK] come from?,1,0.907157341121395,0.907157341121395
+20191,P495,Where did the first issue of the [MASK] come from?,1,,1.0310246851625553
+20189,P495,Where did the [MASK] stem from?,1,0.8474465533059108,0.8474465533059108
+20173,P495,Where did [MASK] have its inception?,1,,0.87889878431221
+20188,P495,Where did the [MASK] start out?,1,,1.0189317583315076
+20187,P495,Where did the [MASK] initiate?,1,,0.9345447609760019
+20186,P495,Where did the [MASK] initially come from?,1,0.911375326960615,0.911375326960615
+20181,P495,Where did the [MASK] come from originally?,1,0.9024624148079852,0.902462414807949
+20180,P495,"Where did the Revista portuguesa de cardiologia, the official journal of the Portuguese Society of Cardiology, originate?",1,1.0776484458693727,1.0776484458693727
+20179,P495,Where did the Mymensingh medical journal (MMJ) start?,1,0.8431055380147346,0.8431055380147346
+20177,P495,Where did [MASK] initially originate?,1,,0.8563328853187674
+20025,P495,What land did [MASK] originate in?,1,0.8883300223021146,0.8883300223021146
+19916,P495,What is the birthplace of Hormones: International Journal of Endocrinology and Metabolism?,1,,0.9734646405382907
+20023,P495,What land can we trace [MASK] back to?,1,1.0210192928384467,1.0210192928384467
+19872,P495,"What country is the Mikrobiyoloji bülteni, the publication of the Ankara Mikrobiyoloji Derneği, originally from?",1,1.1229806765930026,1.1229806765930026
+19831,P495,What country can be recognized as the origin of [MASK]?,1,,1.059394891272348
+19826,P495,What area is the point of origin of [MASK]?,1,0.8704249334433499,0.87042493344335
+19825,P495,To which nation can we trace the [MASK]?,1,0.9231512286532796,0.9729787306047342
+19824,P495,Of which country is [MASK] a product?,1,1.1129120938850883,1.1129120938850883
+19822,P495,In which nation did [MASK] start?,1,0.8523920404484611,0.8523920404484611
+19821,P495,In which nation can the roots of [MASK] be traced?,1,0.9053197053463965,1.0403865547931603
+19820,P495,In which country was the [MASK] formed?,1,1.260532512171969,0.9897995228328244
+19818,P495,"In which country was the South African journal of surgery, Suid-Afrikaanse tydskrif vir chirurgie, founded?",1,3.126334322026277,0.9683109691710875
+19817,P495,In which country was [MASK] initially produced?,1,0.8735251781899551,0.8735251781899551
+19816,P495,In which country was [MASK] founded?,1,1.3626208823440549,1.3626208823440549
+19814,P495,In which country was [MASK] established?,1,,1.1898615676885411
+19813,P495,In which country does the origin of [MASK] reside?,1,1.1954891470736067,1.1954891470736067
+19812,P495,In which country does Medicina: organo de la Sociedad Argentina de Investigación Clínica have its roots?,1,0.9086675645085354,0.9086675645085354
+19809,P495,In what nation was [MASK] brought into existence?,1,,1.1267088473893563
+19804,P495,In what country was [MASK] first released?,1,0.9173312836185221,1.007264860166126
+19803,P495,In what country was [MASK] first published?,1,,1.0482278181566638
+19801,P495,In what country was [MASK] developed?,1,1.0709445225249885,0.9428661324055394
+19832,P495,What country can the origin of [MASK] be traced to?,1,,1.0639914910656465
+19833,P495,What country can the roots of [MASK] be traced to?,1,,1.0854836583477188
+19834,P495,What country created the [MASK]?,1,,0.9728663042542671
+19853,P495,What country is [MASK] rooted in?,1,,1.0517736556590664
+19867,P495,What country is responsible for the founding of [MASK]?,1,,1.0577890506100802
+19866,P495,What country is responsible for the discovery of [MASK]?,1,,0.9837247769296762
+19865,P495,What country is responsible for the development of [MASK]?,1,,1.1872740873309273
+19862,P495,What country is responsible for [MASK]'s origin?,1,,1.239664278680398
+19861,P495,What country is responsible for [MASK]'s existence?,1,1.2488118220763345,0.9822775080255041
+19857,P495,What country is considered the homeland of the Pakistan Journal of Biological Sciences (PJBS)?,1,1.2202453197911503,0.9931065919471547
+19856,P495,What country is behind the inception of the [MASK]?,1,,1.0695308692681087
+19851,P495,What country is [MASK] from originally?,1,1.0261235493961702,1.0261235493961702
+19839,P495,What country do [MASK] trace their roots to?,1,0.909580357210209,1.0249924014181107
+19850,P495,What country is [MASK] derived from?,1,,1.1007428502725236
+19849,P495,What country initiated the development of [MASK]?,1,,1.0751108837178773
+19847,P495,What country initially developed the [MASK] language?,1,1.0425002553764082,1.0425002553764082
+19846,P495,What country initially created the study and construction of [MASK]?,1,,1.0270290200983305
+19844,P495,What country gave birth to [MASK]?,1,1.1555444068061234,1.1774718546692062
+19842,P495,What country first introduced [MASK]?,1,1.3289303729597874,1.05572233178475
+19840,P495,What country do we associate with the origin of [MASK]?,1,0.9076933535495858,1.081423734537914
+19800,P495,In what country is the periodical Mikrobiyoloji bülteni rooted?,1,1.0197473988693722,1.0197473988693722
+19798,P495,In what country did [MASK] have its origins?,1,,0.9068411947386903
+19796,P495,In what country did [MASK] emerge?,1,0.9190805765240466,1.0048861585649536
+19741,P495,From what country does the newsletter Mikrobiyoloji bülteni stem?,1,0.9800397382034901,0.9800397382034901
+19753,P495,From whence did [MASK] come?,1,0.9263882251280644,0.9263882251280625
+19750,P495,From what nation does the [MASK] derive?,1,,0.9701380295140586
+19749,P495,From what nation does the Pakistan Journal of Biological Sciences originate?,1,0.9159635773607713,1.09254398824313
+19746,P495,From what nation does Medicina: organo de la Sociedad Argentina de Investigación Clínica come from?,1,1.1643038439261713,1.1643038439261713
+19744,P495,From what nation did [MASK] emerge?,1,,0.9990481487628996
+19743,P495,From what land does [MASK] hail?,1,1.1022456251320218,1.0690287990309768
+19742,P495,From what land did [MASK] originate?,1,0.8808736790314043,0.8808736790314043
+19740,P495,From what country does the Pakistan Journal of Biological Sciences originate?,1,0.9044546784087246,1.0748433216211815
+19757,P495,From where does Diagnostic and interventional radiology: official journal of the Turkish Society of Radiology come from?,1,0.8389994744516741,0.8389994744516737
+19739,P495,From what country does the Mymensingh medical journal (MMJ) originate?,1,1.1221667402439772,1.1221667402439772
+19738,P495,From what country does [MASK] trace its roots?,1,0.913338642210872,0.913338642210872
+19737,P495,From what country does [MASK] stem?,1,0.9116538239726759,1.009357019624585
+19736,P495,From what country does [MASK] derive?,1,0.834211222494075,0.834211222494075
+19735,P495,From what country do [MASK] descend?,1,0.8989062783473261,1.0073916739828488
+19731,P495,From what country did [MASK] first begin?,1,,0.9854298325604501
+19728,P495,From what area did [MASK] begin?,1,,1.0517300316506082
+19756,P495,From where did the [MASK] alphabet come?,1,0.8470578567814725,0.8470578567814725
+19761,P495,From where was [MASK] established?,1,0.8079122955694251,0.8079122955694251
+19795,P495,From which state did [MASK] originate?,1,0.9127903518963835,0.9127903518963835
+19781,P495,From which nation did [MASK] arise?,1,0.9174136953174957,1.018756539393581
+19794,P495,From which nation was the [MASK] first awarded?,1,0.9727067753890167,1.0351470988900398
+19793,P495,From which nation does the scientific journal [MASK] come?,1,1.0534889537373364,1.0534889537373364
+19790,P495,From which nation does [MASK] spring?,1,0.92569358972964,0.92569358972964
+19789,P495,From which nation does [MASK] have its roots?,1,0.9398892291483733,1.0832784306413321
+19788,P495,From which nation do [MASK] come?,1,,1.04919783459077
+19785,P495,"From which nation did the Portuguese Journal of Cardiology, which serves as an official organ of the Portuguese Society of Cardiology, originate?",1,0.912656015665978,0.912656015665978
+19784,P495,From which nation did [MASK] stem?,1,,1.0824330143423335
+19780,P495,From which location does [MASK] have its origins?,1,,1.010024656305742
+19764,P495,From which country did [MASK] start?,1,0.9473948068322187,0.9473948068322187
+19779,P495,From which land does [MASK] come from?,1,0.8556217460618591,0.8556217460618591
+19776,P495,From which land did [MASK] emerge?,1,0.897201541542328,1.0902474043808936
+19772,P495,"From which country does the South African journal of surgery, Suid-Afrikaanse tydskrif vir chirurgie, come?",1,0.9359377429538708,1.1208529959643454
+19770,P495,From which country does [MASK] hail from?,1,,1.112737543952482
+19768,P495,From which country does Nursing RSA originate?,1,0.9009491575144176,0.990199557028587
+19767,P495,From which country did the scholarly journal [MASK] originate?,1,0.961336613800375,0.961336613800375
+19766,P495,From which country did the publication Hormones: International Journal of Endocrinology and Metabolism originate?,1,,1.094193793516246
+19869,P495,What country is responsible for the invention of [MASK]?,1,0.9226451238812953,0.9661959832312847
+19873,P495,"What country is the birthplace of the Revista portuguesa de cardiologia, the official journal of the Portuguese Society of Cardiology?",1,1.148143208720588,1.148143208720588
+20022,P495,What land can be credited with [MASK]?,1,0.9075587420672362,1.0406528336655727
+19876,P495,"What country is the origin of the South African journal of surgery, Suid-Afrikaanse tydskrif vir chirurgie?",1,1.0169413077991398,1.1461740141008163
+19983,P495,What is the nation that generated [MASK]?,1,1.0506624996540777,1.0506624996540777
+19982,P495,What is the nation that gave rise to Nursing RSA?,1,0.9080915781182715,0.9699108032042061
+19980,P495,What is the nation that birthed [MASK]?,1,1.0768334395323482,1.0768334395323482
+19979,P495,What is the nation that [MASK] was founded in?,1,,1.019239178504901
+19978,P495,What is the nation responsible for the invention of [MASK]?,1,,1.1024490388952586
+19972,P495,What is the nation of origin for the study of [MASK]?,1,,0.9605975470368444
+19969,P495,What is the nation of [MASK]'s beginnings?,1,,0.8610573258188491
+19967,P495,What is the nation from which the [MASK] emerged?,1,1.1168633301346447,1.1168633301346447
+19966,P495,What is the nation associated with the inception of the [MASK]?,1,1.0969193571481577,1.0969193571481577
+19961,P495,What is the initial country of origin of the [MASK]?,1,0.9195921057853295,0.9195921057853295
+19960,P495,What is the homeland of the scientific journal [MASK]?,1,1.0697588163979421,1.0697588163979421
+19959,P495,What is the homeland of the publication Mikrobiyoloji bülteni?,1,1.0875125536791392,1.0875125536791392
+19958,P495,What is the homeland of the magazine [MASK]?,1,1.5398619063950296,0.9661842999374722
+19957,P495,"What is the homeland of the Revista portuguesa de cardiologia, the authorized organ of the Portuguese Society of Cardiology",1,1.148391535612479,1.148391535612479
+19956,P495,What is the homeland of the Mymensingh medical journal (MMJ)?,1,1.1249048055704753,1.1249048055704753
+19955,P495,What is the homeland of [MASK]'s roots?,1,1.0873379176283724,1.0873379176283724
+19954,P495,What is the homeland of Nursing RSA?,1,6.756758730109512,0.9428856754460418
+19984,P495,What is the nation that published the [MASK]?,1,1.0283618295278139,1.0283618295278139
+19985,P495,What is the nationality of the [MASK]?,1,0.8476583708049426,0.8476583708049416
+19987,P495,What is the origin country of Hormones: International Journal of Endocrinology and Metabolism?,1,,1.109726104269113
+20010,P495,"What is the source country of the Pakistan Journal of Biological Sciences, or PJBS?",1,1.1729201544028425,1.01339546282215
+20019,P495,What is the source of the idea of [MASK]?,1,,0.9122163638997132
+20018,P495,What is the source of the [MASK] genre?,1,0.780900139936287,0.780900139936287
+20017,P495,"What is the source of the South African journal of surgery, Suid-Afrikaanse tydskrif vir chirurgie?",1,0.838514517367994,0.838514517367993
+20016,P495,"What is the source of Revista de chirurgie, oncologie, radiologie, o. r. l., oftalmologie, stomatologie. Seria: O",1,,0.8515771443369692
+20015,P495,What is the source of African American culture?,1,0.8653305803361235,0.8653305803361236
+20014,P495,What is the source nation of Hormones: International Journal of Endocrinology and Metabolism?,1,,1.0452183955564667
+20012,P495,What is the source land for [MASK]?,1,0.9687565388810001,0.9687565388810001
+20009,P495,What is the source country of Nursing RSA?,1,0.9648221080023796,0.9701503029387207
+19988,P495,What is the origin country of Mikrobiyoloji bülteni ?,1,1.0904980900329004,1.0904980900329004
+20008,P495,What is the source country of Medicina: organo de la Sociedad Argentina de Investigación Clínica?,1,1.1385544783069235,1.1385544783069235
+20006,P495,What is the source country for the [MASK]?,1,,1.0406984129980787
+19997,P495,What is the original nation of Nursing RSA?,1,0.8763260169042533,0.9145895756673058
+19996,P495,What is the original nation for [MASK]?,1,0.9024865873025658,0.9024865873025618
+19995,P495,What is the original homeland of the [MASK]?,1,1.6279412780932339,0.9971810993356937
+19994,P495,"What is the original homeland of the South African journal of surgery, Suid-Afrikaanse tydskrif vir chirurgie?",1,1.192195568192989,1.1290420352119863
+19989,P495,What is the origin country of the Pakistan Journal of Biological Sciences (PJBS)?,1,1.1714482557418056,1.0044335942809686
+19953,P495,What is the homeland of Medicina: organo de la Sociedad Argentina de Investigación Clínica?,1,1.1401810663544985,1.1401810663544985
+19952,P495,What is the homeland of Hormones: International Journal of Endocrinology and Metabolism?,1,,0.9712619342552348
+19948,P495,What is the home nation of the Mymensingh medical journal (MMJ)?,1,1.1500851719393037,1.1500851719393037
+19898,P495,What country was the beginning of [MASK]?,1,,1.0392143140451209
+19913,P495,"What is the ancestry of the Meyers Konversations-Lexikon, 4th edition (18",1,,0.831618283714897
+19912,P495,What is the ancestral nation of the [MASK]?,1,0.9291785467660382,0.9675566575036438
+19909,P495,What is [MASK]'s home country?,1,0.9658876830062839,0.9658876830062839
+19908,P495,What is [MASK]'s birthplace?,1,0.9185372159567597,0.9185372159567597
+19905,P495,What homeland is the birthplace of the [MASK]?,1,,0.998657270840433
+19904,P495,What homeland is [MASK] from?,1,,1.1730618735992373
+19901,P495,What country was the launching point for [MASK]?,1,2.206238216682541,1.0493253395473712
+19897,P495,What country was the [MASK] started in?,1,,1.037479943807999
+19917,P495,What is the birthplace of Medicina: organo de la Sociedad Argentina de Investigación Clínica?,1,0.8852123015718405,0.8852123015718405
+19891,P495,What country originated [MASK]?,1,1.0678991306174126,1.0678991306174126
+19890,P495,What country launched the [MASK]?,1,,1.0069205752964598
+19889,P495,What country launched the Mymensingh medical journal (MMJ)?,1,0.9067437871486064,0.9067437871486064
+19886,P495,"What country is the source of the Revista portuguesa de cardiologia, the authorized organ of the Portuguese Society of Cardiology?",1,1.1439550784798427,1.1439550784798427
+19885,P495,What country is the source of the Mymensingh medical journal (MMJ)?,1,1.1304150661136712,1.1304150661136712
+19880,P495,What country is the point of departure for [MASK]?,1,,1.0101143083582307
+19877,P495,What country is the origin point for [MASK]?,1,,1.0086214268120641
+19915,P495,What is the beginning place of the [MASK]?,1,,0.8954046471391998
+19918,P495,What is the birthplace of Mikrobiyoloji bülteni?,1,0.876502730976962,0.876502730976962
+19945,P495,What is the geographical origin of [MASK]?,1,,0.9837441858322488
+19931,P495,What is the country of origin of Medicina: organo de la Sociedad Argentina de Investigación Clínica?,1,0.9677349178908181,0.9677349178908181
+19944,P495,What is the geographic location of the [MASK]'s origin?,1,,0.9558347730247044
+19943,P495,What is the foundation nation of Diagnostic and interventional radiology: official journal of the Turkish Society of Radiology?,1,0.8678589203074316,0.8678589203074314
+19942,P495,What is the country where the [MASK] originated?,1,,1.148829180308863
+19941,P495,What is the country where the [MASK] began?,1,1.6524614614162856,0.9392498095835177
+19940,P495,What is the country that the [MASK] originates from?,1,0.9550844418129404,1.0510169238552243
+19938,P495,What is the country that originated the [MASK]?,1,1.1170969289468624,1.1170969289468624
+19933,P495,"What is the country of origin of the Portuguese Journal of Cardiology, which is the official journal of the Portuguese Society of Cardiology?",1,1.1159613032198241,1.1159613032198241
+19930,P495,What is the country of origin of Diagnostic and interventional radiology: official journal of the Turkish Society of Radiology?,1,1.1059176817639047,0.8711044146365315
+19919,P495,What is the birthplace of [MASK]'s beginnings?,1,,0.9238341105509872
+19927,P495,What is the country of origin for Nursing RSA?,1,0.9563871062742089,0.9765682607616337
+19926,P495,What is the country of inception for [MASK]?,1,1.0485516488085942,1.0485516488085942
+19925,P495,What is the country of birth of [MASK]?,1,1.113670550059611,0.9423411247485096
+19923,P495,What is the country from which the [MASK] hails?,1,,1.0537239915966843
+19922,P495,What is the birthplace of the scholarly journal [MASK]?,1,0.9093316905090947,0.9093316905090947
+19921,P495,"What is the birthplace of the South African journal of surgery, Suid-Afrika",1,0.8716598729954499,0.8716598729954481
+19920,P495,"What is the birthplace of the Pakistan Journal of Biological Sciences, also known as PJBS?",1,0.8789775252151957,0.8789775252151956
+20261,P495,Who was the source of the [MASK]?,1,,0.9035619006479121

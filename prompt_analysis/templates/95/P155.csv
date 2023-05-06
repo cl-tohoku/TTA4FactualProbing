@@ -1,0 +1,790 @@
+,p,template,fact_id,effect_gold,effect_top
+8711,P155,What comes next after the [MASK]?,163,,1.0185082792886002
+8475,P155,What digit follows [MASK]?,101,,1.0336320075045955
+8653,P155,What came about after the [MASK]?,72,,0.9689484224825353
+8596,P155,What period succeeds [MASK]?,68,,1.0137312618094647
+8566,P155,What is the next calendar year after [MASK]?,67,0.9242273530239117,1.0385313649276882
+8456,P155,What happened next after the [MASK]?,63,0.8603204820345411,0.91281057391434
+9356,P155,What time of year is subsequent to [MASK]?,59,,1.030461099062582
+8998,P155,What is the calendar year succeeding [MASK]?,38,,1.0553946532447565
+8372,P155,What year followed [MASK]?,35,,1.076773035962949
+8370,P155,What year came after [MASK]?,31,0.9479898154473677,1.1128667840794026
+8835,P155,What events followed the [MASK]?,29,0.9027760653282874,1.0121377122088622
+8383,P155,What year succeeded [MASK]?,29,0.9205416094662817,1.0262673816551002
+8395,P155,What transpired after the [MASK]?,28,0.9038363925962335,1.0066506974998632
+8374,P155,What was the result of the [MASK]?,27,,0.9516361998204105
+8389,P155,What is the next number after [MASK]?,27,0.9097030987014904,1.0184349152610592
+8384,P155,What year was after [MASK]?,25,0.9415638160995836,1.0846954047070765
+8382,P155,What was the consequence of the [MASK]?,24,,0.9380030733897318
+8402,P155,What occurred after the [MASK]?,24,,1.0168953595605021
+8376,P155,What is the subsequent year after [MASK]?,23,0.9466022133482375,1.0874745632873801
+8403,P155,What took place after the [MASK]?,22,,0.9973076258308438
+9314,P155,What season happens after [MASK]?,21,,0.9085164814797063
+8380,P155,What was the outcome of the [MASK]?,20,,0.9539043959730718
+8388,P155,What is the consequence of [MASK]?,19,,0.9442696594794767
+8391,P155,What is the year that follows [MASK]?,19,,1.0640187348094274
+8397,P155,What ensued after [MASK]?,19,,1.0200615087136093
+8405,P155,What transpires after [MASK]?,14,,0.9604461073516875
+8401,P155,What is the result of [MASK]?,14,,0.9180225389335057
+8398,P155,What is the next step after [MASK]?,14,,1.0240345750087791
+8406,P155,What is the successor to [MASK]?,14,0.8894560087365548,0.9431501028021442
+8409,P155,What event came after [MASK]?,13,0.861846435348416,0.8847693320120693
+8414,P155,What is the number succeeding [MASK]?,13,0.921420777692017,1.0247468428609259
+8408,P155,What era succeeded the [MASK]?,13,0.8948507014317412,0.9944127159216052
+8423,P155,What is the following year after [MASK]?,12,,1.0868966853935866
+8400,P155,What is the outcome of [MASK]?,12,,0.8982758938649319
+8433,P155,What did the [MASK] lead to?,11,,0.9639412051282448
+8424,P155,What is the next month after [MASK]?,11,,1.0143615542836588
+8971,P155,What is expected after [MASK]?,11,,0.9156676977073648
+8441,P155,What number comes after [MASK]?,11,0.9401982491406148,1.039247716317971
+8416,P155,What is the subsequent number to [MASK]?,11,0.9382388611624617,0.9823870376224684
+8413,P155,What is the month succeeding [MASK]?,10,,1.022580040277554
+8450,P155,What event occurs after [MASK]?,10,,0.9528270898250761
+9083,P155,What is the next nation in line after [MASK]?,10,,1.0134118021091953
+8485,P155,What happened in the year following [MASK]?,9,,0.9094944628321312
+8411,P155,What happened in the aftermath of the [MASK]?,9,,1.0182286561735356
+8462,P155,What is the rating after [MASK]?,9,,1.0011253388154662
+8484,P155,What happened in the wake of [MASK]?,8,,0.9869151862932128
+8436,P155,What follows [MASK] chronologically?,8,,1.1288445357427133
+8430,P155,What was the subsequent year to [MASK]?,8,,1.0409107540836688
+8445,P155,What year is immediately after [MASK]?,7,0.9449645542198543,1.1244410488739
+8467,P155,What was the aftermath of the [MASK]?,7,0.905761518175764,1.0550487023040744
+8415,P155,What is the number that follows [MASK]?,7,0.9475738164648004,1.0811614083884291
+8434,P155,What event succeeded [MASK]?,7,0.8457879518707373,0.9185997307007018
+8859,P155,What followed the [MASK] time period?,6,,0.99600774606528
+8470,P155,What year happened after [MASK]?,6,0.9383244715660761,1.0222948995106034
+8437,P155,What follows [MASK] in sequence?,6,,0.9978059182953539
+8546,P155,What followed the [MASK] in history?,6,,0.9382386361463797
+8500,P155,What was the next event after the [MASK]?,6,,1.0437395046207332
+8611,P155,What was the next era after the [MASK]?,6,,0.9932488919481967
+8451,P155,What followed in the wake of the [MASK]?,6,0.9030796275294657,0.9842301582933194
+8607,P155,What time period was after the [MASK]?,6,,1.059794049713861
+8481,P155,What followed [MASK] in the timeline?,6,0.8832091316476384,0.9264280583880554
+8446,P155,What comes after [MASK] in the timeline?,6,0.8722689577099979,0.9263351842884755
+8605,P155,What time period follows [MASK]?,5,0.8662165884869104,0.9628496000526938
+8603,P155,What time period came after [MASK]?,5,0.8709763407595947,0.9522038241027285
+8571,P155,What is the next level after [MASK]?,5,,1.0284529809899083
+8538,P155,What event happened subsequent to the [MASK]?,5,,0.9614139941408542
+8630,P155,"After [MASK], what takes place?",5,,0.9041025756256102
+8597,P155,What proceeded [MASK]?,5,,1.0059415393246998
+8595,P155,What period succeeded the [MASK]?,5,,1.0458297815949509
+8440,P155,What is the subsequent number after [MASK]?,5,0.906163741324628,0.9879628374884006
+8468,P155,What was the year following [MASK]?,5,1.0254831256817099,1.0589169209687244
+8439,P155,What is the subsequent month after [MASK]?,5,0.9413650667784496,1.0423144530132393
+8502,P155,What was the subsequent event after [MASK]?,5,,0.9988638169023499
+8490,P155,What is the day that follows [MASK]?,5,,0.9886123340012791
+8507,P155,What year does [MASK] lead to?,5,,1.0453345732573656
+8509,P155,What year was succeeding [MASK]?,5,0.9446470338974506,1.0731928220515208
+8461,P155,What is the month that follows [MASK]?,5,,1.0084208946903197
+8510,P155,Which year comes after [MASK]?,5,0.9212129521594722,1.0036744157956505
+8476,P155,What ensues [MASK]?,5,,0.9081146571543226
+8472,P155,What came after [MASK] in terms of years?,5,0.8868115925909084,0.9504882128009005
+8598,P155,What resulted from the [MASK]?,4,,0.9882524980657196
+8574,P155,What is the next occurrence after [MASK]?,4,,0.9577762650283346
+8567,P155,What is the next country after [MASK]?,4,,1.0633145205564896
+8478,P155,What event is subsequent to [MASK]?,4,0.8657106992865203,0.9260812960710751
+8577,P155,What is the next thing after [MASK]?,4,,0.9844453095351018
+8460,P155,What is the day succeeding [MASK]?,4,,0.9974275759816279
+8495,P155,What month comes after [MASK]?,4,,1.032437335140953
+8717,P155,What comes right after [MASK]?,4,,1.0132750923218785
+8516,P155,What came after [MASK] chronologically?,4,0.9426616091221902,1.1055438325058249
+8528,P155,What comes subsequent to [MASK]?,4,,0.9430633038395632
+8626,P155,Which year is right after [MASK]?,4,0.9418463253020888,1.097211250686641
+8545,P155,What followed after [MASK]?,4,,1.0742265101226385
+9381,P155,What transpired following [MASK]?,4,,1.0036375550935759
+8533,P155,What ensued the [MASK]?,4,,0.9772053813734182
+9109,P155,What is the outcome after [MASK]?,3,0.8488354623239175,0.8806034191963296
+8984,P155,What is preceded by [MASK]?,3,,1.022820055209911
+9135,P155,What is the style that comes after [MASK]?,3,0.907186223668976,1.0380870523233736
+8660,P155,What came after the [MASK] in chronology?,3,,1.1492796993914458
+8752,P155,What day is [MASK] followed by?,3,,1.0693655109887972
+9168,P155,What is the subsequent rating to [MASK]?,3,,1.079950734295254
+8583,P155,What is the subsequent offering after the [MASK]?,3,0.9957965919603754,0.9774521315478101
+8845,P155,What followed [MASK] in terms of years?,3,0.924810061831857,1.0144043511169363
+8829,P155,What event transpired subsequent to the [MASK]?,3,,1.057897520856183
+8965,P155,What is associated with [MASK]?,3,,0.8932556773436297
+8627,P155,"After [MASK], what is the next event?",3,0.8876834810567376,0.8876834810567358
+8608,P155,What took place following the [MASK]?,3,,1.0162924328844127
+9446,P155,What was the period succeeding [MASK]?,3,0.88229858035369,0.949955581544096
+8620,P155,What year is the successor of [MASK]?,3,0.9395753061128943,1.0378391954320856
+8560,P155,What is the classification after [MASK]?,3,,1.0174159202646036
+8582,P155,What is the subsequent occurrence after [MASK]?,3,,0.9339642545174085
+9171,P155,What is the subsequent stage of [MASK]?,3,,0.9309464907838599
+8506,P155,What year did [MASK] lead to?,3,0.868066992571397,0.9227811956141343
+8540,P155,What event occurred after [MASK]?,3,,0.9140464016259173
+8511,P155,Which year is subsequent to [MASK]?,3,0.9309017580583553,1.045737999090896
+8549,P155,What follows [MASK] in time?,3,0.9209414094086595,1.010760658108451
+8523,P155,What comes chronologically after [MASK]?,3,0.8786051172913728,0.907090179448285
+8517,P155,What came subsequent to the [MASK]?,3,,0.9810318434212398
+8522,P155,What comes after a [MASK] rating?,3,,1.0190752003884438
+8557,P155,What happens subsequent to [MASK]?,3,,0.8789906674188736
+8521,P155,What comes after [MASK] in the year?,3,0.9398135773614499,1.0660979362115175
+8496,P155,What month follows [MASK]?,3,0.9406421385800229,1.0149623034798836
+9325,P155,What state took the place of the [MASK]?,3,,0.971730803809228
+8494,P155,What is the subsequent event following [MASK]?,3,0.8698786168420116,0.8698786168420103
+8512,P155,Which year succeeds [MASK]?,3,0.9276841544675056,1.0388652011681063
+8491,P155,What is the following year to [MASK]?,3,0.947513161477111,1.0198771350053601
+8923,P155,What happened in the timeline after [MASK]?,3,0.8802101225727852,0.8802101225727839
+8568,P155,What is the next element after [MASK]?,3,,0.9528938497066023
+8570,P155,What is the next item after [MASK]?,3,,0.9617662371948518
+8518,P155,What came to pass after [MASK]?,3,,1.0325974352636775
+8483,P155,What follows [MASK] in the calendar?,3,0.9398966912553031,1.0155644730817805
+8580,P155,What is the position after [MASK]?,3,0.9438440428966773,1.0209563931771075
+8537,P155,What event comes after the year [MASK]?,3,,0.9073908585135421
+8747,P155,What day comes after [MASK]?,2,,1.049214239772172
+9009,P155,What is the consequent thing to [MASK]?,2,0.8308657064156635,0.8308657064156615
+9003,P155,What is the city after [MASK]?,2,,1.0308981175554914
+9125,P155,What is the rating succeeding [MASK]?,2,,1.0370057772509709
+9431,P155,What was the next console after the [MASK]?,2,0.9048652020087636,0.9755272306905852
+9419,P155,What was the chronological period that followed the [MASK]?,2,0.8887185412893295,0.9812708956084282
+9308,P155,What rating typically follows [MASK]?,2,,1.0539991573715817
+9030,P155,What is the following title after [MASK]?,2,,1.0683840890211886
+9217,P155,What is the word that comes after [MASK]?,2,,1.039258324999896
+8735,P155,What console was released after the [MASK]?,2,0.9563329383100687,1.0319779208237572
+8734,P155,What console succeeded [MASK]?,2,0.9364319293121997,1.0577034199107087
+8732,P155,What console follows [MASK]?,2,,0.9127825899025646
+9464,P155,What was the year that came after [MASK]?,2,0.956449980977691,1.1538184451433358
+9033,P155,What is the higher rank than [MASK]?,2,,1.0101630560003705
+9472,P155,What year arrived after [MASK]?,2,0.8787430484724588,0.9788576335422011
+9045,P155,What is the journal that follows [MASK]?,2,,0.9985009803473526
+9047,P155,What is the language that follows [MASK]?,2,0.9050374715646756,0.988628695885664
+9187,P155,What is the succeeding entity to [MASK]?,2,0.909956876419749,1.0473449431158328
+9186,P155,What is the succeeding element to [MASK]?,2,,0.960077207686909
+9062,P155,What is the next console after [MASK]?,2,,0.9773764876664307
+9502,P155,What year is next in line after [MASK]?,2,0.8897689822542649,0.9564304895015727
+9001,P155,What is the chronologically subsequent year to [MASK]?,2,0.9182163394004031,1.0233113639099085
+8782,P155,What educational level is after [MASK]?,2,1.0552295534799647,1.0752646170973361
+8995,P155,What is the age restriction after [MASK]?,2,,1.0204120217353645
+8959,P155,What immediately follows [MASK] on the calendar?,2,,1.0021285696966673
+8857,P155,What followed the [MASK] in the gaming world?,2,,0.9907407778724642
+9338,P155,What system came after the [MASK]?,2,1.021618278887639,1.0073595278472816
+9332,P155,What succeeds [MASK] in numerical order?,2,,0.9939419531515925
+9267,P155,What occurred in the subsequent century to the [MASK]?,2,,1.0505409559570364
+8853,P155,What followed the [MASK] in succession?,2,,1.0389007447621288
+8926,P155,What happened in the years after [MASK]?,2,0.8841016667103885,1.0012904671603293
+8945,P155,What has been the aftermath of [MASK]?,2,,1.1463614669510154
+8871,P155,What follows after a [MASK]?,2,,0.9274697079117004
+8948,P155,What has been the result of [MASK]?,2,,0.8967330454255253
+8839,P155,What events took place subsequent to the [MASK]?,2,0.8885694343709296,1.0248870811160824
+8837,P155,What events took place in the [MASK]?,2,0.9124656039256732,1.027342049399712
+9272,P155,What occurred subsequent to [MASK]?,2,0.9091037525116522,0.9852269662377094
+8952,P155,What has occurred in the aftermath of [MASK]?,2,,1.0417045919605288
+8875,P155,What follows in line after the [MASK]?,2,,0.9361641651325995
+8994,P155,What is the age rating following [MASK]?,2,,0.9439585187723172
+8816,P155,What event or occurrence came after [MASK]?,2,0.8419526129153223,0.841952612915321
+8886,P155,What follows the [MASK] in the timeline?,2,,1.114673235634833
+8814,P155,What event occurred in the wake of the [MASK]?,2,,0.9967451102300082
+8811,P155,What event happened right after [MASK]?,2,0.8614624668849431,0.861462466884942
+8887,P155,What follows the [MASK] rating?,2,,0.9924574609403638
+9281,P155,What period came after the [MASK]?,2,0.8817908135556984,0.9495354440710029
+9379,P155,What trails [MASK]?,2,,0.9229707698958657
+9386,P155,What transpired in the year [MASK]?,2,0.8594182426562011,0.9506935603186801
+8858,P155,What followed the [MASK] in time?,2,0.9225338818759488,0.9225338818759471
+8894,P155,What gaming system came after [MASK]?,2,0.89226012345531,0.9690220552764348
+8775,P155,What does [MASK] give way to?,2,,0.9428475298003327
+8989,P155,What is subsequent to a [MASK]?,2,,0.9816745023738862
+8993,P155,What is the [MASK] followed by?,2,,1.0613873749625549
+9503,P155,What year is one year after [MASK]?,2,0.9388932050327987,0.9581608332095981
+9159,P155,What is the subsequent occurrence to the [MASK]?,2,,0.9249078423254082
+8585,P155,What is the subsequent year following [MASK]?,2,0.9307541839117179,1.0472895045522415
+8667,P155,What came immediately after [MASK]?,2,0.8374034991108434,0.859337035449177
+8615,P155,What was the year that followed [MASK]?,2,0.9517013703709073,1.1147135632010658
+9087,P155,What is the next period that follows the [MASK]?,2,,1.0782351989736516
+8623,P155,Which event followed the [MASK]?,2,0.9008818598134795,1.1057688557739163
+8575,P155,What is the next place after [MASK]?,2,,1.0320600550835053
+8671,P155,What came of the [MASK]?,2,,0.9241381128612316
+8578,P155,What is the next word after [MASK]?,2,,1.0042656599290731
+8618,P155,What year follows after [MASK]?,2,0.9339159874129512,1.088706663785121
+8668,P155,What came next after [MASK]?,2,,0.8764452465694966
+9141,P155,What is the subsequent city to [MASK]?,2,,0.9803945540496997
+8581,P155,What is the subsequent number following [MASK]?,2,0.9245105989054193,1.0389728589027114
+8591,P155,What is the year that comes after [MASK]?,2,0.9267312893362194,1.0051535305287682
+8593,P155,What occurs after a [MASK]?,2,,0.9205205227512483
+8561,P155,What is the classification succeeding [MASK]?,2,,1.0445798986631538
+8599,P155,What season follows [MASK]?,2,,1.0769491991141267
+9144,P155,What is the subsequent decade after the [MASK]?,2,,0.9765332256272329
+8600,P155,What season is subsequent to [MASK]?,2,,1.0398620083116155
+8601,P155,What succeeds a [MASK]?,2,,0.985149222279555
+8663,P155,What came after the decade of the [MASK]?,2,0.9390735665061647,1.1475834510216179
+9154,P155,What is the subsequent location after [MASK]?,2,,0.9570017383543492
+8617,P155,What year directly follows [MASK]?,2,0.9421263065945256,1.0643037548542797
+8609,P155,What usually comes after [MASK]?,2,1.0225785787791708,1.050857590040769
+8610,P155,What was the conclusion of the [MASK]?,2,,0.9982724820270786
+8612,P155,What was the result after the [MASK]?,2,,0.9605786799991611
+9152,P155,What is the subsequent item after [MASK]?,2,,0.9189045848774331
+8565,P155,What is the month that succeeds [MASK]?,2,0.9309276889424183,1.0119416789993565
+8569,P155,What is the next installment after the [MASK]?,2,0.9235085695604107,0.9621909441708467
+8535,P155,What ensues after the [MASK]?,2,,1.1098350807478448
+8631,P155,"After [MASK], which year was next?",2,0.9575770065168593,1.1217604548226876
+9131,P155,What is the season that comes after [MASK]?,2,,1.064841788345659
+8515,P155,What calendar year follows [MASK]?,2,0.9300882067072462,1.0648973401794057
+8520,P155,What comes after [MASK] in the calendar?,2,0.8914302151116943,0.9501041017582457
+8686,P155,What comes after [MASK] in sequence?,2,,1.0822133987396874
+9519,P155,What year was the next one after [MASK]?,2,0.9115872122355015,1.0250421231782902
+8524,P155,What comes in the wake of [MASK]?,2,0.8879294003320098,0.9378354069021131
+8532,P155,What educational level follows [MASK]?,2,,1.0195168122004687
+8635,P155,After what does the [MASK] come?,2,,1.0329397493721963
+8559,P155,What is the aftermath of [MASK]?,2,0.8687740774647117,0.8687740774647095
+8547,P155,What follows [MASK] in chronology?,2,0.9661636415378672,1.1621477346001714
+8616,P155,What year came after [MASK] in the timeline?,2,0.9594443250093531,1.0857563354463062
+8625,P155,Which year follows [MASK]?,2,0.9415624041301853,1.0356641404891433
+8681,P155,What classification follows [MASK]?,2,0.9110951797903932,0.9725469562997846
+9163,P155,What is the subsequent period after the [MASK]?,2,,0.8972536649612626
+9561,P155,Who succeeds [MASK]?,2,,1.1022158582640644
+9552,P155,Who follows [MASK]?,2,,0.8981234563834207
+8558,P155,What has been the consequence of the [MASK]?,2,,0.9947419467452365
+8678,P155,What city is located after [MASK]?,2,,0.9300804429199562
+8550,P155,What follows on from [MASK]?,2,,0.9924787973638647
+9250,P155,What nation is located after [MASK]?,1,,1.0045701807566008
+9242,P155,What linguistic tradition comes after [MASK]?,1,1.4697778840699471,1.0410024211357616
+9243,P155,What location is after [MASK]?,1,,1.0092542422092874
+9253,P155,What nation occurs after [MASK]?,1,,1.0382344640271424
+9244,P155,What metropolitan area follows [MASK]?,1,,0.9727736491592167
+9251,P155,What nation is nearby [MASK]?,1,,1.121314896016692
+9246,P155,What month typically succeeds the one that begins on a Sunday?,1,,0.8849816181292727
+9252,P155,What nation is positioned after [MASK]?,1,,1.050303324973541
+9247,P155,What month usually comes after one that starts on a Sunday?,1,,0.9054571146554052
+9249,P155,What nation borders [MASK]?,1,,1.0288580938625214
+9248,P155,What must come after [MASK]?,1,,0.9100063445421298
+9170,P155,What is the subsequent stage after [MASK]?,1,,1.0214330231877458
+9254,P155,What nation succeeded [MASK]?,1,,0.9355896149187828
+9255,P155,What nation succeeds [MASK]?,1,,0.9171318916783097
+9295,P155,What power succeeded [MASK]?,1,,0.98710688438305
+9294,P155,What political entity succeeded [MASK]?,1,,0.9072410163000861
+9291,P155,What period of time succeeded [MASK]?,1,0.8982635316181773,1.0634437648583304
+9289,P155,What period of time happens after [MASK]?,1,0.8651764024270858,0.8651764024270858
+9284,P155,What period happened after the [MASK]?,1,0.8582457460630428,0.858245746063042
+9280,P155,What outcomes were seen following the [MASK]?,1,0.913968740774455,0.9139687407744529
+9278,P155,What other style of music is typically heard after [MASK]?,1,,1.0320635050727993
+9277,P155,What other country is connected to [MASK]?,1,,0.9837629377284155
+9276,P155,What organization follows the [MASK]?,1,,1.0897375381845902
+9275,P155,What occurs subsequent to [MASK]?,1,,0.9716501446048921
+9274,P155,What occurs after the [MASK]?,1,,1.0938937225059515
+9271,P155,What occurred right after [MASK]?,1,0.8947337160233199,0.8947337160233192
+9269,P155,What occurred in the years subsequent to the [MASK]?,1,0.9126054297795361,1.1290350830676386
+9265,P155,What occurred in succession to the [MASK]?,1,,1.024253714701296
+9264,P155,What occurred following [MASK]?,1,0.8558818993248833,0.8558818993248817
+9262,P155,What number is right after [MASK]?,1,0.9412366655232959,1.0387150725610625
+9260,P155,What number is next to [MASK]?,1,0.9171435040621214,1.0169336971604739
+9240,P155,What lies in store for the [MASK]?,1,,0.9214248830973428
+9259,P155,What number is next in line after [MASK]?,1,0.8809644805030071,0.917857458684248
+9258,P155,What number is directly after [MASK]?,1,0.9749935770110639,1.0233165591859597
+9257,P155,What number is [MASK] succeeded by?,1,0.9347983080248964,1.0447197059341555
+9241,P155,What linguistic period follows [MASK]?,1,0.8932894715444287,1.099866048687555
+9236,P155,What lies ahead for students after [MASK]?,1,,1.0744481633658332
+9132,P155,What is the sequence after a [MASK]?,1,,0.8961272792441441
+9299,P155,What proceeds the [MASK]?,1,,0.91597406589072
+9198,P155,What is the succeeding stage after a [MASK]?,1,,1.1363215331567678
+9199,P155,What is the succeeding term after [MASK]?,1,,0.9689290471345564
+9200,P155,What is the succeeding word to [MASK]?,1,,0.9964754318100256
+9201,P155,What is the successive thing to the [MASK]?,1,,1.0221345455874942
+9161,P155,What is the subsequent organization to [MASK]?,1,0.9229819651906109,0.992397395629389
+9202,P155,What is the successive year following [MASK]?,1,0.9588488610616904,1.1048310576752856
+9203,P155,What is the temporal order after [MASK]?,1,0.8645522050058342,0.8645522050058314
+9195,P155,What is the succeeding month when it starts on a Sunday?,1,,0.9662717283733404
+9204,P155,What is the temporal sequence after [MASK]?,1,0.8964489370431679,0.8964489370431672
+9157,P155,What is the subsequent move after a [MASK]?,1,,0.914974119189097
+9206,P155,What is the term that follows [MASK]?,1,,1.0052083459165833
+9207,P155,What is the time period subsequent to [MASK]?,1,0.8580918578839696,0.8580918578839675
+9208,P155,What is the timeline after [MASK]?,1,0.8690663215252671,0.8690663215252663
+9209,P155,What is the title after attaining [MASK]?,1,,1.1206396698803285
+9196,P155,What is the succeeding period to [MASK]?,1,0.8161834725416445,0.8161834725416443
+9192,P155,What is the succeeding journal after [MASK]?,1,,1.0149237488651672
+9133,P155,What is the sequential process after a [MASK]?,1,,1.1420216824394187
+9183,P155,What is the subsequent year of [MASK]?,1,0.9486227741637064,1.1151959867643075
+9176,P155,What is the subsequent thing after [MASK]?,1,,0.9087008916503516
+9179,P155,What is the subsequent title after achieving [MASK] status?,1,,1.1366207278850489
+9180,P155,What is the subsequent topic of [MASK]?,1,,0.9113781731808412
+9181,P155,What is the subsequent word following [MASK]?,1,,0.9876837587442248
+9169,P155,What is the subsequent schooling after [MASK]?,1,,1.073238247249261
+9182,P155,What is the subsequent word to [MASK]?,1,,0.9905807523430131
+9185,P155,What is the succeeding degree to [MASK]?,1,,1.0103447013994613
+9164,P155,What is the subsequent place to [MASK]?,1,,1.0581182148706623
+9167,P155,What is the subsequent rating categorization after [MASK]?,1,,1.0044095186237454
+9166,P155,What is the subsequent rank after [MASK]?,1,,0.9048823703257941
+9188,P155,What is the succeeding epoch to the [MASK]?,1,,0.8848448205242305
+9189,P155,What is the succeeding event after a [MASK]?,1,,0.8989213463562313
+9191,P155,What is the succeeding event to the [MASK]?,1,,0.9053700920549576
+9165,P155,What is the subsequent publication after the [MASK]?,1,,1.0370340119984518
+9213,P155,What is the typical progression after [MASK]?,1,1.0217429075962892,1.0217429075962892
+9214,P155,What is the ultimate step after [MASK]?,1,,0.9220972775784165
+9216,P155,What is the usual sequence after [MASK]?,1,1.1145084217496317,1.1145084217496317
+9235,P155,What lies after [MASK]?,1,,0.9306562339259679
+9230,P155,What language is the successor of [MASK]?,1,0.9407092410963949,0.9407092410963924
+9139,P155,What is the subsequent chronology after [MASK]?,1,0.8480324892026319,0.8480324892026283
+9231,P155,What language succeeded [MASK]?,1,1.5161144507366517,0.9507569303678164
+9232,P155,What level of education follows [MASK]?,1,1.28311583617498,1.0254926510808515
+9233,P155,What level of education is next after [MASK]?,1,,1.0063420575116586
+9234,P155,What level of schooling is next after [MASK]?,1,,1.0279069455811978
+9137,P155,What is the subsequent area to [MASK]?,1,,0.9859246669538504
+9156,P155,What is the subsequent month when it starts on a Sunday?,1,,0.9550480527103714
+9173,P155,What is the subsequent step after a [MASK]?,1,,1.0256352786300222
+9237,P155,What lies ahead for the [MASK]?,1,,0.8865347157701987
+9136,P155,What is the subject subsequent to [MASK]?,1,,1.0496178932403593
+9134,P155,What is the style succeeding [MASK]?,1,0.9132431882748925,0.9952591274500249
+9238,P155,What lies ahead of [MASK]?,1,,0.8870335960123065
+9239,P155,What lies beyond the [MASK]?,1,,0.9024589427753114
+9142,P155,What is the subsequent console after [MASK]?,1,,1.1118292452611545
+9143,P155,What is the subsequent day to [MASK]?,1,,1.0411012068251404
+9146,P155,What is the subsequent entity after the [MASK]?,1,,1.01238487276804
+9228,P155,What land lies next to [MASK]?,1,,1.0458653420134438
+9149,P155,What is the subsequent figure after [MASK]?,1,0.8099268992595468,0.809926899259546
+9150,P155,What is the subsequent figure to [MASK]?,1,0.8378200282026484,0.8378200282026466
+9151,P155,What is the subsequent incident after [MASK]?,1,0.8448196989341649,0.844819698934163
+9227,P155,What kind of sound is generally next to [MASK]?,1,,1.001461714054004
+9226,P155,What kind of architecture is the next step after [MASK]?,1,0.9127781360515027,1.0643917892426047
+9225,P155,What journal is the subsequent one of [MASK]?,1,,1.0245178178921692
+9224,P155,What is usually the next task for [MASK]?,1,0.8721432326502216,0.8721432326502216
+9153,P155,What is the subsequent item to [MASK]?,1,,0.9734050706735473
+9223,P155,What is usually the following role for [MASK]?,1,0.9008769370016217,0.9008769370016217
+9222,P155,What is typically the conclusion of a [MASK]?,1,,1.0108704835484799
+9155,P155,What is the subsequent month to [MASK]?,1,0.9362573305755577,1.030405857606544
+9221,P155,What is typically placed after a [MASK] rating?,1,0.9018476028838217,1.0210347303462388
+9218,P155,What is the word that follows [MASK]?,1,,1.022697490798941
+9297,P155,What precedes March?,1,0.8088864276920984,0.808886427692095
+9420,P155,What was the consequence of the 1890 Swedish Census?,1,,0.8955592917793103
+9300,P155,What publication comes next in the [MASK]?,1,,0.9920332087642184
+9477,P155,What year comes directly after [MASK]?,1,0.9220757393832546,1.0691487208384751
+9479,P155,What year comes next after [MASK]?,1,0.9555350484252163,0.9555350484252149
+9482,P155,What year did [MASK] bring about?,1,0.6610097743286667,0.6610097743286666
+9483,P155,What year did [MASK] come after?,1,1.7385183092569865,0.8695871798460476
+9484,P155,What year did [MASK] precede?,1,7.221399502802302,0.951609044612593
+9485,P155,What year did [MASK] transition into?,1,0.9688480095904851,1.2397899837165245
+9487,P155,What year followed [MASK] chronologically?,1,0.933722852587267,1.0483658524251103
+9488,P155,What year followed [MASK] in sequence?,1,0.9599247422871331,1.1053846451539944
+9491,P155,What year follows [MASK] in a timeline?,1,,0.8751193629787288
+9494,P155,What year happened after [MASK] in the sequence?,1,0.9305469843347268,1.0455278308585487
+9496,P155,What year happened subsequent to [MASK]?,1,0.9657478673533826,1.229491812236285
+9499,P155,What year is directly after [MASK]?,1,0.9599754101530716,1.1308308058181231
+9501,P155,What year is immediately subsequent to [MASK]?,1,0.934621027111813,1.0837862321499714
+9504,P155,What year is subsequently after [MASK]?,1,0.8859765436572065,0.9699980532194605
+9506,P155,What year occurred after [MASK]?,1,0.9390896181067229,1.0991639263979782
+9508,P155,What year occurs immediately after [MASK]?,1,0.9389272452157309,1.1669847502164887
+9478,P155,What year comes immediately after [MASK]?,1,0.9673951370821549,1.222704901908471
+9471,P155,What word follows [MASK]?,1,,0.9874813680241925
+9511,P155,What year succeeds [MASK] in chronological order?,1,,1.0953918478571816
+9469,P155,What will transpire after [MASK]?,1,,0.9147527214490436
+9444,P155,What was the outcome following the [MASK]?,1,,0.9155499072924872
+9445,P155,What was the outcome of the Swedish Census in 1890?,1,,0.9082248491745262
+9449,P155,What was the product of the [MASK]?,1,,0.8799233936424775
+9450,P155,What was the result of the Swedish Census in 1890?,1,,0.9054932580845676
+9451,P155,What was the sequence of events after the [MASK]?,1,0.8792663667670999,0.8792663667670996
+9452,P155,What was the subsequent age after [MASK]?,1,1.6717005201149229,1.0091620618693393
+9453,P155,What was the subsequent age to [MASK]?,1,1.8665665663136362,0.9471515664248914
+9456,P155,What was the subsequent event of the [MASK]?,1,,0.9024736542240793
+9459,P155,What was the succeeding product to [MASK]?,1,,0.9867023679490596
+9460,P155,What was the successor of [MASK]?,1,0.9376708684133437,1.0591084023231954
+9461,P155,What was the successor to the [MASK]?,1,1.304057850189469,0.9930197246650799
+9465,P155,What were the consequences of the [MASK]?,1,,0.9407500534476897
+9466,P155,What will be released after the [MASK]?,1,1.0207261594746126,1.0207261594746126
+9467,P155,What will come after the [MASK]?,1,1.0767863225682592,1.0767863225682592
+9468,P155,What will occur after the [MASK]?,1,,0.9017187901122042
+9510,P155,What year succeeded [MASK] in the timeline?,1,0.9360536871099719,1.0530062231273751
+9512,P155,What year transpired after [MASK]?,1,0.9350677484336867,1.055604484542062
+9301,P155,What rank is given after [MASK]?,1,,0.8625288101529647
+9539,P155,Which schooling stage follows [MASK]?,1,0.9114629352325466,0.9114629352325437
+9541,P155,Which title follows [MASK]?,1,,1.217034138957706
+9542,P155,Which year followed [MASK]?,1,0.9573792418551397,1.1328350985331241
+9543,P155,Which year happened after [MASK]?,1,0.9060160052164417,1.0137048546747596
+9545,P155,Which year is next in line after [MASK]?,1,0.9236647027229349,0.9281917641196059
+9546,P155,Which year succeeded [MASK]?,1,0.9462000977734295,1.1227566608084272
+9549,P155,Which years succeeded the [MASK]?,1,0.9244276079187667,0.9244276079187633
+9550,P155,Who came after [MASK]?,1,,1.0391005289554853
+9551,P155,Who follows [MASK] in ranking?,1,0.8681961804155376,0.8681961804155376
+9554,P155,Who is [MASK]'s successor?,1,,0.8123574989371213
+9555,P155,Who is the next in line after [MASK]?,1,0.8881882293718791,0.8881882293718777
+9556,P155,Who is the next organization after the [MASK]?,1,,1.0591756137422186
+9557,P155,Who is the next ranking after [MASK]?,1,,0.9884363070791274
+9558,P155,Who is the subsequent country after [MASK]?,1,,1.0235305427542283
+9559,P155,Who is the successor of the [MASK]?,1,,0.9373111274082332
+9560,P155,Who replaced [MASK]?,1,,1.051648247154416
+9540,P155,Which time period succeeded [MASK]?,1,0.8687421653889731,1.0165519726468728
+9538,P155,Which rating follows [MASK]?,1,,0.9950655484116906
+9514,P155,What year was chronologically subsequent to [MASK]?,1,0.9603808996091566,1.1363589559812077
+9537,P155,Which occasion is subsequent to [MASK]?,1,0.8782727932926442,0.8782727932926441
+9518,P155,What year was right behind [MASK]?,1,0.9354293948471766,1.1086376112848084
+9523,P155,What years preceded the [MASK]?,1,2.231910963770022,0.9257684205513632
+9524,P155,What years succeeded the [MASK]?,1,,0.8941534743561386
+9525,P155,When is the year succeeding [MASK]?,1,0.8583888668948222,0.858388866894822
+9526,P155,When was the year that succeeded [MASK]?,1,0.9610102633897197,1.142427857468
+9527,P155,Which city is next to [MASK]?,1,,1.0421087536503726
+9528,P155,Which country adjoins [MASK]?,1,,1.0812268799820184
+9529,P155,Which day comes after [MASK]?,1,,1.0395884355520169
+9530,P155,Which educational stage is next after [MASK]?,1,1.7553528797350464,1.0117092521153297
+9531,P155,Which event transpired in the wake of the [MASK]?,1,,0.9193635964139799
+9532,P155,Which figure is after [MASK]?,1,,0.9331207461204724
+9533,P155,Which month succeeds [MASK]?,1,0.9228438493692932,1.0156435383653875
+9534,P155,Which month typically follows one beginning on a Sunday?,1,,0.8904253550834638
+9535,P155,Which month usually begins after one that starts on Sunday?,1,,0.8806732449534567
+9536,P155,Which number follows [MASK]?,1,0.9329238421505384,1.0288570259960337
+9443,P155,What was the outcome after the [MASK]?,1,0.8873452062249038,1.005863222299117
+9441,P155,What was the occurrence after [MASK]?,1,,1.021620917012524
+9438,P155,What was the next phase after the [MASK]?,1,,1.026274639371882
+9331,P155,What subject follows [MASK]?,1,,1.1479027516404212
+9335,P155,What succeeds [MASK] numerically?,1,0.9157085261475594,0.9972189941148858
+9336,P155,What succeeds the characteristic behavior known as [MASK]?,1,,1.2163421986978735
+9337,P155,What superseded the [MASK]?,1,,0.9296142889244448
+9339,P155,What system succeeded the [MASK]?,1,0.9308008427067314,1.0457318822215005
+9340,P155,What system succeeds [MASK] in the Xbox family?,1,,1.0797862096680748
+9341,P155,What system took over after the [MASK]?,1,1.0299166179977455,1.0293184771690338
+9342,P155,What system was released after the [MASK]?,1,0.9374081011295259,1.0519123487330329
+9343,P155,What takes place following [MASK]?,1,0.9179265634606384,1.0406314018430944
+9345,P155,What takes place subsequent to a [MASK]?,1,,1.0003694701712993
+9346,P155,What temporal period immediately followed the [MASK]?,1,0.8696648321897764,0.973055817106231
+9347,P155,What term follows [MASK]?,1,,1.0245136576854184
+9348,P155,What thousand year period follows [MASK]?,1,0.8223522523597937,0.8223522523597936
+9349,P155,What time epoch followed the [MASK]?,1,0.9496611431318768,1.20943791513623
+9351,P155,What time frame came after the [MASK]?,1,0.9041352629707491,1.1342347204403251
+9352,P155,What time frame follows the [MASK]?,1,,1.0390499106157707
+9334,P155,What succeeds [MASK] in the timeline?,1,0.902196964049101,1.1733878933011754
+9330,P155,What style of architecture is the successor to [MASK]?,1,0.9272235712820452,1.0731413137675476
+9433,P155,What was the next decade after the [MASK]?,1,0.9651203942223824,1.24882411928221
+9329,P155,What style of architecture is the product of [MASK]?,1,1.0225712390641242,0.9255023933787551
+9302,P155,What ranking is next in line after [MASK]?,1,,0.8949596617542587
+9307,P155,What rating is typically preceded by [MASK]?,1,2.6043236243810726,1.042924607444775
+9309,P155,What result came after the [MASK]?,1,,0.918928261833747
+9310,P155,What result is obtained from an [MASK]?,1,,0.9022222411743542
+9313,P155,What season comes next after [MASK]?,1,,1.0729477248439248
+9315,P155,What season is next after [MASK]?,1,,1.1649914689738883
+9318,P155,What shape comes after a [MASK]?,1,,1.1695058707061228
+9319,P155,What shape is [MASK] followed by?,1,,0.9068019818057034
+9320,P155,What shape is [MASK] succeeded by?,1,,0.9347941523180763
+9321,P155,What single-digit number follows [MASK]?,1,,1.0568911908655798
+9322,P155,What sound is often associated after [MASK]?,1,,0.9567319441505461
+9323,P155,What sound typically follows [MASK]?,1,,0.95099560169149
+9324,P155,What state is neighbored by [MASK]?,1,,1.050058213357116
+9326,P155,What step in education follows [MASK]?,1,,0.9799752865464506
+9328,P155,What style of architecture follows [MASK]?,1,0.925501992409324,1.1024251669074787
+9353,P155,What time frame was next in sequence after the [MASK]?,1,,0.9089178611499089
+9355,P155,What time of year follows [MASK]?,1,,1.075296430213037
+9358,P155,What time period comes after the [MASK]?,1,,1.1173079066248408
+9359,P155,What time period ensued the [MASK]?,1,0.8933077697785097,1.056982694126871
+9400,P155,What typically comes after a month that begins on Sunday?,1,,1.1063649643977391
+9403,P155,What typically follows a [MASK]?,1,,1.2511183769374494
+9405,P155,What usually ensues after a [MASK]?,1,,0.8860809162422327
+9406,P155,What usually follows [MASK]?,1,1.0834990702624951,1.0834990702624951
+9407,P155,What usually happens after [MASK]?,1,,0.8994598989948118
+9408,P155,What usually proceeds [MASK]?,1,,0.8717871412989031
+9411,P155,What video game console followed the [MASK]?,1,0.9365770041619133,1.0359405422291852
+9413,P155,What was launched after the [MASK]?,1,0.8983172739269896,1.0077640887212913
+9418,P155,What was the [MASK]'s successor?,1,0.8244228164849912,0.9120362092481948
+9423,P155,What was the following console after [MASK]?,1,0.9231264685380969,0.9487318809987648
+9424,P155,What was the following event after the [MASK]?,1,0.9015753983799731,1.0188146579209438
+9425,P155,What was the following event in [MASK]?,1,0.8776461825127195,0.8776461825127194
+9426,P155,What was the following period after the [MASK]?,1,0.9236335825072106,1.1511056662338661
+9428,P155,What was the historical period after the [MASK]?,1,0.923877977236583,1.0763260621826476
+9429,P155,What was the next century after the [MASK]?,1,0.8745109262963269,1.044161242881171
+9399,P155,What type of rating succeeds [MASK]?,1,,0.9883028112813262
+9398,P155,What type of music has been heard after [MASK]?,1,,1.0429953913869627
+9397,P155,What type of music comes after [MASK]?,1,,0.9686915185194218
+9377,P155,What topic comes up after [MASK]?,1,,0.9022100546617465
+9361,P155,What time period happened after [MASK]?,1,0.9030698414585393,1.063803175164604
+9366,P155,What time span came after the [MASK]?,1,0.9029895858632696,1.1204239039231745
+9367,P155,What title is bestowed after becoming a [MASK]?,1,,1.0506589505656685
+9368,P155,What title is given after [MASK]?,1,,0.9241254404144456
+9369,P155,What took over from the [MASK]?,1,,1.022531954745501
+9373,P155,What took place immediately succeeding [MASK]?,1,0.8683402225255353,0.8683402225255347
+9378,P155,What trailed [MASK]?,1,,0.9068739834547888
+9396,P155,What type of figure is subsequent to a [MASK]?,1,,0.8882811774368535
+9383,P155,What transpired in the aftermath of the [MASK]?,1,,0.8918714267253162
+9384,P155,What transpired in the time period following the [MASK]?,1,0.8775144278130084,1.0463163354836669
+9385,P155,What transpired in the wake of the [MASK]?,1,0.8878063839810125,0.964469279994548
+9392,P155,What transpires after [MASK] in the chronology?,1,0.8707787561243959,0.8707787561243946
+9394,P155,What type of behavior usually follows [MASK]?,1,,0.9093625519242947
+9395,P155,What type of education is next after [MASK]?,1,,0.9741632149300953
+9130,P155,What is the season succeeding [MASK]?,1,,0.9515226300575299
+8978,P155,What is mandated after [MASK]?,1,,1.30731120519699
+9122,P155,What is the ranking higher than [MASK]?,1,,0.9590116688483981
+8784,P155,What educational milestone follows [MASK]?,1,,0.8893209269626711
+8764,P155,What device picked up after the [MASK]?,1,0.940384649399034,1.0553839033662573
+8765,P155,What did [MASK] precipitate?,1,0.8746022996152681,0.8746022996152667
+8767,P155,What discipline comes after [MASK]?,1,,0.9907071669875767
+8768,P155,What do [MASK]s typically pursue?,1,,1.3831811364316418
+8769,P155,What do [MASK]s usually concentrate on?,1,,1.152394727727353
+8770,P155,What do [MASK]s usually follow?,1,,0.8474592266520993
+8771,P155,What do we refer to as the period after [MASK]?,1,0.8829987932314166,0.8829987932314142
+8772,P155,What do you experience after [MASK]?,1,,0.8992273275461264
+8773,P155,What do you have after [MASK]?,1,0.7903196050641533,0.7903196050641528
+8776,P155,What does [MASK] have after it?,1,,0.9704249751447673
+8777,P155,What does [MASK] usually come after?,1,1.1464780647241561,1.1464780647241561
+8778,P155,What education level comes after [MASK]?,1,,1.044612271408563
+8779,P155,What educational attainment follows [MASK]?,1,,0.9751066746694598
+8780,P155,What educational credentials are earned after [MASK]?,1,,0.9097043087584158
+8781,P155,What educational level do students move on to after [MASK]?,1,,0.9693238474735725
+8763,P155,What developments came after the [MASK]?,1,0.9329180588203716,1.0055939050022844
+8761,P155,What degree follows [MASK]?,1,,1.0355703015833304
+8760,P155,What degree comes after [MASK]?,1,,1.0402423055709709
+8745,P155,What date is subsequent to [MASK]?,1,0.7710777672243125,0.7710777672243118
+8739,P155,What country lies to the west of [MASK]?,1,,1.1322070548076986
+8740,P155,What country was in the position of [MASK] after it?,1,,1.062598145058806
+8741,P155,What criteria is used after [MASK]?,1,,0.8594364677033101
+8742,P155,What custom generally succeeds [MASK]?,1,,0.9955552643964121
+8743,P155,What customarily follows [MASK]?,1,,0.9627251132222686
+8744,P155,What date immediately followed [MASK]?,1,0.9506313207105609,1.148808901113297
+8746,P155,What date proceeds [MASK]?,1,0.8811066074707337,0.8811066074707317
+8759,P155,What decade follows the [MASK]?,1,,1.073072535857472
+8749,P155,What day comes subsequently to [MASK]?,1,,1.0007595365327524
+8750,P155,What day follows [MASK]?,1,,1.0291201488098207
+8751,P155,What day follows immediately after [MASK]?,1,,1.0267363281342272
+8753,P155,What day is [MASK] succeeded by?,1,,0.9124985972836026
+8755,P155,What day is immediately after [MASK]?,1,,1.0613258770959437
+8757,P155,What day is the following day after [MASK]?,1,,0.9970604249266458
+8783,P155,What educational level succeeds [MASK]?,1,0.9083628206702108,0.9492776387338823
+8785,P155,What educational stage is immediately after [MASK]?,1,,0.8851473075522112
+8737,P155,What country borders [MASK]?,1,,1.0741115758341604
+8786,P155,What element follows [MASK]?,1,,1.0411510715812464
+8823,P155,What event or time period comes after [MASK]?,1,0.8709367946615747,0.8709367946615598
+8825,P155,What event took place after [MASK]?,1,0.7765859801853817,0.7765859801853813
+8827,P155,What event took place in the year [MASK]?,1,0.8908346745275749,0.8908346745275723
+8828,P155,What event transpired post [MASK]?,1,,0.9110521452931905
+8836,P155,What events happened subsequent to [MASK]?,1,0.9294196038035191,1.115088144916768
+8840,P155,What events were part of [MASK]?,1,,0.9330213922135022
+8841,P155,What field is subsequent to [MASK]?,1,,1.0182303177674341
+8842,P155,What field is subsequent to the area of study known as [MASK]?,1,,1.0129737662143894
+8844,P155,What followed [MASK] in terms of date?,1,0.9135228232934877,0.913522823293487
+8848,P155,What followed chronologically after [MASK]?,1,0.9247817067978237,0.9247817067978225
+8852,P155,What followed the [MASK] chronologically?,1,0.9285603917834416,0.9855160614401536
+8854,P155,What followed the [MASK] in terms of chronology?,1,,1.2535375496484735
+8860,P155,What followed the decade of the [MASK]?,1,0.9454645125058703,1.3650336827093161
+8861,P155,What follows [MASK] in chronological order?,1,1.2941867268548675,1.075678826498147
+8862,P155,What follows [MASK] in terms of education?,1,0.8951146902451615,1.012105437769199
+8822,P155,What event or phenomenon comes after [MASK]?,1,0.8422587993948039,0.8422587993948037
+8821,P155,What event or period is next after [MASK]?,1,0.8372923010116736,0.8372923010116728
+8820,P155,What event or occurrence is next after [MASK]?,1,0.8679887828957189,0.8679887828957176
+8797,P155,What era follows the [MASK]?,1,0.8862319782139719,0.8862319782139709
+8787,P155,What element is located after [MASK]?,1,,1.0234079929421502
+8788,P155,What element is situated after [MASK]?,1,,1.021084686874995
+8789,P155,What element succeeds [MASK]?,1,,1.0344503596537555
+8790,P155,What emerges after the [MASK]?,1,,0.9399570463602497
+8794,P155,What epoch succeeds the [MASK]?,1,,0.904386103204239
+8795,P155,What era comes after the [MASK]?,1,0.9041164805230448,0.9041164805230437
+8799,P155,What era succeeds the [MASK] in time?,1,,1.0421471624524783
+8819,P155,What event or occurrence happens after [MASK]?,1,0.8880459685675595,1.0465529269589493
+8800,P155,What era took place after [MASK]?,1,0.9220504648721348,0.9639385019031814
+8802,P155,What era was immediately succeeding the [MASK]?,1,0.9341168872832534,0.9802303853858356
+8804,P155,What era was subsequent to the [MASK]?,1,,0.923690401300921
+8807,P155,What event comes after a [MASK]?,1,,0.9882723782180914
+8812,P155,What event is chronologically succeeding [MASK]?,1,0.9381702061155961,1.1514834199408652
+8818,P155,What event or occurrence followed [MASK]?,1,0.8800854867945057,0.880085486794504
+8738,P155,What country is located after [MASK]?,1,,1.2196023443862751
+8736,P155,What continues after [MASK]?,1,0.9200569850696377,0.9200569850696377
+9121,P155,What is the progression of [MASK]?,1,,0.902917376790529
+8684,P155,What comes after [MASK] educationally?,1,,0.9721434429067125
+8655,P155,What came after [MASK] in terms of events?,1,0.932725295301869,1.0813010762778492
+8657,P155,What came after in the timeline from [MASK]?,1,0.9364101886783908,0.9797539643950878
+8658,P155,What came after the Swedish Census of 1910?,1,,0.9041439852699311
+8662,P155,What came after the [MASK] in terms of time?,1,0.907646000210743,0.907646000210742
+8664,P155,What came afterwards in terms of years relative to [MASK]?,1,0.9162007854346862,1.0181526238431649
+8665,P155,What came as a result of the [MASK]?,1,,0.9132404236574444
+8670,P155,What came next in the timeline after [MASK]?,1,0.8366369693345169,0.8366369693345166
+8673,P155,What can be attributed to the [MASK]?,1,0.899050662187113,0.8990506621871099
+8674,P155,What can be said to be the outcome of the [MASK]?,1,,0.9261204887448503
+8675,P155,What carries the [MASK] label?,1,,0.8922059812527139
+8676,P155,What chronological order is [MASK] followed by?,1,0.9265619509381084,1.0176494720709848
+8677,P155,What city comes after [MASK]?,1,,1.0414319999376571
+8679,P155,What city is next in sequence to [MASK]?,1,,0.9290095029695747
+8680,P155,What city succeeds [MASK]?,1,,1.0400952088631485
+8682,P155,What classification is next after [MASK]?,1,,1.0243065626711951
+8654,P155,What came about in the year [MASK]?,1,0.896888057955589,1.020991543987359
+8652,P155,What builds on [MASK]?,1,,0.8993373192637288
+8651,P155,What became the successor of the [MASK]?,1,,0.9303045070477689
+8642,P155,To what does the [MASK] lead?,1,,0.9085254470864533
+8628,P155,"After [MASK], what is the next title?",1,1.375215985212995,1.0708356598731539
+8636,P155,After what year does [MASK] come?,1,9.331511672738241,0.919185256124302
+8637,P155,How did the [MASK] end?,1,,1.0160684834265319
+8638,P155,How did the [MASK] transition into the next period?,1,,0.9553092418920928
+8639,P155,Is there a higher level after [MASK]?,1,,0.9032996487582988
+8640,P155,Is there a rank that follows [MASK]?,1,,0.892173865334772
+8643,P155,To which language does [MASK] lead?,1,0.927053036102686,0.9881605714716243
+8650,P155,What arrives after the [MASK]?,1,,1.1999590238886313
+8644,P155,What action typically comes after a [MASK]?,1,,0.90260890366412
+8645,P155,What appears after [MASK]?,1,,1.1443129135101548
+8646,P155,What architecture style is a manifestation of [MASK]?,1,0.9033677618474747,0.9033677618474731
+8647,P155,What are the results of the [MASK]?,1,0.8863211995142277,0.8863211995142276
+8648,P155,What area of study comes after [MASK]?,1,,0.9965435564562332
+8649,P155,What area of study follows [MASK]?,1,,0.8820941748123144
+8683,P155,What comes about after conducting a [MASK]?,1,,0.8956208206019824
+8685,P155,What comes after [MASK] in chronology?,1,1.82925377594868,0.9753433924618021
+8733,P155,What console is the heir to [MASK]?,1,,1.0713726702883357
+8687,P155,What comes after [MASK] in terms of age restriction?,1,,1.1757576989949081
+8709,P155,What comes in succession to [MASK]?,1,0.8332357718195323,0.8780341655037355
+8710,P155,What comes in the year succeeding [MASK]?,1,0.948771388566055,1.4050545444218001
+8712,P155,What comes next in relation to [MASK]?,1,,1.0657036757235097
+8713,P155,What comes next in succession after [MASK]?,1,,1.1644896105677185
+8714,P155,What comes next in the sequence of [MASK]?,1,,1.221348368827446
+8715,P155,What comes next to [MASK]?,1,0.8609258919896755,0.9883762117889219
+8716,P155,What comes right after [MASK] in numerical order?,1,1.0520488865261477,0.9453166824281416
+8719,P155,What comes sequentially after [MASK]?,1,0.936147621304601,0.9361476213046002
+8723,P155,What comes with the [MASK] designation?,1,,0.9169641800416986
+8725,P155,What conclusion did the [MASK] reach?,1,,0.9179471472279488
+8726,P155,What conclusion was reached after the [MASK]?,1,0.9094368621870317,0.909436862187028
+8727,P155,What consequence came from the [MASK]?,1,,1.065554391925925
+8728,P155,What consequence happened due to the [MASK]?,1,,0.9015031720658973
+8729,P155,What console came after [MASK]?,1,0.9206219756643722,1.0397549392483232
+8730,P155,What console followed [MASK]?,1,0.9287599807453099,1.049033037586328
+8708,P155,What comes in continuation to the [MASK]?,1,,0.9721788947463671
+8706,P155,What comes afterward [MASK]?,1,0.9268583984454437,1.1138125036575859
+8704,P155,What comes after the term [MASK]?,1,,1.171155217048849
+8694,P155,What comes after [MASK] in the ratings system?,1,,0.9600149753887358
+8688,P155,What comes after [MASK] in terms of architecture?,1,0.9328716920455402,1.1083027879525644
+8689,P155,What comes after [MASK] in terms of classification?,1,,1.0146566153904744
+8690,P155,What comes after [MASK] in terms of rating?,1,,1.192449899121965
+8691,P155,What comes after [MASK] in terms of subject matter?,1,,1.002796269097552
+8692,P155,What comes after [MASK] in the chain?,1,1.1126630788568366,1.1126630788568366
+8693,P155,What comes after [MASK] in the process?,1,,1.0784922193466753
+8695,P155,What comes after a [MASK] classification?,1,0.869777308612089,0.8697773086120868
+8703,P155,What comes after the rank of [MASK]?,1,,1.080940128204189
+8696,P155,What comes after achieving the designation of [MASK]?,1,,0.9720683906210789
+8697,P155,What comes after an [MASK]?,1,,0.9749429426097179
+8698,P155,What comes after being classified as [MASK]?,1,,0.9574963879711115
+8699,P155,What comes after gaining the title of [MASK]?,1,,0.8674972932487419
+8700,P155,What comes after obtaining a [MASK]?,1,,0.917883773229873
+8702,P155,What comes after the [MASK] in years?,1,,1.0653532870911773
+8863,P155,What follows [MASK] in terms of ratings?,1,,1.060790694774831
+8865,P155,What follows [MASK] in the music world?,1,,1.028023549430326
+8866,P155,What follows [MASK] in the yearly cycle?,1,,1.0319958297341691
+9065,P155,What is the next digit in sequence after [MASK]?,1,0.924543760674534,0.9457225310801539
+9035,P155,What is the higher title than [MASK]?,1,0.9414872949569186,1.0745275706099573
+9036,P155,What is the immediate day after [MASK]?,1,,1.0492673800280932
+9037,P155,What is the immediate linguistic successor of [MASK]?,1,0.9372627282496202,0.9734216683136401
+9038,P155,What is the immediate month after [MASK]?,1,,1.011596114488734
+9040,P155,What is the immediate year after [MASK]?,1,0.9586817333050116,1.096945450416874
+9041,P155,What is the immediately succeeding year to [MASK]?,1,0.9567118433657489,1.1047709686874847
+9043,P155,What is the implication of [MASK]?,1,,0.9213059957802091
+9048,P155,What is the month right after [MASK]?,1,,0.9995016876841959
+9051,P155,What is the month that proceeds [MASK]?,1,,0.9745457315240683
+9052,P155,What is the name of the sovereign state that succeeded the [MASK]?,1,,0.9851490993078739
+9053,P155,What is the nation that follows [MASK]?,1,,0.9397153056960992
+9054,P155,What is the neighboring city to [MASK]?,1,,1.0576757116420368
+9055,P155,What is the neighboring nation of [MASK]?,1,,1.1114336784932235
+9057,P155,What is the next area of study after [MASK]?,1,,1.1351125210167197
+9059,P155,What is the next chronological year after [MASK]?,1,0.9198556318017158,1.0258696647149665
+9032,P155,What is the grade higher than [MASK]?,1,,0.9303524974254631
+9029,P155,What is the following thing after a [MASK]?,1,,0.8960584927531395
+9027,P155,What is the following step after a [MASK]?,1,,0.9123061555405678
+9017,P155,What is the effect of [MASK]?,1,0.8704149845552405,0.8704149845552388
+9005,P155,What is the consecutive year after [MASK]?,1,0.9245257727324165,1.0269712066858752
+9006,P155,What is the consecutive year to [MASK]?,1,1.8572394868336004,1.0013696827960912
+9007,P155,What is the consequence of carrying out an [MASK]?,1,,0.8983110278039057
+9014,P155,What is the designation for [MASK]?,1,,0.8817521561038413
+9015,P155,What is the digit immediately after [MASK]?,1,,1.1040513133831216
+9016,P155,What is the educational path after [MASK]?,1,,1.015018782800638
+9018,P155,What is the element that comes after [MASK]?,1,,1.0370912015903946
+9026,P155,What is the following rank after [MASK]?,1,,1.0602775802718045
+9020,P155,What is the following event from the [MASK]?,1,,1.0145924334132403
+9021,P155,What is the following item to [MASK]?,1,,0.9321515353423795
+9022,P155,What is the following month after [MASK]?,1,0.933544087048377,1.0362667044505238
+9023,P155,What is the following month if it begins on a Sunday?,1,,1.1151466656856062
+9024,P155,What is the following nation after [MASK]?,1,,0.9402457360269836
+9025,P155,What is the following number to [MASK]?,1,0.9149121825388122,1.064346609029304
+9064,P155,What is the next day following [MASK]?,1,,1.0668863225946412
+9066,P155,What is the next educational attainment after [MASK]?,1,,1.0835339397314312
+8867,P155,What follows [MASK] numerically?,1,0.9502452794571318,1.0622542210411765
+9068,P155,What is the next element in the sequence of the [MASK]?,1,,0.9279565195505638
+9097,P155,What is the next style of music to [MASK]?,1,,1.0352943675040516
+9100,P155,What is the next thing to [MASK]?,1,,0.9421941920948256
+9101,P155,What is the next tier in schooling after [MASK]?,1,,1.070494426181336
+9103,P155,What is the next topic after [MASK]?,1,,1.047045826435708
+9104,P155,What is the next year following [MASK]?,1,0.9262809152598401,1.0432811814596763
+9105,P155,What is the next year to [MASK]?,1,0.9361023465286983,1.0941829678202208
+9107,P155,What is the number coming after [MASK]?,1,0.8723967014746989,0.8723967014746972
+9108,P155,What is the one that comes after [MASK]?,1,1.0483664840292921,0.9916820510186134
+9113,P155,What is the output of an [MASK]?,1,,0.9207489623015676
+9114,P155,What is the period of time that immediately follows [MASK]?,1,0.8789712919103896,1.111759978423819
+9116,P155,What is the phrase that comes after [MASK]?,1,,0.8801963573163964
+9117,P155,What is the place that follows [MASK]?,1,,1.05948735483486
+9118,P155,What is the position higher than [MASK]?,1,,0.9824960823848072
+9119,P155,What is the proceeding year after [MASK]?,1,0.944402657783037,1.1640905344805248
+9120,P155,What is the progression from [MASK]?,1,,1.027020755528143
+9096,P155,What is the next step in the educational system following [MASK]?,1,,1.0484695898989034
+9095,P155,What is the next step from [MASK]?,1,,1.0250636953953733
+9094,P155,What is the next step for the [MASK]?,1,,0.9649040034072213
+9078,P155,What is the next language after [MASK]?,1,1.1090857204360272,1.0971155738909277
+9069,P155,What is the next entity after the [MASK]?,1,,1.095656518957022
+9072,P155,What is the next event following [MASK]?,1,,1.0710095076318655
+9073,P155,What is the next group after the [MASK]?,1,,1.064787417474436
+9074,P155,What is the next highest ranking following [MASK]?,1,1.5863574365435948,1.002123851906079
+9076,P155,What is the next integer following [MASK]?,1,0.9172665979635537,1.0209688170789968
+9077,P155,What is the next journal after the [MASK]?,1,,1.0241572651520172
+9080,P155,What is the next metropolitan area after [MASK]?,1,,0.9663031612505328
+9091,P155,What is the next stage following [MASK]?,1,,1.040509112762178
+9082,P155,What is the next month that begins on a Sunday?,1,,0.952747115248877
+9084,P155,What is the next number following [MASK]?,1,0.9298965330560152,1.0317317029460127
+9086,P155,What is the next occurrence following [MASK]?,1,0.9268961755840287,1.1594727249154575
+9088,P155,What is the next rank after [MASK]?,1,,1.080490097033883
+9089,P155,What is the next rung on the ladder after [MASK]?,1,,1.0861451300899112
+9090,P155,What is the next shape following a [MASK]?,1,,1.29706366173565
+9002,P155,What is the chronology of years after [MASK]?,1,0.8764827724780082,0.8764827724780059
+8999,P155,What is the chronological order after [MASK]?,1,0.8162969011052187,0.8162969011052175
+8988,P155,What is situated next to [MASK]?,1,,0.8375241829042478
+8987,P155,What is situated adjacent to [MASK]?,1,,1.2302340396730258
+8899,P155,What genre is typically heard after [MASK]?,1,,1.015574079499853
+8900,P155,What genre of music is typically after [MASK]?,1,,0.9968696791833797
+8901,P155,What goes after [MASK]?,1,0.8505934295469396,0.9163163356430603
+8902,P155,What government followed [MASK]?,1,,0.9208377543554578
+8903,P155,What group follows the [MASK]?,1,,0.9918326499311537
+8904,P155,What habit is characteristically present after [MASK]?,1,,0.8929046288263767
+8905,P155,What habit is typically seen after [MASK]?,1,,0.8957080499682493
+8906,P155,What happened after the [MASK] concluded?,1,,0.9034976046048331
+8907,P155,What happened after the [MASK] was held?,1,,0.9194371794794989
+8908,P155,What happened after the [MASK] was over?,1,,0.9040587542600262
+8909,P155,What happened as a result of the [MASK]?,1,,1.0311345841370398
+8910,P155,What happened chronologically after the [MASK]?,1,0.8803722282165403,0.9482294620691407
+8912,P155,What happened historically after the [MASK]?,1,0.8704754235034925,0.8704754235034912
+8913,P155,What happened in 1940 after [MASK]?,1,0.7935458235250618,0.7935458235250611
+8914,P155,What happened in succession of the [MASK]?,1,,1.0519214875252303
+8898,P155,What generally follows [MASK]?,1,0.9888229698182142,0.9888229698182142
+8897,P155,What gaming system succeeded [MASK]?,1,0.9326136110696994,1.053366647681481
+8896,P155,What gaming system followed the [MASK]?,1,0.9467867706843279,1.0643410196845098
+8878,P155,What follows in the wake of [MASK]?,1,,0.8912641812234228
+8868,P155,What follows [MASK] on the periodic table?,1,,1.0200054498572977
+8869,P155,What follows [MASK] when studying?,1,,0.9114960148182929
+8870,P155,What follows a month that commences on Sunday?,1,,1.1235097076491694
+8873,P155,What follows after the season of [MASK]?,1,,0.9781010748968457
+8874,P155,What follows an [MASK]?,1,,0.9831342616424041
+8877,P155,What follows in the line of [MASK]?,1,0.8597808654731681,0.8597808654731658
+8882,P155,What follows the [MASK] in terms of gaming consoles?,1,0.9286693116216149,0.9286693116216149
+8893,P155,What gaming console was succeeding the [MASK]?,1,0.9328403254516877,1.031498456788387
+8884,P155,What follows the [MASK] in the lineup?,1,0.9404279859312419,1.0509749982461352
+8885,P155,What follows the [MASK] in the order of its parts?,1,,0.9735790991103345
+8888,P155,What follows the practice of [MASK]?,1,,1.1595962309163925
+8889,P155,What follows the rank of [MASK]?,1,,1.0456213269117143
+8890,P155,What follows up the [MASK]?,1,,1.068155232784741
+8892,P155,What gaming console succeeds [MASK]?,1,,1.0533280496748536
+8915,P155,What happened in succession to [MASK]?,1,0.9139886258070726,0.9139886258070725
+8917,P155,What happened in the centuries following the [MASK]?,1,0.8715967623660953,0.9979547486726027
+8918,P155,What happened in the decade after [MASK]?,1,0.8818949582959501,1.0314968182738136
+8976,P155,What is located after the [MASK]?,1,,0.9424015679704245
+8966,P155,What is called for after [MASK]?,1,,0.8966189131188813
+8969,P155,What is designated [MASK]?,1,,0.8857141331622671
+8970,P155,What is ensuing the [MASK]?,1,,0.8917532664429215
+8972,P155,What is going to happen following [MASK]?,1,,0.8880249893549435
+8973,P155,What is labeled as [MASK]?,1,,0.901875228809424
+8974,P155,What is located after [MASK] on the periodic table?,1,,1.0380401097070886
+8977,P155,What is located to the rear of [MASK]?,1,,1.2019554242938282
+8963,P155,What is a [MASK] followed by?,1,,0.8988424406631982
+8979,P155,What is mandatory following [MASK]?,1,,0.9087869406374424
+8980,P155,What is next for students after [MASK] has been completed?,1,,1.0885051861763217
+8982,P155,What is next in line for [MASK]?,1,0.9045688213913031,0.9045688213913031
+8983,P155,What is next up after [MASK]?,1,,1.017669277490149
+8985,P155,What is rated [MASK]?,1,,0.9315097048457079
+8986,P155,What is required after [MASK]?,1,,1.1162184561702557
+8964,P155,What is after the [MASK] in order?,1,,1.0242265482134847
+8958,P155,What immediate thing is after [MASK]?,1,,1.071068701922955
+8922,P155,What happened in the time frame succeeding the [MASK]?,1,0.9080104743188241,1.0627220657752128
+8937,P155,What happens in [MASK]'s wake?,1,0.8828010719927206,0.8828010719927214
+8928,P155,What happened next in [MASK]?,1,0.8825657337521913,1.020023638193293
+8931,P155,What happened right after the [MASK]?,1,,1.0693696001753923
+8932,P155,What happened sequentially after [MASK]?,1,0.8719774759791724,0.8719774759791703
+8934,P155,What happens after [MASK] in the calendar?,1,0.8917209136959044,0.9811611546253505
+8935,P155,What happens after a [MASK] is complete?,1,,0.9086221007822628
+8936,P155,What happens following [MASK]?,1,0.8430815669179177,0.8430815669179157
+8938,P155,What happens in the aftermath of a [MASK]?,1,,1.1713161894845716
+8957,P155,What historically came after [MASK]?,1,0.916433251619606,0.916433251619605
+8940,P155,What happens in the month after [MASK]?,1,0.8765504908173702,0.989701497587324
+8947,P155,What has been the outcome of the [MASK]?,1,,0.9018741425464017
+8951,P155,What has occurred after [MASK]?,1,0.8519120742061139,0.8519120742061135
+8953,P155,What has succeeded [MASK]?,1,0.9200897588333975,1.0127088036141185
+8954,P155,What has transpired since [MASK]?,1,0.9304918707073446,1.1794114976123098
+8955,P155,What historic event was recorded after [MASK]?,1,0.8520727037944918,0.8520727037944894
+9563,P155,Who takes the lead after the [MASK]?,1,,0.9571513527878727

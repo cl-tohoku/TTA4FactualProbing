@@ -1,0 +1,594 @@
+,p,template,fact_id,effect_gold,effect_top
+13362,P20,What was the site of [MASK]'s demise?,117,,1.0296110634391098
+13364,P20,What was the place of [MASK]'s death?,102,,1.1039486450946596
+13363,P20,What was the site of [MASK]'s death?,91,,1.051030353970879
+13365,P20,In what location did [MASK] pass away?,84,1.4060252763131558,1.0768676572159903
+14125,P20,Where did [MASK]'s life finally come to an end?,67,,0.9333169615203585
+13368,P20,Where did [MASK] breathe his last?,66,,0.9320884110315177
+13366,P20,What was the location of [MASK]'s death?,64,,1.0446214374499716
+13367,P20,What was the location of [MASK]'s passing?,61,,1.0338834208489909
+13371,P20,What was the place of [MASK]'s passing?,59,,1.0621094589692874
+13860,P20,What place was the final resting site of [MASK]?,55,,0.92848849037729
+13370,P20,What was the place of [MASK]'s demise?,54,,1.0383703576903573
+13369,P20,Where did [MASK] meet his end?,50,0.9040572343611826,0.9578120690796709
+13374,P20,What was the location of [MASK]'s demise?,41,,1.0717681951168008
+14052,P20,What was the site of [MASK]'s ultimate passing?,36,,0.9865306175255861
+13375,P20,Where did [MASK] take his last breath?,33,0.8938902506386077,0.9502034679412174
+13376,P20,Where did [MASK] expire?,33,,0.9637709625537759
+13377,P20,Where did [MASK] pass away?,25,1.0030485761636494,0.9968327281659641
+13378,P20,In what place did [MASK] pass away?,25,,1.0882210318282177
+13379,P20,Where was [MASK]'s final resting place?,24,0.9073134991807267,0.9191186290978163
+13382,P20,What was the scene of [MASK]'s death?,20,,1.0091671770151835
+13385,P20,What was the spot of [MASK]'s demise?,20,,0.9653257892552227
+13389,P20,What was the site of [MASK]'s decease?,19,,1.0531066654060364
+13386,P20,Where was [MASK]'s last breath taken?,17,0.9007517515074528,0.9233953703549569
+13400,P20,In what spot did [MASK] breathe his last?,17,,0.9038633387845435
+13424,P20,What was the ultimate destination of [MASK]?,17,,0.9383229229471381
+13393,P20,Where was [MASK]'s end?,17,,0.934017717065602
+13384,P20,In what place did [MASK] expire?,16,,0.9843671859603342
+13390,P20,What was the spot of [MASK]'s death?,16,,0.9717961412125624
+13698,P20,In what area did [MASK]'s life come to an end?,15,,0.9967551841161957
+13412,P20,What was the destination of [MASK]'s final journey?,14,,0.9596302583376514
+13399,P20,What was the scene of [MASK]'s demise?,14,,1.0018793681599318
+13402,P20,In what place did [MASK] breathe his last?,14,,0.9494185143637802
+13449,P20,At what spot did [MASK] take his last breath?,13,,0.9268347898971159
+13407,P20,What was the site of [MASK]'s end?,13,,0.9918150988157163
+13396,P20,Where was [MASK]'s demise?,13,,0.9850843239631205
+13387,P20,In what spot did [MASK] expire?,13,0.9477158545574738,0.9417285972546418
+13388,P20,In what spot did [MASK] pass away?,13,0.9211585599454701,0.9665851580743936
+13408,P20,Where was [MASK]'s death?,12,,0.990168627218572
+13392,P20,Where did [MASK]'s life come to a close?,12,0.9128551639068849,0.9344826063673145
+13395,P20,At what spot did [MASK] expire?,11,0.9394786491673738,0.9452208060482388
+13394,P20,At what place did [MASK] expire?,11,0.9040505145739937,0.9747397933191859
+13420,P20,What was the last resting place of [MASK]?,10,,0.911955216844183
+13397,P20,What place marked the end of [MASK]'s life?,10,0.922357068586478,0.9487235917321168
+13404,P20,What was the area of [MASK]'s passing?,9,,0.9829732501800499
+13401,P20,What was the area where [MASK] expired?,9,0.8914364245329437,0.9983891024820877
+13403,P20,What was the area of [MASK]'s death?,9,,1.0485049541259548
+13437,P20,What was the last place [MASK] was alive?,9,,1.042814044836912
+13414,P20,What was the scene of [MASK]'s passing?,8,,0.9395043269236204
+13417,P20,Where did the life of [MASK] come to an end?,8,,0.9307394772227466
+13406,P20,What was the place of death for [MASK]?,8,0.8990769256717142,0.9801626120936855
+13413,P20,What was the place of [MASK]'s last breath?,8,,0.896793802285313
+13479,P20,In what place did [MASK] meet his end?,8,,0.9671889373435727
+13436,P20,What was the last place [MASK] lived?,7,,0.9580228285365647
+13469,P20,At what place did [MASK] draw his last breath?,7,,0.8963922960193512
+13459,P20,What was the place where [MASK] breathed his last?,7,,0.9018985830300705
+13451,P20,In what area did [MASK] expire?,7,1.053760219965853,0.9358443585199642
+13439,P20,What was the place of [MASK]'s end?,7,,0.9681020277066799
+13442,P20,What was the spot of [MASK]'s end?,7,,0.9147062194851746
+13421,P20,What was the place of [MASK]'s decease?,7,0.9023864184056772,1.0588779412975782
+13411,P20,In which place did [MASK] pass away?,7,1.138421303333733,1.1268583161701309
+13410,P20,In which location did [MASK] pass away?,7,2.174178682752805,1.0548914948638501
+13409,P20,At what location did [MASK] expire?,7,1.2719202005678965,1.0159363024828116
+13422,P20,What was the spot where [MASK] expired?,6,0.8972167276327574,0.8959013998397376
+13427,P20,Where did [MASK] meet his maker?,6,0.8958147306095137,0.939981076737234
+13423,P20,What was the spot where [MASK] passed away?,6,0.8984026945949392,0.9426637313477183
+13461,P20,What was the site of [MASK]'s expiration?,6,,0.9717926112841772
+13425,P20,Where did [MASK] come to his end?,6,0.9058939534478399,0.9523159292549955
+13419,P20,What was the destination of [MASK]'s last journey?,6,0.9990326631264927,0.9822891474196634
+13426,P20,Where did [MASK] leave this world?,6,0.9265838709562895,0.927132017215869
+13489,P20,What was the end point of [MASK]'s life?,6,,0.9084522484618986
+13446,P20,Where was [MASK] when he passed away?,6,,0.9939666107084785
+13490,P20,What was the last location of [MASK]?,6,,0.9293771936600105
+13511,P20,Where did [MASK] succumb?,6,,0.9117168371802163
+13592,P20,What was the place of [MASK]'s departure?,6,,0.9487084296673566
+13435,P20,What was the final place of [MASK]'s life?,6,,1.0520437436299204
+13467,P20,Where was the death of [MASK]?,6,,1.0857368213709837
+13465,P20,Where was [MASK] when he expired?,5,,0.969063583450148
+13491,P20,What was the locality of [MASK]'s death?,5,,1.0068593559539096
+13550,P20,What locale was the end of [MASK]'s life?,5,,1.0172068737222992
+13432,P20,In which spot did [MASK] expire?,5,0.9046426336480109,0.929523871678002
+13498,P20,What was the place of [MASK]'s expiration?,5,,0.9706134622729486
+13623,P20,Where did [MASK]'s life conclude?,5,,0.9330228954508295
+13474,P20,At which spot did [MASK] breathe his last?,5,,0.9159425246415811
+13431,P20,In which place did [MASK] expire?,5,0.9094783308665546,0.9519186917582141
+13444,P20,Where did [MASK] meet his demise?,5,0.8876001597669707,0.979250683494801
+13460,P20,What was the point of [MASK]'s passing?,5,,0.9614395032419945
+13428,P20,In what area did [MASK] pass away?,5,2.5902905374944334,1.1235430511093791
+13464,P20,Where did [MASK] draw his last breath?,5,,0.933061158461151
+13445,P20,Where did [MASK] take his final breath?,5,0.894207135538106,0.9085348207006672
+13452,P20,In what area did [MASK] take his last breath?,5,,0.9570095952801273
+13429,P20,In what spot did [MASK] cease to exist?,5,0.9068415642791301,0.9022932111956952
+13457,P20,What was the locale of [MASK]'s demise?,5,,1.0565890187245053
+13440,P20,What was the place where [MASK] expired?,5,0.9773758715311512,0.9789824100637754
+13462,P20,Where did [MASK] breathe her last?,5,,0.9243697968557132
+13430,P20,In what spot did [MASK] meet his end?,5,0.8899376097689391,0.8883337856684573
+13463,P20,Where did [MASK] cease to exist?,5,,0.921992685179783
+13501,P20,What was the place where [MASK] passed away?,4,1.4276664342491157,1.0635498769359182
+13510,P20,Where did [MASK] depart this life?,4,,0.9378509743385696
+13602,P20,What was the site of [MASK]'s dying?,4,,1.0177621897070503
+13516,P20,Where was the end of [MASK]'s life?,4,,0.9033632302545317
+13507,P20,What was the spot where [MASK] breathed his last?,4,,0.8982324960681259
+13525,P20,At which place did [MASK] breathe his last?,4,,0.9378283957680997
+13586,P20,What was the location of [MASK]' decease?,4,,1.0843660731692846
+13585,P20,What was the locale of [MASK]'s passing?,4,,1.0274246141339378
+13599,P20,What was the setting of [MASK]'s passing?,4,,1.0493656685136388
+13466,P20,Where was [MASK]'s passing?,4,0.9187217601670575,1.0256775575315038
+13558,P20,What place was [MASK]'s last breath taken?,4,0.9191273934976323,1.0340895786841133
+13529,P20,In what area did [MASK] breathe his last?,4,,0.9414585468961381
+13450,P20,At which place did [MASK] expire?,4,1.001207121828201,0.964502578178078
+13486,P20,What spot was [MASK]'s last?,4,,0.9453581740045626
+13548,P20,What area was [MASK]'s final resting place?,4,,0.9916504712227507
+13453,P20,In what place did [MASK] succumb?,4,,0.9744582722840388
+13454,P20,In what spot did [MASK] meet his demise?,4,0.8989615596607399,0.9227475952659444
+13456,P20,What was the area of [MASK]'s demise?,4,1.0085707419538508,0.9989051851861903
+13473,P20,At which place did [MASK] meet his end?,4,,1.0169635163843962
+13580,P20,What was the last known whereabouts of [MASK]?,4,,0.9588012309183445
+14041,P20,What was the site of [MASK]' departure?,4,,1.0078881452357538
+13468,P20,Where was the final resting place of [MASK]?,4,0.879047729315002,0.8921215316760002
+13565,P20,What was the area in which [MASK] expired?,3,,0.9938438824782075
+13570,P20,What was the area of [MASK]'s expiration?,3,,0.9735988389753535
+13575,P20,What was the end location for [MASK]?,3,,0.9708241884018999
+13823,P20,What location was [MASK]'s death site?,3,,0.9838711977904429
+13582,P20,What was the last place [MASK] occupied?,3,,1.0013057280231683
+13588,P20,What was the location of [MASK]'s end?,3,,1.0240317073064384
+13603,P20,What was the site of [MASK]'s expiry?,3,,1.1285707348777934
+13604,P20,What was the site of [MASK]'s last breath?,3,,0.9058813605764655
+13628,P20,Where was [MASK] laid to rest?,3,,0.8826224231275455
+13638,P20,At what location did [MASK] breathe his last?,3,,1.020598958482817
+13666,P20,At what spot did [MASK] draw his last breath?,3,,0.8937949242508401
+13531,P20,In what area did [MASK] die?,3,,1.1112398327211512
+13536,P20,In what place did [MASK] depart this life?,3,,1.0096601500302198
+13572,P20,What was the destination of [MASK]'s death?,3,,0.9173005165705567
+13520,P20,At what site did [MASK] expire?,3,1.448640651821136,0.9152522337294956
+13480,P20,In what place did [MASK] perish?,3,0.8893677446353546,0.9060795663125113
+13499,P20,What was the place of [MASK]'s expiry?,3,,0.9998581844015607
+13492,P20,What was the locality of [MASK]'s end?,3,0.890150922177304,0.9525009572525062
+13470,P20,At what place did [MASK] pass away?,3,,1.1400433918735116
+13505,P20,What was the spot of [MASK]'s expiry?,3,,0.8957230843179477
+13506,P20,What was the spot of [MASK]'s fatality?,3,0.896614176794117,0.9550371870733434
+13508,P20,What was the spot where [MASK] died?,3,0.8832215661281517,0.9421299934192877
+13512,P20,Where did [MASK] take his final bow?,3,,0.901595618829386
+13472,P20,At which location did [MASK] meet his end?,3,0.89184431107794,0.9840999218760088
+13475,P20,At which spot did [MASK] expire?,3,0.9496282871840416,0.9402781237716962
+13513,P20,Where did [MASK] take his last bow?,3,0.8954302544153974,0.9182523064046147
+13515,P20,Where was [MASK]'s ultimate destination?,3,,0.9441546633249942
+13518,P20,At what place did [MASK]'s life cease?,3,,0.9779099254258611
+13482,P20,In which location did [MASK] expire?,3,,0.9708530578202224
+13522,P20,At what spot did [MASK] pass away?,3,,0.9441062927464987
+13503,P20,What was the scene of [MASK]'s expiration?,3,0.8938061788220274,0.9013641268942947
+13528,P20,Can you tell me where [MASK] expired?,3,,0.9854185263152405
+13476,P20,In what area did [MASK] cease to exist?,3,,0.9242854121957738
+13478,P20,In what location did [MASK] expire?,3,,1.0977857130288895
+13477,P20,In what area did [MASK] meet his end?,3,0.9006764278385634,0.9975445117377114
+13527,P20,At which spot did [MASK] take his last breath?,3,,0.9055228888951028
+13629,P20,Where was [MASK] when he died?,2,,1.0790504491101822
+13631,P20,Where was [MASK]'s expiration?,2,,0.9055565896791221
+13632,P20,Where was [MASK]'s final destination?,2,,0.9503729924393309
+13633,P20,Where was [MASK]'s last resting place?,2,0.8989140968102322,0.8980782559334702
+13704,P20,In what locality did [MASK] breathe her last?,2,,1.010450224877032
+13885,P20,What spot was [MASK]' passing?,2,0.9175316638846642,1.0195365854009995
+13821,P20,What location marked the end of [MASK]'s life?,2,,1.0775834430697442
+13809,P20,What locale was the death site of [MASK]?,2,,0.9534662593958564
+13644,P20,At what location did [MASK]'s life come to an end?,2,,1.0613068100102772
+14051,P20,What was the site of [MASK]'s termination?,2,,0.9459303761393993
+13627,P20,Where did the life of [MASK] terminate?,2,,0.9166748908926771
+14122,P20,Where did [MASK]'s last living moments take place?,2,,0.9528913168134234
+13801,P20,What city was the last for [MASK]?,2,,1.062659750054026
+13626,P20,Where did the life of [MASK] conclude?,2,,0.9127910022221309
+14025,P20,What was the scene of [MASK]' end?,2,,0.904639364858653
+13724,P20,In what place did [MASK]'s life terminate?,2,,1.041435358270013
+13948,P20,What was the last place [MASK] inhabited?,2,,1.0262321849817682
+13857,P20,What place was the end for [MASK]?,2,,0.9812667224856478
+14143,P20,Where was [MASK] at the time of his demise?,2,,0.9120036314134526
+14146,P20,Where was [MASK] when he breathed his last breath?,2,,1.012983483573118
+14084,P20,When did [MASK] cease living?,2,,0.9109018404301734
+13951,P20,What was the last place [MASK] resided before his death?,2,,1.200462041381769
+13938,P20,What was the fate of [MASK]?,2,,0.9077045886817872
+13721,P20,In what place did [MASK]'s death occur?,2,,0.999551401770935
+13785,P20,What area was [MASK]'s last place of residence?,2,,0.8903939714029419
+13797,P20,What city was [MASK]'s last resting place?,2,,1.0396856822738425
+13651,P20,At what place did [MASK] take his last breath?,2,,0.9060551436126631
+13625,P20,Where did [MASK]'s life terminate?,2,0.9221825672915588,0.9392225619276866
+13717,P20,In what place did [MASK] die?,2,,0.9553681051142459
+13533,P20,In what locale did [MASK] expire?,2,,1.026528178368174
+13963,P20,What was the last spot [MASK] occupied?,2,,0.9403715924778187
+14014,P20,What was the point of [MASK]'s departure?,2,,0.8999403481813848
+13966,P20,What was the locale of [MASK]'s decease?,2,,0.9743609551930863
+14056,P20,What was the site where [MASK]'s life ended?,2,,0.9701390089305352
+13532,P20,In what city did [MASK] pass away?,2,0.9515096006022706,0.9885629693765341
+13634,P20,At what area did [MASK] pass away?,2,,0.997596445109662
+13622,P20,Where did [MASK]'s life cease?,2,0.9089415190385801,0.9107723053194374
+13524,P20,At which location did [MASK] breathe his last?,2,,0.8831394272800688
+13521,P20,At what site did [MASK]'s life end?,2,0.8815370885240665,0.9371712335589755
+13578,P20,What was the final place of rest for [MASK]?,2,,0.8974866826432795
+13577,P20,What was the final destination for [MASK]?,2,,0.9586295012123878
+13621,P20,Where did [MASK]'s last breath occur?,2,0.9092754163750009,0.9005782449561264
+13571,P20,What was the area of [MASK]'s expiry?,2,0.9071945284346389,0.9931266359970663
+13523,P20,At what spot did [MASK]'s life come to an end?,2,,0.9738719552339208
+13569,P20,What was the area of [MASK]'s dying?,2,,0.893508855591173
+13568,P20,What was the area of [MASK]'s departure?,2,0.9829582301918356,0.9829582301918329
+13567,P20,What was the area of [MASK]'s decease?,2,1.3748429357152294,0.948195787819979
+13566,P20,What was the area in which [MASK] passed away?,2,,1.088166821949724
+13561,P20,What spot was [MASK]'s final resting place?,2,,0.8779459369107352
+13589,P20,What was the location of [MASK]'s expiration?,2,,0.9764663169469401
+13526,P20,At which spot did [MASK] pass away?,2,0.9088552305268105,0.9052599589386439
+13552,P20,What place did [MASK] breathe his last breath?,2,,0.9275238527651737
+13551,P20,What locality did [MASK] die in?,2,1.8897553729786032,0.9639032814771694
+13547,P20,In which spot did [MASK] die?,2,0.8890271831512317,0.8912096662532929
+13543,P20,In which city did [MASK] meet his end?,2,,1.1075936852966919
+13542,P20,In which area did [MASK] expire?,2,,0.9757506672903493
+13540,P20,In what spot did [MASK] depart this life?,2,,0.9130587039607301
+13530,P20,In what area did [MASK] depart this life?,2,,0.9355781714841476
+13535,P20,In what location did [MASK] meet his end?,2,,0.9917064530411637
+13534,P20,In what locale did [MASK] perish?,2,1.1714611476045012,1.144586096920827
+13517,P20,At what place did [MASK] succumb?,2,,1.0487929721618223
+13573,P20,What was the destination of [MASK]'s end?,2,,0.9611241322720108
+13597,P20,What was the scene of [MASK]'s last breath?,2,,0.9079133343674373
+13596,P20,What was the scene of [MASK]'s dying?,2,,0.899771832789886
+13614,P20,Where did [MASK] meet her demise?,2,,0.9731646891832291
+13607,P20,What was the spot of [MASK]'s dying?,2,0.9396623119269447,0.9199446788694321
+13615,P20,Where did [MASK] meet her end?,2,,0.935660969557796
+13598,P20,What was the setting of [MASK]'s death?,2,0.930345509816001,0.9840540436568216
+13616,P20,Where did [MASK] meet his final fate?,2,0.9376161591372297,0.9623399895251354
+13613,P20,Where did [MASK] draw his final breath?,2,,0.983468503008994
+13610,P20,What was the ultimate resting place of [MASK]?,2,,0.8796600687813187
+13617,P20,Where did [MASK] perish?,2,,0.9747254411727991
+13595,P20,What was the scene of [MASK]'s decease?,2,0.8939181448236742,0.9746704917875431
+13618,P20,Where did [MASK] reach the end of his life?,2,,1.169170649999256
+13612,P20,Where did [MASK] bid farewell to this world?,2,,0.9131483758055818
+13593,P20,What was the place where [MASK] died?,2,,0.9466880443291801
+13611,P20,What was the whereabouts of [MASK]'s death?,2,,0.9180365001966158
+13620,P20,Where did [MASK]'s journey end?,2,0.9169642045754353,1.0267705120681216
+14023,P20,What was the region of [MASK]'s end?,1,0.9138526821174799,0.9138526821174757
+14024,P20,What was the scene of St. James the Elder's final breath?,1,,0.912983286994796
+13993,P20,What was the place of [MASK]'s fatal conclusion?,1,,1.169482157039914
+14016,P20,What was the point of demised for [MASK]?,1,,0.8852889356615646
+13987,P20,What was the place of [MASK]' dying?,1,,0.9427934676947085
+13992,P20,What was the place of [MASK]'s exit?,1,,0.899261865864401
+13996,P20,What was the place of [MASK]'s final moments?,1,,1.1260453884357364
+13986,P20,What was the place of St. James the Elder's expiration?,1,,0.9947714699247474
+13985,P20,What was the place of St. James the Elder's death?,1,,1.0323423146434887
+13984,P20,What was the place at which [MASK] breathed his last?,1,0.8991787013945747,1.101649775651461
+13994,P20,What was the place of [MASK]'s final breath?,1,,0.9063563710265197
+14021,P20,What was the region of [MASK]'s death?,1,1.1405027867196225,1.1405027867196225
+14022,P20,What was the region of [MASK]'s dying?,1,,0.9003298484128023
+13997,P20,What was the place of [MASK]'s final resting place?,1,0.8976785910751919,0.8976785910751919
+14017,P20,What was the point of termination for [MASK]?,1,,0.9107311833720673
+14013,P20,What was the point of [MASK]'s decease?,1,,0.9107351768859011
+14012,P20,What was the place where [MASK]'s life ended?,1,,1.0971711888489966
+14011,P20,What was the place where [MASK] perished?,1,,1.2735100485988493
+14018,P20,What was the point where [MASK] left this world?,1,,0.9241386184831852
+14010,P20,What was the place where [MASK] met his end?,1,,0.9675118978206088
+14027,P20,What was the scene of [MASK]'s fatality?,1,0.8838229657455817,1.198814420568854
+14009,P20,What was the place that [MASK] passed away?,1,,0.9187947686275445
+14007,P20,What was the place of expiration for [MASK]?,1,,0.9856510827056052
+14000,P20,What was the place of [MASK]'s last moments?,1,,1.1534867034486387
+13999,P20,What was the place of [MASK]'s killing?,1,,0.9314028087108523
+13998,P20,What was the place of [MASK]'s finality?,1,0.9207853045390064,0.9207853045390064
+14019,P20,What was the position of [MASK]’s demise?,1,,0.8892408095144029
+14020,P20,What was the position where [MASK] expired?,1,,0.9128896580700858
+14015,P20,What was the point of [MASK]'s expiration?,1,,0.8960619541660654
+13981,P20,What was the passing-on destination for [MASK]?,1,,0.9728287794471216
+13929,P20,What was the destination of [MASK]'s last moments?,1,,0.9859786956028359
+13980,P20,What was the locus of [MASK]'s death?,1,,0.9184063369980979
+13918,P20,What was the conclusion of [MASK]'s journey?,1,,0.9121849954265644
+13931,P20,What was the end destination for [MASK]?,1,0.9379780459108401,0.93797804591084
+13928,P20,What was the destination of [MASK]'s last breath?,1,,0.9228547849584967
+13927,P20,What was the destination of [MASK]'s journey to the afterlife?,1,,0.895437972546635
+13926,P20,What was the destination of [MASK]'s expiration?,1,,0.9574316970987232
+13925,P20,What was the destination of [MASK]'s departure?,1,1.257971290139178,0.911522968670419
+13924,P20,What was the destination of [MASK]'s demise?,1,,0.902264255702382
+13922,P20,What was the destination of [MASK]' mortality?,1,,0.9405927415865231
+13921,P20,What was the destination of [MASK]' last voyage?,1,,0.9270438801818528
+13919,P20,What was the deathbed of [MASK]?,1,,0.8915597290709476
+13917,P20,What was the concluding spot for [MASK]?,1,,0.8912903740992982
+13979,P20,What was the location where [MASK] took his last bow?,1,,0.894378807081379
+13916,P20,What was the closing chapter of [MASK]'s life?,1,,0.8878771684418617
+13914,P20,What was the city of [MASK]'s demise?,1,,0.8666016928215681
+13913,P20,What was the circumstance of [MASK]'s demise?,1,0.927282295976024,0.9272822959760222
+13912,P20,What was the area where [MASK] passed away?,1,,1.062530613628746
+13911,P20,What was the area where [MASK] left this world?,1,,1.2478158223774407
+13910,P20,What was the area where [MASK] ended his life?,1,,1.0456800413810379
+13906,P20,What was the area of [MASK]'s leaving this life?,1,0.894972719125463,0.8949727191254618
+13905,P20,What was the area of [MASK]'s last moments?,1,,0.9884277826044078
+14029,P20,What was the scene of [MASK]'s last days?,1,0.9075422795659204,0.9075422795659213
+13934,P20,What was the end point for [MASK]?,1,,1.003073465807711
+13936,P20,What was the eventual destination of [MASK]'s existence?,1,,0.9244836873972088
+13939,P20,What was the final location of [MASK]?,1,,0.9117927663131707
+13940,P20,What was the final resting place of St. James the Elder?,1,,0.9056569519389326
+13978,P20,What was the location where [MASK] passed away?,1,,1.115159134114422
+13976,P20,What was the location of St. James the Elder's death?,1,,1.0106351100694253
+13975,P20,What was the locality where [MASK] passed away?,1,,0.932306455651593
+13973,P20,What was the locality of [MASK]'s expiration?,1,,1.031970013528082
+13969,P20,What was the locale of [MASK]'s ultimate breath?,1,,0.9157923638375732
+13968,P20,What was the locale of [MASK]'s last breath?,1,0.9389532989908845,1.2477176759053206
+13967,P20,What was the locale of [MASK]'s departure?,1,2.5892912634042036,0.9203703020296267
+13962,P20,What was the last place visited by [MASK]?,1,,1.091417782818693
+13958,P20,What was the last place of [MASK]'s life?,1,1.0307011191844564,0.9835741100915132
+13956,P20,What was the last place [MASK] was present in?,1,,1.039628730313295
+13955,P20,What was the last place [MASK] was on this earth?,1,,0.9118625177287978
+13954,P20,What was the last place [MASK] was at before he died?,1,,1.130081216606512
+13953,P20,What was the last place [MASK] saw?,1,,1.088853245468161
+13950,P20,What was the last place [MASK] passed away?,1,,0.9165535140836655
+13947,P20,What was the last place [MASK] existed?,1,,1.2263661757584838
+13946,P20,What was the last location [MASK] inhabited?,1,,1.0897612556481413
+13944,P20,What was the geographical area of [MASK]' demise?,1,,0.9340738196204094
+13942,P20,What was the geographic region in which [MASK] died?,1,,0.9372876672941663
+13941,P20,What was the finale of [MASK]'s life?,1,,0.9128355542323762
+14028,P20,What was the scene of [MASK]'s final moments?,1,,0.9046728094567971
+14182,P20,Where was the scene of [MASK]'s end?,1,0.912853715959337,1.1239152602986644
+14030,P20,What was the scene of [MASK]'s leaving this world?,1,,0.9009061454832943
+14140,P20,Where passed away [MASK]?,1,0.9346657259681931,1.1426729693518973
+14158,P20,Where was [MASK]'s expiry?,1,0.9029884894950199,0.9029884894950008
+14157,P20,Where was [MASK]'s dying place?,1,,1.1884649051805198
+14156,P20,Where was [MASK]'s death knell heard?,1,,1.1501963143312806
+14155,P20,Where was [MASK]' ultimate demise?,1,,1.0399165536531283
+14154,P20,Where was [MASK]' final residence?,1,,1.0091799246195812
+14150,P20,Where was [MASK]' death located?,1,,1.0887134264244362
+14148,P20,Where was [MASK] when he ceased living?,1,,1.1401899953811274
+14145,P20,Where was [MASK] taken in death?,1,,0.9388501492330272
+14141,P20,Where was St. James the Elder when he died?,1,,1.0454810019514358
+14139,P20,Where expired [MASK]?,1,,0.9153483609586361
+14160,P20,Where was [MASK]'s final resting spot?,1,,0.898038377556806
+14137,P20,Where did the soul of [MASK] leave the earth?,1,,0.9357606711645893
+14136,P20,Where did the passing of [MASK] take place?,1,,0.9137659758155322
+14135,P20,Where did the life of [MASK] finish?,1,,0.9214976650062585
+14133,P20,Where did the life of [MASK] come to a close?,1,0.9350372412446513,0.9350372412446503
+14132,P20,Where did the life of [MASK] cease?,1,0.9098741131676588,0.9098741131676588
+14131,P20,Where did the death of [MASK] occur?,1,,1.092108663664154
+14130,P20,Where did life come to an end for [MASK]?,1,0.9113825098312244,0.9113825098312244
+14129,P20,Where did [MASK]’s demise occur?,1,0.8998265348688183,0.8998265348688165
+14128,P20,Where did [MASK]'s time on Earth come to an end?,1,,0.909815028567471
+14159,P20,Where was [MASK]'s final home?,1,,0.911842449260648
+14161,P20,Where was [MASK]'s last breath drawn?,1,,0.9412480155479811
+14032,P20,What was the setting for [MASK]'s final moments?,1,,0.9475420437150248
+14175,P20,Where was the final stop for the life of [MASK]?,1,0.9236607886935144,0.9236607886935132
+14186,P20,Whereabouts did [MASK] pass away?,1,,1.0332617389019736
+14184,P20,Where was the site of [MASK]'s decease?,1,,0.9066865116981947
+14183,P20,Where was the site of [MASK]' expiration?,1,,1.0450930774912177
+13903,P20,What was the area in which [MASK] died?,1,0.9126660662123329,1.0519947795317643
+14180,P20,Where was the place of [MASK]'s passing away?,1,,0.9255617962754826
+14179,P20,Where was the last resting place of [MASK]?,1,,0.8974213886916436
+14178,P20,Where was the last place that [MASK] breathed his last?,1,0.9082577808012734,1.0744943295560476
+14177,P20,Where was the last place [MASK] was alive?,1,,1.2805767027074613
+14176,P20,Where was the last place [MASK] breathed his last breath?,1,,0.866677763926271
+14174,P20,Where was the ending point of [MASK]'s life?,1,0.9476346802153609,1.2341955103190416
+14162,P20,Where was [MASK]'s last moments?,1,,0.9013018321645798
+14173,P20,Where was the end of life for [MASK]?,1,,0.9159635244324942
+14171,P20,Where was it that [MASK] died?,1,,1.0193971651781595
+14169,P20,Where was [MASK]'s ultimate resting place?,1,0.886353881542204,1.034153500305769
+14168,P20,Where was [MASK]'s time on earth cut short?,1,,0.8876076778582821
+14167,P20,Where was [MASK]'s terminal moment?,1,0.9098120279331021,1.0931684196587832
+14166,P20,Where was [MASK]'s mortality?,1,,0.9983560136889248
+14165,P20,Where was [MASK]'s life cut short?,1,,0.9468988788804805
+14164,P20,Where was [MASK]'s last stop?,1,,0.9333993790931725
+14163,P20,Where was [MASK]'s last place of residence?,1,,0.9310122110957302
+14127,P20,Where did [MASK]'s physical existence conclude?,1,,0.9157166336375988
+14124,P20,Where did [MASK]'s life come to its conclusion?,1,,0.9044385643415522
+14121,P20,Where did [MASK]'s last breath take place?,1,,0.8783225212326007
+14058,P20,What was the spot at which [MASK]'s life came to an end?,1,,0.8705425276709334
+14081,P20,When and where did [MASK] die?,1,0.913648185068746,0.9136481850687465
+14078,P20,What was the ultimate spot for [MASK]?,1,,0.913171977734385
+14075,P20,What was the ultimate destination where [MASK] died?,1,0.9395444177759678,1.3424110856065568
+14074,P20,What was the termination point of [MASK]'s life?,1,,1.3703870363924198
+14073,P20,What was the terminal point in [MASK]'s life?,1,,0.9315917447507093
+14071,P20,What was the spot where [MASK] drew his last breath?,1,,0.9226308540590138
+14070,P20,What was the spot where [MASK] drew his final breath?,1,,0.8768533945192442
+14069,P20,What was the spot where [MASK] ceased to exist?,1,,0.9022386366993739
+14067,P20,What was the spot that [MASK] breathed his last?,1,0.8889619354660933,0.8889619354660928
+14057,P20,What was the spot [MASK] met his demise?,1,0.8895913148646751,0.8895913148646704
+14120,P20,Where did [MASK]'s final breath take place?,1,,0.8963621369942046
+14055,P20,What was the site of termination for [MASK]?,1,,1.1184954294139988
+14050,P20,What was the site of [MASK]'s last living moments?,1,,1.0267566035953368
+14049,P20,What was the site of [MASK]'s last days?,1,,1.095422623985894
+14044,P20,What was the site of [MASK]' fatality?,1,0.897416806833687,1.0605133815969623
+14040,P20,What was the site of [MASK] leaving this world?,1,,0.9467615759297905
+14039,P20,What was the site of St. James the Elder's demise?,1,,1.042394627289472
+14038,P20,What was the site at which [MASK] passed away?,1,,0.9130076068408232
+14037,P20,What was the site at which [MASK] breathed his last?,1,,1.0819282306086286
+14035,P20,What was the setting of [MASK]'s end?,1,,1.1819325389208688
+14085,P20,When did [MASK] pass away?,1,,0.8935637956216216
+14086,P20,When did [MASK]'s time on this earth come to a close?,1,,0.9165131774840543
+14087,P20,Where did St. James the Elder breathe his last?,1,,1.0355298549690162
+14088,P20,Where did St. James the Elder meet his end?,1,,1.0174902484762631
+14119,P20,Where did [MASK]'s existence finish?,1,0.9088507750515784,0.9088507750515731
+14118,P20,Where did [MASK]'s existence come to an end?,1,,0.9067605056885361
+14117,P20,Where did [MASK]'s existence come to a close?,1,,0.896777203832512
+14116,P20,Where did [MASK]'s end his life?,1,0.9088323251427343,1.0302835081161639
+14114,P20,Where did [MASK]'s end come to fruition?,1,,0.931785838722776
+14113,P20,Where did [MASK]'s earthly journey conclude?,1,,0.9311034509290533
+14112,P20,Where did [MASK]'s demise take place?,1,0.916611474952382,0.9166114749523784
+14111,P20,Where did [MASK]'s death occur?,1,0.9054105616795155,1.1810426826399596
+14107,P20,Where did [MASK] transition to the afterlife?,1,,0.9114133364583148
+14106,P20,Where did [MASK] terminate her life?,1,,0.8911771754409508
+14105,P20,Where did [MASK] take his last journey?,1,,0.9242221372113426
+14102,P20,Where did [MASK] shuffle off this mortal coil?,1,,0.911217387758324
+14101,P20,Where did [MASK] pass from this life?,1,,0.9317601951766238
+14100,P20,Where did [MASK] meet his ultimate fate?,1,,0.9870801740247198
+14099,P20,Where did [MASK] meet her maker?,1,,0.92240834649957
+14098,P20,Where did [MASK] make his final exit?,1,0.8827139788757193,0.8827139788757178
+14094,P20,Where did [MASK] cease to live?,1,,1.018630359903765
+14090,P20,Where did [MASK] bid farewell to life?,1,,0.899465861731765
+14089,P20,Where did St. James the Elder pass away?,1,,1.0511291372506664
+13904,P20,What was the area of [MASK]'s final rest?,1,,0.9017210327295992
+13745,P20,In which city did [MASK] take his final rest?,1,,0.9116029193129085
+13902,P20,What was the area in which [MASK] departed this world?,1,,0.9016009950793306
+13702,P20,In what city did [MASK]'s life conclude?,1,,1.1732122358500563
+13715,P20,In what place did [MASK] breathe her last breath?,1,,0.9181572863656003
+13714,P20,In what location did [MASK]'s time on earth end?,1,,1.307452245293178
+13712,P20,In what location did [MASK]'s life close?,1,,1.1725564945931843
+13711,P20,In what location did [MASK] perish?,1,,0.9378506267766087
+13710,P20,In what location did [MASK] meet his demise?,1,,1.2057397971008874
+13709,P20,In what location did [MASK] cease to be?,1,,1.237181816875491
+13707,P20,In what locality did [MASK] pass away?,1,1.2325649435868329,0.9264537943664205
+13706,P20,In what locality did [MASK] expire?,1,,0.8873327308125778
+13703,P20,In what locale did [MASK] leave this life?,1,,1.1086422300836776
+13701,P20,In what city did [MASK] expire?,1,,1.105653242360723
+13718,P20,In what place did [MASK] finish her days?,1,,0.9752711517250957
+13700,P20,In what city did [MASK] die?,1,,1.3588739092393798
+13699,P20,In what area did [MASK]'s life conclude?,1,,0.925874530001284
+13697,P20,In what area did [MASK]'s life come to a close?,1,,0.9285777802603208
+13696,P20,In what area did [MASK] succumb?,1,1.7447430402012791,0.8948776915219181
+13695,P20,In what area did [MASK] meet his maker?,1,,0.9294814207470125
+13694,P20,In what area did [MASK] meet his demise?,1,,0.9172552243188479
+13693,P20,In what area did [MASK] finish his life?,1,,0.9061164183169208
+13692,P20,In what area did [MASK] draw his last breath?,1,0.8865372109082542,0.8865372109082423
+13691,P20,In what area did [MASK] cease to be?,1,,0.9426665279754596
+13716,P20,In what place did [MASK] cease living?,1,,1.1363215517276963
+13719,P20,In what place did [MASK] finish his life?,1,,1.0054364550520525
+13901,P20,What was the area in which [MASK] breathed his last?,1,,0.9938259768970866
+13737,P20,In what spot did [MASK] pass on?,1,,0.9305948413203076
+13747,P20,In which locale did [MASK] meet his end?,1,,1.1000112214414561
+13746,P20,In which country did [MASK] expire?,1,0.9340385871660489,0.9340385871660489
+13744,P20,In which city did [MASK] die?,1,1.3095933758172562,1.3095933758172562
+13743,P20,In which area did [MASK] meet his maker?,1,,1.0975691007978896
+13742,P20,In which area did [MASK] cease to be?,1,,0.9227263577825968
+13741,P20,In which area did [MASK] breathe his last?,1,0.8853334621373354,0.8853334621373358
+13740,P20,In what vicinity did [MASK] expire?,1,,1.2002114440853306
+13739,P20,In what spot did [MASK]'s life come to a close?,1,0.9088652694754312,0.9088652694754293
+13738,P20,In what spot did [MASK] succumb?,1,,0.9093524460284663
+13735,P20,In what spot did [MASK] cease to live?,1,,0.897293735528267
+13720,P20,In what place did [MASK] gave up the ghost?,1,0.90441768903904,0.9044176890390326
+13734,P20,In what spot did [MASK] cease living?,1,,0.8966596831819209
+13732,P20,In what spot did [MASK] bid farewell to this life?,1,,0.941827074499813
+13731,P20,In what spot did [MASK] bid farewell to the world?,1,,0.9113110647856693
+13730,P20,In what setting did [MASK] breathe his last?,1,,0.9301695803561093
+13729,P20,In what region was [MASK]'s passing?,1,,1.0545819413325999
+13728,P20,In what position did [MASK]'s life come to a halt?,1,,0.9434488982534016
+13727,P20,In what position did [MASK] meet his end?,1,,0.8920782187317894
+13726,P20,In what place was [MASK]' death recorded?,1,,1.0668170182363463
+13722,P20,In what place did [MASK]'s life cease to exist?,1,,1.0294661111582628
+13689,P20,How did [MASK] meet her demise?,1,0.915211352573321,0.9152113525733196
+13688,P20,Could you tell me where [MASK] died?,1,,0.9342002473322151
+13687,P20,Could you tell me the site of [MASK]'s demise?,1,,1.009682694129165
+13648,P20,At what place did [MASK] end his life?,1,,1.2499145207851308
+13658,P20,At what site did [MASK] breathe his last?,1,0.9305318898114038,0.9305318898114023
+13657,P20,At what site did [MASK] bid farewell to this world?,1,,0.8709186141431455
+13656,P20,At what region did [MASK] exit this world?,1,0.8973125833804427,0.8973125833804414
+13655,P20,At what point did [MASK] meet his demise?,1,,0.9125112851509251
+13654,P20,At what point did [MASK] meet her end?,1,0.8834430592277297,0.8834430592277289
+13653,P20,At what point did [MASK] leave this world?,1,,0.9050239762975146
+13652,P20,At what place did [MASK]'s life end?,1,,0.9023033249656311
+13650,P20,At what place did [MASK] meet her end?,1,,0.99502207662288
+13649,P20,At what place did [MASK] leave this world?,1,,0.913474867807418
+13647,P20,At what place did [MASK] die?,1,,1.0951340398429943
+13686,P20,Could you tell me the place of [MASK]'s passing?,1,,1.1427002332915048
+13645,P20,At what location was [MASK]'s passing?,1,0.9026629360216886,1.0413856435142903
+13643,P20,At what location did [MASK]'s existence come to an end?,1,,0.9178849494725112
+13642,P20,At what location did [MASK] perish?,1,,0.8745760391116363
+13641,P20,At what location did [MASK] draw his last breath?,1,,0.8686772037954317
+13640,P20,At what location did [MASK] cease to exist?,1,,0.8922986526929256
+13639,P20,At what location did [MASK] cease living?,1,,0.9135200121047059
+13637,P20,At what locality did [MASK] perish?,1,0.9586170906536272,0.9586170906536268
+13636,P20,At what locality did [MASK] expire?,1,,0.9502984414946276
+13635,P20,At what locale did [MASK] pass away?,1,0.9392981168132806,0.9392981168132692
+13659,P20,At what site did [MASK] depart this world?,1,,0.9031091563316429
+13660,P20,At what site did [MASK] die?,1,0.9007926089356527,1.06153448364919
+13661,P20,At what site did [MASK] meet his end?,1,0.8891875192742342,0.9511619040435072
+13662,P20,At what site did [MASK] pass away?,1,1.0490793277163124,1.0490793277163124
+13685,P20,Could you tell me the place of [MASK]'s death?,1,,1.1938341799714973
+13684,P20,Can you tell me the spot where [MASK] died?,1,,0.9143616374595384
+13682,P20,Can you identify the site of [MASK]'s demise?,1,,0.8776269461172578
+13680,P20,At which point did [MASK] give up the ghost?,1,,0.9105502161575092
+13679,P20,At which place did [MASK]'s time on Earth come to an end?,1,,0.8987251405235821
+13678,P20,At which place did [MASK]'s life end?,1,,1.0374853788705432
+13677,P20,At which place did [MASK]'s life cease?,1,,0.9073429401333409
+13676,P20,At which place did [MASK] take his final breath?,1,,0.9116922808486214
+13675,P20,At which place did [MASK] pass away?,1,,1.0172539346388625
+13674,P20,At which place did [MASK] die?,1,,1.0500417020414232
+13673,P20,At which location did [MASK]'s life conclude?,1,,0.9302159157255921
+13672,P20,At which location did [MASK] cease to exist?,1,,0.9006547724881269
+13670,P20,At what venue did [MASK]'s life end?,1,,0.8991381890208
+13669,P20,At what venue did [MASK] expire?,1,0.9081754559203894,0.908175455920388
+13668,P20,At what spot was [MASK]'s last breath taken?,1,,0.8997279703320127
+13667,P20,At what spot did [MASK]'s life cease?,1,,0.9092651835868155
+13665,P20,At what spot did [MASK] die?,1,,0.9749967831047627
+13664,P20,At what spot did [MASK] come to her end?,1,,0.8950597529385936
+13663,P20,At what site did [MASK] succumb?,1,0.9091136958325046,0.909113695832496
+13748,P20,In which locality did [MASK] breathe his last?,1,,0.8781200129663165
+13749,P20,In which location did [MASK] terminate his life?,1,,1.0497850539822433
+13750,P20,In which location did [MASK]'s life end?,1,0.8987109263570101,0.8987109263569993
+13843,P20,What place marked the end of [MASK]'s existence?,1,1.1275142371294682,1.0969267378783873
+13853,P20,What place was [MASK]'s last resting spot?,1,0.898720418416309,0.8987204184163045
+13851,P20,What place was [MASK]'s deathbed?,1,,0.8989691295529737
+13850,P20,What place was [MASK] when he expired?,1,,1.0344266528342165
+13849,P20,What place was [MASK] at the time of his death?,1,,0.9504167770881627
+13848,P20,What place served as the site of [MASK]'s demise?,1,0.9090334470862048,1.159172796236824
+13847,P20,What place saw [MASK]'s passing?,1,,0.898304728340208
+13846,P20,What place saw [MASK]'s final moments?,1,1.1678345423089938,1.1294434120446515
+13845,P20,What place saw [MASK]'s death?,1,,1.0445991110356163
+13844,P20,What place marked the termination of [MASK]'s life?,1,,1.0411078264544051
+13842,P20,What place marked the death of [MASK]?,1,,0.9129673243377304
+13822,P20,What location served as [MASK]'s death site?,1,,1.0867019705190009
+13841,P20,What place held the death of [MASK]?,1,,1.1928834168158866
+13838,P20,What place did [MASK] take her last breath?,1,,0.8843775175392381
+13837,P20,What place did [MASK] shuffle off this mortal coil?,1,,0.8699765265583436
+13835,P20,What place did [MASK] leave this life?,1,,0.9076728955623129
+13834,P20,What place did [MASK] give up the ghost?,1,,1.0933240382768508
+13831,P20,What place did [MASK] cease to live?,1,,1.0181748161524855
+13830,P20,What place bore witness to [MASK]'s death?,1,,1.0534618040494048
+13826,P20,What location was the death site of [MASK]?,1,0.8912824506003754,1.2049980665059952
+13825,P20,What location was [MASK]'s place of passing?,1,,0.9160038750482715
+13854,P20,What place was [MASK]'s last stop?,1,,1.0388267174329473
+13855,P20,What place was [MASK]'s life extinguished?,1,,1.0972490426613695
+13856,P20,What place was [MASK]'s ultimate resting place?,1,,0.895024713704946
+13862,P20,What place was the last for [MASK]?,1,,1.0712766312705304
+13899,P20,What was [MASK]'s terminal destination?,1,,0.9829554422108987
+13898,P20,What was [MASK]'s point of death?,1,,0.9655554974550629
+13894,P20,What town was the last residence of [MASK]?,1,0.9523228131251895,1.0855950701499133
+13893,P20,What spot was the terminus of [MASK]' life?,1,,0.8726994814044966
+13889,P20,What spot was the last for [MASK]?,1,,0.9298214715785732
+13888,P20,What spot was the death site of [MASK]?,1,,0.9185263541854798
+13887,P20,What spot was the conclusion of [MASK]'s days?,1,,0.9061003766515292
+13886,P20,What spot was [MASK]'s deathbed?,1,,0.852377829024341
+13884,P20,What spot served as the last resting place of [MASK]?,1,,0.8505918965240418
+13883,P20,What spot served as the final resting place for [MASK]?,1,,0.9180484476844413
+13882,P20,What spot saw [MASK]'s passing?,1,0.8900403138697027,0.8900403138697012
+13880,P20,What spot did [MASK] give up the ghost in?,1,0.8923244887288425,1.0029048140638803
+13874,P20,What site saw the death of [MASK]?,1,,0.8863459769299094
+13873,P20,What site marked the last moments of [MASK]?,1,,1.0202722318201631
+13872,P20,What site marked the end of [MASK]'s life?,1,,0.9073893531391225
+13870,P20,What region claimed the life of [MASK]?,1,,0.9138107967854736
+13869,P20,What place witnessed [MASK]'s death?,1,,0.8845106782479669
+13867,P20,What place was the scene of [MASK]'s final days?,1,1.1470055711584584,1.1470055711584584
+13865,P20,What place was the last place of residence for [MASK]?,1,,1.062724997045853
+13824,P20,What location was [MASK]'s place of death?,1,,1.0718752811217895
+13820,P20,What location marked the death of [MASK]?,1,,0.8869255790840437
+13751,P20,In which place did Farad al-Atrash expire?,1,,0.9602544339202044
+13763,P20,In which spot did [MASK] breathe her last?,1,,0.9004772590368183
+13773,P20,To what place did [MASK] travel to in the end?,1,0.903779382008769,0.903779382008769
+13772,P20,To what place did [MASK] move on?,1,,0.915080158319824
+13770,P20,In which spot did [MASK]'s life end?,1,0.8951147039017239,1.0688424535532075
+13769,P20,In which spot did [MASK] pass away?,1,,1.1123758935231225
+13768,P20,In which spot did [MASK] meet his end?,1,,0.8691921874141603
+13767,P20,In which spot did [MASK] leave this world?,1,,0.9294182543208926
+13766,P20,In which spot did [MASK] end his life?,1,,0.9048396525840633
+13765,P20,In which spot did [MASK] draw his last breath?,1,,0.9200394952479317
+13764,P20,In which spot did [MASK] cease to exist?,1,,0.9120965085055698
+13762,P20,In which site did [MASK] pass away?,1,,0.9934030021036923
+13819,P20,What location did [MASK] take his last breath?,1,,0.8991020203924506
+13761,P20,In which region did [MASK] meet his end?,1,,0.9537119069628079
+13760,P20,In which region did [MASK] die?,1,,0.9318206438191248
+13759,P20,In which place was [MASK]'s passing?,1,,1.128011062669487
+13758,P20,In which place was [MASK]'s death?,1,,1.201429476732494
+13757,P20,In which place did [MASK]'s life end?,1,,0.912783304077067
+13756,P20,In which place did [MASK]'s last breath occur?,1,0.8852552289322488,0.8852552289322474
+13755,P20,In which place did [MASK] take his last breath?,1,,0.9104576197478664
+13753,P20,In which place did [MASK] leave this world?,1,,0.9317790101959168
+13752,P20,In which place did [MASK] depart this life?,1,,1.0695535295245049
+13778,P20,What area did [MASK] take her last breath?,1,,1.02687444415003
+13781,P20,What area marked the end of [MASK]'s life?,1,,0.9402448305728115
+13782,P20,What area was [MASK] in when he died?,1,,1.0326368985790086
+13783,P20,What area was [MASK] in when he passed away?,1,,1.0558906308775244
+13817,P20,What location did [MASK] die in?,1,,1.0669103757655067
+13815,P20,What locality saw the death of [MASK]?,1,,1.06684272091956
+13814,P20,What locality did [MASK] depart this life?,1,,0.934104046987065
+13808,P20,What locale was [MASK]'s last resting place?,1,,0.9526753725981172
+13807,P20,What locale marked the end of [MASK]' life?,1,,0.8979060704115125
+13806,P20,What locale marked the conclusion of [MASK]'s life?,1,,0.9085781527316903
+13805,P20,What locale did [MASK] pass away in?,1,,1.065026810643799
+13804,P20,What locale did [MASK] die?,1,,1.0358286692726495
+13800,P20,What city was the final abode of [MASK]?,1,0.9449465430171351,1.0065485291748721
+13799,P20,What city was the destination of [MASK]' final journey?,1,,0.9590728753487456
+13798,P20,What city was the death of [MASK]?,1,,1.043216512988485
+13796,P20,What city was [MASK]'s final resting place?,1,1.1826861270109181,1.2238562860807973
+13795,P20,What city was [MASK]'s end?,1,,1.010909061505738
+13794,P20,What city did [MASK] meet his demise?,1,,0.9360782613563768
+13793,P20,What city did [MASK] breathe his last?,1,,0.947879346172517
+13788,P20,What area was the last for [MASK]?,1,,0.9340105830584289
+13787,P20,What area was the end of the road for [MASK]?,1,,0.903837600566372
+13786,P20,What area was [MASK]'s terminal point?,1,,0.8900341195084247
+13784,P20,What area was [MASK] when he expired?,1,,1.2898149872942195
+14187,P20,Who was the place of [MASK]' death?,1,,0.9115048131446022

@@ -1,0 +1,1399 @@
+,p,template,fact_id,effect_gold,effect_top
+1814,P131,What is the administrative region that [MASK] is situated in?,32,,0.9997586574736809
+1578,P131,What is the administrative jurisdiction of [MASK]?,29,,0.9677194592202483
+1574,P131,Where is [MASK] situated administratively?,28,1.0431314407504788,1.0046236770910775
+2062,P131,In what type of administrative area is [MASK] situated?,28,,1.022004407952432
+1575,P131,Where is [MASK] located administratively?,24,,0.9891294835538894
+3355,P131,Which administrative area is the [MASK] located in?,21,1.028026073628533,1.0290711247669837
+1580,P131,Where is the [MASK] situated?,19,0.9133704375149866,0.9545758639866663
+2462,P131,What administrative region is [MASK] located in?,16,,1.0227535938383348
+1599,P131,What is the administrative area of [MASK]?,15,,1.0864062072471221
+1577,P131,In which governmental division is [MASK] situated?,13,0.8883543791423174,0.9433191228484484
+1595,P131,In what governmental region is [MASK] situated?,13,,1.1033074109467587
+1596,P131,In what political division is [MASK] situated?,13,,0.9819285135058098
+1597,P131,In which administrative division is [MASK] situated?,13,,1.0017217090659711
+2809,P131,What is the governing body that [MASK] is a part of?,12,,0.9122164900832943
+1590,P131,In which governmental region is [MASK] located?,11,,1.0658338296924674
+1633,P131,In what administrative area is the [MASK] located?,11,1.2027296056454169,1.038894910034549
+1587,P131,In which governmental area is [MASK] situated?,11,0.8990475246119961,0.9726890898319408
+1600,P131,What is the governing region of [MASK]?,11,,0.952660249558246
+1591,P131,What is the administrative region of [MASK]?,11,,1.0071518410430582
+2691,P131,What is the administrative district that [MASK] is located in?,10,,0.9976286910355936
+1622,P131,What governmental division is the [MASK] situated in?,10,0.9489110452870092,1.0072496800554096
+1608,P131,In what jurisdiction is the [MASK] situated?,10,,1.0601111175788538
+1613,P131,In which governmental jurisdiction is [MASK] located?,10,,1.046321242915676
+2702,P131,What is the administrative division that [MASK] is in?,10,,1.008775700924524
+1689,P131,In what administrative entity is [MASK] situated?,9,,1.036628194113729
+1604,P131,In what administrative jurisdiction is [MASK] situated?,9,1.0010902581837207,1.00261822749218
+1646,P131,To which administrative entity does [MASK] belong?,9,1.236173475386153,0.9971190056633598
+2220,P131,In which jurisdiction is the [MASK] situated?,9,,1.0026063975459805
+1632,P131,What jurisdiction contains [MASK]?,9,1.0316685720021086,1.0334280231125657
+1628,P131,What is the governing area of the [MASK]?,9,,0.9160748846961879
+3039,P131,What jurisdiction is the [MASK] found in?,9,,1.0109820129581535
+1589,P131,What is the political jurisdiction of [MASK]?,8,1.0235954752146477,0.9812953478446373
+1698,P131,In what governmental area is [MASK] situated?,8,0.9563485762629994,1.0079417664706793
+1614,P131,To which administrative area does [MASK] belong?,8,0.9811978543643551,1.0598062529239822
+1655,P131,What administrative region contains [MASK]?,8,1.2483926968025392,1.0358777913434927
+1616,P131,What administrative area houses [MASK]?,8,,0.9589890858534045
+1606,P131,In what governmental jurisdiction is [MASK] situated?,8,0.948895691971218,0.9958171682303573
+1684,P131,In what administrative boundary is [MASK] situated?,7,1.0137377360079536,1.0020300525418864
+1601,P131,What is the territorial jurisdiction of [MASK]?,7,0.9036276041562802,0.9956991952612062
+1605,P131,In what governing region is [MASK] situated?,7,,0.9834459374551766
+1671,P131,What jurisdiction holds the [MASK]?,7,,0.9566340331414466
+1775,P131,What area is the [MASK] situated in?,7,,0.9643762105446176
+1703,P131,In what political jurisdiction is [MASK] located?,7,,0.9634248884491329
+1620,P131,What administrative region houses [MASK]?,7,,1.0331003260165808
+1615,P131,What administrative area contains [MASK]?,7,,1.0742512920597236
+3294,P131,Where is [MASK] situated in terms of administrative power?,7,,0.9534072887260459
+1662,P131,What governmental division contains [MASK]?,6,,0.9909363174391902
+1665,P131,What governmental region is [MASK] located in?,6,,0.9957427029257149
+1670,P131,What is the jurisdictional area of [MASK]?,6,,1.096264687909937
+1630,P131,What is the governmental jurisdiction of [MASK]?,6,,1.024601903168805
+1765,P131,What administrative entity holds [MASK]?,6,,0.9297622374362012
+1821,P131,What is the governing authority of [MASK]?,6,,0.9486227240597188
+1631,P131,What is the territorial authority of [MASK]?,6,0.8708249996585663,0.9699098282126243
+1621,P131,What governing body oversees [MASK]?,6,,0.9445181212876702
+1619,P131,What administrative region holds [MASK]?,6,,0.9958762487898399
+1618,P131,What administrative entity includes [MASK]?,6,0.8990168915931966,0.9481590189152732
+1785,P131,What governmental area is [MASK] located in?,6,,1.0483590017123252
+1612,P131,In which administrative unit is [MASK] located?,6,,1.0786532235718818
+1610,P131,In which administrative district is [MASK] situated?,6,,0.9799803334764853
+1609,P131,In what political area is [MASK] situated?,6,0.9530568305150283,0.9839052323354162
+1592,P131,In what administrative region can [MASK] be found?,6,0.9683957735120252,1.013081760618526
+1808,P131,What is the administrative locale of [MASK]?,6,,1.025402554697698
+1853,P131,Where is the [MASK] situated geographically?,5,,0.9522005021073399
+1764,P131,What administrative entity contains the [MASK]?,5,,1.0060752992563011
+1727,P131,In which government region is [MASK] situated?,5,,0.9987575890061638
+1697,P131,In what governing area is [MASK] situated?,5,,1.0172954932661913
+1691,P131,In what administrative jurisdiction is [MASK] located?,5,,0.9955570162327424
+1793,P131,What governmental unit is [MASK] situated in?,5,,1.0684725174573146
+1674,P131,Where is [MASK] located in terms of administrative divisions?,5,,0.9761253737112672
+1647,P131,To which administrative region does [MASK] belong?,5,0.8928636122462636,0.9475004358725206
+1660,P131,What administrative unit is [MASK] located in?,5,,1.0284784208624047
+1645,P131,In which political subdivision is [MASK] situated?,5,,1.0086433606334224
+1668,P131,What is the governing jurisdiction of [MASK]?,5,0.895916641170577,0.9748374878955849
+1642,P131,In which governmental region can [MASK] be found?,5,0.9161542271303997,1.0419137026875247
+1639,P131,In which administrative region is [MASK] found?,5,,1.022609786495157
+1663,P131,What governmental division houses [MASK]?,5,,0.999954416698435
+1627,P131,What is the administrative location of [MASK]?,5,,0.9436736078892958
+1617,P131,What administrative district contains [MASK]?,5,,0.9412915341088374
+1749,P131,In which territorial entity is [MASK] situated?,4,,1.0192230513677494
+2436,P131,What administrative entity is [MASK] a part of?,4,0.9649598795506626,0.9490348263335577
+1657,P131,What administrative region is [MASK] part of?,4,0.9831201933337053,1.0085442509262055
+1859,P131,Which administrative district holds [MASK]?,4,0.9106591379989741,1.0243243217366493
+1676,P131,Where is [MASK] located in terms of administrative jurisdiction?,4,0.9858667982404996,0.9993354810766504
+1736,P131,In which governmental region is the [MASK] based?,4,,0.9848771920750155
+1850,P131,Where is the [MASK] located geographically?,4,0.9040949092902083,0.9960811447935719
+1847,P131,Where is [MASK] situated territorially?,4,1.1426285473246085,0.9882134147542638
+1742,P131,In which jurisdictional area is [MASK] situated?,4,,1.0414702901988562
+1746,P131,In which state is [MASK] situated?,4,0.9211363616887555,1.0259814558876914
+1789,P131,What governmental entity contains the [MASK]?,4,,0.9926846409213255
+1840,P131,Where does [MASK] belong administratively?,4,,0.9316459317586689
+1774,P131,What administrative unit is the [MASK] in?,4,0.9029583507813088,0.9199447225275693
+1802,P131,What is the administrative division that contains [MASK]?,4,,0.9943421137450422
+1834,P131,What jurisdiction encompasses [MASK]?,4,2.3050935505798025,1.0829412365602658
+1723,P131,In which governing area is [MASK] located?,4,,1.035526920355811
+1757,P131,What administrative area holds the [MASK]?,4,,1.0344635117638585
+1805,P131,What is the administrative entity that houses [MASK]?,4,,0.8977076111093083
+1824,P131,What is the jurisdiction in which the [MASK] is located?,4,0.9338921006075259,0.9823840298141775
+1626,P131,What is the administrative area where [MASK] is located?,4,0.904052008361897,1.069760353303974
+1640,P131,In which governmental division is the [MASK] located?,4,0.8746093165273088,0.9996227279891257
+1779,P131,What district houses the [MASK]?,4,,0.9209167898710746
+1659,P131,What administrative region is home to [MASK]?,4,,0.9850475978322939
+1678,P131,Where is [MASK] situated in an administrative sense?,4,0.9386193554329414,0.9737250529277995
+2401,P131,What administrative district houses [MASK]?,4,,0.932929894451406
+1713,P131,In which administrative division is [MASK] located?,4,,0.9891106888618311
+1680,P131,Where is the [MASK] located?,4,,0.9688942934119726
+1675,P131,Where is [MASK] located in terms of administrative entities?,4,0.9362067773888547,1.077450314182074
+1688,P131,In what administrative entity is [MASK] located?,4,,1.0372256112767917
+1695,P131,In what administrative territory is [MASK] situated?,4,,1.0903729971063891
+1702,P131,In what political entity is the [MASK] located?,4,,0.9830772943783761
+1661,P131,What governing area contains [MASK]?,4,0.9102807270457625,1.0764479026091376
+1706,P131,In which administrative area is [MASK] found?,4,,0.9607623897249592
+1889,P131,In what administrative division does [MASK] lie?,4,,0.9801085046605996
+1666,P131,What is the administrative region where the [MASK] is located?,4,,0.963596308844326
+1851,P131,Where is the [MASK] located in terms of governmental control?,4,,1.0113695342954454
+1718,P131,In which administrative territory is [MASK] located?,4,0.9980351151507411,0.9760031701964553
+1714,P131,In which administrative division is the [MASK] placed?,4,,0.9863221319015179
+2392,P131,What administrative body holds [MASK]?,3,,1.0113127467351755
+2094,P131,In which administrative entity does [MASK] reside?,3,0.9915494906702774,1.0263804076699106
+1800,P131,What is the administrative district of the [MASK]?,3,0.8742884831647036,0.8974810893972842
+1818,P131,What is the geographical jurisdiction of [MASK]?,3,0.9605315011703836,0.9856284028425831
+1817,P131,What is the geographic area of [MASK]?,3,0.8938745131753278,0.9336548417309327
+1797,P131,What is the administrative area where [MASK] is situated?,3,,0.993797130802927
+2006,P131,In what locality is the [MASK] located?,3,,0.9607975028978863
+1816,P131,What is the administrative unit that contains [MASK]?,3,1.0908948736094046,1.0744303137156086
+1863,P131,Which administrative unit houses [MASK]?,3,,0.914108377019764
+1811,P131,What is the administrative region in which the [MASK] lies?,3,1.0642774616379584,1.025974947472638
+2110,P131,In which administrative region is the [MASK] located?,3,,0.9019169631305094
+1939,P131,In what governing body is the [MASK] situated?,3,0.8775109077033383,0.8775109077033356
+2107,P131,In which administrative region is [MASK] based?,3,,1.106228211548539
+3153,P131,What territorial authority holds [MASK]?,3,,0.9464494920465639
+2608,P131,What governmental district is the [MASK] in?,3,,0.9436682511046209
+2101,P131,In which administrative jurisdiction is [MASK] found?,3,,0.9750424679000691
+1803,P131,What is the administrative division that houses [MASK]?,3,0.8999219657932459,1.010366221197388
+2565,P131,What governing region contains [MASK]?,3,,1.0067562468008553
+2497,P131,What area is [MASK] part of?,3,,1.0354806222079604
+3295,P131,Where is [MASK] situated in terms of administrative region?,3,,0.9634170665334306
+3201,P131,Where does [MASK] fall in terms of administrative divisions?,3,,0.9212581228430018
+1887,P131,In what administrative district is the [MASK] based?,3,1.0591595241994443,0.9569649135011632
+1844,P131,Where is [MASK] located in an administrative sense?,3,1.0815475429421768,1.0039437694679914
+1976,P131,In what governmental jurisdiction is the [MASK] located?,3,,1.0097120361392695
+1842,P131,Where does the [MASK] have its administrative headquarters?,3,0.9058310337439446,0.9878630392140719
+1895,P131,In what administrative domain is [MASK] situated?,3,,1.0139391861781732
+2516,P131,What district is [MASK] situated in?,3,,0.9132454041010659
+1898,P131,In what administrative entity is [MASK] based?,3,,0.9163445954344849
+3167,P131,What territorial entity holds [MASK]?,3,0.9005025325867448,1.003163168332424
+1829,P131,What is the political area of [MASK]?,3,0.9827622053540533,1.0631973350679844
+2031,P131,In what political subdivision is [MASK] located?,3,,0.9945734252368214
+1837,P131,What local governing body holds [MASK]?,3,0.9038498880669437,0.9531844148708356
+1835,P131,What jurisdiction houses the [MASK]?,3,,0.9703831159767055
+2331,P131,To which authority does [MASK] belong?,3,,1.0055223233403436
+1869,P131,In what administrative area is the [MASK] based?,3,,1.1827574926412026
+2022,P131,In what political entity is [MASK] situated?,3,,0.9762625598768286
+1830,P131,What is the political division containing [MASK]?,3,,0.9029284663170366
+2052,P131,In what territorial entity is the [MASK] located?,3,,1.044357230366746
+1781,P131,What government division holds the [MASK]?,3,,0.9095991365240698
+1715,P131,In which administrative jurisdiction is the [MASK] located?,3,,0.94145951589151
+1677,P131,Where is [MASK] situated in a governmental context?,3,0.913843455817646,0.9679062389154832
+2906,P131,What is the local political region of [MASK]?,3,,0.9778841399170254
+2699,P131,What is the administrative division of [MASK]?,3,,0.960114842927304
+1679,P131,Where is [MASK] situated politically?,3,0.8844688975567633,0.9899997272473909
+1745,P131,In which political unit is [MASK] located?,3,0.9815472658430732,1.1000460507178902
+1681,P131,In what administrative area does [MASK] reside?,3,,0.9898414424556021
+1743,P131,In which political entity does [MASK] reside?,3,,1.1407566148269856
+1683,P131,In what administrative area is the [MASK] positioned?,3,,0.9468324106767829
+1733,P131,In which governmental division is [MASK] found?,3,,0.9658814551867797
+1687,P131,In what administrative entity is [MASK] found?,3,0.9027049810942444,0.9608156652522052
+1732,P131,In which governmental division is [MASK] based?,3,,0.9058619464290555
+1731,P131,In which governmental division can [MASK] be found?,3,0.8909280426213945,1.0635563602848872
+1692,P131,In what administrative region is the [MASK] found?,3,,1.0416744816115797
+1693,P131,In what administrative territorial organization is [MASK] situated?,3,0.9151807034228012,1.0084259826321438
+1696,P131,In what governing area is [MASK] located?,3,0.9166498974340285,0.9804807837262355
+1722,P131,In which division of government is [MASK] situated?,3,0.905965224071358,1.1260439975623333
+1717,P131,In which administrative region is the [MASK] situated?,3,,0.94691756576488
+1791,P131,What governmental region contains [MASK]?,3,,1.0456483274477122
+1712,P131,In which administrative body is [MASK] situated?,3,,0.9712060221993775
+1710,P131,In which administrative body is [MASK] located?,3,,1.1898720121461537
+1756,P131,What administrative area encompasses the [MASK]?,3,1.0167671523473834,0.9911500898542492
+1685,P131,In what administrative district is the [MASK] situated?,3,,0.9180602042902098
+1759,P131,What administrative area includes [MASK]?,3,,0.9597299562880813
+1763,P131,What administrative division is [MASK] a part of?,3,,1.0422207260176108
+1648,P131,What administrative area does [MASK] belong to?,3,1.2749468883187278,1.0862340529046959
+1653,P131,What administrative division holds [MASK]?,3,0.8868842574768743,0.9307783549080311
+1780,P131,What governing body has authority over [MASK]?,3,0.8883363271589225,0.957080801627964
+1637,P131,In what political subdivision is [MASK] found?,3,0.9283669400113195,0.9719215764379795
+1788,P131,What governmental division encompasses [MASK]?,3,,0.9211848562775198
+1673,P131,What territorial entity contains the [MASK]?,3,0.9246796064243941,1.0513758342224275
+2660,P131,What governmental unit holds [MASK]?,3,,0.9748845948918778
+1782,P131,What government division is [MASK] part of?,3,,1.0191469895181051
+1644,P131,In which political boundary is [MASK] situated?,3,0.8878441111131036,0.9437074918253
+2197,P131,In which governmental entity is [MASK] situated?,2,,0.8909810786177081
+2810,P131,What is the governing body that [MASK] is in?,2,,0.9198191419276861
+3269,P131,Where is [MASK] located territorially?,2,,0.9787600624951717
+3262,P131,Where is [MASK] located in terms of government?,2,,0.9152042662763831
+2188,P131,In which governmental district is [MASK] situated?,2,,0.9028888818371983
+2183,P131,In which governmental area can [MASK] be found?,2,,1.005194633753297
+3253,P131,Where is [MASK] located in terms of administration?,2,,1.0039475346832387
+2217,P131,In which jurisdiction does [MASK] exist?,2,1.0203364593745854,1.0203364593745854
+2008,P131,In what municipal entity is the [MASK] located?,2,,1.1904843691549094
+3288,P131,Where is [MASK] situated in an administrative context?,2,,0.9182508985570704
+3246,P131,Where is [MASK] in the governmental jurisdiction?,2,,1.0204355857618208
+2230,P131,In which official territorial division is [MASK] situated?,2,,1.1934698643489228
+3238,P131,Where is [MASK] administratively placed?,2,,0.9684003452719432
+2239,P131,In which political body is the [MASK] situated?,2,,0.9348956800640515
+2247,P131,In which political jurisdiction is the [MASK] located?,2,,1.0988285302209806
+2818,P131,What is the governing district of [MASK]?,2,,1.0706058432082863
+2005,P131,In what local jurisdiction is [MASK] located?,2,,1.1407685834898773
+3184,P131,What territorial unit hosts [MASK]?,2,,1.0034399169222006
+2173,P131,In which government unit is [MASK] located?,2,,1.0182178073292418
+3301,P131,Where is [MASK] situated in terms of the administrative divisions?,2,,0.9065594564796431
+2011,P131,In what official region is [MASK] placed?,2,1.7175670699322785,0.9204045370279264
+2106,P131,In which administrative locality is [MASK] located?,2,,1.0057809161635998
+2070,P131,In which administrative area does [MASK] fall?,2,,0.9749097720134392
+3370,P131,Which administrative entity is [MASK] situated in?,2,,1.0255718474021358
+2084,P131,In which administrative district is [MASK] based?,2,0.9079564033732583,1.0285078483299377
+2058,P131,In what territorial sub-division is [MASK] located?,2,,1.2393526042852805
+2056,P131,In what territorial region is [MASK]?,2,,1.1205669508854816
+2051,P131,In what territorial entity is the [MASK] based?,2,,0.8963387018298032
+2099,P131,In which administrative geographic area is [MASK] situated?,2,0.9301449616794955,0.9681668100169699
+2045,P131,In what territorial area is the [MASK] located?,2,1.1806032772145476,0.9903571913337159
+2104,P131,In which administrative jurisdiction is [MASK] positioned?,2,0.9243766301862293,0.9511965097295325
+2303,P131,Into which administrative entity does [MASK] fall?,2,,1.0897940821758232
+2012,P131,In what organized political territory is [MASK] situated?,2,,1.1348645752722926
+2111,P131,In which administrative sector is [MASK] located?,2,,0.9047265979258521
+2130,P131,In which area does the [MASK] reside?,2,,1.0004759482066719
+3323,P131,Where is the [MASK] located within an administrative area?,2,1.9208280535213507,0.9900452454280886
+2148,P131,In which governing area is [MASK] placed?,2,0.8890126912034202,0.9976239880629942
+2149,P131,In which governing body is [MASK] found?,2,,0.9687054780253352
+3302,P131,Where is [MASK] situated in the administrative system?,2,,1.0122509396843604
+2021,P131,In what political entity is [MASK] found?,2,,1.0261495392767275
+2060,P131,In what territorial unit is the [MASK] positioned?,2,,0.9634903609482197
+2161,P131,In which governing region is [MASK] situated?,2,0.9121204492489802,0.9781022734038523
+2294,P131,In which territory is [MASK] placed?,2,,0.9734521529752366
+2942,P131,What is the political division that includes [MASK]?,2,0.9664634423409924,1.1427265783694276
+2311,P131,To what administrative subdivision does [MASK] belong?,2,,1.0373973918498223
+2992,P131,What is the territorial area that contains [MASK]?,2,,1.0543252827166354
+2873,P131,What is the governmental or territorial unit in which [MASK] is situated?,2,,0.9935064144535528
+2877,P131,What is the governmental region within which [MASK] is situated?,2,1.0519482705744285,0.9016169143938874
+2712,P131,What is the administrative entity that [MASK] is part of?,2,,0.9817518301902091
+2499,P131,What area is home to the [MASK]?,2,0.9035199254156369,0.9564350308292416
+3045,P131,What jurisdictional area includes [MASK]?,2,,1.0630437758360405
+2711,P131,What is the administrative entity that [MASK] is in?,2,0.9351234292701442,1.0017064826553035
+2891,P131,What is the jurisdiction the [MASK] falls under?,2,,0.9236207350627827
+2520,P131,What entity is responsible for the territorial administration of [MASK]?,2,,0.8985460800617886
+2539,P131,What governing body encompasses [MASK]?,2,0.9279164694555034,0.9628890594286559
+2668,P131,What is the administrative area in which the [MASK] is situated?,2,,0.8940166266858836
+2547,P131,What governing body is responsible for the [MASK]?,2,,1.0305066880375535
+2663,P131,What governmental unit includes the [MASK]?,2,,1.0633101279539816
+2988,P131,What is the ruling entity for [MASK]?,2,0.9320973379419579,1.0968396004019758
+2312,P131,To what administrative territory does [MASK] belong?,2,,1.0463493493536415
+2653,P131,What governmental territory holds the [MASK]?,2,0.9410854890058227,1.0397049316888858
+2647,P131,What governmental region is the [MASK] part of?,2,1.0076023775697118,1.0076023775697118
+2641,P131,What governmental region is [MASK] a part of?,2,,1.0771213337392798
+2932,P131,What is the political boundaries of [MASK]?,2,,0.9248013959910619
+2629,P131,What governmental jurisdiction is [MASK] located within?,2,1.030942174037812,1.0020864451410516
+2628,P131,What governmental jurisdiction is [MASK] a part of?,2,,0.9901690708099609
+1995,P131,In what jurisdictional area is [MASK] located?,2,,1.081643291401012
+2593,P131,What governmental area houses [MASK]?,2,,0.933852208103366
+2596,P131,What governmental authority holds [MASK]?,2,0.8988749626494107,0.8988749626494099
+2939,P131,What is the political district that the [MASK] is in?,2,4.545655682811111,0.9174011594401755
+2624,P131,What governmental entity is [MASK] located in?,2,,1.0167380697475097
+2943,P131,What is the political division that the [MASK] is in?,2,,0.9897643398694304
+2496,P131,What area includes [MASK]?,2,,0.976096473690762
+2487,P131,What administrative unit hosts [MASK]?,2,0.935229688210811,1.0668830779153433
+2476,P131,What administrative territory contains [MASK]?,2,,1.0405443102883543
+2475,P131,What administrative territorial entity is the [MASK] in?,2,,1.0284903956353801
+2313,P131,To what administrative unit does [MASK] belong?,2,0.9247289269761303,1.127099413736503
+2315,P131,To what government entity does the [MASK] belong?,2,,0.962919336563446
+2824,P131,What is the governing entity of the [MASK]?,2,,0.959036454969181
+2317,P131,To what political area does [MASK] belong?,2,,1.109785539178814
+3170,P131,What territorial entity is [MASK] situated in?,2,,1.0477992720828166
+2835,P131,What is the governing territorial unit that [MASK] is a part of?,2,,1.1356749812945721
+2322,P131,To which administrative body does [MASK] belong?,2,0.9095531592771218,0.9095531592771207
+2836,P131,What is the governing territorial unit where the [MASK] is located?,2,,1.076496754511438
+2344,P131,To which political division does [MASK] belong?,2,0.9691705029940767,0.9823923789273303
+2365,P131,Under which governmental jurisdiction is [MASK] situated?,2,,1.0086999434735417
+2382,P131,What administrative area is home to [MASK]?,2,,0.9855617168576889
+3112,P131,What political subdivision hosts [MASK]?,2,0.9021339924722603,1.0079868124899969
+2837,P131,What is the governing territory of [MASK]?,2,,0.9224626090230248
+2394,P131,What administrative body is the [MASK] a part of?,2,0.9086489684631076,0.9086489684631067
+2399,P131,What administrative district encompasses the [MASK]?,2,0.8894146258382971,0.9256805694138835
+2430,P131,What administrative entity has the [MASK] in it?,2,,1.047301043619752
+2759,P131,What is the administrative unit where [MASK] is situated?,2,,1.0618968562973459
+2844,P131,What is the governmental area [MASK] is part of?,2,,0.9970131410202294
+2440,P131,What administrative entity is the home of the [MASK]?,2,,0.8662974966149535
+2441,P131,What administrative jurisdiction does [MASK] belong to?,2,,1.0112956158657114
+2442,P131,What administrative jurisdiction includes [MASK]?,2,,1.1740643603415553
+2453,P131,What administrative region does [MASK] belong to?,2,,1.0498491373367362
+2751,P131,What is the administrative unit [MASK] is a part of?,2,,0.9489397437649205
+2867,P131,What is the governmental entity that [MASK] is a part of?,2,,1.0870410723155581
+2469,P131,What administrative sector is the [MASK] situated in?,2,,0.8710805133443138
+2004,P131,In what local government division is [MASK] situated?,2,,0.8873544057151717
+2791,P131,What is the governing area for [MASK]?,2,,1.0289518015545753
+1831,P131,What is the political entity where [MASK] is located?,2,0.9920209079541735,1.007138107727555
+1748,P131,In which territorial authority is [MASK] situated?,2,1.0073866734060282,1.0627606503891585
+1862,P131,Which administrative region contains [MASK]?,2,1.0149018407431825,0.945952874876407
+1798,P131,What is the administrative boundary of [MASK]?,2,0.8968321965040579,0.8968321965040575
+1801,P131,What is the administrative district where [MASK] is located?,2,0.8909193050390404,0.9031660613971277
+1843,P131,Where is [MASK] found in terms of administrative boundaries?,2,0.8980177730551493,0.97507199822535
+3481,P131,Within which administrative body is [MASK] based?,2,,0.9318580497010198
+1752,P131,To which administrative jurisdiction does [MASK] belong?,2,0.8888948868018005,1.020663906434912
+1864,P131,Which territorial authority holds the [MASK]?,2,,0.9341068821869579
+1804,P131,What is the administrative domain of [MASK]?,2,,1.0198770414484888
+1750,P131,Into which administrative region does [MASK] fall?,2,1.0490760025661494,1.013663701144709
+1747,P131,In which state or province is [MASK] located?,2,1.1272209469420749,1.01109455514348
+1753,P131,To which administrative locality does [MASK] belong?,2,,1.0359070383175293
+1744,P131,In which political region is [MASK] located?,2,0.8837036999844116,0.906758031230229
+1739,P131,In which governmental territory is [MASK] located?,2,0.9097298982724534,1.0087452352876667
+1841,P131,Where does the [MASK] fit into the governmental structure?,2,0.8852652931279726,0.8852652931279721
+1738,P131,In which governmental subdivision is [MASK] located?,2,0.8934915222820138,1.1650689576329372
+1737,P131,In which governmental region is the [MASK] situated?,2,1.6858302970247077,0.9685248774245807
+1868,P131,In what administrative area is [MASK] found?,2,,1.0154731478238739
+1967,P131,In what governmental division is [MASK] located?,2,0.9043607562548195,0.9756392690781632
+1730,P131,In which governmental district is [MASK] located?,2,0.9423069882515875,1.0157644790176033
+1970,P131,In what governmental division is the [MASK] based?,2,,0.900632693951344
+1861,P131,Which administrative entity contains [MASK]?,2,0.9095675767420903,1.1308348229913008
+1787,P131,What governmental body governs [MASK]?,2,,0.8873927347251496
+1807,P131,What is the administrative jurisdiction where [MASK] is situated?,2,1.1856333026193848,1.0884428152302064
+1777,P131,What authority governs [MASK]?,2,0.8906198920302267,0.968650280184042
+1773,P131,What administrative unit is home to [MASK]?,2,,0.9019125993063368
+1849,P131,Where is the [MASK] found administratively?,2,,0.9448498514151453
+1854,P131,Where is the [MASK] situated in terms of jurisdiction?,2,,1.104495946677457
+1776,P131,What area of governance contains [MASK]?,2,,1.0023228046607007
+1772,P131,What administrative unit encompasses [MASK]?,2,0.9474585471904151,1.0719133880330811
+1846,P131,Where is [MASK] situated in terms of government control?,2,0.8862853168187812,0.9291671912931542
+1907,P131,In what administrative region does [MASK] reside?,2,,1.0121426400223537
+1906,P131,In what administrative region does [MASK] exist?,2,1.6702917091316547,1.1633285913723377
+1770,P131,What administrative territory holds [MASK]?,2,1.018241369020324,1.0594579250447844
+1778,P131,What country or region is [MASK] situated in?,2,1.0743888160908066,1.1883313461390008
+1755,P131,To which governmental entity does [MASK] belong?,2,1.200297722767541,1.0334824995865555
+1845,P131,Where is [MASK] located within the administrative structure?,2,,0.8775772069299055
+1856,P131,Which administrative area contains [MASK]?,2,0.9078060958979076,0.9392824638646915
+1761,P131,What administrative body is responsible for [MASK]?,2,,0.9704459859353243
+1858,P131,Which administrative area holds [MASK]?,2,0.9875764954585978,0.9227927701504577
+1760,P131,What administrative body governs [MASK]?,2,0.9081613281617588,0.9172924167929053
+1945,P131,In what government district is [MASK] located?,2,0.89264101700445,0.9378672158703716
+1942,P131,In what governing jurisdiction is [MASK] situated?,2,,0.9826874975761366
+3443,P131,Which political region houses the [MASK]?,2,,1.131160920040946
+1783,P131,What governmental area does [MASK] belong to?,2,,1.0882835733340694
+1806,P131,What is the administrative jurisdiction that encompasses [MASK]?,2,,0.9830656711063951
+1839,P131,What territorial unit holds [MASK]?,2,0.9239732563116163,1.0022919548498699
+1721,P131,In which administrative zone is [MASK] located?,2,1.3162317226984894,1.0027686926596346
+1975,P131,In what governmental jurisdiction is [MASK] positioned?,2,,0.9109332784816184
+1838,P131,What region is the [MASK] situated in?,2,1.6099538054972857,0.9132607037633877
+1972,P131,In what governmental entity does [MASK] reside?,2,,1.1030807777615292
+1720,P131,In which administrative unit is [MASK] found?,2,0.893741882406406,0.981448453263685
+1716,P131,In which administrative region is [MASK] positioned?,2,1.003173085239912,1.0734916162156625
+1914,P131,In what administrative subdivision is [MASK] situated?,2,0.8828428337039665,0.9386053598239468
+1711,P131,In which administrative body is [MASK] positioned?,2,0.9030279266538422,0.9596416550873001
+1872,P131,In what administrative authority is [MASK] included?,2,,1.09800676626127
+1924,P131,In what area is [MASK] found?,2,,1.0191032512304343
+1810,P131,What is the administrative locality of the [MASK]?,2,,0.9488961801284705
+1981,P131,In what governmental region is [MASK] found?,2,,1.1403880565443902
+1709,P131,In which administrative body is [MASK] found?,2,0.8997358847080663,0.9635805766135144
+1985,P131,In what governmental section is [MASK] located?,2,,1.0135223331712844
+1917,P131,In what administrative territorial unit is [MASK] situated?,2,,1.0346367446925753
+1987,P131,In what governmental structure is the [MASK] situated?,2,,1.009310714718176
+1823,P131,What is the governmental area that includes [MASK]?,2,0.9450605472282136,0.9362021783444925
+1705,P131,In what political subdivision is the [MASK] situated?,2,,0.970465631393169
+1694,P131,In what administrative territory can [MASK] be found?,2,,1.0323651789765378
+1833,P131,What is the territorial region of [MASK]?,2,0.8976706469881244,0.9633028041888503
+1827,P131,What is the jurisdictional territory of [MASK]?,2,0.921268298122018,0.9721005959789439
+3466,P131,Within what administrative territorial entity is the [MASK] located?,2,,0.9569198236509211
+1852,P131,Where is the [MASK] placed within an administrative division?,2,,1.0654445709936156
+1725,P131,In which governing body is the [MASK] located?,2,0.933310868767645,0.9919936906508917
+1729,P131,In which governmental boundary is [MASK] situated?,2,0.8976309706432188,1.0937557425895341
+1728,P131,In which governmental area does [MASK] reside?,2,0.9441007178570674,0.910777447458724
+3032,P131,What jurisdiction does the [MASK] operate within?,1,0.9200323162034352,1.027812016481125
+3047,P131,What jurisdictional area is [MASK] part of?,1,1.0330722526701581,1.0330722526701581
+3022,P131,What is the territorial subdivision that [MASK] is located in?,1,1.2479089509419843,1.0469172941456417
+3014,P131,What is the territorial jurisdiction housing the [MASK]?,1,0.9257306399065514,1.0358745025358727
+3021,P131,What is the territorial subdivision in which the [MASK] is situated?,1,0.896232506904023,0.8962325069040232
+3015,P131,What is the territorial jurisdiction of the National Archives of Seattle?,1,,1.093870829262354
+3001,P131,What is the territorial division that encompasses [MASK]?,1,0.9245665462538945,1.0353540524999192
+3000,P131,What is the territorial division that [MASK] falls under?,1,0.8847560361414494,0.8847560361414487
+3024,P131,What is the territorial unit containing [MASK]?,1,0.9360305749343928,1.0964004361111683
+3048,P131,What jurisdictional body does [MASK] belong to?,1,,0.889908239723014
+3020,P131,What is the territorial structure of [MASK]?,1,0.8551017026821763,0.8551017026821759
+3016,P131,What is the territorial jurisdiction that houses [MASK]?,1,,0.9990525236133607
+3017,P131,What is the territorial jurisdiction which [MASK] belongs to?,1,,0.8764683618655995
+2999,P131,What is the territorial demarcation of the [MASK]?,1,,1.0993763478085765
+3018,P131,What is the territorial setting of [MASK]?,1,,1.0927958161565694
+2998,P131,What is the territorial authority which houses the [MASK]?,1,0.9299849281296589,1.1798620532476913
+3013,P131,What is the territorial governance of [MASK]?,1,0.8780166975297652,0.8780166975297652
+3025,P131,What is the territorial unit that [MASK] falls under?,1,0.9243256402538432,0.9243256402538432
+3002,P131,What is the territorial domain of [MASK]?,1,,1.0182835275935231
+3012,P131,What is the territorial entity which [MASK] is part of?,1,1.2401239768292993,1.0542533262112546
+3044,P131,What jurisdictional area harbors [MASK]?,1,1.1026719344235172,1.1998510592315668
+3028,P131,What is the territorially-governed region of [MASK]?,1,0.9039018335648065,0.9039018335648065
+3003,P131,What is the territorial entitlement of [MASK]?,1,,0.9108531365081112
+3004,P131,What is the territorial entity containing the National Archives of Seattle?,1,,1.1471214432500656
+3030,P131,What is the territory that [MASK] is a part of?,1,1.3693263616212301,1.0839921047103551
+3011,P131,What is the territorial entity that includes [MASK]?,1,,1.0224489666688752
+3043,P131,What jurisdiction is the [MASK] within?,1,1.4521402224931084,0.9135673913529827
+3041,P131,What jurisdiction is the [MASK] operating under?,1,0.8675022745410708,0.9725239880621819
+3010,P131,What is the territorial entity that houses [MASK]?,1,,0.9143533213482253
+3005,P131,What is the territorial entity in charge of the [MASK]?,1,,0.9511688172136717
+3007,P131,What is the territorial entity in which [MASK] resides?,1,0.914960593700575,0.9268785118140107
+3034,P131,What jurisdiction has [MASK] in it?,1,,1.074566749843608
+3009,P131,What is the territorial entity that encompasses [MASK]?,1,,1.0188487095036753
+3019,P131,What is the territorial space that contains the [MASK]?,1,1.2674653245982157,1.0388134648328506
+3423,P131,Which governmental section contains [MASK]?,1,,1.059119716109988
+3049,P131,What jurisdictional entity houses the [MASK]?,1,0.9065861741908676,1.0190104402551776
+3102,P131,What political realm houses the [MASK]?,1,,0.8997455419523528
+3084,P131,What political area does [MASK] fall under?,1,,1.1192253768964104
+3085,P131,What political body administers [MASK]?,1,0.8911122127988045,0.8911122127988045
+3086,P131,What political body holds sovereignty over [MASK]?,1,0.9602594142781846,0.960259414278183
+3087,P131,What political boundary contains [MASK]?,1,,0.9243676135995371
+3088,P131,What political boundary encloses [MASK]?,1,0.9230601837928973,0.9230601837928877
+3089,P131,What political boundary includes [MASK]?,1,1.5803416304040179,0.9314187049240329
+3091,P131,What political division houses the [MASK]?,1,,0.9349180623586207
+3093,P131,What political entity contains the [MASK]?,1,0.9203445223407102,1.1263819557645354
+3094,P131,What political entity holds sovereignty over [MASK]?,1,0.9269203210178419,0.9269203210178375
+3097,P131,What political jurisdiction includes [MASK]?,1,,1.2256819698884867
+3098,P131,What political jurisdiction is [MASK] found in?,1,,0.9403068619742206
+3100,P131,What political jurisdiction is [MASK] part of?,1,,1.1941907583055806
+3101,P131,What political jurisdiction is home to [MASK]?,1,0.9215932167405422,0.9570749754400569
+3103,P131,What political region contains [MASK]?,1,0.9292932320225118,1.1604652758683442
+3050,P131,What jurisdictional unit includes [MASK]?,1,,0.9080041656720921
+3104,P131,What political region holds [MASK] in its boundaries?,1,,0.9906925933947599
+3105,P131,What political region holds [MASK]?,1,,0.8985325214623674
+3106,P131,What political region houses [MASK]?,1,0.9018969088856894,0.9018969088856863
+3498,P131,Within which demarcated area is [MASK] situated?,1,0.8641879661513281,0.8641879661513271
+3107,P131,What political region is [MASK] found in?,1,,0.9676509761660854
+3108,P131,What political region is [MASK] situated in?,1,1.2528377133018898,1.0688832025250037
+3109,P131,What political sector has the [MASK] inside it?,1,0.900840564219533,0.9008405642195281
+3497,P131,Within which boundary is [MASK] located?,1,2.816408359921338,1.025973480692535
+3496,P131,Within which administrative structure is the [MASK] situated?,1,,0.9697437348861093
+3110,P131,What political subdivision contains [MASK]?,1,,1.0407807860733094
+3111,P131,What political subdivision holds the [MASK]?,1,,0.9442670306662628
+3495,P131,Within which administrative section is the [MASK] housed?,1,0.8945339558562196,0.894533955856218
+3114,P131,What political territory does [MASK] lie in?,1,,1.0135390740395793
+3082,P131,What place does [MASK] belong to?,1,0.9188716405537808,1.1416313770235005
+3081,P131,What part of the UK is [MASK] located in?,1,0.9360319669329383,0.9360319669329384
+3499,P131,Within which geopolitical entity is [MASK] located?,1,,1.219090445668684
+3080,P131,What organized area does [MASK] fall within?,1,,0.9110947807444862
+3051,P131,What kind of administrative area is [MASK] located in?,1,,0.9223104613339536
+3052,P131,What kind of administrative body is [MASK] part of?,1,,0.9005023960779862
+3053,P131,What kind of governmental entity is [MASK] part of?,1,0.9065310695848335,0.9065310695848349
+3054,P131,What kind of political boundary does [MASK] lie within?,1,,0.9668491195630752
+3055,P131,What legal entity covers the area where [MASK] is situated?,1,0.8975252913929406,1.0410256478774635
+3056,P131,What level of government is [MASK] located in?,1,0.8865755447706066,0.8865755447706066
+3058,P131,What local authority does the [MASK] reside in?,1,1.1226022538082812,1.0729217870277472
+3059,P131,What local authority houses [MASK]?,1,0.8924281730349786,0.8924281730349786
+3061,P131,What local government area is [MASK] in?,1,0.9367664130782349,1.1522598306666443
+2996,P131,What is the territorial authority governing [MASK]?,1,0.938830647783164,0.938830647783164
+3063,P131,What local government office houses [MASK]?,1,,0.8954629455625587
+3064,P131,What local government region does [MASK] occupy?,1,1.1398803622351121,0.975121891116545
+3066,P131,What locale encompasses [MASK]?,1,,0.9442463918707642
+3067,P131,What locality contains the [MASK]?,1,,0.9097080964049629
+3070,P131,What locality is the [MASK] situated in?,1,0.9203056926360157,1.0032694012487675
+3071,P131,What municipal district holds [MASK]?,1,0.8983111417627841,0.8983111417627836
+3072,P131,What municipal district is the [MASK] found in?,1,,1.0569810249575127
+3073,P131,What municipal or governmental region does [MASK] fall within?,1,0.9348146858656299,1.109014553155835
+3074,P131,What municipality is [MASK] located in?,1,1.5401523360620204,0.8820351640356966
+3075,P131,What municipality is [MASK] part of?,1,,0.8904166618043292
+3076,P131,What municipality is [MASK] situated in?,1,0.9288933925446298,0.9288933925446284
+3077,P131,What official geographic region includes [MASK]?,1,,0.9845440490069893
+3078,P131,What organisation is responsible for the governance of [MASK]?,1,0.9039470533958642,0.9039470533958642
+3079,P131,What organizational division holds the [MASK]?,1,0.916456663274887,0.9545302403370911
+3504,P131,Within which jurisdictional body is [MASK] located?,1,0.9187147789812744,0.9187147789812683
+3503,P131,Within which jurisdiction is [MASK] situated?,1,,1.122859074930891
+3500,P131,Within which governing jurisdiction is the [MASK] located?,1,0.9047604065201191,0.9856361682312322
+3062,P131,What local government is the [MASK] situated in?,1,,0.8692105845317263
+2970,P131,What is the political territory of the [MASK]?,1,3.3226856113321213,1.1322740550164332
+2994,P131,What is the territorial arrangement of [MASK]?,1,,0.8907319124310985
+2993,P131,What is the territorial area which contains [MASK]?,1,0.8818804523992595,0.8818804523992587
+2864,P131,What is the governmental domain of the [MASK]?,1,0.8922269372001161,0.8922269372001168
+2865,P131,What is the governmental entity [MASK] is located within?,1,0.8760601358056079,0.8760601358055972
+2870,P131,What is the governmental jurisdiction where [MASK] resides?,1,1.0812817405024733,1.0812817405024733
+2871,P131,What is the governmental locale of [MASK]?,1,0.9363770364372141,0.9363770364372141
+2872,P131,What is the governmental or administrative framework of [MASK]?,1,0.887628811900177,0.8876288119001741
+2876,P131,What is the governmental region where [MASK] is situated?,1,,0.9447810773624944
+2878,P131,What is the governmental sector that includes [MASK]?,1,,0.9726341066476942
+2879,P131,What is the governmental territory of the [MASK]?,1,0.8932400674311877,0.8932400674311858
+2884,P131,What is the higher-level political entity under which [MASK] is governed?,1,0.8824179784723679,0.8824179784723646
+2885,P131,What is the higher-level region that [MASK] is located in?,1,,1.0303516059987405
+2886,P131,What is the highest level of government jurisdiction over [MASK]?,1,0.9248876971479171,0.9248876971478814
+2889,P131,What is the jurisdiction for [MASK]?,1,0.9316218233419544,0.9316218233419544
+2894,P131,What is the jurisdictional organization [MASK] is situated in?,1,0.921428467034158,1.0845524703991432
+2895,P131,What is the jurisdictional unit of [MASK]?,1,0.8808026142584762,0.8808026142584722
+2896,P131,What is the larger administrative unit that [MASK] is part of?,1,0.8909434711655457,0.993036751121852
+2897,P131,What is the legal jurisdiction of [MASK]?,1,1.3892377224912,1.1302331346090535
+2898,P131,What is the legal region of [MASK]?,1,0.9152622859432834,1.0066819422528037
+2899,P131,What is the local authority of [MASK]?,1,,0.8485084506691398
+2900,P131,What is the local governing body of [MASK]?,1,,0.8870767323866369
+2901,P131,What is the local governing entity for [MASK]?,1,0.9341657728563442,0.9341657728563437
+2902,P131,What is the local government area of [MASK]?,1,0.9178705970764851,1.0583781883491519
+2903,P131,What is the local government authority under which the [MASK] is located?,1,,0.9621042403053539
+2904,P131,What is the local government division that [MASK] is in?,1,0.9034198266912846,0.9034198266912816
+2905,P131,What is the local governmental area of the [MASK]?,1,,0.8797692820419961
+2907,P131,What is the localized governance of [MASK]?,1,0.8763620103971931,0.8763620103971932
+2908,P131,What is the main administrative body for [MASK]?,1,0.8965608911590984,0.8965608911590639
+2909,P131,What is the municipal district of [MASK]?,1,0.9080420069276879,1.0462772733741341
+2862,P131,What is the governmental district where [MASK] is located?,1,0.9035798242927908,0.9035798242927893
+2860,P131,What is the governmental district of [MASK]?,1,0.9794880491345668,1.1843453234942796
+2859,P131,What is the governmental district in which the [MASK] can be found?,1,0.8928863159286418,0.8928863159286428
+2828,P131,What is the governing organization that [MASK] is part of?,1,,0.8967449532296391
+2796,P131,What is the governing area that houses [MASK]?,1,,0.9492219138060878
+2797,P131,What is the governing area where [MASK] is situated?,1,,0.8998872102844164
+2805,P131,What is the governing body in which the [MASK] is positioned?,1,0.8934570854845204,0.8934570854845191
+2808,P131,What is the governing body over [MASK]?,1,0.8895426329712316,0.8895426329712316
+2813,P131,What is the governing body that has jurisdiction over [MASK]?,1,0.8783888153894012,0.8783888153893981
+2814,P131,What is the governing body that manages [MASK]?,1,0.8937378509193084,0.8937378509193081
+2816,P131,What is the governing body where [MASK] is based?,1,0.8706405327271354,0.8706405327271354
+2817,P131,What is the governing boundary of [MASK]?,1,0.8789306196672204,0.8789306196672204
+2820,P131,What is the governing division in which [MASK] is located?,1,,0.9962391178520964
+2821,P131,What is the governing division that [MASK] is part of?,1,,0.960967934004027
+2822,P131,What is the governing division that [MASK] resides within?,1,0.9191785493136696,0.9191785493136658
+2823,P131,What is the governing division that includes [MASK]?,1,,0.9254900721165482
+2831,P131,What is the governing region that the [MASK] inhabits?,1,,1.0657521865488087
+2856,P131,What is the governmental context for [MASK]?,1,,0.9297876945731395
+2834,P131,What is the governing territorial entity where [MASK] resides?,1,0.8782763143757601,0.9209055223273189
+2839,P131,What is the governing unit that [MASK] belongs to?,1,,1.0351346108566941
+2840,P131,What is the government entity governing [MASK]?,1,0.8924750285689265,0.8924750285689265
+2841,P131,What is the government region in which the [MASK] is based?,1,,1.056043014298225
+2842,P131,What is the government region that holds the [MASK]?,1,0.9050397599814213,0.9050397599814216
+2843,P131,What is the government-regulated area of [MASK]?,1,,0.8676849281605427
+2846,P131,What is the governmental area in which the [MASK] is based?,1,,1.0627659364386102
+2850,P131,What is the governmental area that the [MASK] is housed in?,1,,0.9236881300676917
+2852,P131,What is the governmental area where [MASK] is located?,1,1.3510595361152191,0.8992147531064706
+2853,P131,What is the governmental authority that [MASK] is part of?,1,0.8973452085941286,0.9689696862172265
+2854,P131,What is the governmental body wherein [MASK] can be found?,1,,1.001919386943298
+2855,P131,What is the governmental classification of the [MASK]?,1,0.9006331127471335,0.9006331127471318
+2910,P131,What is the municipal region in which [MASK] is located?,1,,1.062747350115187
+2911,P131,What is the municipality [MASK] is found in?,1,0.912162644173345,0.9431995874388726
+2912,P131,What is the name of the governing region [MASK] inhabits?,1,0.9029240358400255,0.9029240358400241
+2976,P131,What is the proper governing division for [MASK]?,1,,0.8940732308425613
+2959,P131,What is the political region for [MASK]?,1,0.8967264421188127,1.0873925172483194
+2962,P131,What is the political region that includes [MASK]?,1,,1.2673209301454391
+2963,P131,What is the political region that the [MASK] sits in?,1,,0.9170065428659441
+2964,P131,What is the political region within which [MASK] is found?,1,0.9449485050138522,1.1376292340433587
+2966,P131,What is the political subdivision of [MASK]?,1,0.8835373079131991,0.8835373079131966
+2968,P131,What is the political subdivision where the Leopoldina German Academy of Sciences is located?,1,,1.0573170145886777
+2969,P131,What is the political territory in which [MASK] is located?,1,0.9318052842903395,1.0054638414486434
+3493,P131,Within which administrative region does [MASK] reside?,1,1.2747687933882788,1.0347204111187478
+2971,P131,What is the political territory responsible for the [MASK]?,1,,0.8869135100246542
+2972,P131,What is the political territory where [MASK] is located?,1,0.916895741611443,0.9168957416114406
+2973,P131,What is the political unit in which [MASK] is found?,1,,0.8950338263229407
+2974,P131,What is the political unit that contains [MASK]?,1,,0.9349360075031454
+2977,P131,What is the province of [MASK]?,1,,0.8911281941954315
+2957,P131,What is the political jurisdiction where [MASK] is situated?,1,1.2449495208347043,1.2697134603673943
+2978,P131,What is the region in which [MASK] is placed?,1,0.880266615792091,0.880266615792091
+2979,P131,What is the regional area of the [MASK]?,1,0.9281125442136723,0.9463417687122231
+2980,P131,What is the regional authority of [MASK]?,1,0.8697925436126521,0.8697925436126519
+2981,P131,What is the regional authority that [MASK] falls under?,1,0.8624101388080766,0.8624101388080766
+2982,P131,What is the regional authority the [MASK] is housed in?,1,1.5305799314879316,0.9185900645567842
+2983,P131,What is the regional authority under which [MASK] falls?,1,,1.0329858128900504
+2984,P131,What is the regional controller of [MASK]?,1,0.852929651620817,0.852929651620817
+2985,P131,What is the regional division that [MASK] belongs to?,1,0.8881278660173981,0.8881278660173986
+2986,P131,What is the regional government which contains [MASK]?,1,,0.873624022836541
+2987,P131,What is the ruling division in which [MASK] is placed?,1,,1.016083722266586
+2990,P131,What is the territorial area of the [MASK]?,1,0.9103728038133864,0.9103728038133859
+2991,P131,What is the territorial area that [MASK] falls under?,1,,1.0558118832153192
+2958,P131,What is the political organization that contains [MASK]?,1,0.9507966601016172,0.9507966601016172
+2953,P131,What is the political hierarchy of [MASK]?,1,0.8996728128375142,0.8996728128375118
+2913,P131,What is the name of the governing territorial unit in which [MASK] is situated?,1,,0.9713375214541826
+2930,P131,What is the political body that [MASK] belongs to?,1,0.8993438637083644,0.9110583644172378
+2914,P131,What is the name of the jurisdiction [MASK] is in?,1,1.2176006936231454,1.2176006936231454
+2916,P131,What is the official area of the [MASK]?,1,,0.8852747468465045
+2917,P131,What is the official classification of [MASK]?,1,0.8898382768983769,0.8898382768983767
+2918,P131,What is the official jurisdiction of [MASK]?,1,0.9137571413321816,0.9137571413321798
+2919,P131,What is the official organization that [MASK] is part of?,1,,1.1367674254780038
+2921,P131,What is the organizational area of [MASK]?,1,,0.9223566694306398
+2922,P131,What is the political area in which [MASK] can be found?,1,1.2126479693450465,0.9368237548583641
+2923,P131,What is the political area in which [MASK] is based?,1,0.96373151471716,0.9637315147171596
+2925,P131,What is the political area that [MASK] is based in?,1,0.9179287531667969,0.9179287531667956
+2926,P131,What is the political area that [MASK] is found in?,1,1.0158491252546633,1.0158491252546633
+2927,P131,What is the political area where the [MASK] is situated?,1,0.914196550036308,0.9141965500363034
+2929,P131,What is the political body ruling over [MASK]?,1,,0.900010701840593
+2931,P131,What is the political body that [MASK] is part of?,1,,0.9270932115173727
+2952,P131,What is the political geography of [MASK]?,1,0.8779297369300516,0.8779297369300522
+2934,P131,What is the political district [MASK] falls within?,1,0.8971507401855711,0.897150740185571
+2936,P131,What is the political district of [MASK]?,1,0.9106092978438605,1.0872287632899464
+2937,P131,What is the political district that [MASK] belongs to?,1,,0.8809173808189706
+2938,P131,What is the political district that holds [MASK]?,1,,0.9112558003464227
+2940,P131,What is the political district where [MASK] is located?,1,0.8790302854290177,1.030324682154636
+2941,P131,What is the political division in which [MASK] resides?,1,,0.9320002646561552
+2944,P131,What is the political domain of [MASK]?,1,0.9214099828282482,0.9214099828282482
+2945,P131,What is the political domain that contains [MASK]?,1,0.9317926642942049,0.9317926642941954
+2946,P131,What is the political entity in which [MASK] exists?,1,1.28823281735095,1.28823281735095
+2949,P131,What is the political entity that [MASK] falls under?,1,0.9248071949925618,1.2230319330362505
+2950,P131,What is the political entity that encompasses [MASK]?,1,,1.1003034083053411
+2951,P131,What is the political entity that houses [MASK]?,1,0.8736395803602556,0.9918734475364225
+3116,P131,What political territory is the [MASK] situated in?,1,,0.9345851769668391
+3125,P131,What region is [MASK] a part of administratively?,1,,0.9258211006335829
+3117,P131,What political unit encompasses [MASK]?,1,,0.8799278283816572
+3330,P131,Where is the [MASK] set within an administrative boundary?,1,0.9105188436939635,0.9811873179481579
+3338,P131,Where is the [MASK] situated in terms of administrative boundaries?,1,1.114228637665626,1.114228637665626
+3337,P131,Where is the [MASK] situated in terms of administration?,1,,0.9021922460862885
+3335,P131,Where is the [MASK] situated in an administrative jurisdiction?,1,,1.0400624191971926
+3333,P131,Where is the [MASK] situated in a political jurisdiction?,1,,0.9132045159036762
+3332,P131,Where is the [MASK] situated from a governmental standpoint?,1,,1.0858928351005048
+3331,P131,Where is the [MASK] set within the administrative structure?,1,,0.8885578029704846
+3445,P131,Which public authority incorporates [MASK]?,1,,0.9398187940934386
+3437,P131,Which political authority holds jurisdiction over [MASK]?,1,,0.9167934493206538
+3329,P131,Where is the [MASK] positioned?,1,,0.8755488595364752
+3328,P131,Where is the [MASK] positioned within the governmental structure?,1,,1.0757849458073665
+3327,P131,Where is the [MASK] placed in a territorial context?,1,0.896925036783605,1.086222589564486
+3326,P131,Where is the [MASK] placed in a governmental sense?,1,0.87779740805655,0.87779740805655
+3446,P131,Which region encompasses the [MASK]?,1,,0.8859379264528378
+3321,P131,Where is the [MASK] located in terms of territorial control?,1,1.2989714569610087,0.921287185149407
+3343,P131,Where is the [MASK] situated under administrative authority?,1,0.8808972718549833,1.0264161798441334
+3344,P131,Where is the [MASK] situated within an administrative district?,1,1.6359553104820654,0.9864829403142162
+3345,P131,Where is the [MASK] situated within an administrative territory?,1,0.9224839179064414,0.9224839179064335
+3346,P131,"Where is the [MASK] situated, governmentally speaking?",1,0.9121668712965291,1.1020738123826497
+3347,P131,Where is the governmental domain that encompasses [MASK]?,1,1.861478615795515,0.9669416482497598
+3348,P131,Where is the supervisory region for [MASK]?,1,,0.9582616065571453
+3349,P131,Where specifically is [MASK] located?,1,,0.911640598457122
+3444,P131,Which political subdivision houses [MASK]?,1,,0.9196301887796766
+3442,P131,Which political region has the [MASK]?,1,,0.9530072810086173
+3350,P131,Where was the [MASK] held?,1,,0.9609620707431663
+3441,P131,Which political jurisdiction contains [MASK]?,1,0.9386915529008646,0.938691552900857
+3351,P131,Where within the administrative system is [MASK] located?,1,0.882572794626211,0.8825727946262114
+3440,P131,Which political entity houses the [MASK]?,1,,1.0112691297182679
+3352,P131,Whereabouts is [MASK] situated in administratively?,1,1.0486688382340963,0.9794489098178747
+3439,P131,Which political entity contains [MASK]?,1,1.1027960532712737,1.1027960532712737
+3353,P131,Which administrative area does [MASK] fall under?,1,,1.0688234391179028
+3354,P131,Which administrative area houses the [MASK]?,1,0.8920266962827542,1.0336968566669524
+3320,P131,Where is the [MASK] located in terms of political divisions?,1,,0.9491776721049675
+3316,P131,Where is the [MASK] housed within the government domain?,1,,0.9491671709568847
+3315,P131,Where is the [MASK] categorized in terms of administrative region?,1,1.7652706819992399,0.9063101676890718
+3298,P131,Where is [MASK] situated in terms of government structure?,1,,1.0501803143924895
+3278,P131,Where is [MASK] positioned in terms of administrative authority?,1,,0.9126734778772176
+3279,P131,Where is [MASK] positioned within an administrative division?,1,,1.015994504598888
+3280,P131,Where is [MASK] seated in administratively?,1,0.945900426701009,0.9459004267010082
+3281,P131,Where is [MASK] situated as far as public administration?,1,,0.8841210871143023
+3282,P131,Where is [MASK] situated from a governmental perspective?,1,1.3857846809106786,1.024403067273948
+3456,P131,Who has legal authority over [MASK]?,1,3.888113046106474,0.9275405298761645
+3284,P131,Where is [MASK] situated in a governmental division?,1,0.9072798219593738,0.9664541664707461
+2793,P131,What is the governing area inhabited by [MASK]?,1,0.9334950591410474,1.1362508889103828
+3287,P131,Where is [MASK] situated in an administrative capacity?,1,0.8870812323234978,1.0721662147438438
+3455,P131,Who administers [MASK]?,1,0.9148254879563303,0.9148254879563308
+3454,P131,Which territorial entity has [MASK] in its jurisdiction?,1,0.9595324668768143,0.9595324668768143
+3453,P131,Which territorial entity falls under [MASK]'s administrative umbrella?,1,,0.8972993563637185
+3296,P131,Where is [MASK] situated in terms of administrative structure?,1,,0.9042533108325831
+3297,P131,Where is [MASK] situated in terms of government authority?,1,,0.9128214956199744
+3299,P131,Where is [MASK] situated in terms of local governance?,1,,0.9168259227682479
+3313,P131,Where is the Seattle National Archives based?,1,,0.9468124905546207
+3452,P131,Which territorial body administers [MASK]?,1,0.8794937929218353,0.8794937929218358
+3300,P131,Where is [MASK] situated in terms of political administration?,1,0.8919162737509493,0.9675129657236666
+3450,P131,Which state is [MASK] a part of?,1,0.959906908339477,1.0707542449349445
+3449,P131,Which ruling domain encompasses [MASK]?,1,,0.9769350623492791
+3303,P131,Where is [MASK] situated on the political map?,1,1.0828246011030882,1.0828246011030882
+3304,P131,Where is [MASK] situated within an administrative territorial unit?,1,,0.9998903312898055
+3305,P131,Where is [MASK] situated within the administration's territorial divisions?,1,0.9051677716399362,0.9051677716399366
+3306,P131,Where is [MASK] situated within the administrative landscape?,1,0.9002771101071131,0.9002771101071129
+3307,P131,Where is [MASK] situated within the administrative structure?,1,,0.8827703796982108
+3309,P131,Where is [MASK] under the government?,1,,0.9117245702699542
+3448,P131,Which regional entity has [MASK] located within it?,1,0.8890044525659169,0.8890044525659168
+3310,P131,Where is [MASK]'s administrative jurisdiction?,1,0.9616848903384866,0.9616848903384866
+3311,P131,Where is the Leopoldina German Academy of Sciences settled?,1,,0.9603134119791714
+3312,P131,Where is the Leopoldina German Academy of Sciences situated geographically?,1,,0.9436007990211472
+3438,P131,Which political division includes [MASK]?,1,0.8765631928795101,1.0093705194160367
+3357,P131,Which administrative body has control over [MASK]?,1,,1.0847474459229993
+3457,P131,Who is the administrative authority for [MASK]?,1,0.8898537519722504,0.8898537519722505
+3402,P131,Which governing organization is responsible for [MASK]?,1,0.9156430821195701,1.2917879031887411
+3406,P131,Which government area houses the [MASK]?,1,0.8879926744939434,0.8879926744939428
+3405,P131,Which governing region is home to [MASK]?,1,0.946532115071356,1.2125702509677365
+3428,P131,Which governmental unit is home to the [MASK]?,1,0.9068990286209003,0.9068990286208994
+3429,P131,Which is the governmental authority governing the area [MASK] is situated in?,1,,0.9101478892656091
+3404,P131,Which governing region encompasses [MASK]?,1,,0.9234018320100542
+3403,P131,Which governing region contains the [MASK]?,1,0.9122694120661364,0.9122694120661253
+3401,P131,Which governing body is responsible for [MASK]?,1,,0.8463505814185244
+3358,P131,Which administrative body holds jurisdiction over [MASK]?,1,0.889647340850859,0.8896473408508584
+3400,P131,Which governing body is [MASK] a part of?,1,0.9278731116321209,0.9278731116321209
+3399,P131,Which governing body has jurisdiction over [MASK]?,1,,0.8795284355107217
+3398,P131,Which governing authority has [MASK] as part of its jurisdiction?,1,0.8915576364042878,0.9979223352947315
+3397,P131,Which geographic area houses the [MASK]?,1,0.8813680602864912,0.8813680602864883
+3396,P131,Which bureaucratic territory houses [MASK]?,1,0.9555984023483426,0.9555984023483426
+3395,P131,Which authoritative region does [MASK] belong to?,1,0.8921733672100252,0.8921733672100252
+3407,P131,Which government division holds the [MASK]?,1,0.8965440094724332,0.8965440094724328
+3408,P131,Which government-controlled territory is the [MASK] in?,1,,0.956338878536706
+3409,P131,Which government-regulated territory houses the [MASK]?,1,,1.1778408855587164
+3410,P131,Which governmental area does [MASK] call home?,1,1.1763721861034535,1.0181681530811015
+3411,P131,Which governmental authority holds the [MASK]?,1,0.8887080131976853,1.0235748178811108
+3427,P131,Which governmental unit incorporates [MASK]?,1,0.9099947603461527,0.9099947603461526
+3412,P131,Which governmental authority includes [MASK]?,1,,1.0492381661243348
+3413,P131,Which governmental body is [MASK] located within?,1,0.9145319454453921,1.1384964837221092
+3426,P131,Which governmental unit includes [MASK]?,1,1.3036587915332953,1.3036587915332953
+3425,P131,Which governmental unit houses [MASK]?,1,0.9108963183384654,0.9108963183384648
+3414,P131,Which governmental division holds [MASK]?,1,0.8733261731323461,0.9930219407836931
+3415,P131,Which governmental division houses [MASK]?,1,,0.911477963473241
+3416,P131,Which governmental division includes [MASK]?,1,0.8941184670328659,0.8941184670328621
+3417,P131,Which governmental entity contains the [MASK]?,1,,0.89495738886449
+3418,P131,Which governmental entity is [MASK] part of?,1,0.9274398132158185,0.9274398132158183
+3419,P131,Which governmental jurisdiction includes [MASK]?,1,,1.0485316818363781
+3424,P131,Which governmental unit does [MASK] belong to?,1,0.9329158243791725,0.9329158243791723
+3394,P131,Which authoritative jurisdiction houses [MASK]?,1,,1.0829986996932508
+3393,P131,Which area of governance has [MASK] in it?,1,0.8689062715561549,0.9609198911308883
+3392,P131,Which are the boundaries of the region in which [MASK] is situated?,1,0.871205730478408,0.8712057304784073
+3375,P131,Which administrative jurisdiction houses [MASK]?,1,0.8999682266995364,0.8999682266995364
+3436,P131,Which political authority contains [MASK]?,1,0.8811339079457204,1.0512568325954552
+3359,P131,Which administrative boundary contains [MASK]?,1,0.8752736185115666,0.8752736185115666
+3360,P131,Which administrative district encompasses [MASK]?,1,0.8986369821052097,0.8986369821052096
+3361,P131,Which administrative district includes [MASK]?,1,0.9495696115095442,0.9701326757520108
+3362,P131,Which administrative division houses [MASK]?,1,,1.0476922481290232
+3363,P131,Which administrative domain holds [MASK]?,1,0.8754095515862432,0.87540955158623
+3364,P131,Which administrative entity governs [MASK]?,1,,0.8757737453497807
+3366,P131,Which administrative entity holds [MASK]?,1,0.9015197020976478,1.0099450744588188
+3368,P131,Which administrative entity houses the [MASK]?,1,,0.8636520659918445
+3435,P131,Which part of the governmental territory does [MASK] fall into?,1,0.9149063468022673,1.0205146634775357
+3372,P131,Which administrative entity is the home of [MASK]?,1,,1.0735811548304035
+3434,P131,Which official territorial unit does [MASK] belong?,1,1.0994240587847892,1.0994240587847892
+3373,P131,Which administrative jurisdiction contains [MASK]?,1,0.9222443919106751,0.9222443919106751
+3374,P131,Which administrative jurisdiction encompasses [MASK]?,1,1.1749698389862397,1.0485661037617628
+3379,P131,Which administrative region holds [MASK]?,1,0.9151899149017674,1.0643657773667188
+3430,P131,Which jurisdictional entity is [MASK] a part of?,1,,1.013556383103368
+3380,P131,Which administrative region houses [MASK]?,1,,1.0826518093591857
+3381,P131,Which administrative region includes [MASK]?,1,,1.073005011469657
+3382,P131,Which administrative region is home to [MASK]?,1,,1.0078830846155502
+3433,P131,Which local authority holds authority over [MASK]?,1,,0.9383892403168144
+3384,P131,Which administrative segment includes the [MASK]?,1,,0.8803280469923829
+3432,P131,Which local authority area is home to [MASK]?,1,1.444234019155223,0.9215466554158498
+3385,P131,Which administrative sphere is [MASK] found in?,1,,1.023988308370351
+3386,P131,Which administrative subdivision contains [MASK]?,1,,0.8985710874669778
+3387,P131,Which administrative subdivision holds the [MASK]?,1,,1.1012377894334446
+3431,P131,Which jurisdictional subdivision houses the [MASK]?,1,0.9013845242847258,1.202028119176301
+3388,P131,Which administrative territory holds [MASK]?,1,2.9639258360280114,1.024472863311396
+3389,P131,Which administrative territory includes [MASK]?,1,1.1684275205180457,1.1684275205180457
+3390,P131,Which administrative unit encompasses [MASK]?,1,,1.0677287439753442
+3391,P131,Which administrative zone contains the [MASK]?,1,1.4542308875080323,1.0582129001036937
+3277,P131,Where is [MASK] positioned in an administrative context?,1,,0.8641427247548676
+3276,P131,Where is [MASK] placed?,1,,0.903104223660531
+3118,P131,What political unit is home to [MASK]?,1,0.8871946260262717,1.0235862890833176
+3164,P131,What territorial domain contains the [MASK]?,1,,1.1193562245311184
+3477,P131,Within what territorial division is the [MASK] situated?,1,,0.8836834414902812
+3171,P131,What territorial entity is the [MASK] a part of?,1,0.9264861999324809,0.926486199932481
+3480,P131,Within which administrative body can [MASK] be found?,1,,0.9129655880975939
+3483,P131,Within which administrative boundaries is the [MASK] situated?,1,0.9376422150214423,1.1278246528265286
+3166,P131,What territorial entity governs the [MASK]?,1,0.8899705242834215,0.9839970049576876
+3165,P131,What territorial entity administrates [MASK]?,1,,0.993619386401713
+3163,P131,What territorial division is the [MASK] a part of?,1,,1.0219292785944913
+3190,P131,What type of government administration is [MASK] included in?,1,0.8956477191664521,0.8956477191664529
+3485,P131,Within which administrative district is [MASK] found?,1,1.0017757273932397,1.2073853106401828
+3162,P131,What territorial division is [MASK] situated in?,1,0.9209402477977774,1.0069497751175696
+3160,P131,What territorial division holds the [MASK]?,1,0.9314480206966141,1.0118147030232958
+3159,P131,What territorial division does [MASK] occupy?,1,0.8957475816273892,0.8957475816273885
+3158,P131,What territorial district contains the [MASK]?,1,0.9407592415085291,1.0528387497800469
+3157,P131,What territorial body encompasses the [MASK]?,1,0.9257547294696085,1.1330892922258355
+3476,P131,Within what spatial organization does [MASK] lie?,1,,1.0985725759428226
+3173,P131,What territorial entity was the site of the [MASK]?,1,,0.9377495843309609
+3475,P131,Within what regional subdivision is [MASK] situated?,1,,1.1577387638463779
+3474,P131,Within what official realm is [MASK] located?,1,0.9423391395926405,0.9423391395926405
+3470,P131,Within what governmental area is [MASK] located?,1,,1.1068379937490846
+3174,P131,What territorial jurisdiction includes the [MASK]?,1,0.9741414300107801,0.9741414300107801
+3175,P131,What territorial organisation administers [MASK]?,1,0.8886173678340796,1.1123859645986094
+3469,P131,Within what governing territory is [MASK] situated?,1,0.9084118342010199,0.9084118342010148
+3176,P131,What territorial organization holds the [MASK]?,1,,0.8989052328207063
+3177,P131,What territorial organization is the home of the [MASK]?,1,0.9005055151466014,0.9005055151466014
+3178,P131,What territorial region houses the [MASK]?,1,1.060884786308828,1.0623549062308142
+3180,P131,What territorial region is home to the [MASK]?,1,1.7973580290447624,1.0048703974542643
+3181,P131,What territorial structure contains [MASK]?,1,1.18346580846985,1.18346580846985
+3182,P131,What territorial unit does [MASK] belong to administratively?,1,,1.2550910874586518
+3183,P131,What territorial unit does the [MASK] occupy?,1,,0.8769753027195827
+3187,P131,What territorial unit is the [MASK] located in?,1,,1.039872119921403
+3188,P131,What territorially based entity contains [MASK]?,1,,0.8956911508833407
+3156,P131,What territorial body administers [MASK]?,1,0.9206372214150903,1.1078226591269957
+3155,P131,What territorial authority includes [MASK]?,1,1.043285122327018,1.043285122327018
+3489,P131,Within which administrative framework is [MASK] located?,1,,0.9754508946735877
+3135,P131,What regional jurisdiction includes [MASK]?,1,,0.8965116157477242
+3119,P131,What public authority holds control over [MASK]?,1,,0.8933433342722187
+3120,P131,What public office possesses the [MASK]?,1,0.8925734661773382,0.8925734661773328
+3121,P131,What public organization holds the [MASK]?,1,0.8702243926576957,1.0346590016467196
+3122,P131,What region contains the [MASK]?,1,1.2356855698539875,0.9093597668643526
+3123,P131,What region does [MASK] fall under?,1,1.7014060925200536,0.9443367127453492
+3124,P131,What region has administrative jurisdiction over [MASK]?,1,,1.2602057340368589
+3422,P131,Which governmental region is [MASK] part of?,1,,1.0103877288424206
+3127,P131,What region is [MASK] categorized under?,1,0.9422118907275165,1.0510077545480645
+3128,P131,What region is [MASK] part of in terms of governmental structure?,1,,0.91583252086913
+3492,P131,Within which administrative region can you find the [MASK]?,1,0.9198702017514377,1.0206050032059253
+3130,P131,What region of government-defined space contains [MASK]?,1,,1.171171109579842
+3131,P131,What region/territorial body does [MASK] fall in?,1,1.090512592500115,1.090512592500115
+3132,P131,What regional body includes [MASK]?,1,0.9119972379270295,0.9119972379270295
+3133,P131,What regional entity holds the [MASK]?,1,0.8826710409863331,0.9474168503318382
+3136,P131,What regional unit has [MASK] as part of its jurisdiction?,1,,0.8835577353898281
+3152,P131,What territorial authorities does [MASK] reside in?,1,,0.9013870147331522
+3137,P131,What regional unit includes [MASK]?,1,,0.9235215015151982
+3138,P131,What restrictions are placed on [MASK] in terms of administrative districts?,1,,0.8820714580851411
+3139,P131,What sector administers [MASK]?,1,0.9134094281351747,0.9134094281351747
+3140,P131,What sort of governmental jurisdiction does [MASK] fall under?,1,1.0016847701827751,1.0016847701827751
+3141,P131,What state is [MASK] in?,1,1.0394640138820264,1.0394640138820264
+3142,P131,What state or province is [MASK] a part of?,1,1.3191965889178303,0.9504946117771241
+3143,P131,What state or province is [MASK] found in?,1,0.9137017338735298,0.9137017338735263
+3144,P131,What state or region is [MASK] found within?,1,0.8863668940696044,0.886366894069603
+3145,P131,What state or region is [MASK] situated in?,1,,1.1490126390205502
+3146,P131,What sub-division is the [MASK] found in?,1,0.8937786326086927,0.893778632608688
+3490,P131,Within which administrative jurisdiction can [MASK] be found?,1,,1.0612341507344374
+3147,P131,What subdivision of government covers [MASK]?,1,,1.0437303876742998
+3149,P131,What territorial area is [MASK] a part of?,1,0.8895465549014541,1.053643810272716
+3150,P131,What territorial area is [MASK] set in?,1,,1.0802950295410494
+3189,P131,What type of governing entity is [MASK] located in?,1,,0.9506911586940195
+3191,P131,What type of governmental jurisdiction encompasses [MASK]?,1,0.9042256943071754,0.9042256943071755
+3274,P131,Where is [MASK] placed in a governmental framework?,1,,0.8851266564297566
+3245,P131,Where is [MASK] in terms of its administrative designation?,1,,1.2034488197604782
+3463,P131,Within what administrative entity is [MASK] placed?,1,0.9054575460370223,1.0889475842865124
+3464,P131,Within what administrative entity is the [MASK] found?,1,0.8931126562611883,1.0742301354723165
+3249,P131,Where is [MASK] located from an administrative viewpoint?,1,,1.0435975756108538
+3248,P131,Where is [MASK] located from an administrative standpoint?,1,0.9908368243840134,1.2422207524243174
+3247,P131,Where is [MASK] located as far as administration is concerned?,1,,1.1263296295359435
+3465,P131,Within what administrative region is the [MASK] based?,1,0.9189882060379876,1.04071174161162
+3243,P131,Where is [MASK] found within administrative boundaries?,1,,1.1456754916507323
+3193,P131,Where can [MASK] be found in an administrative sense?,1,1.130992998116607,1.1223063901204655
+3242,P131,Where is [MASK] found in terms of government oversight?,1,,0.9118763109122819
+3241,P131,Where is [MASK] found in terms of administrative territories?,1,,0.8732999042739241
+3240,P131,Where is [MASK] established geographically?,1,,0.9607344580193103
+3236,P131,Where in the structure of administrative territories can [MASK] be found?,1,,0.879833847314871
+3235,P131,Where in the administrative setup is the [MASK] found?,1,0.876043958834256,0.8760439588342542
+3232,P131,Where exactly is [MASK] situated in terms of governmental organization?,1,,0.8773381581663494
+3252,P131,Where is [MASK] located in terms of a territorial entity?,1,,0.906450064821894
+3461,P131,Within what administrative division is the [MASK] situated?,1,0.8907892586586387,0.9868982907912048
+3254,P131,Where is [MASK] located in terms of administrative areas?,1,,0.914752812761943
+3255,P131,Where is [MASK] located in terms of administrative authority?,1,,1.058032603861017
+3256,P131,Where is [MASK] located in terms of administrative boundaries?,1,,1.033384106350535
+3259,P131,Where is [MASK] located in terms of administrative territorial entity?,1,,1.0190550701686478
+3260,P131,Where is [MASK] located in terms of administrative territory?,1,0.9021556580436403,1.1114500119889597
+3261,P131,Where is [MASK] located in terms of geography?,1,,0.9978928831942726
+3263,P131,Where is [MASK] located in terms of its relationship to a particular governmental entity?,1,,0.964919983426567
+3460,P131,Within what administrative division is the [MASK] positioned?,1,,0.8946020411788926
+3267,P131,Where is [MASK] located on the administrative level?,1,,0.8727242912239078
+3268,P131,Where is [MASK] located politically?,1,0.966303836924808,0.966303836924808
+3459,P131,Within what administrative area is the [MASK] in?,1,,0.96651922388814
+3270,P131,Where is [MASK] located within an administrative territory?,1,1.3296407973669353,0.9078322653599662
+3271,P131,Where is [MASK] located within its administrative boundaries?,1,,1.0394211793698485
+3458,P131,Within what administrative area is [MASK] located?,1,,0.9107143810762477
+3272,P131,Where is [MASK] officially situated?,1,0.9117383328054681,0.9117383328054659
+3231,P131,Where does the [MASK] reside in terms of administrative boundaries?,1,,0.9265230871070042
+3230,P131,Where does the [MASK] fit within the administrative structure?,1,,0.9207264073599043
+3229,P131,Where does the [MASK] fall in terms of government oversight?,1,0.8802379504389773,0.880237950438977
+3210,P131,Where does [MASK] fall under in terms of administrative territorial entity?,1,,1.029181832596809
+3194,P131,Where can [MASK] be found in terms of administration?,1,0.9070468592175974,0.9070468592175974
+3195,P131,Where can [MASK] be found in terms of government jurisdictions?,1,0.94177776228629,0.9574581898815805
+3196,P131,Where can [MASK] be found?,1,,0.9952201021139406
+3197,P131,Where can the [MASK] be found within the governmental system?,1,,1.0390177290582172
+3198,P131,Where did the [MASK] take place?,1,,0.9504520551558818
+3200,P131,Where does [MASK] fall in terms of administrational jurisdiction?,1,1.2152186181681417,0.9009560758697519
+3468,P131,Within what governance structure is [MASK] situated?,1,0.923039063994574,1.0046814631161545
+3202,P131,Where does [MASK] fall in terms of government jurisdiction?,1,,0.9251886606419165
+3203,P131,Where does [MASK] fall in terms of its governing jurisdiction?,1,0.9132373844062969,0.913237384406295
+3204,P131,Where does [MASK] fall in terms of political jurisdiction?,1,0.8886647485033483,1.0885475002088731
+3205,P131,Where does [MASK] fall under administratively?,1,0.8958956807847369,0.8958956807847365
+3206,P131,Where does [MASK] fall under in terms of administration?,1,0.8829926070118961,0.8829926070118961
+3208,P131,Where does [MASK] fall under in terms of administrative domain?,1,,0.9738380555317634
+3209,P131,Where does [MASK] fall under in terms of administrative regions?,1,0.9275789726304717,1.1002149637657284
+3211,P131,Where does [MASK] fall within a governmental organization?,1,0.8945700972210806,0.8945700972210806
+3228,P131,Where does the [MASK] fall in terms of administrative area?,1,1.1835107160955498,0.9811619112316148
+3212,P131,Where does [MASK] fall within the political hierarchy?,1,,0.9019536335561803
+3213,P131,Where does [MASK] fit in terms of administrative structures?,1,0.8870137602095371,0.8870137602095374
+3214,P131,Where does [MASK] fit in terms of government organization?,1,0.9200027570129543,1.0682476540304051
+3215,P131,Where does [MASK] fit into the local government framework?,1,0.8684893693262997,0.8684893693262997
+3216,P131,Where does [MASK] have its campus?,1,,0.9925934767758581
+3219,P131,Where does [MASK] lie in terms of its political boundaries?,1,0.8665052438107328,0.8665052438107329
+3220,P131,Where does [MASK] operate?,1,,0.9187781938362799
+3221,P131,Where does [MASK] reside?,1,,0.9463801787931434
+3222,P131,Where does [MASK] rest in the administrative hierarchy?,1,,1.213908628954767
+3224,P131,Where does the [MASK] belong in terms of administrative areas?,1,0.8910114196266437,0.9851478721743628
+3467,P131,Within what governance area is [MASK] situated?,1,0.9126887624536695,0.9934351601889145
+3225,P131,Where does the [MASK] belong in terms of an administrative region?,1,0.8982828169077897,1.0169128796395404
+3226,P131,Where does the [MASK] exist in terms of administrative territories?,1,,0.9106080462578937
+3227,P131,Where does the [MASK] exist?,1,,1.0256840784606833
+3285,P131,Where is [MASK] situated in a territorial framework?,1,0.8907780109255837,0.9931411748840163
+2553,P131,What governing division houses the [MASK]?,1,0.8698679606475685,0.8698679606475673
+2790,P131,What is the governing area [MASK] is in?,1,0.9003840724317328,0.9837170880233794
+2189,P131,In which governmental division can one find the [MASK]?,1,,0.9383838414729224
+2167,P131,In which government agency is the Seattle National Archives based?,1,,0.8842238152907274
+2168,P131,In which government area is [MASK] based?,1,,1.033564810227882
+2169,P131,In which government body is [MASK] situated?,1,,0.9662538130111946
+2170,P131,In which government entity is [MASK] positioned?,1,,0.9106728445097337
+2172,P131,In which government subdivision is [MASK] established?,1,0.8919290024051685,0.8919290024051688
+2174,P131,In which government-administered district is [MASK] situated?,1,0.880635550339641,0.9220272338759918
+2175,P131,In which government-controlled area can the [MASK] be found?,1,0.8733018640264704,0.87330186402647
+2176,P131,In which government-controlled area does [MASK] rest?,1,0.9153898152927911,0.9153898152927906
+2179,P131,In which government-divided region is [MASK] located?,1,,0.9366067496222934
+2180,P131,In which government-regulated area can [MASK] be found?,1,0.8953274230594974,0.8953274230594974
+2181,P131,In which government-run geographical area is the [MASK] located?,1,,1.1291822881440015
+2184,P131,In which governmental area can one find the [MASK]?,1,0.9196936702851841,0.9196936702851839
+2185,P131,In which governmental area is [MASK] located?,1,,0.9243381994180021
+2187,P131,In which governmental body does [MASK] belong?,1,,1.05064705726454
+2190,P131,In which governmental division does [MASK] belong?,1,0.8796513922419856,0.8796513922419851
+2165,P131,In which governing subdivision is [MASK] situated?,1,0.8978291328289173,0.9772417246299461
+2191,P131,In which governmental division does [MASK] exist?,1,,0.9222622204678833
+2192,P131,In which governmental division does [MASK] reside?,1,0.9050104258822776,1.062302826258745
+2196,P131,In which governmental entity is [MASK] found?,1,,1.1218172709500955
+2198,P131,In which governmental jurisdiction can the [MASK] be found?,1,0.9395654132057666,0.9931266883428397
+2200,P131,In which governmental jurisdiction is the Leopoldina German Academy of Sciences based?,1,,1.095477485828548
+2202,P131,In which governmental jurisdiction is the [MASK] placed?,1,0.9333132605821188,1.1721629829101303
+2205,P131,In which governmental organization is the National Archives of Seattle located?,1,,1.1109822003903402
+2206,P131,In which governmental region does [MASK] exist?,1,,1.0466931833352988
+2207,P131,In which governmental region does the [MASK] reside?,1,,1.2394668014198649
+2210,P131,In which governmental sector is [MASK] located?,1,,0.9105795490929943
+2212,P131,In which governmental subdivision is the [MASK] positioned?,1,,0.9120850936686254
+2213,P131,In which governmental subregion is [MASK] placed?,1,,0.8930117133365989
+2214,P131,In which governmental unit can the [MASK] be found?,1,0.8968430793528298,0.8968430793528283
+2222,P131,In which jurisdictional region is [MASK] placed?,1,,1.1111388943292722
+2166,P131,In which government administrative area is [MASK] situated?,1,,1.1116744171073027
+2164,P131,In which governing subdivision is [MASK] placed?,1,,0.9006932577838361
+2330,P131,To which area does [MASK] belong administratively?,1,,0.8916045239637402
+2142,P131,In which geographic region does [MASK] lie?,1,,1.1324495303970137
+2121,P131,In which administrative territory is [MASK] based?,1,4.639053064811374,1.0306527937455077
+2122,P131,In which administrative territory is [MASK] established?,1,0.9100530701524099,1.0044924540546025
+2124,P131,In which administrative territory is the [MASK] positioned?,1,1.035619632612571,1.035619632612571
+2125,P131,In which administrative unit is [MASK] based?,1,0.8946872828554047,0.8946872828554049
+2127,P131,In which administrative unit is [MASK] situated?,1,,0.8435260292272824
+2128,P131,In which administrative unit is the [MASK] established?,1,0.9116098908986441,1.1752061061556358
+2129,P131,In which administrative zone is [MASK] situated?,1,,0.9929085187178713
+2132,P131,In which authority does [MASK] lie?,1,0.9089439758153447,0.9089439758153447
+2133,P131,In which bureaucratic section is [MASK] located?,1,0.8743782416480731,0.874378241648073
+2134,P131,In which bureaucratic territorial division is [MASK] found?,1,,0.982237170280969
+2135,P131,In which city or region is the [MASK] situated?,1,,0.9117274987846552
+2137,P131,In which country does [MASK] lie?,1,,0.9486493259144245
+2138,P131,In which designated government area is the [MASK] located?,1,,1.0903071624713918
+2140,P131,In which form of territorial government is [MASK] situated?,1,0.8736251912287628,0.8736251912287595
+2143,P131,In which geographical area does [MASK] reside?,1,1.043688558969103,1.043688558969103
+2163,P131,In which governing settlement does [MASK] reside?,1,1.0942373896815696,1.0942373896815696
+2144,P131,In which geographical jurisdiction is [MASK] situated?,1,,0.9048614389080065
+2145,P131,In which governing administrative unit is [MASK] positioned?,1,0.8981233000501072,1.0721407307826878
+2146,P131,In which governing area can [MASK] be found?,1,0.8940869399505759,1.0340021360441816
+2147,P131,In which governing area does the [MASK] have a presence?,1,0.9050319976500543,0.9730335852246568
+2151,P131,In which governing body is the city of [MASK] situated?,1,,0.8839033444815073
+2152,P131,In which governing district does [MASK] reside?,1,1.3894597928377683,1.0754822312673769
+2153,P131,In which governing district is [MASK] positioned?,1,,1.0465896345639978
+2154,P131,In which governing division is [MASK] found?,1,,0.8911317744643061
+2155,P131,In which governing entity is [MASK] located?,1,,0.9996707342579942
+2156,P131,In which governing entity is [MASK] placed?,1,,1.212257260433623
+2157,P131,In which governing entity is the [MASK] situated?,1,0.9055811704573731,1.003846184055557
+2159,P131,In which governing jurisdiction is the Mexican city of [MASK] situated?,1,,1.0164793219505954
+2160,P131,In which governing region can you find [MASK]?,1,,1.012013841731004
+2162,P131,In which governing region is [MASK] to be found?,1,1.0191671533282,0.9683700079434691
+2223,P131,In which larger-scale division is [MASK] situated?,1,,1.0808736174682212
+2224,P131,In which local authority is [MASK] located?,1,,0.8725166455823976
+2225,P131,In which local authority is the [MASK] found?,1,,0.8956618188643295
+2293,P131,In which territory does [MASK] exist?,1,,1.0791196973619943
+2276,P131,In which territorial authority is [MASK] positioned?,1,,1.1657431546854253
+2277,P131,In which territorial division is [MASK] located?,1,,0.8923701433830298
+2279,P131,In which territorial division is the [MASK] found?,1,0.902693970703214,1.0116253685424077
+2280,P131,In which territorial domain is the [MASK] based?,1,0.9096672653416623,0.9927103930319615
+2281,P131,In which territorial entity does [MASK] fall?,1,,1.11312088884965
+2282,P131,In which territorial entity is [MASK] found?,1,,0.9032198543990796
+2283,P131,In which territorial entity is [MASK] located?,1,0.9325918033973724,0.9325918033973648
+2284,P131,In which territorial entity is [MASK] placed?,1,,0.9551460469051404
+2287,P131,In which territorial jurisdiction is [MASK] located?,1,1.5803192650754696,0.9229401950755706
+2288,P131,In which territorial region is [MASK] located?,1,0.9195928427266881,0.9195928427266866
+2289,P131,In which territorial structure is [MASK] placed?,1,,1.094638477079083
+2290,P131,"In which territorial unit, as determined by the state, does the [MASK] lie?",1,0.9289140415078575,1.0555724551817585
+2291,P131,In which territorially based administrative entity is [MASK] found?,1,,0.9667017473503271
+2292,P131,In which territorially based domain is [MASK] situated?,1,,0.8893762464939864
+2295,P131,In which type of entity is [MASK] found?,1,0.9013794396397867,0.9013794396397867
+2226,P131,In which local government area is [MASK] situated?,1,0.8801369370791057,0.8801369370791005
+2296,P131,In which zoning area is [MASK] found?,1,,1.0856983231227264
+2297,P131,Inside what jurisdiction is [MASK] located?,1,0.9590180430851875,0.9836299465984739
+2298,P131,Inside which local authority does [MASK] exist?,1,0.929634977462757,0.9880354356326466
+2299,P131,Into what governing authority does [MASK] belong?,1,,1.1135067532514171
+2301,P131,Into which administrative area is [MASK] placed?,1,,0.8954601257837973
+2302,P131,Into which administrative body does [MASK] fall?,1,0.9164811385974382,0.9164811385974365
+2305,P131,Into which political subdivision does [MASK] fall?,1,,1.025713473796797
+2306,P131,Into which regulatory entity does [MASK] fit?,1,0.9294059162203249,1.2269531406688863
+2314,P131,To what governing unit does the [MASK] belong?,1,,0.899737092937712
+2318,P131,To what political body does [MASK] belong?,1,,0.9255726441791
+2319,P131,To what political entity does [MASK] belong?,1,0.8984338233104103,0.8984338233104089
+2320,P131,To what territorial entity does [MASK] belong?,1,,0.940386549087091
+2324,P131,To which administrative division does [MASK] belong?,1,,0.8655548826124113
+2325,P131,To which administrative domain does [MASK] belong?,1,0.908786929811182,0.908786929811182
+2275,P131,In which territorial authority is [MASK] placed?,1,0.9611975244932803,1.348194422833382
+2274,P131,In which territorial authority does [MASK] reside?,1,0.8890551525445883,0.8890551525445883
+2273,P131,In which territorial area is [MASK] located?,1,0.92677497526758,1.0245586435864797
+2272,P131,In which subdivisional unit is [MASK] set?,1,,1.049296328739419
+2227,P131,In which local region can the [MASK] be found?,1,1.4717323459014982,0.9250100812277515
+2228,P131,In which municipal territory is [MASK] located?,1,1.1183309007942082,1.1183309007942082
+2229,P131,In which official sector is [MASK] located?,1,,1.0627919654194975
+2231,P131,In which official territorial unit does [MASK] reside?,1,,1.050692426471004
+2232,P131,In which part of the government does the [MASK] belong?,1,,0.9098345834723905
+2233,P131,In which political area does [MASK] fall?,1,0.9137909433397932,1.0004445261147146
+2234,P131,In which political area does [MASK] reside?,1,0.9378111849939748,1.066179919934536
+2235,P131,In which political area is [MASK] located?,1,1.0107370995812437,1.0107370995812437
+2236,P131,In which political area is [MASK] placed?,1,,1.0015073823205882
+2237,P131,In which political area is [MASK] situated?,1,0.8704093253947938,0.8704093253947932
+2238,P131,In which political authority is [MASK] placed?,1,,1.1276878132142758
+2240,P131,In which political division is [MASK] located?,1,0.9557359622418272,0.9925793248913357
+2241,P131,In which political entity is [MASK] based?,1,0.9269104466630227,1.1544293913096662
+2242,P131,In which political entity is [MASK] found?,1,,1.0430108003747298
+2243,P131,In which political entity is [MASK] situated?,1,2.018015798135304,0.9822993909179599
+2249,P131,In which political organization is [MASK] included?,1,1.1581102551117288,0.9322725496793405
+2250,P131,In which political region does the [MASK] reside?,1,,0.914330513328112
+2251,P131,In which political region is [MASK] settled?,1,0.9079257519068635,0.9598545327080421
+2252,P131,In which political subdivision is [MASK] based?,1,,1.1229519523353542
+2255,P131,In which political subdivision of Australia is [MASK] located?,1,0.8640980174717953,0.8640980174717953
+2256,P131,In which political territory can [MASK] be found?,1,1.5264404448700835,1.1807131342974042
+2257,P131,In which political territory is [MASK] situated?,1,,0.9452152709102891
+2260,P131,In which public authority's territory is [MASK] located?,1,,1.0998621706689895
+2261,P131,In which public jurisdiction is [MASK] located?,1,,1.0680339717519531
+2262,P131,In which region is [MASK] officially recognized?,1,1.3879719078497728,0.9353497978885159
+2265,P131,In which regional body is [MASK] included?,1,,1.043300804412502
+2266,P131,In which regional division is the [MASK] found?,1,,0.8863889544600039
+2267,P131,In which ruling jurisdiction is [MASK] found?,1,,0.9088567790437615
+2268,P131,In which state is [MASK] positioned?,1,0.8979792239720061,1.0026667200434918
+2120,P131,In which administrative territory does the [MASK] exist?,1,,1.0743479662221658
+2119,P131,In which administrative territorial structure is [MASK] included?,1,,0.9502476588113585
+2118,P131,In which administrative territorial entity does [MASK] rest?,1,,0.8501136124854997
+1953,P131,In what government-defined area is [MASK] found?,1,,1.0005615393062046
+1932,P131,In what city is [MASK] situated?,1,1.143195570636112,1.143195570636112
+1933,P131,In what civil district is [MASK] found?,1,,0.9665487055524826
+1935,P131,In what geographical area is [MASK] located?,1,1.0847082456858714,1.0124227085677184
+1936,P131,In what geographical subdivision is the [MASK] situated?,1,0.8934435579540788,1.057523691044481
+1937,P131,In what governing authority is [MASK] situated?,1,0.9041723961949879,0.9041723961949821
+1938,P131,In what governing body does [MASK] have a presence?,1,0.9189349069556797,0.9189349069556793
+1940,P131,In what governing district is [MASK] located?,1,0.9896662281520016,0.9896662281520016
+1941,P131,In what governing domain is the [MASK] found?,1,0.8978312869935532,1.0074194543866288
+1943,P131,In what governing region is the [MASK] based?,1,0.9270289076078287,1.071485029523373
+1944,P131,In what governing subdivision is [MASK] based?,1,0.8845634638592643,0.8845634638592641
+1948,P131,In what government organization is [MASK] situated?,1,1.0879878986959681,1.0032381670813615
+1949,P131,In what government region can [MASK] be found?,1,1.0686411503337665,1.0686411503337665
+1951,P131,In what government subdivision is [MASK] found?,1,0.8947295204615875,0.8947295204615875
+1952,P131,In what government-controlled geographic region is the [MASK] situated?,1,1.3225100873833817,1.0352601082179576
+1954,P131,In what government-recognized area is the [MASK] situated?,1,1.2689881239916574,0.9763010508385825
+1992,P131,In what hierarchy of authority is [MASK] situated?,1,,0.8954793901547252
+1955,P131,In what government-regulated area is [MASK] located?,1,0.8969667326761668,0.9879368371130604
+1956,P131,In what government-regulated region is the [MASK] situated?,1,,0.8916529328728321
+1957,P131,In what government-run territory is the [MASK] situated?,1,,1.1377096245841838
+1959,P131,In what governmental area does [MASK] lie?,1,0.8940260206131497,1.085872234192599
+1960,P131,In what governmental area does [MASK] reside?,1,,1.038632931694488
+1962,P131,In what governmental area is the [MASK] positioned?,1,1.4731611262298563,1.0256118416534927
+1965,P131,In what governmental division can the [MASK] be found?,1,,0.8938111964173856
+1971,P131,In what governmental domain is [MASK] located?,1,0.90115078384784,0.9011507838478341
+1973,P131,In what governmental entity is the [MASK] placed?,1,0.9048687003269564,0.9048687003269531
+1978,P131,In what governmental precinct is [MASK] located?,1,,0.9208646233420865
+1979,P131,In what governmental region can the [MASK] be found?,1,0.9420234660799491,0.9580813371237158
+1980,P131,In what governmental region does the [MASK] exist?,1,0.95536274392835,1.0658664837848655
+1988,P131,In what governmental subdivision can one find the [MASK]?,1,,0.8989871966806957
+1989,P131,In what governmental territory does [MASK] reside?,1,0.9447194814001462,1.086928460086131
+1931,P131,In what bureaucratic unit is [MASK] held?,1,,0.8770369600565419
+1929,P131,In what authoritative region is [MASK] based?,1,,1.070393289438551
+1928,P131,In what authoritative jurisdiction is [MASK] situated?,1,,1.0867820305468914
+1926,P131,In what area is [MASK] situated administratively?,1,,0.8906785786621819
+1865,P131,How is [MASK] classified in the administrative system?,1,0.9270196342504188,0.9270196342504192
+1866,P131,In what administrative area can the [MASK] be found?,1,,0.9153470670515521
+1867,P131,In what administrative area is [MASK] established?,1,0.9214024523433286,1.1091975049043112
+1871,P131,In what administrative arrangement does [MASK] exist?,1,,0.8898388189661445
+1873,P131,In what administrative body does the [MASK] exist?,1,0.8553425397080917,0.8553425397080919
+1874,P131,In what administrative body is [MASK] contained?,1,0.9839030075406103,0.9839030075406103
+1876,P131,In what administrative body is the [MASK] found?,1,,1.0770466229504563
+1877,P131,In what administrative body is the [MASK] located?,1,0.9171092225572867,1.1100537081795019
+1878,P131,In what administrative boundary does the [MASK] lie?,1,,1.1244284020449433
+1879,P131,In what administrative boundary is [MASK] included?,1,1.057291655882684,1.057291655882684
+1880,P131,In what administrative boundary is [MASK] located?,1,1.2961072944971592,0.988307927295482
+1882,P131,In what administrative category is [MASK] classified?,1,,0.9040341301906758
+1883,P131,In what administrative compartment is [MASK] located?,1,0.905822285220963,0.9058222852209606
+1884,P131,In what administrative district does [MASK] reside?,1,0.9090578571464318,1.0367089861215741
+1885,P131,In what administrative district is Kozhikode located?,1,,1.1170785526092106
+1888,P131,In what administrative division can [MASK] be found?,1,1.0000167539388984,1.0457652449958394
+1894,P131,In what administrative domain is [MASK] placed?,1,,1.00390146821096
+1896,P131,In what administrative domain is the [MASK] found?,1,,0.900620399404975
+1902,P131,In what administrative locality does [MASK] reside?,1,1.2306195181757273,1.163479416686163
+1903,P131,In what administrative location is [MASK] situated?,1,,0.9088885367003527
+1904,P131,In what administrative neighborhood is the [MASK] situated?,1,0.8897315075651349,0.8897315075651342
+1905,P131,In what administrative partition does [MASK] exist?,1,,1.099365875364327
+1910,P131,In what administrative region is the National Archives in Seattle located?,1,,0.8915061235243281
+1911,P131,In what administrative region is the [MASK] positioned?,1,0.8865126752543094,1.1210763406075475
+1912,P131,In what administrative segment is [MASK] situated?,1,0.8635436879740942,0.9459949947019631
+1918,P131,In what administrative territory does the [MASK] lie?,1,2.3964466075799664,1.01876158235024
+1919,P131,In what administrative unit is [MASK] present?,1,0.8421757476399918,0.8421757476399918
+1922,P131,In what administrative zone can [MASK] be found?,1,,0.9176393881722857
+1923,P131,In what area does [MASK] fall?,1,0.9174565986456503,0.9174565986456499
+1991,P131,In what governmentally defined region is [MASK] located?,1,,1.1298251031399114
+1993,P131,In what jurisdiction is [MASK] based?,1,,1.2024925623930682
+2117,P131,In which administrative territorial division is [MASK]?,1,,1.008493003143303
+2077,P131,In which administrative body is [MASK] a part of?,1,0.8632838266287122,0.8632838266287126
+2057,P131,In what territorial segment is [MASK] located?,1,0.8895559424849362,1.0063785278363029
+2061,P131,In what type of administration is [MASK] located?,1,0.9162965989999586,0.9162965989999449
+2063,P131,In what type of administrative territory is [MASK] located?,1,,0.8980151543572195
+2064,P131,In what type of authority is the [MASK] based?,1,,0.9970088724241594
+2065,P131,In what type of government-defined area is [MASK] situated?,1,,0.9077858091824678
+2066,P131,In what type of governmental region can [MASK] be found?,1,,0.9292682570426853
+2067,P131,In what type of territorial division is [MASK] located?,1,0.9008994938081231,0.9008994938081163
+2068,P131,In what unit of government administration is [MASK] located?,1,,1.0339440368425166
+2069,P131,In which administrative area can [MASK] be found?,1,,1.0513306696803766
+2072,P131,In which administrative area does the [MASK] locate?,1,,0.9068299796889263
+2073,P131,In which administrative area is [MASK] based?,1,1.0593526992438405,1.0476250005863934
+2074,P131,In which administrative area is [MASK] positioned?,1,0.8948790762108714,0.8948790762108695
+2075,P131,In which administrative authority is [MASK] found?,1,1.041487850286418,1.041487850286418
+2076,P131,In which administrative authority is [MASK] situated?,1,0.8869251361530388,1.0029259448067542
+2078,P131,In which administrative body is the Seattle National Archives housed?,1,,0.8813280535684884
+1996,P131,In what jurisdictional area is [MASK] placed?,1,1.1542361048282244,1.1542361048282244
+2079,P131,In which administrative body is the [MASK] based?,1,,1.0270194990479036
+2080,P131,In which administrative boundary does [MASK] rest?,1,,0.8970137143402249
+2083,P131,In which administrative district does the [MASK] situate?,1,0.9202655010460796,0.9202655010460793
+2085,P131,In which administrative district is [MASK] located?,1,,0.999955654902181
+2090,P131,In which administrative division is [MASK] to be found?,1,0.8901308684522253,0.9566583552075987
+2092,P131,In which administrative division was the [MASK] held?,1,,1.028222689537977
+2096,P131,In which administrative entity is [MASK] housed?,1,,1.0059883554386864
+2097,P131,In which administrative entity is [MASK] positioned?,1,,0.8486259785819259
+2100,P131,In which administrative jurisdiction does the [MASK] reside?,1,,1.0154435648168965
+2103,P131,In which administrative jurisdiction is [MASK] placed?,1,,0.9808270888157107
+2105,P131,In which administrative locale is [MASK] placed?,1,,1.0809017185437702
+2113,P131,In which administrative structure can [MASK] be found?,1,,0.8905923464393881
+2114,P131,In which administrative subdivision is [MASK] found?,1,0.8942081832544093,1.0108714736755087
+2116,P131,In which administrative subdivision is the [MASK] situated?,1,,0.9981466870570384
+2055,P131,In what territorial region does the [MASK] exist?,1,1.0322005764775055,1.1347246084401985
+2053,P131,In what territorial entity of administration is [MASK] located?,1,0.958642296499781,0.958642296499781
+2049,P131,In what territorial entity is [MASK] found?,1,,0.8911820485727097
+2048,P131,In what territorial entity does [MASK] lie?,1,0.9607887425960391,1.2873511803635518
+1999,P131,In what jurisdictional realm is [MASK] situated?,1,1.6160858455121418,0.9267238113646805
+2000,P131,In what legal framework is the [MASK] placed?,1,0.8588546620409965,0.8588546620409954
+2001,P131,In what legal jurisdiction is [MASK] included?,1,,0.9403489733649356
+2002,P131,In what local authority is [MASK] situated?,1,,0.923446465740576
+2003,P131,In what local authority is the [MASK] located?,1,1.299665451307738,1.424233515097077
+2007,P131,In what localized authority is [MASK] based?,1,,0.928774897638153
+2010,P131,In what official region is [MASK] located?,1,1.0682375068746353,1.0682375068746353
+2013,P131,In what part of the administrative geography is [MASK] located?,1,0.993179177619843,1.0940983414136718
+2014,P131,In what part of the government is the [MASK] located?,1,0.8562900402727631,1.0178423774245544
+2015,P131,In what part of the state is [MASK] placed?,1,1.0509004364838546,1.0509004364838546
+2016,P131,In what political and administrative region is the [MASK] situated?,1,1.4466999494547246,0.9947319274535309
+2017,P131,In what political area can you find the [MASK]?,1,,0.9916164871316987
+2019,P131,In what political body does [MASK] fall?,1,0.989799667749511,0.989799667749511
+2020,P131,In what political boundaries is [MASK] situated?,1,3.112964102120419,1.0020706011557294
+2023,P131,In what political jurisdiction can the [MASK] be found?,1,,0.9749157538139875
+2024,P131,In what political jurisdiction is [MASK] situated?,1,0.9517731491272824,1.2018797555811744
+2027,P131,In what political region is [MASK] contained?,1,,0.9164608552280858
+2028,P131,In what political region is [MASK] located?,1,1.0694726446788492,1.0694726446788492
+2029,P131,In what political structure is [MASK] included?,1,,0.9077060737334809
+2030,P131,In what political subdivision can the [MASK] be found?,1,,0.8980594288823319
+2034,P131,In what political unit is [MASK] located?,1,,1.3161390360503833
+2036,P131,In what public administrative body is the [MASK] housed?,1,,1.078534514839434
+2040,P131,In what sector of government is [MASK] situated?,1,0.8998974691255067,0.8998974691254993
+2041,P131,In what sovereign region is [MASK] contained?,1,0.9305452235827425,0.93054522358274
+2042,P131,In what state or province is [MASK] located?,1,,0.9008427506336625
+2043,P131,In what territorial administrative unit is [MASK] based?,1,0.8698403500973507,1.0065571602494379
+2044,P131,In what territorial area is [MASK] situated?,1,1.0385815558744529,1.0385815558744529
+2046,P131,In what territorial body does [MASK] reside?,1,,0.9253817451122563
+2047,P131,In what territorial entity can [MASK] be found?,1,0.9609844307054439,1.0649959290750146
+2326,P131,To which administrative organization does [MASK] belong?,1,0.9893352057786149,0.9893352057786149
+2332,P131,To which authority does [MASK] report?,1,0.9200265044448245,0.9711437326572218
+2789,P131,What is the governance region that the [MASK] is a part of?,1,,0.8692123538738684
+2639,P131,What governmental region holds [MASK]?,1,1.1849389494710076,0.9547225514248376
+2616,P131,What governmental division is [MASK] placed in?,1,0.8725022808299445,0.8725022808299413
+2618,P131,What governmental division is the site of the [MASK]?,1,,1.0201705918290882
+2621,P131,What governmental entity governs the area where the [MASK] is found?,1,,1.0463693981267022
+2622,P131,What governmental entity holds jurisdiction over [MASK]?,1,0.9056050467413752,0.9056050467413754
+2623,P131,What governmental entity includes [MASK]?,1,,0.9001013949414255
+2625,P131,What governmental jurisdiction does [MASK] belong to?,1,,1.0098775208272333
+2626,P131,What governmental jurisdiction does the [MASK] fall under?,1,0.8973684421368672,1.1261429128359022
+2627,P131,What governmental jurisdiction houses [MASK]?,1,0.9531099316025933,0.9531099316025935
+2632,P131,What governmental organisation controls [MASK]?,1,0.9027458582003114,0.9027458582003114
+2633,P131,What governmental organization oversees [MASK]?,1,0.8984251379601469,0.8984251379601449
+2635,P131,What governmental region does [MASK] belong to?,1,,0.9126449005755695
+2636,P131,What governmental region does [MASK] inhabit?,1,0.9008550153890768,1.0543088685919835
+2637,P131,What governmental region encompasses [MASK]?,1,1.0308422861086708,1.0308422861086708
+2638,P131,What governmental region has oversight of [MASK]?,1,,0.9649491552443052
+2640,P131,What governmental region includes [MASK]?,1,0.9314621270704212,1.1542682246387574
+2610,P131,What governmental division does [MASK] fall within?,1,,0.903640650874842
+2642,P131,What governmental region is [MASK] based in?,1,0.909683273865959,1.0255824330912862
+2643,P131,What governmental region is [MASK] housed in?,1,0.8858996206542917,1.018215207113919
+2646,P131,What governmental region is home to the [MASK]?,1,,1.0767917229116202
+2648,P131,What governmental region was the site of the [MASK]?,1,,0.9833876346161142
+2650,P131,What governmental subdivision is the [MASK] situated within?,1,,1.100127667828171
+2651,P131,What governmental territory encompasses the [MASK]?,1,,0.9951875529769536
+2652,P131,What governmental territory has [MASK] in its domain?,1,,1.081829832971674
+2655,P131,What governmental territory is [MASK] situated within?,1,,0.9095732506488563
+2656,P131,What governmental territory is the [MASK] situated in?,1,0.9198912994529653,1.0648429051331283
+2657,P131,What governmental unit contains [MASK]?,1,,0.9138520720390697
+2659,P131,What governmental unit covers [MASK]?,1,,0.9781378315366932
+2662,P131,What governmental unit houses the [MASK]?,1,,1.1184773859595991
+2664,P131,What higher-level jurisdiction is [MASK] a part of?,1,,0.9311253498938897
+2665,P131,What is [MASK]'s administrative localisation?,1,0.8912760236377852,0.8912760236377852
+2614,P131,What governmental division includes [MASK]?,1,0.9191902454133973,1.057616467019942
+2606,P131,What governmental district holds the [MASK]?,1,0.9525851267457196,0.9525851267457194
+2333,P131,To which governing body does the [MASK] belong?,1,0.8857168193900378,0.8857168193900273
+2583,P131,What government entity houses [MASK]?,1,,0.8465213636358089
+2560,P131,What governing entity is the [MASK] in?,1,0.8869771029270442,0.8869771029270426
+2562,P131,What governing jurisdiction includes [MASK]?,1,0.9056027655427004,0.9056027655426976
+2563,P131,What governing jurisdiction is [MASK] included in?,1,,1.095019098444245
+2564,P131,What governing jurisdiction is the [MASK] in?,1,,0.9331527862592655
+2567,P131,What governing region encompasses [MASK]?,1,0.9139304276165295,1.0390303354594648
+2568,P131,What governing region has [MASK] within its limits?,1,,0.9603160032391749
+2569,P131,What governing region includes [MASK]?,1,,0.899116317843271
+2572,P131,What governing region is the [MASK] positioned in?,1,0.9321071951504443,0.9321071951504426
+2573,P131,What governing structure holds jurisdiction over [MASK]?,1,0.9424255537164818,0.9424255537164822
+2574,P131,What governing territory houses the [MASK]?,1,,1.0088220302408224
+2575,P131,What governing tier has responsibility for [MASK]?,1,,0.9023579631868619
+2576,P131,What government area does [MASK] fall under?,1,0.9981997892320562,1.1274443302409092
+2577,P131,What government authority has jurisdiction over the [MASK]?,1,0.8820238275003123,0.8820238275003123
+2578,P131,What government body has jurisdiction over [MASK]?,1,0.9111250969706675,0.9111250969706652
+2584,P131,What government entity is the [MASK] situated in?,1,0.9054412604027939,1.076498064854314
+2605,P131,What governmental boundary is [MASK] within?,1,0.9263640587466316,0.9263640587466316
+2585,P131,What government jurisdiction holds [MASK]?,1,1.0132816740254085,0.9254928700245325
+2586,P131,What government region houses the [MASK]?,1,,1.1127716346886534
+2588,P131,What government unit is home to the [MASK]?,1,0.8913905686561305,0.9881157537723924
+2589,P131,What government-controlled region includes [MASK]?,1,,1.0524081628663524
+2590,P131,What government-rigid area does the [MASK] reside in?,1,0.8747461608356851,0.8747461608356792
+2591,P131,What governmental area has jurisdiction over [MASK]?,1,,1.1810022248277212
+2592,P131,What governmental area hosts the [MASK]?,1,,0.8910671359255823
+2597,P131,What governmental authority is [MASK] situated in?,1,0.8741491914072224,1.152110754050834
+2599,P131,What governmental body is [MASK] operating under?,1,,0.9130362940639292
+2600,P131,What governmental body is responsible for [MASK]?,1,0.882892021349758,0.8828920213497556
+2601,P131,What governmental body oversees the [MASK]?,1,0.8836982714635235,0.8836982714635224
+2602,P131,What governmental boundaries contain [MASK]?,1,,0.9101134309032279
+2603,P131,What governmental boundary contains [MASK]?,1,1.1423648773128632,1.0465235884024586
+2604,P131,What governmental boundary holds [MASK]?,1,,1.04886302010497
+2666,P131,What is [MASK]'s administrative region?,1,,0.9217813183733727
+2670,P131,What is the administrative area that [MASK] is in?,1,1.117767370576472,1.0687212224101592
+2675,P131,What is the administrative authority possessing [MASK]?,1,0.9048090565711728,0.9048090565711705
+2770,P131,What is the designation of the governing body of the [MASK]?,1,0.8698534770515431,0.8698534770515436
+2750,P131,What is the administrative territory that encompasses [MASK]?,1,,0.9125247276416221
+2755,P131,What is the administrative unit that has [MASK] within it?,1,,0.8998828295715138
+2756,P131,What is the administrative unit that holds [MASK]?,1,,0.9075674156096525
+2757,P131,What is the administrative unit that houses the Leopoldina German Academy of Sciences?,1,,0.8885457968554982
+2758,P131,What is the administrative unit that houses the [MASK]?,1,0.8854090315197917,0.8854090315197908
+2761,P131,What is the administrative zone of [MASK]?,1,2.0877623062532003,0.978667942446957
+2762,P131,What is the authoritative area containing [MASK]?,1,0.8745510949459951,0.8745510949459783
+2763,P131,What is the authoritative area encompassing [MASK]?,1,,0.903915792138107
+2764,P131,What is the authoritative entity that governs [MASK]?,1,0.8852408349110494,0.8852408349110507
+2765,P131,What is the authoritative region of [MASK]?,1,0.9255493143829803,0.9255493143829802
+2766,P131,What is the broader political context in which [MASK] is situated?,1,,0.9461428944566914
+2767,P131,What is the controlling division of the [MASK]?,1,,0.916575163238275
+2768,P131,What is the controlling jurisdiction of [MASK]?,1,0.9255236309225928,0.9255236309225915
+2769,P131,What is the designated region that [MASK] is a part of?,1,1.0043578053025677,0.8844318273220833
+2772,P131,What is the domicile of the [MASK]?,1,,0.9375023517824229
+2676,P131,What is the administrative body [MASK] belongs to?,1,,0.8634897702825799
+2773,P131,What is the encompassing administrative territorial entity of [MASK]?,1,0.8848145038075717,0.8848145038075521
+2774,P131,What is the geographic area in which [MASK] lies?,1,,0.8935023336423228
+2775,P131,What is the geographic area of responsibility for [MASK]?,1,,1.0905195155469092
+2776,P131,What is the geographic area where [MASK] is found?,1,1.14477324551973,1.14477324551973
+2777,P131,What is the geographic district of [MASK]?,1,,0.9358584606207387
+2778,P131,What is the geographic location of [MASK]?,1,0.9136447975115507,0.9136447975115513
+2779,P131,What is the geographic region [MASK] is based in?,1,0.9192382874736219,0.9504561112075328
+2780,P131,What is the geographic region in which [MASK] is located?,1,1.225374888008001,0.8864727437282306
+2781,P131,What is the geographic region of the [MASK]?,1,1.7035662850152093,1.071131667214954
+2782,P131,What is the geographic region where [MASK] is situated?,1,,0.9132985218272481
+2784,P131,What is the geographical area where [MASK] is located?,1,,0.8910348901305686
+2785,P131,What is the geographical area wherein the [MASK] is situated?,1,,0.9049478278766512
+2787,P131,What is the geographical region that houses the [MASK]?,1,,1.0354201253023438
+2788,P131,What is the governance district of the city of [MASK]?,1,0.9022272161589587,0.9022272161589587
+2749,P131,What is the administrative territory of the [MASK]?,1,1.4053521928658992,1.0637207584676718
+2748,P131,What is the administrative territory hosting [MASK]?,1,,1.0012482571032044
+2745,P131,What is the administrative territorial entity housing [MASK]?,1,,0.9922177061572609
+2744,P131,What is the administrative territorial entity containing [MASK]?,1,,0.9029423842438494
+2679,P131,What is the administrative body that [MASK] resides within?,1,,0.8992988987681155
+2680,P131,What is the administrative boundary encompassing the [MASK]?,1,0.9203373692542518,0.9203373692542509
+2681,P131,What is the administrative boundary that includes [MASK]?,1,0.9080859038382342,1.059544700598665
+2682,P131,What is the administrative boundary where [MASK] is situated?,1,0.9432234309430474,0.9432234309430466
+2683,P131,What is the administrative boundary which includes [MASK]?,1,,0.9620740230931425
+2684,P131,What is the administrative district containing [MASK]?,1,,1.1242427135849702
+2685,P131,What is the administrative district housing [MASK]?,1,0.8966031932344213,0.8966031932344192
+2687,P131,What is the administrative district in which the Seattle National Archives is situated?,1,,0.9226148474042125
+2695,P131,What is the administrative district that the [MASK] inhabits?,1,,1.0775107760586908
+2696,P131,What is the administrative district where [MASK] is situated?,1,,0.9753372252842436
+2697,P131,What is the administrative district where the [MASK] is found?,1,,1.1331022724433963
+2704,P131,What is the administrative division that the [MASK] belongs to?,1,,0.9320508205103605
+2705,P131,What is the administrative domain where [MASK] is located?,1,,1.1602798366533968
+2707,P131,What is the administrative entity in which [MASK] is enclosed?,1,,0.9904629372803414
+2714,P131,What is the administrative entity that [MASK] lies within?,1,1.1536832568911866,1.1531567024247558
+2717,P131,What is the administrative entity that is home to [MASK]?,1,0.9018078937363995,0.9018078937363998
+2718,P131,What is the administrative entity where [MASK] is located?,1,,0.9021917060196636
+2719,P131,What is the administrative environment of [MASK]?,1,,0.8653007764306117
+2720,P131,What is the administrative jurisdiction containing [MASK]?,1,0.938194497623449,0.9782278398208483
+2721,P131,What is the administrative jurisdiction in which the [MASK] is based?,1,0.8780291951394731,1.0058767637890635
+2722,P131,What is the administrative jurisdiction that [MASK] belongs to?,1,,1.1588462515473443
+2725,P131,What is the administrative place where the [MASK] is based?,1,4.94804800275212,0.9609156982623007
+2727,P131,What is the administrative region containing [MASK]?,1,0.9602516384009304,1.0711389014115957
+2731,P131,What is the administrative region in which the [MASK] resides?,1,1.4526832876218405,1.0433207007957195
+2732,P131,What is the administrative region that [MASK] belongs to?,1,1.0174065382384,1.0174065382384
+2734,P131,What is the administrative region that has the [MASK]?,1,1.0708395071537384,0.894722593148679
+2737,P131,What is the administrative region where [MASK] can be found?,1,,1.084805385032631
+2742,P131,What is the administrative subdivision that [MASK] resides in?,1,0.8790714854859911,0.8790714854859917
+2743,P131,What is the administrative subdivision that the [MASK] is located in?,1,,1.1048773219333423
+2559,P131,What governing entity is [MASK] within?,1,0.9070441461397326,1.067112954146611
+2558,P131,What governing entity holds control over [MASK]?,1,0.9373833442439693,0.9373833442439682
+2557,P131,What governing entity has the [MASK] in its jurisdiction?,1,0.8977032935424173,1.0640880379092577
+2406,P131,What administrative district is [MASK] positioned in?,1,,1.1201887875750702
+2376,P131,What administrative area has control of the [MASK]?,1,0.8977981499417186,0.8977981499417187
+2377,P131,What administrative area has the [MASK] in it?,1,,0.9087519881983153
+2380,P131,What administrative area is [MASK] contained in?,1,,1.0385110200715677
+2381,P131,What administrative area is [MASK] encompassed by?,1,,1.0708286648867265
+2387,P131,What administrative area was the venue for the [MASK]?,1,,1.0158457597583714
+2388,P131,What administrative authority governs [MASK]?,1,0.9052975092360304,1.0727122430896985
+2389,P131,What administrative body contains [MASK]?,1,0.8691754025074774,0.8691754025074621
+2390,P131,What administrative body encompasses the [MASK]?,1,,0.9446580235935043
+2391,P131,What administrative body has jurisdiction over the [MASK]?,1,0.8962909195977713,0.8962909195977586
+2395,P131,What administrative boundary contains the [MASK]?,1,0.9158931743146335,1.133764651535526
+2397,P131,What administrative boundary houses [MASK]?,1,,0.924418194929692
+2398,P131,What administrative category does [MASK] belong to?,1,0.9308105171668469,0.9308105171668469
+2400,P131,What administrative district holds the Leopoldina German Academy of Sciences?,1,,0.8902963531230647
+2404,P131,What administrative district includes [MASK]?,1,,0.8879792624011157
+2408,P131,What administrative district is home to [MASK]?,1,,1.1510739202509546
+2429,P131,What administrative entity has jurisdiction over [MASK]?,1,,0.8892437129607873
+2412,P131,What administrative division does [MASK] belong to?,1,0.9053153523102551,0.971234665471719
+2413,P131,What administrative division does [MASK] fall within?,1,,1.0268623098261294
+2414,P131,What administrative division does [MASK] reside in?,1,0.8955099376445342,0.8955099376445319
+2415,P131,What administrative division does the [MASK] call home?,1,,0.8604454259089142
+2416,P131,What administrative division encompasses [MASK]?,1,,1.0509608169140636
+2417,P131,What administrative division has [MASK] as part of it?,1,,0.9173538575559712
+2419,P131,What administrative division includes [MASK]?,1,,0.9040121034608147
+2420,P131,What administrative division is home to [MASK]?,1,,0.9209779470174596
+2421,P131,What administrative domain contains [MASK]?,1,,0.9356192952122879
+2422,P131,What administrative domain houses [MASK]?,1,0.8580307306525398,0.8580307306525354
+2423,P131,What administrative domain includes the [MASK]?,1,,0.8954712710574577
+2424,P131,What administrative domain is [MASK] a part of?,1,0.9014913211447274,1.1032305312265727
+2425,P131,What administrative domain is [MASK] positioned within?,1,,0.9068045932709198
+2426,P131,What administrative enclave contains [MASK]?,1,0.9356544583694834,0.9356544583694807
+2374,P131,What administrative area does [MASK] fall within?,1,0.894422327228803,1.1258591885260951
+2373,P131,What administrative area does [MASK] come under?,1,,1.0578768796770752
+2372,P131,What administrative area does [MASK] call home?,1,,1.1918723296794063
+2370,P131,What administration's jurisdiction includes the [MASK]?,1,,0.9091035015829289
+2334,P131,To which governing body is [MASK] subject?,1,0.9018209261377573,0.9018209261377541
+2335,P131,To which government-regulated area does [MASK] belong?,1,,1.041137611416567
+2336,P131,To which governmental region does [MASK] belong?,1,,0.904392816734657
+2337,P131,To which governmental sphere does [MASK] belong?,1,,1.082607285255662
+2338,P131,To which governmental subdivision does [MASK] belong?,1,,0.9159471610986741
+2339,P131,To which higher-level region does [MASK] belong?,1,,1.0506924000133817
+2340,P131,To which local governing area does [MASK] belong?,1,1.3052669449012617,1.1643401174028962
+2341,P131,To which local government does the [MASK] belong?,1,,0.9214158394744927
+2342,P131,To which municipal entity does [MASK] belong?,1,1.0046213352786408,1.0046213352786408
+2343,P131,To which official jurisdiction does [MASK] belong?,1,,1.104959729592152
+2345,P131,To which political entity does [MASK] belong?,1,,1.105268838254265
+2346,P131,To which political region does [MASK] belong?,1,0.9151637809916204,0.9151637809916195
+2348,P131,To which political unit does the [MASK] belong?,1,0.8947263093045263,0.8947263093045258
+2350,P131,To which territorial division does [MASK] belong?,1,,1.034489148474885
+2351,P131,To which territorial grouping does [MASK] belong?,1,0.914687501881273,0.9146875018812721
+2352,P131,To which territorial unit is [MASK] affiliated?,1,,1.020809487522921
+2354,P131,Under what government authority is the [MASK] situated?,1,,0.9022091660510625
+2355,P131,Under what jurisdiction is the [MASK] found?,1,,0.88737064532225
+2356,P131,Under what political entity is [MASK] situated?,1,,0.8947017793360799
+2357,P131,Under what regional governmental body is [MASK] found?,1,0.8799182756179292,1.0735837631457628
+2358,P131,Under which administrative district is the [MASK] located?,1,,0.9166276060892661
+2360,P131,Under which area of administration is [MASK] located?,1,,1.0402015325823288
+2361,P131,Under which authority lies [MASK]?,1,1.0967253889215212,1.0967253889215212
+2362,P131,Under which governing unit does [MASK] reside?,1,,1.0340727045317264
+2363,P131,Under which government division is the [MASK] classified?,1,0.8986834870572509,1.1453575740556363
+2364,P131,Under which governmental entity does the [MASK] fall?,1,0.9125698144082075,0.9125698144082055
+2366,P131,Under which governmental structure is [MASK] classified?,1,,0.8856820624801293
+2367,P131,Under which jurisdiction is [MASK] placed?,1,0.9113965782344847,0.9113965782344847
+2369,P131,Under which territorial authority does [MASK] fall?,1,,0.9046597400374645
+2428,P131,What administrative entity does the [MASK] lie within?,1,,1.3660337296815441
+2437,P131,What administrative entity is the [MASK] established in?,1,,0.9949302253715036
+2556,P131,What governing entity has [MASK] within its borders?,1,,1.051265322364543
+2531,P131,What governing area has [MASK] in it?,1,,1.0795912342087486
+2509,P131,What bureaucratic region is the [MASK] established in?,1,,1.2126611179178213
+2511,P131,What constituency is the [MASK] located in?,1,,0.9152010919430184
+2512,P131,What control region houses [MASK]?,1,1.5632372674740527,0.9906345289174125
+2513,P131,What district does the [MASK] belong to?,1,0.9166835144106191,0.9166835144106185
+2515,P131,What district is [MASK] placed in?,1,,1.0895712049234203
+2518,P131,What division of government is [MASK] in?,1,0.8849386750000435,1.0387425698458181
+2519,P131,What divisional entity contains [MASK]?,1,0.8800503653916343,0.8800503653916325
+2521,P131,"What federal, provincial, or municipal body has authority over the [MASK]?",1,,1.043680256814014
+2522,P131,What geo-political area is home to [MASK]?,1,,0.9340130321663838
+2525,P131,What geographical area is [MASK] situated in?,1,,0.866972908409035
+2526,P131,What geographical area is [MASK] within?,1,,0.9629570837096348
+2528,P131,What geographical region is [MASK] located in?,1,1.1623324203089493,1.1623324203089493
+2529,P131,What geography holds the [MASK]?,1,0.9072531197476688,0.9072531197476688
+2530,P131,What geopolitical region does [MASK] occupy?,1,0.9267425186846165,0.9267425186846152
+2532,P131,What governing area holds the [MASK]?,1,,1.1613664059335747
+2445,P131,What administrative locale harbors [MASK]?,1,,1.0922623428822993
+2533,P131,What governing area is [MASK] based in?,1,1.1579691663116578,1.1579691663116578
+2534,P131,What governing area is home to [MASK]?,1,0.9593449844862607,0.9593449844862607
+2537,P131,What governing authority oversees [MASK]?,1,0.9112340874816457,0.9112340874816455
+2538,P131,What governing body administers the [MASK]?,1,0.8824990835839688,0.8824990835839688
+2540,P131,What governing body has [MASK] within its borders?,1,,0.8943213364060817
+2541,P131,What governing body has control over [MASK]?,1,,0.9100569322878802
+2542,P131,What governing body has supervision over [MASK]?,1,,1.1376253468948492
+2544,P131,What governing body holds jurisdiction over the [MASK]?,1,0.892518879335187,1.2455224131699603
+2545,P131,What governing body houses the [MASK]?,1,,0.8812115767297741
+2546,P131,What governing body is [MASK] associated with?,1,,0.8956548353209456
+2551,P131,What governing body represents [MASK]?,1,0.910042183906847,1.2838861642912687
+2552,P131,What governing boundary houses [MASK]?,1,0.9123336298441772,0.9123336298441772
+2554,P131,What governing entity contains [MASK]?,1,1.2361577906882395,1.2361577906882395
+2555,P131,What governing entity covers [MASK]?,1,0.897906700338064,1.1882634921035773
+2508,P131,What authority is the [MASK] situated in?,1,0.8915661744219628,1.045780669215197
+2507,P131,What authority holds domain over [MASK]?,1,0.9089771148114546,0.9089771148114529
+2506,P131,What authority has dominion over [MASK]?,1,0.8828439295694739,0.882843929569474
+2505,P131,"What area, as defined by the government, is home to the [MASK]?",1,0.8745512662417089,0.8745512662417081
+2446,P131,What administrative locality houses [MASK]?,1,0.8985072022813597,1.0848067371144312
+2447,P131,What administrative locality includes [MASK]?,1,,1.0051381335161154
+2448,P131,What administrative part of the country houses the [MASK]?,1,0.8911829381042561,1.102393736336527
+2449,P131,What administrative precinct encompasses [MASK]?,1,,1.0961417679608552
+2450,P131,What administrative public body is [MASK] located in?,1,,0.9607992365079444
+2452,P131,What administrative region contained the [MASK]?,1,,1.0821632384077786
+2454,P131,What administrative region does [MASK] call home?,1,0.9793052724010844,0.9793052724010844
+2456,P131,What administrative region does [MASK] reside within?,1,,1.1042790124405022
+2458,P131,What administrative region encompasses [MASK]?,1,0.8731997812157585,0.8731997812157585
+2460,P131,What administrative region includes [MASK]?,1,0.929385958806378,0.9293859588063721
+2466,P131,What administrative region is the [MASK] located within?,1,0.9179727294967251,1.0078934702071816
+2468,P131,What administrative sector holds [MASK]?,1,0.8911032971206672,0.8911032971206666
+2470,P131,What administrative segment does [MASK] inhabit?,1,0.9278102596503157,1.1547512177904233
+2471,P131,What administrative structure does the [MASK] belong to?,1,,0.8545249766045887
+2472,P131,What administrative structure governs [MASK]?,1,,0.9014014032731547
+2474,P131,What administrative territorial entity contains [MASK]?,1,,1.0105398049787164
+2479,P131,What administrative territory is [MASK] positioned in?,1,1.1268769509857015,1.1268769509857015
+2480,P131,What administrative territory is the [MASK] in?,1,0.8978601502180017,0.8978601502180017
+2483,P131,What administrative unit does the [MASK] occupy?,1,0.8596324184030664,1.0167644732369299
+2484,P131,What administrative unit has [MASK]?,1,,0.8422868937521356
+2485,P131,What administrative unit has control over the [MASK]?,1,0.8821737104777295,0.8821737104777295
+2486,P131,What administrative unit holds authority over [MASK]?,1,0.926228098570088,0.9262280985700874
+2492,P131,What administrative zone does [MASK] call home?,1,1.1362714045709368,0.9981669336191209
+2493,P131,What are the boundaries of the territorial entity that encompasses [MASK]?,1,,0.9153894485857264
+2494,P131,What are the governing divisions of [MASK]?,1,0.9153608009979861,0.9153608009979841
+2495,P131,What are the legal boundaries of the [MASK]?,1,0.8494646185508635,0.8494646185508621
+2502,P131,What area of administration contains the [MASK]?,1,0.8933358079527227,1.0962559478160134
+2503,P131,What area of administration is [MASK] a part of?,1,0.9255879334260075,1.1877534141581898
+2504,P131,What area of governmental control is [MASK] in?,1,0.9454396331074912,1.0055168062514215
+3505,P131,Within which jurisdictional boundaries is [MASK] found?,1,0.947224111774941,0.9472241117749409

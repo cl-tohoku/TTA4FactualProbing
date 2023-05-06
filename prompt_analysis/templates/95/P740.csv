@@ -1,0 +1,579 @@
+,p,template,fact_id,effect_gold,effect_top
+23796,P740,What was the place of origin for [MASK]?,256,,0.9381115523596253
+23959,P740,What location was the birthplace of [MASK]?,240,,1.0356151513215661
+24006,P740,Where did the [MASK] originate from?,115,,1.0467471552200507
+23757,P740,What was the starting point of [MASK]?,98,,0.9435317774328656
+24320,P740,What is the source of [MASK]'s founding?,97,,0.9246546118309686
+24682,P740,Where was the [MASK] first established?,53,,1.048281467582706
+23882,P740,What is the origin point of [MASK]?,48,,0.9831902743531069
+23987,P740,What was the source of the [MASK]'s formation?,47,,0.9106085313602238
+24346,P740,What location was the foundation of [MASK]?,38,,0.9375790015333315
+23765,P740,In what location did [MASK] originate?,34,1.017891140303451,1.0258818760967
+23864,P740,What was the site of the formation of the [MASK]?,34,,0.966832511257712
+23769,P740,In what location was [MASK] established?,32,,1.0110097349934446
+24007,P740,Where did the [MASK] start?,31,,0.9970881160870645
+23966,P740,What was the formation location of [MASK]?,28,,1.0580428139530555
+23775,P740,From where did [MASK] emerge?,25,,0.9651561557149435
+24350,P740,What nation is the birthplace of [MASK]?,23,,1.032098883812999
+24568,P740,When and where did [MASK] come into being?,22,,0.9696244181309673
+23808,P740,What was the point of origin for the [MASK]?,21,,0.9487268809149851
+23778,P740,Where was [MASK] created?,19,,1.0243803829684115
+23810,P740,Where did [MASK] come into existence?,18,,0.9632863975343121
+23795,P740,What was the original location of [MASK]?,18,,1.0177680205344444
+23797,P740,Where did [MASK] begin?,17,,1.0085208174393785
+23780,P740,Where was [MASK] founded?,17,1.1175130480549782,1.0166060721164216
+23784,P740,Where was [MASK] formed?,17,,1.0103882402670832
+23805,P740,What is the genesis of [MASK]?,16,0.8939008052475707,0.9143864578302423
+23831,P740,What was the beginning point of [MASK]?,14,,0.9429337837290265
+24512,P740,What was the place of formation for the [MASK]?,14,,0.977327300744039
+23817,P740,What was the founding place of [MASK]?,14,,1.0211122744674481
+23787,P740,Where did [MASK] come together?,14,,0.9758526926052643
+23792,P740,From which place did [MASK] originate?,13,,1.0208381297128912
+23804,P740,In what place did [MASK] originate?,12,,1.0815370964630617
+23820,P740,Where did [MASK] come from?,11,,1.0047140759478401
+23785,P740,From what place did [MASK] originate?,11,,1.0761162284350734
+23828,P740,What is the foundation of the [MASK]?,11,,0.9954212703857966
+23793,P740,What was [MASK]'s point of origin?,11,,0.9691660995613826
+23813,P740,In what location was [MASK] created?,10,,0.9946637071068617
+23850,P740,What is the founding location of [MASK]?,10,,1.0021857075907423
+23806,P740,What is the provenance of [MASK]?,10,,0.9333656916859768
+23832,P740,What was the founding site of [MASK]?,10,,1.0639879308400753
+23824,P740,In what place was [MASK] created?,9,,1.0552763590027683
+23827,P740,What city did [MASK] form in?,9,,1.0186762544663972
+23809,P740,What was the starting place of [MASK]?,9,,1.0602453403409937
+23799,P740,Where did the formation of [MASK] take place?,9,,0.9943248876711271
+23791,P740,From what location did [MASK] originate?,9,,1.0427245071804299
+23825,P740,In what place was [MASK] established?,8,,1.0435963808804885
+23819,P740,What was the starting point for the [MASK]?,8,,0.985918528788594
+23937,P740,What is the formation site of the [MASK]?,8,,1.002064334035933
+23802,P740,In what location was [MASK] founded?,8,,0.9402721003831268
+23910,P740,In what area was [MASK] formed?,7,,0.964284990537417
+23931,P740,What area was [MASK] established in?,7,,0.9776320900989915
+23869,P740,From what city did [MASK] originate?,7,,1.0129793183371543
+23847,P740,In which location did [MASK] originate?,7,1.0248653659295333,1.109329949014097
+23814,P740,What city was [MASK] founded in?,7,1.1693176713230693,1.0192778419170905
+23839,P740,Where did [MASK] commence?,7,,0.9606349631745598
+23826,P740,In which location was [MASK] established?,6,,0.9979931314884887
+23861,P740,What was the original home of [MASK]?,6,0.9816155965350378,1.018615883627213
+23823,P740,In what city did [MASK] originate?,6,,1.016274950678801
+23982,P740,What was the setting for the formation of [MASK]?,6,,0.9630190765839765
+23894,P740,Where did [MASK] have its beginnings?,6,,1.023079027637454
+23834,P740,What was the origination point of [MASK]?,6,,0.9882999134714902
+23856,P740,What was the locale of [MASK]'s formation?,6,,1.0144407470130579
+23957,P740,What is the source of the formation of [MASK]?,6,,0.9266173657212845
+23911,P740,In what city did [MASK] come together?,6,,1.0627595733686466
+23848,P740,In which place did [MASK] originate?,5,,1.1024776905648506
+24014,P740,Where was the formation of [MASK]?,5,,1.0230717784021022
+23842,P740,From what city did [MASK] emerge?,5,,1.0607549225196231
+23859,P740,What was the origin of [MASK]'s formation?,5,,0.9527368523280864
+23923,P740,In what region did [MASK] form?,5,,1.0081569058895696
+23922,P740,In what place did the [MASK] form?,5,,0.9805156229839284
+23921,P740,In what place did [MASK] come together?,5,,1.0843959398958782
+23943,P740,What is the geographic location of [MASK]'s formation?,5,,0.9232160231875277
+23970,P740,What was the genesis of the [MASK]?,5,,0.9941394386321507
+23849,P740,What area did [MASK] originate from?,5,,1.0836741481115482
+23945,P740,What is the home of [MASK]?,5,,0.9016824249106785
+23950,P740,What is the place of formation of the [MASK]?,5,,1.054273564787497
+23889,P740,What was the location of [MASK]'s origin?,5,0.9393720836273254,1.039076769727314
+23881,P740,What is the hometown of [MASK]?,5,0.9837405919842277,1.10640790658157
+23955,P740,What is the source of [MASK]'s establishment?,5,,0.9243582395677918
+23822,P740,In what area did [MASK] form?,5,1.1010271529003408,0.9837887551300719
+24385,P740,What place was the source of [MASK]'s origin?,5,,1.0108185932165945
+23873,P740,From which place did the [MASK] emerge?,5,1.1977801920784992,1.0326036410845276
+23875,P740,In what location did [MASK] come together?,5,,0.9510330065148411
+23880,P740,What is the history of [MASK]?,5,,0.8896695239929405
+23872,P740,From which location did [MASK] originate?,4,,1.045689077369622
+23853,P740,What is the starting point of the [MASK]?,4,0.9017161861131356,1.0687069987741205
+23878,P740,What city was [MASK] formed in?,4,,0.994722791852301
+24118,P740,In what place did [MASK] start?,4,,1.0351968682360664
+24472,P740,What was the inception point of [MASK]?,4,,0.8899024465943322
+24259,P740,What is the country of origin for the [MASK]?,4,,0.9825466538732184
+23883,P740,What is the origin story of [MASK]?,4,,0.9782605971266234
+23914,P740,In what location did [MASK] come into being?,4,,1.0487064662899672
+23897,P740,Where was [MASK] born?,4,,0.9787411502339162
+23961,P740,What place was [MASK] formed in?,4,,0.9702274488655376
+23900,P740,Where was the origin of [MASK]?,4,,1.049550987084453
+23901,P740,From where did [MASK] arise?,4,,1.0256808746266368
+23915,P740,In what location did [MASK] form?,4,,1.0977604999586332
+24012,P740,Where was [MASK] conceived?,4,,0.9861268254581169
+23976,P740,What was the origin city of [MASK]?,3,,1.084122847137449
+23870,P740,From which area did [MASK] originate?,3,1.0077958780073606,0.9902080121376341
+23983,P740,What was the setting of [MASK]'s formation?,3,,0.9909323157565616
+23985,P740,What was the site of the [MASK]'s origin?,3,,1.0461674738567357
+23988,P740,What was the source of the establishment of [MASK]?,3,,0.8675567791423284
+24003,P740,Where did the [MASK] emerge?,3,,1.0876631925050968
+24286,P740,What is the location of the origin of [MASK]?,3,,1.0047249037962416
+24268,P740,What is the founding city of [MASK]?,3,,1.0880686019735348
+24135,P740,In what region was [MASK] established?,3,,0.9187295641093042
+24674,P740,Where was [MASK] set up?,3,,0.9809270679635033
+23871,P740,From which city did [MASK] originate?,3,,1.0466292335405596
+23975,P740,What was the location of the establishment of [MASK]?,3,,0.9799506876311493
+23896,P740,Where did the formation of [MASK] begin?,3,1.4145338232296683,1.0846357171985666
+23879,P740,What is the background of [MASK]?,3,,0.9146924908074304
+23967,P740,What was the formation point of the [MASK]?,3,,0.9143387326043237
+23963,P740,What region gave rise to [MASK]?,3,,0.9197079987838821
+23912,P740,In what city was [MASK] created?,3,,1.0976579319639077
+23913,P740,In what locale did [MASK] originate?,3,,1.0011130298931212
+23960,P740,What place gave rise to [MASK]?,3,,0.9741210490565438
+24317,P740,What is the source of [MASK]'s beginnings?,3,,0.8943459010513565
+23935,P740,What is the beginning of the [MASK]?,3,,0.8988731631783654
+23930,P740,What area gave rise to [MASK]?,3,,0.8882112502723681
+23918,P740,In what location did the [MASK] come into existence?,3,,1.02205862735495
+23909,P740,In what area did the [MASK] originate?,3,,1.010974385333116
+23929,P740,What area did [MASK] come into existence?,3,,0.9075756777823716
+23874,P740,In what area did [MASK] come into being?,3,0.8426227486453638,1.0014203157602408
+24614,P740,Where did [MASK]'s foundation take place?,2,,1.0076296823464523
+24147,P740,In which area was [MASK] formed?,2,,1.0541934481798347
+24474,P740,What was the inception site of [MASK]?,2,,1.0093920457267898
+24380,P740,What place was the birthplace of the [MASK]?,2,,0.9449320908635792
+24603,P740,Where did [MASK] initiate from?,2,,0.8212844221275057
+24137,P740,In what spot was [MASK] first formed?,2,,0.9083907203886935
+24576,P740,When did the [MASK] come into being?,2,,0.9136216635249779
+24175,P740,In which spot was [MASK] created?,2,,0.949090058402206
+24569,P740,When and where did [MASK] originate?,2,,0.9249672462689917
+24415,P740,What was [MASK]'s starting point?,2,,0.8404786136918612
+24156,P740,In which location did [MASK] begin?,2,,1.0270286967069773
+24623,P740,Where did the [MASK] form its roots?,2,,1.0660167581569149
+24131,P740,In what place was the establishment of [MASK]?,2,,0.9874182471697652
+24127,P740,In what place was [MASK] founded?,2,,0.9825041828607526
+24188,P740,What area saw the emergence of [MASK]?,2,,0.9427388917514566
+24112,P740,In what place did [MASK] come into being?,2,,0.9679988200098881
+24633,P740,Where did the beginning of [MASK] take place?,2,,0.9649555416280442
+24108,P740,In what location was [MASK] formed?,2,,1.2560813321852553
+24642,P740,Where did the foundation of [MASK] take place?,2,,1.088550246595124
+24085,P740,In what area was the [MASK] founded?,2,,0.990430017444133
+24077,P740,In what area did [MASK] come together?,2,,0.9278515352224485
+24075,P740,In what area did [MASK] begin?,2,,0.9965522030669811
+24184,P740,What area gave birth to [MASK]?,2,,0.983714975898458
+24214,P740,What city or country saw the formation of [MASK]?,2,,1.0042545780640049
+24564,P740,What was the venue of [MASK]'s formation?,2,,1.032229781001609
+24429,P740,What was the beginning location of [MASK]?,2,,1.0854801596970858
+24308,P740,What is the place of origin of the [MASK]?,2,,0.8928496858465255
+24303,P740,What is the place of [MASK]'s birth?,2,,0.9517791272015803
+24330,P740,What locale was the birthplace of [MASK]?,2,,1.0304113369336099
+24481,P740,What was the locale of [MASK]'s creation?,2,,1.1108283981530862
+24292,P740,What is the origin of the [MASK] Orchestra?,2,0.8656335769824963,0.8935036847133158
+24460,P740,What was the founding location of the [MASK]?,2,,0.8804525294787175
+24069,P740,How did [MASK] come to be?,2,,0.9069131539373751
+24441,P740,What was the city where [MASK] formed?,2,,1.0275914348178883
+24281,P740,What is the initial formation location of [MASK]?,2,,1.2009067660584547
+24275,P740,What is the history behind the [MASK]?,2,,0.8991589117130026
+24423,P740,What was the area where [MASK] began?,2,,0.9539110373558022
+24191,P740,What area saw the formation of [MASK]?,2,,0.9668954537054608
+24251,P740,What is the basis for [MASK]?,2,,0.8793078261745682
+24513,P740,What was the place of inception for [MASK]?,2,,1.0524325745595386
+24249,P740,What is the area of origin for [MASK]?,2,,1.0017893676620517
+24232,P740,What country was [MASK] founded in?,2,,0.9736730575533789
+24224,P740,What city was the birthplace of the band [MASK]?,2,,1.0117062643497445
+24217,P740,What city saw the establishment of [MASK]?,2,,1.018985297261715
+24476,P740,What was the initial place of [MASK]'s formation?,2,,1.0615809408029901
+24210,P740,What city gave rise to the [MASK]?,2,,0.9525466857407404
+24202,P740,What area was the impetus for the formation of [MASK]?,2,,0.9562487034255036
+24194,P740,What area was [MASK] created in?,2,,1.1525568321266373
+24656,P740,Where was [MASK] assembled?,2,,0.9861430497876897
+24399,P740,What region was [MASK] founded in?,2,,1.0344769390185562
+24659,P740,Where was [MASK] fashioned?,2,,1.0306767429895765
+23979,P740,What was the origination site of [MASK]?,2,,1.0282231587893795
+24052,P740,From which country did [MASK] originate?,2,,1.1044550530343766
+23927,P740,In which place did [MASK] form?,2,1.0080241870110327,1.0951798541877755
+24050,P740,From which area did [MASK] emerge?,2,,1.0377535224610321
+24048,P740,From where was [MASK]?,2,,1.0910688689419668
+23928,P740,In which place was [MASK] formed?,2,,1.0421915229213172
+23933,P740,What country was [MASK] established in?,2,,1.05288185623544
+24046,P740,From where did the [MASK] take shape?,2,,0.9547709689949417
+23944,P740,What is the geographical origin of [MASK]?,2,0.9376639947746361,0.9602874063289383
+23952,P740,What is the root of [MASK]?,2,0.8749434551851947,0.9655799851382189
+23958,P740,What is the starting point for [MASK]?,2,0.8813575423136848,0.9769014365792207
+23971,P740,What was the geographic origin of [MASK]?,2,1.6908051421439494,0.9283265986008413
+23973,P740,What was the initial location of [MASK]?,2,,1.0006284354774033
+23981,P740,What was the place where the [MASK] was created?,2,,1.0670079568749777
+23925,P740,In which city did [MASK] originate?,2,,1.0447466700526078
+23991,P740,When and where was the [MASK] created?,2,,0.9848491579562753
+23993,P740,When did the [MASK] come into existence?,2,,0.9388642619157663
+24008,P740,Where did the band [MASK] first come together?,2,,0.9191830624742791
+24009,P740,Where did the concept of [MASK] originate?,2,,0.9963967760057157
+24037,P740,From what point did [MASK] come into being?,2,,0.893772748984051
+24010,P740,Where did the creation of [MASK] begin?,2,1.2285151428145968,1.0102137854040456
+24034,P740,From what place did [MASK] emerge?,2,,1.0083982566995433
+24033,P740,From what place did [MASK] come into existence?,2,,0.9129068108705114
+24011,P740,Where did the creation of [MASK] take place?,2,0.9138332811522833,1.0686351472794624
+24015,P740,Where was the foundation of [MASK] laid?,2,1.0914135183615283,0.9920191453276486
+24017,P740,From what area did [MASK] emerge?,2,,0.925579089154836
+24027,P740,From what location was [MASK] established?,2,,0.9510964427845007
+23926,P740,In which place did [MASK] come into existence?,2,0.910683671696622,1.1212850678083113
+24023,P740,From what location did [MASK] emerge?,2,,0.9595725129445968
+23916,P740,In what location did [MASK] start?,2,3.2157549302699033,0.9466204092357535
+23907,P740,From which spot did [MASK] originate?,2,,0.8913982784824754
+23924,P740,In which area did [MASK] come into being?,2,,0.9679485922802512
+24056,P740,From which location did [MASK] emerge?,2,,1.1829796300781037
+23908,P740,How did [MASK] come into existence?,2,0.881350154659877,0.8996372556962416
+23905,P740,From which place did [MASK] arise?,2,,1.0874282482286266
+24671,P740,Where was [MASK] initiated?,2,,0.9745100212256607
+24437,P740,What was the birthplace of the Maya culture?,1,,1.050909129089417
+24506,P740,What was the original place of formation of [MASK]?,1,,1.0657239346442682
+24503,P740,What was the original gathering place for [MASK]?,1,,1.074877828081826
+24407,P740,What spot was the [MASK] founded?,1,0.908269355607375,0.9082693556073753
+24408,P740,What spot was the birthplace of [MASK]?,1,,0.8877121190986964
+24498,P740,What was the origin of the band [MASK]?,1,,1.262650141210492
+24495,P740,What was the origin of [MASK]'s creation?,1,,0.8463556675004229
+24496,P740,What was the origin of [MASK]’s inception?,1,,0.8769466955156165
+24409,P740,What town saw the formation of [MASK]?,1,1.0381510486321652,1.0381510486321652
+24406,P740,What spot originated [MASK]?,1,,0.8965848962455809
+24494,P740,What was the origin location for [MASK]?,1,,0.9974880703362278
+24412,P740,What was [MASK]'s birthplace?,1,,1.1796463104140225
+24493,P740,What was the origin country for the [MASK]?,1,,0.9711010707775956
+24492,P740,What was the location where the [MASK] formed?,1,,1.1081859888755707
+24507,P740,What was the original site of [MASK]?,1,,1.0196915980868282
+24508,P740,What was the original source of [MASK]?,1,,0.9062931554367298
+24413,P740,What was [MASK]'s foundation site?,1,,1.0538564160707218
+24403,P740,What spot did [MASK] begin?,1,,0.9813261311656717
+24527,P740,What was the setting for [MASK]'s beginnings?,1,,0.8837812762694495
+24526,P740,What was the root of MÁV-,1,,0.8724351390378531
+24525,P740,What was the region where [MASK] first developed?,1,1.1230537912922465,1.1230537912922465
+24524,P740,What was the region of [MASK]'s origination?,1,,0.8667877786441834
+24519,P740,What was the place where the [MASK] was set up?,1,,1.03154394179603
+24703,P740,Which locale saw the emergence of the [MASK]?,1,,1.0615078531579074
+24518,P740,What was the place where [MASK] was established?,1,,1.222696812901899
+24517,P740,What was the place where [MASK] first began?,1,,1.0522495545604482
+24509,P740,What was the originating location of [MASK]?,1,,1.1655919456596362
+24515,P740,What was the place of origin for the Maya people?,1,,1.156818152943266
+24704,P740,Which location saw the formation of the [MASK]?,1,,0.915197275653933
+24705,P740,Which place birthed [MASK]?,1,,1.0222423910284342
+24404,P740,What spot gave rise to the [MASK]?,1,,1.088767678916106
+24707,P740,Which place saw the formation of the [MASK]?,1,,0.8895422939920933
+24510,P740,What was the originator of the [MASK]?,1,,0.9012111470725305
+24405,P740,What spot marked the formation of [MASK]?,1,,0.882858079010191
+24487,P740,What was the location of [MASK]' inception?,1,,1.051673321295358
+24414,P740,What was [MASK]'s hometown?,1,,1.204591453406467
+24486,P740,What was the locale of the origin of the [MASK]?,1,,0.9610164890177029
+24484,P740,What was the locale of the [MASK]'s inception?,1,,1.032124813155753
+24431,P740,What was the beginning place of [MASK]?,1,,1.050437232970727
+24459,P740,What was the founding locale of the [MASK]?,1,,0.9133920414454242
+24458,P740,What was the founding country of [MASK]?,1,,1.0755986684735266
+24456,P740,What was the foundation site of [MASK]?,1,,0.9521035502170475
+24433,P740,What was the birth spot of the [MASK]?,1,,1.0097650039593125
+24455,P740,What was the foundation point of [MASK]?,1,,0.843464862860759
+24453,P740,What was the foundation locale of [MASK]?,1,,1.0694147894058301
+24434,P740,What was the birthplace of [MASK]'s beginnings?,1,0.9424118957448377,1.1223761083719193
+24447,P740,What was the first place [MASK] was established?,1,1.0281843532169939,1.0281843532169939
+24446,P740,What was the first place [MASK] emerged?,1,,0.8837849280307855
+24445,P740,What was the establishment point of [MASK]?,1,,0.9042779545015133
+24444,P740,What was the country of origin of [MASK]?,1,,1.0256945918535907
+24435,P740,What was the birthplace of [MASK]'s career?,1,,1.0516604592866559
+24443,P740,What was the commencement point of [MASK]?,1,0.8997419125403493,0.899741912540348
+24436,P740,What was the birthplace of [MASK]'s origin?,1,,1.0723550757309555
+24462,P740,What was the founding spot for the [MASK]?,1,,0.9054478538779601
+24427,P740,What was the basis of [MASK]?,1,,0.8548481597609012
+24463,P740,What was the founding spot of [MASK]?,1,,0.904196584542973
+24420,P740,What was the area of origin for the Maya culture?,1,,1.086451719523065
+24438,P740,What was the birthplace of the [MASK]'s founding?,1,,0.8832167635901608
+24479,P740,What was the locale in which [MASK] started?,1,,1.0572164765697647
+24478,P740,What was the launch point of [MASK]?,1,,0.9288018639041906
+24417,P740,What was the area of emergence of [MASK]?,1,,0.9119126205699505
+24477,P740,What was the initial point of [MASK]?,1,,0.8961520573504048
+24475,P740,What was the initial location of [MASK]'s formative years?,1,,1.097123743410113
+24421,P740,What was the area of origin of [MASK]?,1,,0.9096323463347663
+24464,P740,What was the geographic location in which [MASK] was launched?,1,,1.0628409526128426
+24471,P740,What was the home of [MASK]'s formation?,1,,1.0537958756028425
+24425,P740,What was the arena of formation of [MASK]?,1,0.8744694376522867,0.8744694376522867
+24470,P740,What was the geographical location where the [MASK] first came into existence?,1,0.9432881132670631,1.0928801388873033
+24469,P740,What was the geographic source of [MASK]'s development?,1,,1.155632928579549
+24528,P740,What was the setting for [MASK]'s establishment?,1,,1.02527243769411
+24465,P740,What was the geographic location of the [MASK]?,1,,0.994660367575667
+24467,P740,What was the geographic setting for [MASK]'s formation?,1,,0.924723704312419
+24535,P740,What was the site at which [MASK] began?,1,,1.0368880291917657
+24530,P740,What was the setting for [MASK]'s genesis?,1,,0.9158480147398541
+24632,P740,Where did the band [MASK] originate?,1,,1.1138666061333347
+24627,P740,Where did the [MASK] have its origins?,1,0.9310733513484896,1.0004106472592977
+24676,P740,Where was [MASK]'s birth city?,1,,0.9553780465259922
+24626,P740,Where did the [MASK] have its beginning?,1,,0.9179980623141145
+24625,P740,Where did the [MASK] get its beginnings?,1,,1.1334091105394222
+24677,P740,Where was [MASK]'s career developed?,1,,0.9137312691588735
+24622,P740,Where did the [MASK] first originate?,1,,0.8822858172125354
+24678,P740,Where was [MASK]'s hometown?,1,,1.0554669809095243
+24619,P740,Where did the Mayan culture start?,1,,0.9028170344255805
+24618,P740,Where did the Maya cultural tradition originate?,1,,0.9156113931674724
+24617,P740,Where did [MASK]'s musical journey begin?,1,,0.9419638461868407
+24616,P740,Where did [MASK]'s genesis take place?,1,0.8998039447284826,1.0527869348826415
+24679,P740,Where was the [MASK] based?,1,,1.0278705412511995
+24613,P740,Where did [MASK]'s formation take place?,1,,0.9843088472259295
+24612,P740,Where did [MASK]'s beginnings take place?,1,,1.0587630613031973
+24611,P740,Where did [MASK]'s beginnings lie?,1,,0.8832682360681336
+24609,P740,Where did [MASK] take root?,1,,1.0859185101623214
+24608,P740,Where did [MASK] take origin?,1,,1.0231990756850116
+24607,P740,Where did [MASK] start out?,1,,1.1017883022431285
+24605,P740,Where did [MASK] kick off?,1,,0.9939249045387902
+24685,P740,Where was the [MASK] instituted?,1,,1.1373890661344477
+24602,P740,Where did [MASK] initially form?,1,,1.0025894261786774
+24628,P740,Where did the [MASK] start its operations?,1,,1.145312444657002
+24673,P740,Where was [MASK] originally put together?,1,,0.9731849303650723
+24532,P740,What was the setting for the inception of the [MASK]?,1,0.9030072076441819,0.9654428522621177
+24635,P740,Where did the birth of [MASK] occur?,1,,1.0828385668449567
+24657,P740,Where was [MASK] born and raised?,1,,0.9962445765921301
+24662,P740,Where was [MASK] formulated?,1,,0.8653646918563749
+24655,P740,Where does the story of the [MASK] begin?,1,,1.018537675765753
+24663,P740,Where was [MASK] from originally?,1,,0.9644101855270578
+24665,P740,Where was [MASK] inaugurated?,1,1.77478949114924,0.9584525944770087
+24652,P740,Where did the roots of [MASK] begin?,1,,0.8830407408199805
+24651,P740,Where did the members of [MASK] get together?,1,,0.9594004906991056
+24650,P740,Where did the members of [MASK] first meet?,1,,0.8963482817151268
+24666,P740,Where was [MASK] initially based?,1,,0.9119669212061482
+24649,P740,Where did the members of [MASK] come together?,1,,0.9537990727387589
+24648,P740,Where did the launch of [MASK] take place?,1,,0.9561290313490824
+24646,P740,Where did the idea for [MASK] originate?,1,0.8602185166733529,0.8602185166733496
+24645,P740,Where did the idea for [MASK] first emerge?,1,,0.8371578852185526
+24643,P740,Where did the founding of [MASK] occur?,1,,1.1006848304416905
+24402,P740,What region was the host for the founding of [MASK]?,1,,1.0259438478289822
+24640,P740,Where did the establishment of [MASK] take place?,1,0.9113608587024797,1.0230508470759616
+24639,P740,Where did the duo come together to create [MASK]?,1,,0.9303889839135641
+24638,P740,Where did the creation of [MASK] occur?,1,,0.962092029829308
+24637,P740,Where did the conception of [MASK] come from?,1,,0.8517521878855453
+24636,P740,Where did the company [MASK] begin?,1,,0.8953021263216369
+24672,P740,Where was [MASK] launched?,1,,1.062602751283162
+24601,P740,Where did [MASK] have its origin?,1,,1.0194374921938762
+24600,P740,Where did [MASK] get his start?,1,,1.0278159332398955
+24599,P740,Where did [MASK] form their band?,1,,1.0636413644127156
+24598,P740,Where did [MASK] first take shape?,1,,0.9110349953035568
+24696,P740,Where were the [MASK] formed?,1,0.9057267254725613,0.9057267254725546
+24561,P740,What was the starting point of [MASK]'s creative endeavors?,1,,0.9038515638139349
+24559,P740,What was the starting point for the formation of the band [MASK]?,1,,0.8406520992087071
+24697,P740,Which city was the source of formation for [MASK]?,1,0.9071199999788105,0.9889171455387612
+24558,P740,What was the starting location of [MASK]?,1,,1.016178911875664
+24557,P740,What was the starting area for the [MASK]?,1,,0.9534761198048072
+24556,P740,What was the spot of the [MASK]'s formation?,1,,0.8725137929620288
+24699,P740,Which country was the origin of the [MASK]?,1,,1.1306691262654442
+24552,P740,What was the source of creation of [MASK]?,1,,0.8691435697931984
+24550,P740,What was the source of [MASK]'s foundation?,1,,0.8398219712266642
+24700,P740,Which locale birthed [MASK]?,1,,0.976563743427526
+24548,P740,What was the source of [MASK]'s emergence?,1,0.8524586656982538,0.8524586656982529
+24701,P740,Which locale established [MASK]?,1,,0.9074766438499268
+24543,P740,What was the source of [MASK]' beginning?,1,,0.8977012652262243
+24542,P740,What was the site of the beginning of [MASK]?,1,,1.0379330431665994
+24539,P740,What was the site of [MASK]'s establishment?,1,,1.040338442859676
+24538,P740,What was the site of [MASK]'s creation?,1,,0.9857572950902487
+24537,P740,What was the site of [MASK]' inauguration?,1,,0.9109638844170649
+24658,P740,Where was [MASK] brought together?,1,,0.8856634813998331
+24702,P740,Which locale saw the beginning of the [MASK]?,1,,0.9101610193232275
+24534,P740,What was the setting of the forming of [MASK]?,1,,0.9854057675185585
+24566,P740,What was the venue where the [MASK] was established?,1,,1.006187507606128
+24567,P740,What were the origins of [MASK]?,1,,0.909175471725454
+24694,P740,Where was the initial establishment of [MASK]?,1,,1.0968207237463294
+24586,P740,Where did [MASK] assemble?,1,,1.024088464499575
+24687,P740,Where was the beginning of [MASK]?,1,,0.9667698612187415
+24597,P740,Where did [MASK] first form?,1,,0.9980528508210444
+24596,P740,Where did [MASK] first develop?,1,,0.9115386790281191
+24594,P740,Where did [MASK] first come into being?,1,,1.0445895664521458
+24592,P740,Where did [MASK] first begin creating music?,1,,0.9734824205503912
+24591,P740,Where did [MASK] establish itself?,1,,1.1690768312771498
+24589,P740,Where did [MASK] come to be?,1,,1.2167182765542666
+24588,P740,Where did [MASK] come about?,1,,1.105860498123633
+24587,P740,Where did [MASK] become a organized religion?,1,,0.9668391730966296
+24583,P740,Whence was [MASK] formed?,1,0.8588517339154004,0.8588517339154004
+24692,P740,Where was the founding of [MASK]?,1,,1.1328371518027367
+24580,P740,Whence did [MASK] originate?,1,,0.9054653037820041
+24579,P740,When was [MASK] put together?,1,,0.8739862835358277
+24578,P740,When did the [MASK] emerge?,1,,0.9411527746556219
+24577,P740,When did the [MASK] come together?,1,0.937840659242726,0.9378406592427223
+24688,P740,Where was the company [MASK] founded?,1,,1.0648243332538951
+24689,P740,Where was the emergence of [MASK]?,1,0.9987521908779832,1.0590307429920598
+24575,P740,When did the [MASK] begin?,1,,1.2524181243362127
+24574,P740,When and where was the [MASK] formed?,1,,0.9052581711223365
+24570,P740,When and where did [MASK] start?,1,,0.9999266900265217
+24641,P740,Where did the formation of the [MASK] occur?,1,0.9075382415093217,1.0432725366682947
+24245,P740,What geographical spot was the origin of the [MASK]?,1,,0.8918386661635165
+24398,P740,What region saw the formation of [MASK]?,1,,0.9728836111584808
+24151,P740,In which city was the [MASK] put together?,1,,1.0159703734415297
+24149,P740,In which city did [MASK] begin?,1,,1.0302610450901117
+24146,P740,In which area was [MASK] established?,1,,0.9903969832564745
+24145,P740,In which area did the [MASK] first form?,1,,1.060160006029268
+24144,P740,In which area did [MASK] originate?,1,,1.0211764741528817
+24143,P740,In which area did [MASK] get its start?,1,,1.0552822369335093
+24142,P740,In which area did [MASK] come together?,1,,1.0052183654512679
+24141,P740,In which area did [MASK] begin?,1,,0.9477840672428575
+24139,P740,In what state was [MASK] formed?,1,,1.080529406439212
+24136,P740,In what region was [MASK] formed?,1,,1.0616579279663758
+24134,P740,In what region did the [MASK] come into being?,1,0.9616241761925112,1.1141556397256311
+24133,P740,In what region did the Maya society begin?,1,,1.114890147588048
+24132,P740,In what region did [MASK] originate?,1,,1.0041079665333092
+24128,P740,In what place was [MASK] from?,1,,1.0245895241881913
+24121,P740,In what place did the [MASK] begin?,1,,1.0235047071720356
+24120,P740,In what place did the [MASK] become established?,1,,0.9202888462557105
+24119,P740,In what place did the [MASK] arise?,1,,1.0883746500011215
+24115,P740,In what place did [MASK] first appear?,1,,0.8676771731633384
+24114,P740,In what place did [MASK] emerge?,1,,0.9900259478377144
+24113,P740,In what place did [MASK] come to be?,1,0.8913158029512628,1.2519985644189775
+24110,P740,In what location was [MASK]'s origin?,1,0.9479978631372018,1.1289968053392805
+24109,P740,In what location was [MASK] made?,1,,0.926530340386762
+24150,P740,In which city did [MASK] come together?,1,,1.1468075796432564
+24152,P740,In which country did [MASK] come into being?,1,,1.0548498047782784
+24397,P740,What region saw the creation of [MASK]?,1,,0.978168641685895
+24153,P740,In which country was [MASK] formed?,1,,0.9716918721244623
+24181,P740,What area did [MASK] come from?,1,,1.0368853616369766
+24179,P740,What area can be identified as the origin of the [MASK]?,1,,0.9153492284660872
+24178,P740,Out of which area did [MASK] come into being?,1,,1.0084684337676888
+24177,P740,Out of what place did [MASK] originate?,1,,1.056816922402608
+24174,P740,In which region was the [MASK] first organized?,1,0.9550772984876974,1.106509294727483
+24173,P740,In which region was [MASK] established?,1,,1.0291902776357575
+24172,P740,In which region did [MASK] form?,1,,1.1828668787369507
+24171,P740,In which place was [MASK] born?,1,0.9234006748417328,1.0256046663254155
+24169,P740,In which place did [MASK] develop?,1,1.0489055518713124,1.0489055518713124
+24168,P740,In which place did [MASK] come from?,1,,1.1009814442096435
+24167,P740,In which place did [MASK] begin?,1,,1.0015919012213355
+24166,P740,In which place did [MASK] become established?,1,1.0034682062080962,1.0034682062080962
+24164,P740,In which nation did [MASK] get its start?,1,,0.9469726478666073
+24163,P740,In which location was [MASK] founded?,1,,0.8789977907385754
+24162,P740,In which location was [MASK] formed?,1,,0.8993104550359124
+24161,P740,In which location did the establishment of [MASK] take place?,1,,1.0638067711628671
+24160,P740,In which location did the [MASK] first form?,1,,1.138547622403477
+24159,P740,In which location did [MASK] first come into being?,1,,1.0816468339220515
+24157,P740,In which location did [MASK] emerge?,1,,0.9609245197307729
+24155,P740,In which locality did [MASK] originate?,1,,0.9446341162436218
+24154,P740,In which locale did [MASK] begin?,1,,0.9740836014950809
+24107,P740,In what location did the formation of [MASK] take place?,1,,1.004383695472052
+24101,P740,In what location did [MASK] begin?,1,,1.0585065700414096
+24100,P740,In what location did [MASK] arise?,1,1.1823131099632496,0.9912158817998241
+24099,P740,In what locale was [MASK] created?,1,,1.2681216324279738
+24055,P740,From which location did [MASK] develop?,1,,0.9145254120337216
+24054,P740,From which locality did [MASK] come about?,1,,0.9572798685793816
+24051,P740,From which city did [MASK] come?,1,,1.0609616358307181
+24049,P740,From which area did [MASK] come into existence?,1,1.094839975332609,1.0367788955293988
+24045,P740,From where did the [MASK] evolve?,1,,0.9233272437181228
+24043,P740,From where did [MASK] develop?,1,,0.9653026396399205
+24042,P740,From what spot did the [MASK] emerge?,1,0.8983811292136245,1.0643005675243498
+24041,P740,From what spot did [MASK] originate?,1,,1.0634714850221485
+24039,P740,From what site did [MASK] emerge?,1,,0.8465540712161347
+24038,P740,From what point did [MASK] stem?,1,,0.9303155180246881
+24036,P740,From what place was the [MASK] created?,1,,1.0374086828435416
+24035,P740,From what place was [MASK] formed?,1,,1.0571461657410932
+24032,P740,From what place did [MASK] come into being?,1,,0.9674842767520284
+24031,P740,From what place did [MASK] begin?,1,,1.080037360265463
+24030,P740,From what origin did the [MASK] come?,1,0.8978572409955836,0.8978572409955742
+24028,P740,From what location was [MASK] founded?,1,0.9110985157708402,1.0272978905330363
+24024,P740,From what location did the [MASK] arise?,1,,1.2599096101711793
+24021,P740,From what geographical location did [MASK] form?,1,,1.046935172660519
+24020,P740,From what city does [MASK] come?,1,0.9484740411401085,0.9484740411401086
+24019,P740,From what city did the [MASK] come together?,1,,1.0493326681744155
+24016,P740,Can you tell me where [MASK] was created?,1,,0.8828716861370832
+24059,P740,From which location was [MASK] founded?,1,,0.9006515778299642
+24060,P740,From which location was the [MASK] established?,1,,1.0530825384252551
+24062,P740,From which place did the [MASK] begin?,1,,1.0255645527861212
+24079,P740,In what area did [MASK] emerge?,1,,1.0396396581304383
+24098,P740,In what locale did the [MASK] take shape?,1,,1.0535160316134442
+24097,P740,In what locale did [MASK] commence?,1,,1.005268519639585
+24096,P740,In what locale did [MASK] come into being?,1,,1.0281723322805705
+24095,P740,In what locale did [MASK] begin?,1,,1.0187815294322617
+24094,P740,In what land was the [MASK] formed?,1,,0.9638790965063909
+24093,P740,In what geographical area did [MASK] originate?,1,,0.9308002269960798
+24092,P740,In what country did [MASK] originate?,1,,1.0830215037478896
+24086,P740,In what city did [MASK] come into being?,1,1.5070243546994209,0.9452095027292353
+24082,P740,In what area did the formation of [MASK] take place?,1,,0.9680902031955255
+24078,P740,In what area did [MASK] develop?,1,,0.9396460709123173
+24063,P740,From which place did the [MASK] establish?,1,,0.9715390097248605
+24074,P740,In what area did [MASK] assemble?,1,,1.1490872620402166
+24073,P740,How were the [MASK] initiated?,1,0.8881496062197483,0.8881496062197484
+24072,P740,How was [MASK] created?,1,,0.8650915672859418
+24070,P740,How did [MASK] get its start?,1,0.9155315890720912,0.9155315890720908
+24068,P740,How did [MASK] come into being?,1,,0.9100351955091127
+24067,P740,How did [MASK] begin?,1,,0.9010067119208145
+24066,P740,From which spot did the [MASK] emerge?,1,,0.8642746858809591
+24065,P740,From which site did the [MASK] originate?,1,,1.105140477070563
+24064,P740,From which place was the [MASK] created?,1,,1.1021268229584293
+24183,P740,What area did [MASK] start out in?,1,,0.978723816047822
+24186,P740,What area saw the beginning of [MASK]?,1,,0.9945103622967092
+24187,P740,What area saw the creation of [MASK]?,1,,1.0776179527928442
+24310,P740,What is the place where [MASK] was formed?,1,,1.1134119572216636
+24347,P740,What municipality was [MASK] formed in?,1,,0.9234619626225669
+24345,P740,What location was the birth place of the [MASK]?,1,0.8990315835841267,0.950637381988626
+24344,P740,What location was the [MASK] originally formed?,1,,1.0968808889543393
+24342,P740,What location was [MASK] born in?,1,,0.9366479807904713
+24340,P740,What location gave rise to [MASK]?,1,0.9026557164699566,1.0603838275017794
+24339,P740,What location did the [MASK] spring up in?,1,,1.1110651110152372
+24338,P740,What location did the [MASK] originate?,1,,1.0948298632394233
+24336,P740,What locality was [MASK] created in?,1,,0.9486509919684898
+24335,P740,What locality was [MASK] conceived?,1,,0.9870708129934039
+24334,P740,What locality spawned [MASK]?,1,,0.9308582685595442
+24333,P740,What locality saw [MASK] emerge?,1,1.0434903069950492,1.0434903069950492
+24332,P740,What locality gave rise to [MASK]?,1,,1.039500893720562
+24329,P740,What locale was the beginning of [MASK]?,1,,0.9202940678889677
+24328,P740,What locale was the [MASK] formed in?,1,0.9456461722182399,1.1112406664996228
+24327,P740,What locale saw the founding of [MASK]?,1,,1.0526113489052384
+24325,P740,What land was the birthplace of the [MASK]?,1,,1.1445921403922215
+24324,P740,What is the source of the creation of [MASK]?,1,,1.069099442021734
+24321,P740,What is the source of [MASK]'s inception?,1,,0.8764142890373484
+24318,P740,What is the source of [MASK]'s development?,1,,0.89073062265892
+24313,P740,What is the setting of the founding of [MASK]?,1,,0.8966742833690512
+24312,P740,What is the root of [MASK]'s formation?,1,,0.8869986693059682
+24348,P740,What nation did [MASK] form in?,1,,1.06427831355154
+24349,P740,What nation gave rise to the [MASK]?,1,,1.1322674278317413
+24352,P740,What nation was the origin of [MASK]?,1,,1.0735123427039273
+24372,P740,What place served as the launching point for [MASK]?,1,,0.8949546892642362
+24395,P740,What region is the founding site of [MASK]?,1,,1.0912735456064029
+24393,P740,What region gave birth to the [MASK]?,1,,0.9394746158915347
+24391,P740,What region did the [MASK] originate from?,1,,0.9094528450138378
+24388,P740,What region did [MASK] emerge from?,1,,1.014470532913412
+24387,P740,What region did [MASK] arise in?,1,,0.9051750235512958
+24384,P740,What place was the root of [MASK]?,1,1.0197083044195434,1.0954656227131927
+24378,P740,What place was the [MASK] brought into being?,1,,0.9057330036436795
+24377,P740,What place was chosen as the creation site of [MASK]?,1,,0.8749936922093033
+24373,P740,What place was [MASK] assembled?,1,,0.9070395348262321
+24371,P740,What place saw the formation of [MASK]?,1,,1.0270943655023153
+24353,P740,What part of the world is [MASK] from?,1,,0.9581561774706724
+24370,P740,What place saw the establishment of the [MASK]?,1,,1.0593958446641323
+24369,P740,What place saw the development of [MASK]?,1,,0.9765737214671107
+24367,P740,What place is the birthplace of [MASK]?,1,,0.9335823258930018
+24366,P740,What place hosted the establishment of [MASK]?,1,,1.050300750361412
+24365,P740,What place gave rise to the formation of [MASK]?,1,0.8951911213259959,1.09066179649258
+24363,P740,What place did the establishment of the [MASK] transpire?,1,0.8798419097540773,0.879841909754075
+24357,P740,What place did [MASK] create their musical group?,1,,1.1113675853622365
+24355,P740,What place did [MASK] come from originally?,1,,1.018041466025351
+24354,P740,What place did [MASK] call home when he began his career?,1,,1.0333089281870844
+24311,P740,What is the progenitor of [MASK]?,1,,0.9036868874821203
+24309,P740,What is the place where [MASK] came together?,1,,0.9571459960849409
+24190,P740,What area saw the establishment of [MASK]?,1,,1.0124234462458088
+24301,P740,What is the origination of the [MASK]?,1,,1.1840070854866886
+24236,P740,What environment did [MASK] originate from?,1,,0.8707664401396699
+24235,P740,What country was the birthplace of [MASK]?,1,,1.0775215450375635
+24233,P740,What country was [MASK] from?,1,,0.9797703185105617
+24231,P740,What country hosted the start of [MASK]?,1,,1.1830085805431918
+24230,P740,What country hosted the formation of the [MASK]?,1,,1.024756145803399
+24229,P740,What country did [MASK] get its start in?,1,,1.0933881290095955
+24225,P740,What city was the first home of [MASK]?,1,,0.8884316647718079
+24223,P740,What city was the [MASK] established in?,1,,1.055655911387381
+24222,P740,What city was [MASK] from?,1,,1.0633324152701582
+24220,P740,What city was [MASK] born in?,1,,0.9470746358656577
+24219,P740,What city served as the founding site of [MASK]?,1,,1.210804990306756
+24216,P740,What city saw the emergence of [MASK]?,1,,1.1562134607692895
+24215,P740,What city or state was [MASK] from originally?,1,,1.0319318653527696
+24213,P740,What city or country hosted the founding of [MASK]?,1,,1.0702686323040704
+24208,P740,What city did [MASK] start in?,1,,0.9280008313958938
+24204,P740,What birthplace does [MASK] have?,1,,1.060093107234923
+24199,P740,What area was [MASK] set up?,1,,1.0273254026372036
+24198,P740,What area was [MASK] produced in?,1,,0.9154478956836265
+24197,P740,What area was [MASK] from?,1,,1.1623111280133689
+24193,P740,What area spawned [MASK]?,1,,0.9166638628117179
+24192,P740,What area saw the rise of [MASK]?,1,,0.9491563569989881
+24240,P740,What geographical area is the [MASK] from?,1,0.939620617929948,1.1041417064012906
+24243,P740,What geographical area was [MASK] founded in?,1,,1.1142182495425126
+24246,P740,What initiated the formation of [MASK]?,1,,0.875496018194071
+24274,P740,What is the geographical source of the [MASK]?,1,0.8897763800878005,0.8897763800878014
+24300,P740,What is the originating city of [MASK]?,1,1.177657888007004,1.0297366524840688
+24298,P740,What is the original location of the [MASK]?,1,,0.9969472429590631
+24294,P740,What is the origin of the [MASK] organization?,1,,0.8437455509456653
+24293,P740,What is the origin of the [MASK] group?,1,,1.1696055323384178
+24291,P740,What is the origin of [MASK]'s start?,1,,1.1518049089765214
+24284,P740,What is the location of [MASK]'s beginnings?,1,,1.0448339337255053
+24283,P740,What is the locale of [MASK]'s origin?,1,,1.0587882033867764
+24280,P740,What is the inaugural site of the [MASK]?,1,,1.016192504709848
+24279,P740,What is the history of the founding of [MASK]?,1,,0.9206874443066053
+24273,P740,What is the geographic site of [MASK]'s founding?,1,,1.0710706807348909
+24247,P740,What is [MASK]'s origin story?,1,,0.8862894082597144
+24272,P740,What is the geographic origin of the [MASK]?,1,0.8974570655974712,0.8974570655974653
+24271,P740,What is the founding point of [MASK]?,1,,0.8795878538606408
+24270,P740,What is the founding locale of [MASK]?,1,,0.9102620895213978
+24266,P740,What is the formation point of [MASK]?,1,1.044651701617757,1.010951230934963
+24262,P740,What is the establishing place of [MASK]?,1,,1.027483155151564
+24257,P740,What is the city of origin of [MASK]?,1,,0.9868290095420152
+24252,P740,What is the basis of [MASK]?,1,0.8819151079393522,0.8819151079393522
+24250,P740,What is the base of [MASK]?,1,,0.8834884390137027
+24248,P740,What is [MASK]'s source of origin?,1,,0.9028568137826033
+24708,P740,Which place was responsible for the formation of [MASK]?,1,,0.9537211881009546

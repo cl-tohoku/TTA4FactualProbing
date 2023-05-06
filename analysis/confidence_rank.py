@@ -17,7 +17,7 @@ def bin_rank(df):
 
 
 def main():
-    folder = 'v2.11d.4'
+    folder = 'v2.11d.2'
     filepath_before = 'cache/{}/evaluate_original.pkl'.format(folder)
     filepath_after = 'cache/{}/evaluate_all.pkl'.format(folder)
 

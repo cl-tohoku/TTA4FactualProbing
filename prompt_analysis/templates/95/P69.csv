@@ -1,0 +1,680 @@
+,p,template,fact_id,effect_gold,effect_top
+22806,P69,What educational institutions did [MASK] attend?,118,,1.062192236069521
+22803,P69,What school did [MASK] attend?,109,,0.9896087276808226
+22804,P69,What educational background does [MASK] have?,75,,0.935175215061459
+22805,P69,What was the educational background of [MASK]?,72,,0.982381336829239
+22808,P69,Where did [MASK] receive his education?,66,,1.0585757521657457
+22809,P69,What was [MASK]'s educational background?,53,,0.9851727048402467
+22815,P69,What school did [MASK] go to?,51,,1.0091509869984527
+22810,P69,What kind of education did [MASK] receive?,42,,0.9493079330518674
+22813,P69,What was [MASK]'s educational history?,39,0.9063636345635465,0.9591774344280214
+22811,P69,What kind of schooling did [MASK] receive?,37,,0.9586973612804743
+22814,P69,Where did [MASK] receive his schooling?,36,,0.9739178191569245
+22812,P69,Where did [MASK] study?,32,,1.0487107075446005
+22822,P69,What educational institution did [MASK] go to?,30,,1.0363303106051838
+22818,P69,Where did [MASK] gain his knowledge?,29,,0.9051421746208268
+22848,P69,What educational experience did [MASK] have?,27,,0.9429619455535599
+22817,P69,What educational background did [MASK] have?,27,,0.9518638801921161
+23202,P69,What did [MASK] study in?,27,,0.9684183612369552
+22830,P69,What educational establishment did [MASK] attend?,26,,1.0671547626221058
+22828,P69,What were [MASK]'s educational qualifications?,23,,0.8978447480654713
+22847,P69,What college or university did [MASK] attend?,22,,0.9932199407844112
+22864,P69,What institution did [MASK] study at?,20,,1.0430740509119507
+22824,P69,What educational establishment did [MASK] go to?,20,,1.073781809228746
+22829,P69,What was the educational history of [MASK]?,20,0.8777105471035149,0.9594172610292734
+22821,P69,What was [MASK]'s educational experience?,18,0.9774311651254968,1.0175888899237557
+22823,P69,Where did [MASK] learn?,18,,0.9135564977973978
+22887,P69,What institution did [MASK] attend for his education?,17,,1.0501777999567536
+22826,P69,What kind of schooling did [MASK] have?,17,,0.94136630965112
+22825,P69,What was the source of [MASK]'s education?,17,,1.036125129042549
+22832,P69,What universities did [MASK] attend?,16,,1.0528683461787784
+22834,P69,What educational path did [MASK] take?,16,,0.9881115956688008
+22840,P69,What college did [MASK] go to?,16,,0.9830835154292404
+22833,P69,Where did [MASK] get his education?,15,,1.050991424399203
+22827,P69,What type of education did [MASK] receive?,15,0.9230161291088521,0.9420492551691021
+22839,P69,Where did [MASK] get his schooling?,14,,0.9532373962305529
+22838,P69,Where did [MASK] gain his education?,14,,1.0279397832328938
+22883,P69,Where did [MASK] receive his academic training?,13,,0.988681973774889
+22844,P69,Where did [MASK] obtain his education?,13,,1.0561759109036168
+22837,P69,What was the educational path of [MASK]?,12,0.8804760607927613,0.9625263578634503
+22836,P69,What type of schooling did [MASK] receive?,12,,0.9481892789090236
+22843,P69,What was [MASK]'s alma mater?,12,,0.9736734891737782
+22842,P69,What educational opportunities did [MASK] have?,12,,0.9943136035017354
+22846,P69,What academic institutions did [MASK] attend?,12,0.915063574482129,1.034789128017443
+22857,P69,What universities did [MASK] go to?,11,,1.0093229022683285
+22890,P69,What learning environment did [MASK] experience?,11,,0.9748034709582254
+22853,P69,What educational background does [MASK] possess?,11,,0.9003272916417058
+22858,P69,What were the educational backgrounds of [MASK]?,10,,0.9652221561686096
+22934,P69,What institution of higher learning did [MASK] attend?,10,,1.082439623440795
+22860,P69,What were the educational qualifications of [MASK]?,10,,0.933949938253243
+22845,P69,What was the source of [MASK]'s learning?,10,0.918723992963205,0.9155625634258356
+22902,P69,What did [MASK] learn in school?,9,,0.9143747888276279
+22896,P69,Where did [MASK] receive instruction?,9,,0.9890716775015134
+22850,P69,Where did [MASK] go to school?,9,0.8933600977444737,1.0275922026365445
+22906,P69,What institution did [MASK] receive his education from?,9,,1.0787576976572861
+22852,P69,Where was [MASK] taught?,9,,0.9814319396799358
+22854,P69,What kind of education did [MASK] have?,9,0.9554617153737155,1.0205873941462893
+22859,P69,What were the educational experiences of [MASK]?,9,,1.0552376874258755
+22861,P69,Who taught [MASK]?,8,0.8858382382879649,0.8742769639937433
+22867,P69,What was the academic background of [MASK]?,8,,0.9730621036710049
+22916,P69,Where did [MASK] gain his qualifications?,8,,0.9702301072890217
+22877,P69,What school did [MASK] receive his education from?,8,,0.9991123218295834
+22856,P69,What type of schooling did [MASK] have?,8,,0.9442231463406652
+22886,P69,What educational qualifications does [MASK] have?,8,,0.9062163446597287
+22866,P69,What university did [MASK] go to?,7,2.294088944569715,1.072938983113517
+22911,P69,What was the educational setting for [MASK]?,7,,0.946208220894997
+22929,P69,What educational qualifications did [MASK] possess?,7,,0.9188236280895669
+22865,P69,What kind of learning did [MASK] receive?,7,,0.9228372315278811
+22862,P69,What academic background does [MASK] have?,7,,0.9285186118083654
+22885,P69,Which school did [MASK] attend?,7,,1.0355301756859563
+22863,P69,What educational opportunities did [MASK] pursue?,7,,1.027468488960878
+22941,P69,What universities did [MASK] graduate from?,7,,1.0613135705614059
+22958,P69,Where was [MASK]'s schooling?,7,,0.9189392162768011
+22872,P69,What educational facilities did [MASK] use?,7,,0.9901871101764471
+22868,P69,What were [MASK]'s educational experiences?,7,0.8899320486339878,1.0233626304629984
+22939,P69,What school did [MASK] graduate from?,6,,1.1018967186587936
+22928,P69,What educational path did [MASK] pursue?,6,,0.9531459527561297
+23010,P69,What learning institutions did [MASK] go to?,6,,1.0262174201033787
+22914,P69,What were the educational credentials of [MASK]?,6,,0.9010936127155399
+22909,P69,What sort of education did [MASK] receive?,6,,0.9976997177733354
+22908,P69,What kind of training did [MASK] receive?,6,,0.9364659503086745
+22893,P69,Where did [MASK] acquire his knowledge?,6,,0.9220945168696734
+22904,P69,What educational facility did [MASK] attend?,6,,1.0749121896327936
+22892,P69,Where did [MASK] acquire his education?,6,,1.0467969895437352
+22874,P69,What educational opportunities did [MASK] take advantage of?,6,,0.9567899584102965
+22879,P69,What schools did [MASK] study at?,6,0.8910887434736368,1.0711262002169804
+22881,P69,Where did [MASK] attend school?,6,,0.9988594323758884
+22992,P69,What educational training did [MASK] receive?,6,,1.0828245555841847
+22952,P69,Where did [MASK] obtain his schooling?,5,,1.0570551522651002
+22894,P69,Where did [MASK] gain her knowledge?,5,,0.9085116222175019
+22998,P69,What institution was [MASK] educated at?,5,,1.0506351549843345
+23037,P69,What was the educational institution [MASK] attended?,5,,1.042791438114352
+23049,P69,What were the educational institutions [MASK] attended?,5,,1.035476903433115
+22915,P69,Where did [MASK] gain her education?,5,,1.0601206696484675
+22901,P69,What college did [MASK] graduate from?,5,,1.0231110644755792
+22891,P69,What was the educational experience of [MASK]?,5,,0.9928920932899636
+22938,P69,What learning institutions did [MASK] attend?,5,,1.0569348692032183
+22913,P69,What were [MASK]'s educational credentials?,5,,0.9199158525324865
+23063,P69,Where was [MASK] educated?,5,,1.0085649537815324
+22895,P69,Where did [MASK] receive an education?,5,0.9010027469344506,1.079332002948124
+22925,P69,What educational facility did [MASK] go to?,5,1.1505185412745593,1.067083335417109
+22924,P69,What educational establishment did [MASK] graduate from?,5,,1.042743101015998
+22897,P69,Where was [MASK] schooled?,5,0.8807733938650049,0.9570884487305433
+22927,P69,What educational path did [MASK] follow?,4,,0.9290982184697825
+22917,P69,Where did [MASK] get her education?,4,0.9162608940281142,1.052270025394326
+22959,P69,From which school did [MASK] graduate?,4,,1.0689567999658576
+22960,P69,In what educational setting was [MASK]?,4,,0.8967587584438806
+22962,P69,In what school was [MASK] educated?,4,,1.0433668951086013
+23042,P69,What was the place of [MASK]'s education?,4,,1.049691937279233
+22972,P69,What college did [MASK] study at?,4,,1.0529610914345278
+23012,P69,What school did [MASK] go to for her education?,4,,0.9095672761606253
+23050,P69,What were the educational institutions [MASK] studied at?,4,,1.0704540276812042
+22910,P69,What type of learning did [MASK] receive?,4,0.8893988174735225,0.8996178462335708
+23001,P69,What kind of academic training did [MASK] have?,4,,0.9478727975949356
+22898,P69,How was [MASK] educated?,4,0.9303763040439087,1.0079585599577776
+22900,P69,What alma mater did [MASK] have?,4,,1.012784271632542
+22918,P69,Where was [MASK] instructed?,4,,0.8876423614892909
+22955,P69,Where did [MASK] pursue his studies?,4,,1.1230999414385103
+23059,P69,Where did [MASK] receive her training?,4,,0.9431998245518716
+22912,P69,What was the source of [MASK]'s knowledge?,4,0.8880260650882137,0.8903058448681308
+22944,P69,What was [MASK]'s educational journey?,4,,1.0071487030622186
+22947,P69,What was the educational source of [MASK]?,4,,1.0239423641110674
+22920,P69,In which schools did [MASK] study?,4,,1.0176462906721577
+22899,P69,In what educational institution did [MASK] study?,4,,1.0258778501121366
+22951,P69,Where did [MASK] get his degree?,4,,1.0316133887852323
+23043,P69,What was the schooling of [MASK]?,3,,1.0128554426911676
+23040,P69,What was the learning environment of [MASK]?,3,,1.0067640696813125
+22991,P69,What educational system did [MASK] go through?,3,,0.910499724495942
+23013,P69,What school did [MASK] go to for his studies?,3,,0.9497929042036128
+23067,P69,Which school did [MASK] go to?,3,,0.976512524555098
+23056,P69,Where did [MASK] go for his education?,3,,1.064471550776219
+23011,P69,What place did [MASK] get his education?,3,,1.0546740790249396
+23084,P69,From what educational institution did [MASK] graduate?,3,,1.0686510229757473
+23008,P69,What learning experiences did [MASK] have?,3,,0.9221668833621477
+23003,P69,What kind of learning did [MASK] undertake?,3,,0.8972896499537272
+23053,P69,Where did [MASK] acquire his educational qualifications?,3,,0.9596750507103499
+23170,P69,What are [MASK]'s academic qualifications?,3,,0.9068846638308589
+23016,P69,What schools was [MASK] a student of?,3,,0.9964855908998388
+23034,P69,What was [MASK]'s schooling?,3,,0.9881582613931649
+22949,P69,Where did [MASK] gain his schooling?,3,,0.936873267322432
+22977,P69,What educational environment did [MASK] experience?,3,,1.0113160943650579
+22963,P69,In which educational institution did [MASK] attend?,3,,1.029126097363481
+22961,P69,In what institution was [MASK] schooled?,3,,1.0260150857109975
+22957,P69,Where did [MASK]'s schooling take place?,3,0.9040709039297524,0.984529075719851
+22956,P69,Where did [MASK] receive his learning?,3,,1.063491897165526
+22954,P69,Where did [MASK] pursue his education?,3,,0.9816781349426997
+22953,P69,Where did [MASK] pursue her studies?,3,0.9184534898967693,1.1192529068505574
+22950,P69,Where did [MASK] get her schooling?,3,,1.0859216784098844
+22968,P69,What alma mater was [MASK] a part of?,3,,1.0134446259884304
+22976,P69,What educational centers did [MASK] attend?,3,,0.9853821924815701
+22964,P69,In which educational institution did [MASK] receive his schooling?,3,,1.0430285299315547
+22943,P69,What university did [MASK] study at?,3,1.4342392833842281,1.017882354666032
+22919,P69,At which educational institution did [MASK] study?,3,0.8927327761696422,1.0589440470219753
+22945,P69,What was the academic history of [MASK]?,3,0.9044718027826205,0.8970620431902482
+22926,P69,What educational institutions did [MASK] study at?,3,,1.0462591204380907
+22932,P69,What institution did [MASK] attend for his schooling?,3,,1.0184268200957576
+23706,P69,Where was [MASK] academically trained?,2,,0.8866317308079041
+23280,P69,What educational institution was [MASK] enrolled in?,2,,1.0665786129628927
+23120,P69,In what institution did [MASK] receive his education?,2,,0.9972402581207761
+23454,P69,What places did [MASK] receive his education from?,2,,1.0105183711092676
+23114,P69,In what educational institution did [MASK] receive her instruction?,2,,1.0920554499725734
+23545,P69,What was [MASK]'s school history?,2,0.8950373044624739,1.0130422811163327
+23083,P69,From what educational establishment was [MASK] taught?,2,,0.9749935578503157
+23402,P69,What knowledge did [MASK] gain?,2,,0.9021515304997982
+23403,P69,What learning center did [MASK] attend?,2,,0.9474431876738427
+23393,P69,What kind of learning environment did [MASK] have?,2,,0.9189424468713057
+23449,P69,What place of learning did [MASK] attend?,2,,1.0276927790508297
+23247,P69,What educational facilities was [MASK] part of?,2,,0.9884666905721177
+23410,P69,What learning did [MASK] gain?,2,,0.9038864954349544
+23125,P69,In what places did [MASK] acquire his education?,2,,0.915734986733296
+23554,P69,What was the educational environment for [MASK]?,2,,0.9288892263832264
+23253,P69,What educational facility educated [MASK]?,2,,0.978139727342912
+22986,P69,What educational path did [MASK] go down?,2,,0.9304868354475693
+22988,P69,What educational program did [MASK] complete?,2,,0.9868457827128854
+23232,P69,What educational establishment was [MASK] a student of?,2,,1.1071536120301921
+23464,P69,What school did [MASK] attend for her education?,2,,1.0271898745182404
+23188,P69,What degree did [MASK] pursue?,2,,0.8884299612300645
+23331,P69,What formal instruction did [MASK] receive?,2,,0.8917554869932458
+23316,P69,What educational training did [MASK] have?,2,,0.9584650710608991
+23314,P69,What educational system did [MASK] experience?,2,,0.9329399215207494
+23616,P69,What were the educational facilities [MASK] attended?,2,,0.9262264012805929
+23339,P69,What institute of learning did [MASK] go to?,2,,1.07398203178799
+23310,P69,What educational setting did [MASK] inhabit?,2,,0.9168085850209841
+23219,P69,What educational credentials did [MASK] possess?,2,,0.9219435543110233
+23345,P69,What institution did [MASK] go to for schooling?,2,,0.950832801868281
+23663,P69,Where did [MASK] get her academic training?,2,,1.0975887531118245
+23157,P69,What academic institutions did [MASK] study at?,2,,1.061035859226037
+23155,P69,What academic institution did [MASK] go to?,2,,1.0544871650620942
+23350,P69,What institution of higher education did [MASK] attend?,2,,1.0441172673361931
+23668,P69,Where did [MASK] get his educational training?,2,,0.96927622235789
+23351,P69,What institution taught [MASK]?,2,,0.9727491900516192
+23352,P69,What institution was [MASK] schooled at?,2,,0.9762983781424268
+23480,P69,What schooling did [MASK] pursue?,2,,1.0215185136700695
+23679,P69,Where did [MASK] obtain her academic training?,2,,0.9163322353119863
+23477,P69,What school was [MASK] enrolled in?,2,,1.056150090277787
+23475,P69,What school was [MASK] a student at?,2,,1.0629621918090506
+23139,P69,In which institutions did [MASK] study?,2,,0.9363487846957115
+23369,P69,What is [MASK]'s educational attainment?,2,,0.9488532349896703
+23227,P69,What educational establishment did [MASK] visit?,2,,1.1265070235199515
+23373,P69,What is the background of [MASK]'s education?,2,,0.9861964300436488
+23277,P69,What educational institution was [MASK] a student of?,2,,1.0250280672488823
+23079,P69,At which school did [MASK] receive his education?,2,,0.9360865311759319
+23283,P69,What educational institutions did [MASK] frequent?,2,,1.1369877085422895
+23276,P69,What educational institution shaped [MASK]?,2,,1.0867366397596756
+23017,P69,What sort of education did [MASK] have?,2,,0.9647809612942921
+23035,P69,What was the academic setting for [MASK]?,2,,1.00294325354702
+23563,P69,What was the educational institution for [MASK]?,2,,0.9814114860905513
+23033,P69,What was [MASK]'s place of learning?,2,,0.9725082365146023
+23031,P69,What was [MASK]'s academic training?,2,,1.1284928213827423
+23030,P69,What was [MASK]'s academic background?,2,,0.916773125165095
+23028,P69,What universities was [MASK] educated at?,2,,0.9718638063339284
+23027,P69,What universities did [MASK] study at?,2,1.4582453845842351,1.0300566649128484
+23024,P69,What type of learning did [MASK] pursue?,2,,0.9231190840001733
+23023,P69,What type of learning did [MASK] experience?,2,0.858733943253583,0.8587339432535831
+23022,P69,What type of learning did [MASK] engage in?,2,,0.8982845383929419
+23020,P69,What type of education did [MASK] have?,2,,0.9629909364071483
+23018,P69,What sort of schooling did [MASK] receive?,2,,0.9509224333576097
+22966,P69,What academic qualifications does [MASK] have?,2,,0.8726460485195244
+22965,P69,What academic path did [MASK] take?,2,,0.943467604003282
+22967,P69,What alma mater does [MASK] have?,2,0.9042185325518846,0.937277683830013
+22978,P69,What educational establishments did [MASK] go through?,2,,1.0467756062904825
+23007,P69,What learning environment was [MASK] a part of?,2,,0.9031456908026856
+23005,P69,What kind of schooling did [MASK] go through?,2,,0.946563521824985
+22981,P69,What educational facilities did [MASK] have access to?,2,,1.0243290641013814
+22982,P69,What educational facilities did [MASK] receive his education from?,2,0.8973016389307661,0.9423074932789448
+22983,P69,What educational institutions has [MASK] attended?,2,,1.1809752022609223
+22996,P69,What institution did [MASK] gain his education from?,2,,1.0868022750482447
+22994,P69,What higher education did [MASK] have?,2,,0.9299476007728031
+22984,P69,What educational opportunities did [MASK] avail of?,2,,1.027969171708071
+22985,P69,What educational opportunities was [MASK] exposed to?,2,0.9367855655537884,0.9816837593372941
+22989,P69,What educational program did [MASK] go through?,2,,0.9612684903120365
+23036,P69,What was the educational foundation of [MASK]?,2,,0.9063652300596308
+23032,P69,What was [MASK]'s educational path?,2,,1.105680192559661
+23048,P69,What were the educational achievements of [MASK]?,2,,1.0300841858995258
+23045,P69,What were [MASK]'s educational backgrounds?,2,0.9188177202620225,1.0088166211358858
+23264,P69,What educational institute was [MASK] a part of?,2,,1.086360068937557
+23054,P69,Where did [MASK] acquire his learning?,2,0.9068654635497659,0.9256218911693114
+23271,P69,What educational institution did [MASK] receive her schooling from?,2,,0.939595083499175
+23074,P69,At what school did [MASK] learn?,2,,0.9339284430214374
+23047,P69,What were the academic institutions [MASK] attended?,2,,0.9930829249591365
+23046,P69,What were the academic credentials of [MASK]?,2,0.9141470735751942,0.8899836655508879
+23055,P69,Where did [MASK] get his learning?,2,1.0506212749795485,0.9830732406150902
+23058,P69,Where did [MASK] obtain his educational qualifications?,2,,1.0269516387918
+23064,P69,Where was [MASK]'s education obtained?,2,,1.2128334995380574
+23041,P69,What was the origin of [MASK]'s learning?,2,,0.9282834547953163
+23065,P69,Where was [MASK]'s learning experience?,2,,0.9538036519746338
+23066,P69,Which educational background does [MASK] have?,2,,0.9187327630507072
+23039,P69,What was the educational level of [MASK]?,2,0.9171868899281653,0.924242176959444
+23747,P69,Who educated [MASK]?,2,,0.9035680440064779
+23511,P69,What type of educational system did [MASK] follow?,1,,0.851453361090835
+23557,P69,What was the educational establishment [MASK] attended?,1,,1.0137197373514673
+23521,P69,What type of training did [MASK] receive?,1,,0.9252514989621237
+23520,P69,What type of schooling did [MASK] undertake?,1,,0.9644283554385849
+23538,P69,What was [MASK]'s academic history?,1,,0.8780027365589886
+23518,P69,What type of schooling did [MASK] go through?,1,,0.8961929091994174
+23556,P69,What was the educational environment that [MASK] was exposed to?,1,,0.9257788216793239
+23517,P69,What type of learning environment was [MASK] exposed to?,1,,1.0279132475282902
+23516,P69,What type of learning did [MASK] partake in?,1,,0.9152514185566493
+23515,P69,What type of learning did [MASK] have?,1,,0.9094006270343701
+23514,P69,What type of learning did [MASK] go through?,1,,0.9102938285488908
+23558,P69,What was the educational establishment where [MASK] studied?,1,,1.0456622637760962
+23561,P69,What was the educational facility where [MASK] studied?,1,,1.094456011906367
+23513,P69,What type of learning did [MASK] acquire?,1,,0.8771450953551861
+23522,P69,What universities conferred degrees to [MASK]?,1,,0.975306263811635
+23526,P69,What universities did [MASK] visit?,1,0.90869947232774,1.0514673642236612
+23523,P69,What universities did [MASK] acquire a degree from?,1,,0.9976381741645785
+23524,P69,What universities did [MASK] go to for his education?,1,,0.9556801396835556
+23541,P69,What was [MASK]'s educational institution?,1,,0.9835471406582166
+23533,P69,What university did [MASK] go to for his studies?,1,,1.0415728198028538
+23532,P69,What university did [MASK] complete his studies at?,1,,1.1131938860237618
+23542,P69,What was [MASK]'s educational setting?,1,,0.998841957953659
+23531,P69,What universities were part of [MASK]'s academic experience?,1,,1.0049329741938449
+23560,P69,What was the educational facility that [MASK] attended?,1,,0.942621400048897
+23543,P69,What was [MASK]'s learning background?,1,,0.922219355608036
+23530,P69,What universities was [MASK] taught at?,1,,0.9287397062781441
+23529,P69,What universities was [MASK] affiliated with?,1,,1.062270811069274
+23527,P69,What universities has [MASK] attended?,1,,0.9951027516739854
+23546,P69,What was [MASK]'s school or university?,1,2.410811785859108,1.0251200642808191
+23549,P69,What was the academic arena that [MASK] experienced?,1,,0.927465647813042
+23550,P69,What was the academic training of [MASK]?,1,,0.9353415868753248
+23553,P69,What was the educational attainment of [MASK]?,1,,0.9105291058751762
+23536,P69,What venues of learning did [MASK] visit?,1,0.9178430695292596,1.0042514501605382
+23512,P69,What type of educational system was [MASK] part of?,1,0.8550622164548708,0.8550622164548708
+23466,P69,What school did [MASK] go to for her degree?,1,,1.0143649784522728
+23508,P69,What type of education did [MASK] pursue?,1,,0.9664802117617797
+23462,P69,What qualifications does [MASK] hold?,1,,0.8789140642869163
+23456,P69,What places did [MASK] received his higher learning from?,1,,1.079101887803112
+23455,P69,What places did [MASK] receive his schooling from?,1,,0.9945999632147408
+23453,P69,What places did [MASK] learn at?,1,,1.1063460765860769
+23451,P69,What place was [MASK] educated?,1,,1.0790066867746335
+23450,P69,What place of learning did [MASK] go to?,1,0.9124563402603398,1.0216900710011187
+23448,P69,What place of education did [MASK] attend?,1,,1.0598021330585323
+23447,P69,What place did [MASK] obtain his education from?,1,,1.0436655185881472
+23445,P69,What place did [MASK] get his schooling?,1,,1.079722461264473
+23444,P69,What place did [MASK] acquire an education?,1,0.8819678531433167,0.8819678531433139
+23442,P69,What locations did [MASK] go for his educational needs?,1,,0.9215082153295256
+23441,P69,What locations did [MASK] attend for schooling?,1,,0.9075348034767726
+23440,P69,What location did [MASK] gain his education from?,1,,0.8855874840705971
+23439,P69,What level of education did [MASK] attain?,1,,0.9229518080674202
+23438,P69,What learning systems did [MASK] study in?,1,,0.895124518227176
+23437,P69,What learning sources influenced [MASK]?,1,,0.9149225792351228
+23436,P69,What learning opportunities did [MASK] take part in?,1,0.9137308247822086,0.9137308247822089
+23435,P69,What learning opportunities did [MASK] pursue?,1,,0.9418361275193654
+23434,P69,What learning opportunities did [MASK] have?,1,,0.8623846146673005
+23433,P69,What learning institutions was [MASK] a part of?,1,,1.0876671680830619
+23432,P69,What learning institutions did [MASK] receive his education from?,1,,1.009314133534142
+23431,P69,What learning institutions did [MASK] receive her education at?,1,,1.0185306885582006
+23430,P69,What learning institutions did [MASK] have the privilege to attend?,1,,0.9809640246725726
+23428,P69,What learning institutions did [MASK] frequent?,1,,0.9106260187429394
+23458,P69,What places of learning did [MASK] frequent to become educated?,1,,0.9386215239426697
+23463,P69,What scholarly institutions did [MASK] attend?,1,,0.9734679516837149
+23507,P69,What type of education did [MASK] go through?,1,,0.9057981420342174
+23465,P69,What school did [MASK] attend for her studies?,1,,0.97685937684383
+23506,P69,What type of education did [MASK] get?,1,,0.8670951202735155
+23505,P69,What type of background does [MASK] have in terms of schooling?,1,,0.9074159020165008
+23504,P69,What studies did [MASK] pursue?,1,,0.8942256549308759
+23503,P69,What sort of training did [MASK] receive?,1,0.9535119582493915,0.9535119582493911
+23502,P69,What sort of studies did [MASK] undertake?,1,,0.9134504032076767
+23501,P69,What sort of schooling did [MASK] undergo?,1,,1.017525102319058
+23500,P69,What sort of learning did [MASK] receive?,1,,0.9038704971713382
+23499,P69,What sort of learning did [MASK] experience?,1,,0.9395482370638556
+23498,P69,What sort of educational institution was [MASK] a part of?,1,,0.8773677096994565
+23496,P69,What sort of education does [MASK] have?,1,,1.0808386832640062
+23495,P69,What sort of education did [MASK] acquire?,1,,0.9511945111151795
+23494,P69,What schools was [MASK] schooled in?,1,,0.9603500433867928
+23492,P69,What schools taught [MASK]?,1,,0.9202656067822267
+23489,P69,What schools did [MASK] receive instruction at?,1,,1.0230016685475967
+23488,P69,What schools did [MASK] receive his schooling from?,1,,1.1604611234848992
+23486,P69,What schools did [MASK] obtain his education from?,1,0.8971376072950628,0.8971376072950527
+23484,P69,What schools did [MASK] complete his studies at?,1,,1.045020275204368
+23483,P69,What schools did [MASK] attend for his learning?,1,,1.0854214601724534
+23481,P69,What schooling was received by [MASK]?,1,,0.984895361622234
+23479,P69,What schooling did [MASK] obtain?,1,,0.9478164013104734
+23471,P69,What school did [MASK] matriculate from?,1,,1.0511279864857341
+23470,P69,What school did [MASK] go to in order to gain an education?,1,,0.9338448424069877
+23469,P69,What school did [MASK] go to for his schooling?,1,,1.0128709703812024
+23562,P69,What was the educational heritage of [MASK]?,1,,1.0690882032638933
+23709,P69,Where was [MASK] formally trained?,1,,1.0404466420521201
+23566,P69,What was the educational institution where [MASK] was educated?,1,,1.0157138576797042
+23681,P69,Where did [MASK] obtain his academic qualifications?,1,,0.9483007502270225
+23703,P69,Where did [MASK]'s learning take place?,1,,0.9816792565428886
+23702,P69,Where did [MASK]'s educational journey take place?,1,,0.94252006596478
+23701,P69,Where did [MASK] take her classes?,1,0.9189376746672536,0.918937674667254
+23696,P69,Where did [MASK] receive his formal training?,1,,0.8846518118094412
+23695,P69,Where did [MASK] receive his educational training?,1,,1.2086657190598307
+23693,P69,Where did [MASK] receive his degree?,1,,1.025487574487854
+23691,P69,Where did [MASK] receive her qualifications?,1,,1.1137945068392787
+23689,P69,Where did [MASK] receive her education from?,1,,1.0131627719428768
+23687,P69,Where did [MASK] pursue his schooling?,1,,1.164385282861487
+23685,P69,Where did [MASK] obtain his learning?,1,,1.1082514037300641
+23684,P69,Where did [MASK] obtain his knowledge?,1,,1.0047639023303445
+23683,P69,Where did [MASK] obtain his degree?,1,,0.9144322324002931
+23678,P69,Where did [MASK] hone his knowledge?,1,,0.8960910834663107
+23705,P69,Where did the learning of [MASK] take place?,1,,0.9199753908252778
+23677,P69,Where did [MASK] hone his academic skills?,1,,1.0066600196388051
+23676,P69,Where did [MASK] go to college?,1,,1.0409901671419846
+23675,P69,Where did [MASK] go for his schooling?,1,,1.0989419724479812
+23673,P69,Where did [MASK] get trained?,1,,0.8912164358389266
+23667,P69,Where did [MASK] get his educational qualification?,1,,1.0190647024458999
+23665,P69,Where did [MASK] get his academic qualifications?,1,,1.0413438138887436
+23662,P69,Where did [MASK] garner his education?,1,,1.0751745196615332
+23656,P69,Where did [MASK] gain her training?,1,,0.918063731857622
+23655,P69,Where did [MASK] gain her academic qualifications?,1,,1.0296467815413581
+23654,P69,Where did [MASK] further his education?,1,,0.8973871518988799
+23651,P69,Where did [MASK] earn his degree?,1,,1.037544191272714
+23650,P69,Where did [MASK] develop his academic training?,1,0.9355014644682467,1.1061677736713795
+23704,P69,Where did [MASK]'s training come from?,1,0.9113065240091353,0.9113065240091016
+23425,P69,What learning facilities did [MASK] take advantage of?,1,0.9379140651763784,1.0124086902761422
+23648,P69,Where did [MASK] build his educational foundation?,1,,1.1448893601361543
+23733,P69,Which institutions did [MASK] receive instruction from?,1,,0.8692068915737114
+23748,P69,Who provided [MASK] with his educational training?,1,,0.8933819785234682
+23746,P69,Which universities did [MASK] receive his degree from?,1,,1.065013286552814
+23745,P69,Which universities did [MASK] graduate from?,1,,0.8950348137693649
+23744,P69,Which schools or universities did [MASK] go to?,1,,0.9683037419177892
+23743,P69,Which schools did [MASK] receive his instruction from?,1,,0.9742440198811011
+23741,P69,Which school was [MASK] a student at?,1,,1.0362516458564504
+23740,P69,Which school taught [MASK]?,1,,0.880439670390291
+23739,P69,Which school did [MASK]'s education take place?,1,,0.900466127199867
+23738,P69,Which learning institution did [MASK] attend?,1,,0.9921103971060438
+23737,P69,Which learning environment did [MASK] receive his education from?,1,,0.8937595682821182
+23735,P69,Which institutions was [MASK] educated at?,1,1.030062035900585,1.030062035900585
+23734,P69,Which institutions taught [MASK]?,1,1.3304652227400349,0.9969965707131935
+23732,P69,Which institution did [MASK] go to for higher learning?,1,,1.0240542197689289
+23711,P69,Where was [MASK]'s educational background?,1,,0.9628575402082564
+23731,P69,Which educational setting did [MASK] frequent?,1,,1.1689201787142935
+23726,P69,Which educational facility did [MASK] go to?,1,,1.0612592942979746
+23725,P69,Which educational facility did [MASK] get his training from?,1,0.9189714782817743,1.0900035677646107
+23724,P69,Which educational facilities did [MASK] partake in?,1,0.8997185244261299,1.1419229909878978
+23723,P69,Which educational establishment provided [MASK] with his education?,1,,0.9882032620199032
+23722,P69,Which college did [MASK] attend?,1,,1.225388004133438
+23721,P69,Which academic institutions did [MASK] attend?,1,,0.9539336161265097
+23720,P69,Which academic establishments was [MASK] affiliated with?,1,,1.1363357511522345
+23715,P69,Where was [MASK]'s learning based?,1,,0.9118138478659352
+23714,P69,Where was [MASK]'s learning and training acquired?,1,,0.9658916942394121
+23713,P69,Where was [MASK]'s formal learning?,1,,1.1532685137349978
+23712,P69,Where was [MASK]'s educational experience?,1,,1.0373804465084115
+23649,P69,Where did [MASK] complete his studies?,1,,1.2038681265706876
+23647,P69,Where did [MASK] attend in order to get his education?,1,,0.9651791821609162
+23567,P69,What was the educational institution where [MASK] was trained?,1,,1.0289220024975287
+23587,P69,What was the origin of [MASK]'s training?,1,,0.893713646466868
+23607,P69,What were the academic facilities where [MASK] learned?,1,,0.9087074331235869
+23605,P69,What were [MASK]'s educational institutions?,1,,0.9447421797965375
+23604,P69,What were [MASK]'s educational achievements?,1,0.9211007827475517,1.2735535735284391
+23603,P69,What were [MASK]'s educational accomplishments?,1,,0.9461115926345888
+23602,P69,What were [MASK]'s alma mater?,1,,1.0741042702479775
+23600,P69,What were [MASK]' studies?,1,,0.9249602126695122
+23598,P69,What was the university that [MASK] studied at?,1,,0.99447625678382
+23597,P69,What was the source of education for [MASK]?,1,,1.1276093885045275
+23595,P69,What was the site of [MASK]'s learning?,1,,1.125890052348703
+23594,P69,What was the setting in which [MASK] was instructed?,1,,0.9350008041278809
+23592,P69,What was the school where [MASK] was educated?,1,,0.8854750163459729
+23589,P69,What was the place where [MASK] received her learning?,1,,1.0832364748711498
+23585,P69,What was the origin of [MASK]'s education?,1,,0.8880030426068338
+23609,P69,What were the academic settings in which [MASK] was trained?,1,,0.92694383343968
+23583,P69,What was the name of the school [MASK] went to?,1,,0.8898107288737535
+23581,P69,What was the learning institution where [MASK] received his education?,1,,1.084392480565912
+23580,P69,What was the learning institution that [MASK] studied at?,1,,1.0614614232408643
+23577,P69,What was the highest level of education [MASK] attained?,1,,0.9018782333977938
+23576,P69,What was the educational system in which [MASK] was educated?,1,,0.9198857583619626
+23575,P69,What was the educational site where [MASK] was taught?,1,,1.0059503076914704
+23573,P69,What was the educational progression of [MASK]?,1,,0.9157136014929996
+23572,P69,What was the educational path taken by [MASK]?,1,,0.9009702679702563
+23571,P69,What was the educational path [MASK] took?,1,0.9242245908773487,0.9242245908773487
+23570,P69,What was the educational path [MASK] followed?,1,,1.0015612646929344
+23569,P69,What was the educational location for [MASK]?,1,,1.0578767660995896
+23568,P69,What was the educational journey of [MASK]?,1,,1.0084801997686943
+23608,P69,What were the academic institutions [MASK] studied at?,1,,0.9496145080567577
+23611,P69,What were the educational centers that [MASK] was educated at?,1,,0.9233313873845527
+23646,P69,Where did [MASK] attain his education from?,1,,1.1202794317712441
+23629,P69,What were the learning facilities [MASK] was taught at?,1,,0.9128422545651257
+23645,P69,Where did [MASK] advance his education?,1,,0.8928989296437826
+23644,P69,Where did [MASK] acquire his schooling?,1,,1.0421264675609756
+23643,P69,Where did [MASK] acquire his degree?,1,,0.9822597594678691
+23642,P69,Where did [MASK] acquire his academic qualifications?,1,,0.9523927233403139
+23637,P69,What were the sources of [MASK]'s education?,1,,0.9502964897324543
+23636,P69,What were the places where [MASK] was educated?,1,,0.979321757994224
+23635,P69,What were the places where [MASK] studied?,1,,1.0156323720719134
+23634,P69,What were the places where [MASK] got his education?,1,,1.0560210112018404
+23633,P69,What were the places of learning for [MASK]?,1,,0.9896787701138667
+23632,P69,What were the places of learning [MASK] was exposed to?,1,0.909953788149427,0.9099537881494257
+23631,P69,What were the places of [MASK]'s schooling?,1,,0.8933222954547942
+23630,P69,What were the learning institutions of [MASK]?,1,,1.0215845549037788
+23628,P69,What were the learning experiences of [MASK]?,1,,0.8812235291776586
+23612,P69,What were the educational circumstances for [MASK]?,1,,0.8896942835475712
+23627,P69,What were the educational sites [MASK] was part of?,1,0.9283172683995218,1.1676324471505124
+23626,P69,What were the educational requirements of [MASK]?,1,,0.9016604329155232
+23625,P69,What were the educational origins of [MASK]?,1,,0.9047765092771106
+23624,P69,What were the educational milestones of [MASK]?,1,0.8894488872768548,0.8894488872768435
+23623,P69,What were the educational institutions that [MASK] enrolled in?,1,,1.281791589784904
+23622,P69,What were the educational institutions of [MASK]?,1,,0.8747352819610252
+23620,P69,What were the educational institutions [MASK] was enrolled in?,1,,1.1094651925318217
+23619,P69,What were the educational foundations of [MASK]?,1,,0.9180645698476805
+23617,P69,What were the educational facilities accessed by [MASK]?,1,,1.1524798989714384
+23615,P69,What were the educational establishments that [MASK] went to?,1,,1.0081743766926334
+23614,P69,What were the educational establishments that [MASK] studied at?,1,,1.1145448215003155
+23613,P69,What were the educational establishments that [MASK] attended?,1,,1.0327073993772717
+23426,P69,What learning institution did [MASK] get his degree from?,1,,0.94299605967792
+23272,P69,What educational institution did [MASK] receive his degree from?,1,1.5926979085730495,1.001390601643448
+23424,P69,What learning experiences did [MASK] receive?,1,,0.8889344416148509
+23178,P69,What college or university did [MASK] gain his education from?,1,1.5110674477798818,1.0605817252967336
+23203,P69,What did [MASK]'s educational path look like?,1,,0.9268388533710156
+23200,P69,What did [MASK] study in order to become educated?,1,,0.9656944772773477
+23199,P69,What did [MASK] study for her education?,1,,0.9220146404772461
+23193,P69,What did [MASK] learn in terms of formal education?,1,,0.9057853465836414
+23192,P69,What did [MASK] learn in his schooling?,1,,0.9619830331017506
+23190,P69,What degrees did [MASK] possess?,1,,0.9156618194329679
+23189,P69,What degrees did [MASK] gain?,1,,0.9218369533182262
+23187,P69,What degree did [MASK] earn?,1,,0.9211789194051004
+23185,P69,What colleges did [MASK] attend?,1,0.9479206430011646,1.183265499339473
+23184,P69,What colleges and universities has [MASK] studied at?,1,,1.0401342301464165
+23180,P69,What college was [MASK] schooled at?,1,,1.0264584718261789
+23177,P69,What college did [MASK] get his education at?,1,,1.0931577542935966
+23205,P69,What educated [MASK]?,1,,1.0556748304243468
+23176,P69,What college did [MASK] gain his qualifications from?,1,,1.1235230346454699
+23175,P69,What college did [MASK] complete his studies in?,1,,1.112544257370166
+23174,P69,What background education did [MASK] have?,1,,0.9284456660913898
+23173,P69,What are the places [MASK] was educated?,1,,0.9126204006933228
+23168,P69,What alma maters did [MASK] come from?,1,0.9010120893656243,0.9010120893655971
+23167,P69,What alma maters did [MASK] attend?,1,,0.9552245707329431
+23166,P69,What alma mater did [MASK] go to?,1,,0.9307904888390338
+23165,P69,What academy did [MASK] study at?,1,,0.892687678051277
+23164,P69,What academic training did [MASK] receive?,1,,0.9354997776447758
+23163,P69,What academic qualifications did [MASK] have?,1,,0.8603446057449655
+23162,P69,What academic pursuits did [MASK] pursue?,1,,0.9510945848536099
+23204,P69,What did [MASK]'s schooling look like?,1,,0.9021749252171749
+23208,P69,What educational achievement does [MASK] have?,1,,0.9111759616976449
+23160,P69,What academic path did [MASK] pursue?,1,,0.9432228164214406
+23226,P69,What educational establishment did [MASK] study at?,1,,1.0094752640945974
+23243,P69,What educational experience did [MASK] gain?,1,,0.9076828743337695
+23242,P69,What educational experience did [MASK] acquire?,1,,0.8944341131838098
+23241,P69,What educational establishments was [MASK] educated at?,1,,0.9166875967879636
+23240,P69,What educational establishments was [MASK] affiliated with?,1,,0.899487155736426
+23237,P69,What educational establishments did [MASK] receive instruction from?,1,0.8987713416848118,1.0197126516712163
+23235,P69,What educational establishments did [MASK] get his training from?,1,,0.9021158407579212
+23234,P69,What educational establishments did [MASK] belong to?,1,,1.1326810289264475
+23233,P69,What educational establishment was [MASK] associated with?,1,,1.0461532688191548
+23231,P69,What educational establishment was [MASK] a part of?,1,,1.0416864295640254
+23229,P69,What educational establishment provided [MASK] with instruction?,1,,1.0310134833640716
+23228,P69,What educational establishment educated [MASK]?,1,,0.9030248049875759
+23225,P69,What educational establishment did [MASK] learn at?,1,0.899375737960731,1.0019004050957445
+23209,P69,What educational attainment did [MASK] achieve?,1,,0.8981748615537936
+23224,P69,What educational establishment did [MASK] acquire his schooling from?,1,,1.0090683652367605
+23222,P69,What educational environment did [MASK] partake in?,1,,0.9415596625873427
+23221,P69,What educational endeavors did [MASK] pursue?,1,,0.9530383885333467
+23218,P69,What educational courses did [MASK] take?,1,,0.8932811347415144
+23217,P69,What educational course of study did [MASK] undertake?,1,,0.9918018396729296
+23216,P69,What educational centre taught [MASK]?,1,,1.066155837098098
+23215,P69,What educational centers did [MASK] go to?,1,,1.0725916355764966
+23214,P69,What educational center did [MASK] study at?,1,,0.8987742050739905
+23213,P69,What educational center did [MASK] belong to?,1,,1.0313877340206234
+23211,P69,What educational background did [MASK] acquire?,1,,0.9019593615380815
+23210,P69,What educational avenues did [MASK] pursue?,1,,0.953656662587092
+23161,P69,What academic path did [MASK] traverse?,1,,0.9526914511553827
+23159,P69,What academic path did [MASK] follow?,1,1.0694327117180242,1.0694327117180242
+23246,P69,What educational facilities provided [MASK] with his schooling?,1,,0.9101917408407612
+23090,P69,From where did [MASK] attain his educational qualifications?,1,,0.9811792640335631
+23109,P69,How was [MASK] schooled?,1,,0.8949057788269448
+23108,P69,How did [MASK] get his education?,1,,0.8666603822730137
+23107,P69,From which school did [MASK] receive his instruction?,1,,1.0236900633883363
+23106,P69,From which school did [MASK] obtain her education?,1,,1.0544670458492817
+23105,P69,From which school did [MASK] get his education?,1,,0.8932623990430552
+23104,P69,From which institution did [MASK] receive his education?,1,,0.9672296142898404
+23103,P69,From which educational institutions did [MASK] receive his education?,1,,1.0658491688412648
+23102,P69,From which educational institutions did [MASK] graduate?,1,0.9624670946160501,1.1368473722685868
+23101,P69,From which educational facility did [MASK] graduate?,1,,1.0291981710382145
+23100,P69,From which academic institution did [MASK] gain her knowledge?,1,,0.9257056457758612
+23096,P69,From where did [MASK] obtain her education?,1,,1.0381428901960772
+23088,P69,From what source did [MASK] acquire knowledge?,1,,0.9270789350148781
+23111,P69,In what educational establishments was [MASK] educated?,1,,1.0575378779840754
+23086,P69,From what establishment did [MASK] learn?,1,,0.8949099217007025
+23082,P69,At which schools was [MASK] a student?,1,,1.189632337892835
+23081,P69,At which school/college/university was [MASK] educated?,1,,0.9869855629915266
+23080,P69,At which school did [MASK] study?,1,,1.0786553748345757
+23078,P69,"At which school did William Parsons, the Third Earl of Rosse, gain his education?",1,,0.9730179780220272
+23077,P69,At which learning institute did [MASK] receive his qualifications?,1,0.90161776446723,1.0119229708176016
+23076,P69,At which institution was [MASK] schooled?,1,,0.894079248559373
+23073,P69,At what school did [MASK] get his qualification?,1,,0.926288854434543
+23071,P69,At what educational institution did [MASK] receive her studies?,1,,1.0518999543703442
+23070,P69,At what educational facility was [MASK] trained?,1,,0.9080099411499741
+23069,P69,At what college or university was [MASK] educated?,1,,1.0109733814802253
+23110,P69,In what educational environment was [MASK]?,1,,0.8917279556816458
+23112,P69,In what educational establishments was [MASK] involved?,1,,1.0187232029741693
+23154,P69,What academic experiences did [MASK] have?,1,,1.1824404661000831
+23137,P69,In which establishments was [MASK]'s education received?,1,,0.8660977299177757
+23153,P69,What academic environment nurtured [MASK]?,1,,0.9199933986542113
+23152,P69,What academic environment did [MASK] experience?,1,,1.0744447782480255
+23151,P69,To which schools did [MASK] go?,1,,0.8893165606146793
+23150,P69,In which schools did [MASK] acquire knowledge?,1,,0.9190582026577374
+23149,P69,In which school was [MASK] educated?,1,,0.8967222152629224
+23146,P69,In which school did [MASK] receive her education?,1,0.8913444274608848,0.8913444274608786
+23143,P69,In which learning establishments did [MASK] study?,1,,1.0499186476765034
+23142,P69,In which learning environment was [MASK] educated?,1,0.8993920541566878,0.8993920541566862
+23141,P69,In which learning environment did [MASK] study?,1,,0.8940665474688196
+23140,P69,In which institutions was [MASK] educated?,1,,1.1431700285135922
+23138,P69,In which institutions did [MASK] receive her education?,1,,1.0936115253533747
+23136,P69,In which educational system was [MASK] taught?,1,,0.9751347317892062
+23119,P69,In what establishments did [MASK] learn?,1,,0.9191612776219839
+23135,P69,In which educational institutions was [MASK] a student?,1,,0.9841429902548614
+23134,P69,In which educational institution was [MASK] enrolled?,1,,1.058253988982143
+23133,P69,In which educational institution was [MASK] educated?,1,,1.0537050003715147
+23132,P69,In which educational institution did [MASK] receive his training?,1,,0.8794053230267963
+23131,P69,In which educational establishment did [MASK] acquire knowledge?,1,,0.8789378110215316
+23130,P69,In which college or university did [MASK] study?,1,,1.0573557865751047
+23129,P69,In which academic institutions was [MASK] enrolled?,1,,0.9305739911277069
+23126,P69,In what places was [MASK] educated?,1,,0.9112684446546904
+23123,P69,In what learning environment was [MASK] schooled?,1,,0.8862152704390605
+23122,P69,In what learning environment did [MASK] grow up?,1,,0.9284987216163219
+23121,P69,In what kind of environment did [MASK] learn?,1,,0.9283351069251813
+23244,P69,What educational facilities did [MASK] frequent?,1,,0.9987684476343948
+23248,P69,What educational facility did [MASK] apply to?,1,,1.1326110393056443
+23421,P69,What learning establishment did [MASK] learn at?,1,,0.866959847205722
+23347,P69,What institution did [MASK] receive his schooling from?,1,,0.942556575440042
+23376,P69,What kind of an educational background did [MASK] possess?,1,,0.8577847081671783
+23375,P69,What kind of academic institutions did [MASK] go to?,1,,1.0774561034818713
+23374,P69,What kind of academic achievements did [MASK] obtain?,1,,0.925335254997662
+23371,P69,What is [MASK]'s educational upbringing?,1,,0.9091517868956118
+23370,P69,What is [MASK]'s educational pedigree?,1,0.870206602162617,1.023703430749842
+23360,P69,What institutions did [MASK] go to for his studies?,1,,1.1537247238242332
+23358,P69,What institutions did [MASK] gain knowledge from?,1,,1.1869669395153406
+23357,P69,What institutions did [MASK] complete his studies in?,1,,0.9523341957522319
+23356,P69,What institutions did [MASK] attend to receive his education?,1,,1.152369594077958
+23354,P69,What institutions did [MASK] acquire his education from?,1,0.935546784926247,1.1675005451554212
+23353,P69,What institution was [MASK] trained at?,1,,0.8833849334469167
+23346,P69,What institution did [MASK] learn from?,1,,0.8881308203698456
+23379,P69,What kind of education did [MASK] obtain?,1,,0.9067930184026044
+23344,P69,What institution did [MASK] go to for learning?,1,,0.88100350444808
+23343,P69,What institution did [MASK] go to for his education?,1,,1.0552211699167031
+23342,P69,What institution did [MASK] get her degree from?,1,,1.0521620567848415
+23340,P69,What institute provided [MASK] with his education?,1,,0.8818646695621235
+23338,P69,What in [MASK]'s educational background?,1,0.9244248213909761,0.9244248213909761
+23337,P69,What higher-level educational institution did [MASK] attend?,1,,0.937322242185435
+23336,P69,What higher educational institutions was [MASK] a student of?,1,,1.005977746287484
+23335,P69,What higher educational experiences did [MASK] receive?,1,,1.1311205319874365
+23334,P69,What higher education did [MASK] receive?,1,,0.9752116546965632
+23333,P69,What higher education did [MASK] get?,1,,1.0222599533883319
+23332,P69,What formal schooling did [MASK] receive?,1,0.8416258303532861,0.8416258303532861
+23378,P69,What kind of education did [MASK] get?,1,,0.9138174312023054
+23381,P69,What kind of educational experience did [MASK] receive?,1,,0.9436023279265591
+23329,P69,What formal educational facilities did [MASK] go to?,1,,1.1267765765822177
+23404,P69,What learning center did [MASK] go to?,1,,1.1251719615304483
+23420,P69,What learning establishment did [MASK] have his schooling?,1,,1.0439987421852432
+23419,P69,What learning establishment did [MASK] frequent?,1,,0.9128489627593327
+23418,P69,What learning environment did [MASK] take part in?,1,1.0449920247526714,1.0449920247526714
+23417,P69,What learning environment did [MASK] occupy?,1,,0.8857488227827925
+23416,P69,What learning environment did [MASK] inhabit?,1,,0.9807961668188963
+23414,P69,What learning environment did [MASK] gain his education?,1,,0.8850312301971739
+23413,P69,What learning environment did [MASK] attend?,1,,1.0183567688265287
+23411,P69,What learning did [MASK] get?,1,0.8903875293838375,0.8903875293838377
+23408,P69,What learning centres did [MASK] visit for his studies?,1,,0.9182476966628783
+23406,P69,What learning centers was [MASK] enrolled in?,1,,0.897478319043645
+23405,P69,What learning centers did [MASK] frequent?,1,,0.922824287968129
+23401,P69,What kind of studies did [MASK] undertake?,1,,0.9134365765497413
+23382,P69,What kind of educational institution did [MASK] attend?,1,,0.8846497069258129
+23400,P69,What kind of student was [MASK]?,1,,0.8951467739615491
+23399,P69,What kind of schools did [MASK] go to?,1,,1.0441091415555293
+23398,P69,What kind of schooling did [MASK] experience?,1,,0.9322692232246127
+23397,P69,What kind of schooling did [MASK] attend?,1,,0.9658312839402563
+23396,P69,What kind of schooling did [MASK] acquire?,1,,0.9456572779210116
+23394,P69,What kind of learning opportunities did [MASK] access?,1,,0.9206513850047366
+23392,P69,What kind of instruction did [MASK] receive?,1,,0.9254665459977112
+23391,P69,What kind of instruction did [MASK] have?,1,,0.9154953142776437
+23389,P69,What kind of educational system did [MASK] take part in?,1,,0.8913183059246423
+23386,P69,What kind of educational system did [MASK] complete?,1,,0.9229019780627226
+23385,P69,What kind of educational setting did [MASK] learn in?,1,,0.9098030642296859
+23330,P69,What formal instruction did [MASK] obtain?,1,,0.8820539939220855
+23328,P69,What formal education did [MASK] receive?,1,,0.940730680916752
+23249,P69,What educational facility did [MASK] gain his qualifications from?,1,,0.964031823131847
+23268,P69,What educational institution did [MASK] get his degree from?,1,,1.05954383853287
+23292,P69,What educational journey did [MASK] embark on?,1,,1.0137291383089753
+23291,P69,What educational institutions was [MASK] exposed to?,1,,1.0734414993679022
+23288,P69,What educational institutions has [MASK] been to?,1,1.031915119247554,1.031915119247554
+23287,P69,What educational institutions did [MASK] visit?,1,,1.036328379806844
+23286,P69,What educational institutions did [MASK] receive her education from?,1,,0.9003257188769397
+23285,P69,What educational institutions did [MASK] pass through?,1,,0.9817003137354423
+23284,P69,What educational institutions did [MASK] partake in?,1,,1.1850221939781036
+23281,P69,What educational institutions did [MASK] acquire his degree from?,1,,1.034485965056575
+23278,P69,What educational institution was [MASK] affiliated with?,1,,1.0711466291177856
+23275,P69,What educational institution provided the schooling for [MASK]?,1,,0.9764678214016893
+23270,P69,What educational institution did [MASK] have?,1,,0.9196037625658314
+23267,P69,What educational institution did [MASK] complete his studies?,1,,1.0319571259346434
+23294,P69,What educational level did [MASK] reach?,1,,0.9147740969669333
+23266,P69,What educational institution did [MASK] come from?,1,,1.1332511925017263
+23265,P69,What educational institution did [MASK] attend during his formative years?,1,,1.12712054734898
+23261,P69,What educational ideologies did [MASK] develop in?,1,,0.8609500495380578
+23260,P69,What educational history does [MASK] have?,1,,0.8946155890045727
+23259,P69,What educational foundations did [MASK] have?,1,,0.9772373893143738
+23258,P69,What educational foundations did [MASK] benefit from?,1,0.9026599062173631,1.0140046618096843
+23257,P69,What educational foundation did [MASK] build?,1,,0.8706144073656678
+23255,P69,What educational facility taught [MASK]?,1,,0.8852933333652453
+23254,P69,What educational facility provided [MASK] with her learning?,1,,0.9112565653242193
+23252,P69,What educational facility did [MASK] utilize?,1,,1.0539561213606734
+23251,P69,What educational facility did [MASK] study at?,1,,1.0624982903263307
+23293,P69,What educational journey did [MASK] take?,1,,0.9400326961450383
+23295,P69,What educational location did [MASK] come from?,1,,1.1084926894722302
+23327,P69,What formal education did [MASK] have?,1,,0.9385884056090069
+23312,P69,What educational setting did [MASK] receive?,1,,1.2561425024696804
+23326,P69,What form of education did [MASK] experience?,1,0.8768558309601868,0.8768558309601839
+23325,P69,What facility did [MASK] become educated at?,1,,1.0409987173327633
+23324,P69,What facilities did [MASK] use to educate himself?,1,,0.8993361101784885
+23323,P69,What establishments of higher learning did [MASK] attend?,1,1.0636247814075266,1.0636247814075266
+23322,P69,What establishments did [MASK] receive his training from?,1,,0.9143401804870155
+23321,P69,What establishments did [MASK] go to for his education?,1,,1.0473277789507602
+23320,P69,What establishment provided [MASK] with learning?,1,,1.0013057741360025
+23318,P69,What establishment did [MASK] get his education at?,1,,1.0656330079021927
+23317,P69,What educational venue did [MASK] study at?,1,,1.0491979706241543
+23315,P69,What educational system did [MASK] undergo?,1,,0.906491329984535
+23313,P69,What educational settings did [MASK] frequent?,1,0.9243720428394754,0.9807500759833077
+23311,P69,What educational setting did [MASK] obtain his education in?,1,,0.8790736765634889
+23296,P69,What educational locations did [MASK] visit?,1,,1.082764509691953
+23309,P69,What educational setting did [MASK] go through?,1,,0.8804521259302853
+23308,P69,What educational setting did [MASK] come from?,1,,1.0899649227490324
+23307,P69,What educational resources did [MASK] use?,1,,0.9391239399291519
+23306,P69,What educational resources did [MASK] employ to be knowledgeable?,1,,0.9095637328995347
+23305,P69,What educational resources did [MASK] access?,1,,0.9711068876733081
+23304,P69,What educational qualifications did [MASK] obtain?,1,,0.8927957070205593
+23303,P69,What educational programs did [MASK] finish?,1,,0.9355117655551336
+23302,P69,What educational program did [MASK] partake in?,1,,0.9528032596514766
+23301,P69,What educational places did [MASK] go to?,1,,1.1031697035233683
+23298,P69,What educational path did [MASK] walk down?,1,,0.9768884986411701
+23297,P69,What educational locations was [MASK] trained at?,1,,1.0079225591480836
+23749,P69,Who trained [MASK]?,1,,0.8995592149234753

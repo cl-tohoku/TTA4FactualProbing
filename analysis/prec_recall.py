@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import re
 
+from folder2label import folder2label
+
 def bin_rank(df):
     df['rank_bin'] = pd.cut(df['rank'], np.arange(0, 12600, 100))
     pattern = re.compile(r'^\((.*?)\,.*')
@@ -26,6 +28,10 @@ def main():
 
     df_before['confidence'] = df_before['score'] / df_before['score_total']
     df_before['rank'] = df_before["confidence"].rank(ascending=False, method='min')
+    
+    ## debug
+    debug = df_before.loc[(df_before['rank'] <=  150) & (df_before['rank'] > 100) & (df_before['c_original'] == False)]
+    
     df_before['rank_bin'] = pd.cut(df_before['rank'], np.arange(0, 12600, 50))
     pattern = re.compile(r'^\((.*?)\,.*')
     df_before['rank_bin'] = df_before.apply(lambda row: 50 + int(pattern.match(str(row['rank_bin'])).group(1)), axis=1)
@@ -49,7 +55,7 @@ def main():
     df_before_sum['sum'] = df_before_sum.apply(lambda row: row['correct'] + row['incorrect'], axis=1)
     df_before_sum['precision'] = df_before_sum.apply(lambda row: row['correct'] / row['sum'], axis=1)
     df_before_sum['recall'] = df_before_sum.apply(lambda row: row['correct']/n_correct, axis=1)
-    print(df_before_sum)
+    # print(df_before_sum)
 
     with open(filepath_after, 'rb') as f:
         df_after = pickle.load(f)
@@ -57,6 +63,8 @@ def main():
     df_after['confidence'] = df_after['score'] / df_after['score_total']
     df_after['rank'] = df_after["confidence"].rank(ascending=False, method='min')
     df_after['rank_bin'] = pd.cut(df_after['rank'], np.arange(0, 12600, 50))
+    print(debug)
+    print(df_after.loc[df_after.index.isin(debug.index)])
     pattern = re.compile(r'^\((.*?)\,.*')
     df_after['rank_bin'] = df_after.apply(lambda row: 50 + int(pattern.match(str(row['rank_bin'])).group(1)), axis=1)
     df_after = df_after.groupby(['rank_bin', 'c_all']).count()['rank']
@@ -86,18 +94,25 @@ def main():
     # df_before_incorrect = df_before.loc[df_before['c_original']==0.0].groupby('rank_bin').count()[['rank']]
 
 
-    fig = plt.figure(figsize=(8, 4))
-    ax = fig.add_axes([0.13, 0.18, 0.82, 0.72])
+    fig = plt.figure(figsize=(6, 4))
+    ax = fig.add_axes([0.17, 0.24, 0.78, 0.7])
     ax.plot(df_before_sum['recall'], df_before_sum['precision'],  label='w/out TTA',color=sns.xkcd_rgb["medium blue"], linestyle='--')
     ax.plot(df_after_sum['recall'], df_after_sum['precision'],  label='w/ TTA',color=sns.xkcd_rgb["medium blue"])
-
+    plotlim = plt.xlim() + plt.ylim()
+    # ax.imshow([[1, 0], [1, 0]],
+    #       cmap=plt.cm.Reds,
+    #       interpolation='bicubic',
+    #       extent=plotlim,
+    #       vmin=0, vmax=2)
 
 
     ax.tick_params(labelsize= 20)
     ax.set_xlabel('Recall', fontsize=20)
     ax.set_ylabel('Precision', fontsize=20)
-    ax.legend(fontsize = 15)
-    fig.savefig('analysis/img/prec_recall.pdf')
+    ax.legend(fontsize = 15, framealpha=0.3)
+    print(folder2label(folder))
+    plt.figtext(0.55, 0.02, "High <- Confidence -> Low", ha="center", fontsize=16)
+    plt.savefig('analysis/img/prec_recall/{}.pdf'.format(folder2label(folder)), transparent=True)
     return 0
 
 

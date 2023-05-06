@@ -1,0 +1,645 @@
+,p,template,fact_id,effect_gold,effect_top
+5477,P1376,What city is the capital of [MASK] County?,159,,1.0571317868249448
+5335,P1376,What is the main city of [MASK]?,126,,1.0667550904488345
+5544,P1376,What town is the administrative center of [MASK]?,115,,0.9878659734604662
+6037,P1376,What locality serves as the capital of [MASK]?,98,,1.0478128693861661
+5648,P1376,What city is the civic hub of [MASK]?,81,,0.9784154163674996
+5501,P1376,What is the city that is the seat of government for [MASK]?,69,,0.9532195027867256
+5540,P1376,What municipality is the political center of [MASK]?,59,,0.9777749602303394
+6261,P1376,Which city is home to the capital of [MASK]?,54,,1.0281017026016723
+5674,P1376,What city is the metropolis of [MASK]?,46,0.9693925929605467,0.9774364200105927
+5462,P1376,What town is the seat of [MASK]?,44,,1.0218842697897428
+5945,P1376,What is the municipality that is the capital of [MASK]?,42,,1.0344043539787566
+5345,P1376,What is the main city in [MASK]?,41,,1.0928780543833567
+5347,P1376,What is the primary city of [MASK]?,40,,1.0487858070293394
+5344,P1376,What is the chief city of [MASK]?,38,,1.057412352134726
+6136,P1376,What town is the official seat of government in [MASK]?,35,,0.9621297627354788
+5352,P1376,What is the governmental center of [MASK]?,33,,0.944119538271865
+5349,P1376,What is the governing city of [MASK]?,32,,0.9631033964389881
+5348,P1376,Which city serves as the capital of [MASK]?,31,,1.0601453505625156
+5354,P1376,What is the governmental hub of [MASK]?,29,,0.9393674713772794
+5358,P1376,What is the main urban center of [MASK]?,22,,1.0047204536850929
+5356,P1376,What is the major city of [MASK]?,22,1.038285727831686,1.0571430517324187
+5360,P1376,What is the most important city in [MASK]?,19,0.9554124262960993,1.019680417562781
+5396,P1376,What city is the headquarters of [MASK]?,17,,0.9705497918754633
+5367,P1376,What is the administrative hub of [MASK]?,16,,0.9774998265104686
+5366,P1376,What city serves as the seat of government for [MASK]?,16,,1.043141396355977
+5361,P1376,What is the primary city in [MASK]?,15,,1.04812447089824
+5364,P1376,What is the major city in [MASK]?,15,,1.0050345045242297
+5365,P1376,What is the principal city of [MASK]?,15,,1.0595543844239457
+5378,P1376,Which city is the administrative center of [MASK]?,14,,1.0597058016516907
+5369,P1376,What city is the head of [MASK]?,14,,0.9983164077057183
+5384,P1376,What is the municipal center of [MASK]?,13,,0.9855660756387394
+5667,P1376,What city is the main center of power in [MASK]?,13,,0.9868396874903412
+5375,P1376,What is the primary urban area of [MASK]?,12,0.9089599272846446,0.92752603708885
+5377,P1376,Where is the capital of [MASK] located?,11,,0.9443776383613964
+5388,P1376,What is the governing center of [MASK]?,11,,0.9473426902230002
+5860,P1376,What is the main administrative city of [MASK]?,11,,1.0502519048279089
+6131,P1376,What town is the focal point of [MASK]?,10,,0.9420759577044728
+6129,P1376,What town is the center of government for [MASK]?,10,,0.9367627132390546
+5402,P1376,What is the main metropolitan area of [MASK]?,10,,0.9114096710155785
+5374,P1376,What is the main municipality of [MASK]?,10,,0.992392826872026
+5406,P1376,What is the official capital of [MASK]?,9,,1.0697083062469364
+6304,P1376,Which city is the seat of power in [MASK]?,9,,1.021424055513461
+5381,P1376,What is the capital of the [MASK] region?,9,,1.0559545311668543
+5426,P1376,What is the primary urban center of [MASK]?,8,,0.9863320684174495
+5422,P1376,What is the metropolitan center of [MASK]?,8,,0.9921723817583449
+5480,P1376,What city is the home of the [MASK] government?,8,,1.0206838027477856
+5394,P1376,What municipality serves as the capital of [MASK]?,8,1.1923992309713172,1.0556973787708155
+5405,P1376,What is the major urban center of [MASK]?,8,1.1225308707630248,0.9752627835303705
+5398,P1376,What is the administrative capital of [MASK]?,8,,1.0180390806772577
+5397,P1376,What city is the political hub of [MASK]?,8,,1.005391882521547
+5407,P1376,What is the official city of [MASK]?,7,,1.0977656351769145
+5400,P1376,What is the core city of [MASK]?,7,,1.0229031945697333
+5499,P1376,What is the city that is the capital of [MASK]?,7,,1.0165032334145805
+5432,P1376,Name the capital of [MASK].,7,,1.079095071142507
+5383,P1376,What is the main town of [MASK]?,7,1.1072391548929676,1.0778360160646625
+5484,P1376,What city is the seat of [MASK]'s government?,7,,0.9871712277268916
+5382,P1376,What is the chief municipality of [MASK]?,7,1.0397935292580156,1.0254500764512995
+5380,P1376,What is [MASK]'s main city?,7,,1.0661968509435853
+5466,P1376,Where is the seat of government for [MASK]?,6,,0.9075271085741649
+5495,P1376,What is the center of government in [MASK]?,6,,0.9580815872252545
+5424,P1376,What is the political headquarters of [MASK]?,6,,0.9186013042511617
+5387,P1376,What is the central city of [MASK]?,6,0.9984141127232397,1.0475443159981015
+5389,P1376,What is the largest city in [MASK]?,6,0.8931060686977484,0.9708404125045759
+5431,P1376,Where is the political center of [MASK]?,6,0.9611865309504966,0.9575214496546535
+5408,P1376,What is the political capital of [MASK]?,6,,1.0191343578957144
+5435,P1376,What city houses the government of [MASK]?,6,,1.0417836014210629
+5439,P1376,What city serves as the center of [MASK]?,5,,1.0196270316775362
+5430,P1376,Where is the administrative center of [MASK]?,5,0.9668856932603245,1.0104391658042577
+5429,P1376,What urban area is the capital of [MASK]?,5,0.8771134679596535,1.0620313696988304
+5428,P1376,What town is the capital of [MASK]?,5,,1.0756981195729458
+5420,P1376,What is the major municipality of [MASK]?,5,,0.9759866362725136
+5416,P1376,What is the governmental seat of [MASK]?,5,,1.0096740629921115
+5487,P1376,What city serves as the seat of power for [MASK]?,5,,1.0205483016763681
+5434,P1376,What city functions as the capital of [MASK]?,5,0.927508946040043,0.9768465767876521
+5415,P1376,What is the city at the heart of [MASK]?,5,,1.0073389527967413
+5411,P1376,What locality is the capital of [MASK]?,5,1.091283402685551,0.9889906359954669
+5509,P1376,What is the governmental headquarters of [MASK]?,5,,0.9180598843985559
+5403,P1376,What is the main urban area of [MASK]?,5,0.8327070524364835,0.9081552779698014
+5469,P1376,Which metropolis is the capital of [MASK]?,5,,0.9652279460052359
+5468,P1376,Which city is the political center of [MASK]?,5,,1.0731490265088612
+5454,P1376,What is the predominant city of [MASK]?,5,,1.0687061155609705
+5465,P1376,Where is the main city of [MASK] located?,5,0.8953772278244045,0.9238194645046484
+5446,P1376,What is the civic center of [MASK]?,5,,0.8668386907574057
+5461,P1376,What municipality is the seat of [MASK]?,5,,0.9730379082811422
+5404,P1376,What is the major metropolitan area of [MASK]?,5,0.8953036847391947,0.9405912615428216
+5510,P1376,What is the home of [MASK]'s government?,4,,0.9477139214902557
+5663,P1376,What city is the hub of [MASK]'s government?,4,,0.9812018763850329
+5503,P1376,What is the designated capital of [MASK]?,4,,0.9871768263759645
+5539,P1376,What metropolis serves as the capital of [MASK]?,4,,0.9696922603836055
+5559,P1376,Which city is the hub of [MASK]?,4,,1.0543370163498451
+5703,P1376,What city serves as the governmental hub of [MASK]?,4,,1.0298792375316632
+5799,P1376,What is the city that is the center of [MASK]?,4,,1.081568049359451
+5417,P1376,What is the leading city of [MASK]?,4,1.046040866991926,1.0490228408317943
+5448,P1376,What is the main city that [MASK] is centered around?,4,0.955478418847264,0.9960212344426851
+5459,P1376,What major city is located in [MASK]?,4,,1.001888863679614
+5458,P1376,What location serves as the capital of [MASK]?,4,,1.0079027825204925
+5496,P1376,What is the centre of [MASK]?,4,,0.9208420778304207
+5460,P1376,What municipality is the hub of [MASK]?,4,1.0310677207287324,1.050787318648278
+5457,P1376,What is the ruling city of [MASK]?,4,,0.9278292390773839
+5464,P1376,Where is the governmental hub of [MASK]?,4,,0.9134081541359744
+5558,P1376,Which city is the governmental center of [MASK]?,3,,1.0664924996449532
+5452,P1376,What is the main town in [MASK]?,3,,0.9928622421764267
+5765,P1376,What is the center of the [MASK] area?,3,,0.9432698709781961
+6034,P1376,What locality is the seat of [MASK]?,3,,1.0560335847352122
+5557,P1376,Which city is the governing center of [MASK]?,3,,1.0453933625350709
+5630,P1376,What city is home to the main governing body of [MASK]?,3,,1.012509937109378
+5543,P1376,What settlement is the capital of [MASK]?,3,,1.0249332755044491
+5562,P1376,Which is the principal city of [MASK]?,3,,1.089805134909365
+5444,P1376,What is the chief city in [MASK]?,3,1.4832840142720998,1.0604808362387252
+5470,P1376,In what city is [MASK]'s capital located?,3,1.0887014460457776,1.1273327347949718
+5723,P1376,What is [MASK]'s administrative center?,3,,0.9235664641084714
+6238,P1376,Which Dutch city is the seat of government for [MASK]?,3,1.0301522421049147,1.030152242104906
+6182,P1376,Where is the capital city of [MASK]?,3,,0.9726606605481832
+5467,P1376,Where is the seat of government in [MASK]?,3,0.9245903952666297,0.9291741603123609
+5442,P1376,What is the administrative seat of [MASK]?,3,0.9415401783661282,0.9946391742334111
+5547,P1376,Where is the administrative hub of [MASK] located?,3,,0.9431369149745356
+5537,P1376,What locality is the center of [MASK]?,3,,0.9747153828687914
+5502,P1376,What is the city that serves as the center of government for [MASK]?,3,,1.0262900764881089
+5500,P1376,What is the city that is the hub of [MASK]?,3,,1.0413663673109914
+5532,P1376,What is the political heart of [MASK]?,3,,0.9287315433478426
+6093,P1376,What place holds the capital of [MASK]?,3,,1.032430018341768
+5529,P1376,What is the municipality that is the administrative center of [MASK]?,3,,0.9324920256801468
+5456,P1376,What is the principal city in [MASK]?,3,0.9261337312934462,1.0327742529711503
+5497,P1376,What is the city serving as the capital of [MASK]?,3,,0.9942398882149887
+5517,P1376,What is the main metropolis in [MASK]?,3,,1.0587654656743333
+6286,P1376,Which city is the leading city of [MASK]?,2,,1.1260076869806868
+5716,P1376,What community is considered to be the seat of [MASK]?,2,,0.9714125941736895
+5755,P1376,What is the center of [MASK]'s government?,2,,0.9321789675585981
+6228,P1376,Where is the primary city for [MASK]?,2,,0.956036438793398
+5632,P1376,What city is recognized as the capital of [MASK]?,2,,1.0455360687459452
+6249,P1376,Which city holds the government of [MASK]?,2,,1.054605420362271
+6252,P1376,Which city holds the title of capital for [MASK]?,2,,1.0516184249835008
+6294,P1376,Which city is the primary capital of [MASK]?,2,,1.1122687929691222
+6256,P1376,Which city is [MASK]'s hub?,2,,1.0285813855806583
+5710,P1376,What city serves as the primary city of [MASK]?,2,,1.0340838885129369
+5669,P1376,What city is the main government center of [MASK]?,2,,1.074655747359131
+5658,P1376,What city is the governmental center for [MASK]?,2,,1.0352552583238077
+6289,P1376,Which city is the major city of [MASK]?,2,1.00052703671759,1.0887728517545452
+5695,P1376,What city is the seat of power for [MASK]?,2,,0.9636776213690368
+5689,P1376,What city is the primary urban center for [MASK]?,2,,0.9421066969058933
+5687,P1376,What city is the primary governing body of [MASK] located in?,2,,1.0488097250170636
+6287,P1376,Which city is the main focal point of [MASK]?,2,,1.0897417363991933
+6215,P1376,Where is the major administrative city of [MASK]?,2,,0.8884554789821164
+6051,P1376,What metropolis is the center of [MASK]?,2,,1.0397589878277556
+5778,P1376,What is the chief center of [MASK]?,2,,1.0683608891231744
+5997,P1376,What is the primary urban hub of [MASK]?,2,,0.9147329942585802
+6058,P1376,What metropolis serves as the administrative center of [MASK]?,2,,1.022260324974737
+5958,P1376,What is the official seat of [MASK]?,2,,0.9779850973347293
+5955,P1376,What is the official center of [MASK]?,2,,0.9324044763617974
+5952,P1376,What is the nerve center of [MASK]?,2,,0.8773397551673529
+5944,P1376,What is the municipality that houses the government of [MASK]?,2,,1.05452767840363
+5925,P1376,What is the metropolis at the heart of [MASK]?,2,,0.8883469237271574
+5920,P1376,What is the major population center of [MASK]?,2,,0.9316453629429242
+5625,P1376,What city is [MASK]’s designated capital?,2,,1.0359732949387532
+5917,P1376,What is the major metropolitan area that holds the title of capital of [MASK]?,2,,0.9784156953395878
+6112,P1376,What settlement is the center of political activity for [MASK]?,2,,0.9727959489996897
+6121,P1376,What town holds the title of capital for [MASK]?,2,,1.1136891972731373
+5992,P1376,What is the primary municipality of [MASK]?,2,,0.912864192939305
+6005,P1376,What is the principal urban center for [MASK]?,2,,1.0417427079491928
+6190,P1376,Where is the central municipality of [MASK]?,2,,0.8585602360997913
+6137,P1376,What town is the political center of [MASK]?,2,,0.9827165816837886
+6141,P1376,What town serves as capital of [MASK]?,2,,1.0556390238152118
+5867,P1376,What is the main city for governing [MASK]?,2,,1.0804681419120077
+5850,P1376,What is the largest city of [MASK]?,2,,1.0610506847429106
+6163,P1376,What urban center serves as the capital of [MASK]?,2,,1.0260267816181665
+5985,P1376,What is the primary location of [MASK]'s government?,2,,0.9477089278485284
+6171,P1376,Where is [MASK]'s hub of government?,2,0.8807667959204326,0.8807667959204323
+6172,P1376,Where is [MASK]'s main city located?,2,,1.0143965859285256
+5824,P1376,What is the dominant urban core of [MASK]?,2,,0.8716910046470547
+5810,P1376,What is the city that serves as the capital for [MASK]?,2,,0.9754647332043083
+5796,P1376,What is the city that holds the power of [MASK]?,2,,1.069960862156019
+5793,P1376,What is the city that [MASK] has designated as its capital?,2,,0.9664580717172069
+5832,P1376,What is the governing location for [MASK]?,2,,0.943650503650493
+5681,P1376,What city is the political center for [MASK]?,2,,1.060642719601828
+5583,P1376,In which Canadian city is [MASK] the capital?,2,,1.0828460180997843
+5506,P1376,What is the governing seat of [MASK]?,2,0.9056551655593015,0.9972573083656069
+5564,P1376,Which municipality is the capital of [MASK]?,2,,0.9519933421330946
+5563,P1376,Which locality is the capital of [MASK]?,2,,0.9428659785011004
+5555,P1376,Which city constitutes the capital of [MASK]?,2,,1.1125522083520492
+5553,P1376,Where is the political capital of [MASK]?,2,0.9600104446256605,0.9600104446256599
+5513,P1376,What is the main administrative centre of [MASK]?,2,0.9532543983192305,0.9975330057550436
+5518,P1376,What is the main seat of government for [MASK]?,2,1.1010578770883392,0.9183384469076311
+5551,P1376,Where is the main city located in [MASK]?,2,,0.9727514158122657
+5525,P1376,What is the metropolitan city of [MASK]?,2,,0.880435584930041
+5550,P1376,Where is the headquarters of [MASK] located?,2,,0.9775145714199058
+5526,P1376,What is the metropolitan hub of [MASK]?,2,,0.9282322073088238
+5527,P1376,What is the most populated city of [MASK]?,2,,1.079721590457821
+5549,P1376,Where is the governmental seat of [MASK]?,2,,0.9134648843873598
+5594,P1376,In which location is the capital of [MASK]?,2,,1.120661118785409
+5548,P1376,Where is the capital of [MASK] situated?,2,0.8984280905378385,0.9612178913950553
+5592,P1376,In which city is the governmental headquarters of [MASK] located?,2,,0.9997226930635437
+5530,P1376,What is the name of the capital of [MASK]?,2,,0.9453146762324851
+5545,P1376,What urban center is the capital of [MASK]?,2,0.9342615545568304,1.1305643214090106
+5533,P1376,What is the primary city within [MASK]?,2,1.2272112952884107,0.9915320076856307
+5590,P1376,In which city is [MASK]'s capital?,2,,1.1154006172572313
+5542,P1376,What place serves as the capital of [MASK]?,2,0.8764416682018166,0.9902619339187826
+5536,P1376,What large city is the capital of [MASK]?,2,,1.0652266882984869
+5512,P1376,What is the main administrative center in [MASK]?,2,0.86928285446939,0.8920536074140699
+5541,P1376,What place is the capital of [MASK]?,2,0.9340504760661187,1.1313433255259682
+5575,P1376,"In [MASK], what is the central city?",2,,0.9083478238210008
+5485,P1376,What city serves as [MASK]'s capital?,2,,0.9668979441967676
+5567,P1376,Which town is the capital of [MASK]?,2,0.9371728584885856,1.1198928287882022
+5489,P1376,What community is the capital of [MASK]?,2,,1.102964279699324
+5568,P1376,Which town serves as the capital of [MASK]?,2,1.0428680764891278,0.9679675137500797
+5578,P1376,In what city is the capital of [MASK] located?,2,,1.0604477420190528
+5482,P1376,What city is the municipal hub of [MASK]?,2,,0.99808541721416
+5504,P1376,What is the foremost city of [MASK]?,2,0.9624376628842878,1.17140554863572
+5613,P1376,What city has been designated as the capital of [MASK]?,2,,1.066034927549433
+5494,P1376,What is the biggest city in [MASK]?,2,,0.9303753075391349
+5491,P1376,What is [MASK]'s administrative hub?,2,,0.9114629296505077
+6161,P1376,What urban center is the seat of [MASK]?,1,,1.1407347206966878
+6125,P1376,What town is responsible for overseeing [MASK]?,1,,0.9911440293284745
+6164,P1376,What urban center serves as the seat of [MASK]?,1,,1.2144650560720627
+6123,P1376,What town is [MASK]'s governing center?,1,,0.94833592056927
+6118,P1376,What settlement is the prime focal point of [MASK]?,1,,0.8852925206092563
+6120,P1376,What town do the elected officials of [MASK] work out of?,1,,1.1525039483049482
+6119,P1376,What settlement serves as the administrative centre of [MASK]?,1,1.0628476839989738,1.0628476839989738
+6159,P1376,What urban center is the administrative center for [MASK]?,1,0.937764512496753,1.1263637156557116
+6115,P1376,What settlement is the governmental core of [MASK]?,1,,1.1698248715402506
+6360,P1376,Who holds the title of the capital of [MASK]?,1,,0.906040891689479
+6114,P1376,What settlement is the focus of [MASK]?,1,,0.8999483884847704
+6113,P1376,What settlement is the central administrative hub for [MASK]?,1,,0.9663796376187098
+6165,P1376,What urban centre holds the distinction of capital of [MASK]?,1,1.0762978076901253,1.0762978076901253
+6168,P1376,What urban sprawl is the capital of [MASK]?,1,,0.8920597957103542
+6130,P1376,What town is the chief political hub of [MASK]?,1,,0.9583466744375326
+6153,P1376,What urban area is the official seat of power for [MASK]?,1,0.8754870848518645,0.9351998118745767
+6133,P1376,What town is the headquarters of [MASK]?,1,,0.8932184412234816
+6142,P1376,What town serves as the administrative center of [MASK]?,1,,0.9921126725649798
+6151,P1376,What urban area is the governmental nucleus of [MASK]?,1,,0.9130250095272401
+6148,P1376,What town serves as the seat of government in [MASK]?,1,,1.0414318289384128
+6147,P1376,What town serves as the political hub of [MASK]?,1,0.8943567617728834,1.0724429669634217
+6146,P1376,What town serves as the nexus of government for [MASK]?,1,,1.0801132773949513
+6145,P1376,What town serves as the centre of government for [MASK]?,1,,1.0611543701944104
+6111,P1376,What settlement is the administrative centre of [MASK]?,1,0.8912986835499169,0.933954939015091
+6144,P1376,What town serves as the central seat of power for [MASK]?,1,0.882992068799741,0.9828407000207735
+6154,P1376,What urban area serves as the center of [MASK]?,1,,0.9693499787694824
+6158,P1376,What urban center is home to the government of [MASK]?,1,,1.0560157773066376
+6155,P1376,What urban area serves as the seat of [MASK]?,1,,0.9659995085506721
+6140,P1376,What town serves as [MASK]'s capital?,1,0.9206375689268621,1.0503857584427807
+6156,P1376,What urban center has been designated as the official capital of [MASK]?,1,,1.0380760772273405
+6157,P1376,What urban center holds the status of capital for [MASK]?,1,,1.0663723026359042
+6135,P1376,What town is the main base of operations for [MASK]?,1,,0.9777547261901999
+6134,P1376,What town is the hub of administration in [MASK]?,1,,1.1031490979108147
+6152,P1376,What urban area is the head of [MASK]?,1,,1.1181610897271832
+6315,P1376,Which is the Dutch city that is the capital of [MASK]?,1,0.985583770096179,0.985583770096179
+6103,P1376,What place is the political and administrative center of [MASK]?,1,,0.976208762791316
+6109,P1376,What settlement holds the title of the capital of [MASK]?,1,0.9245283547342174,1.1873444241951892
+6048,P1376,What metropolis holds the governing center of [MASK]?,1,,0.9648401872937347
+6065,P1376,What municipality has [MASK] as its seat?,1,,0.9295307631593362
+6064,P1376,What municipality functions as the head of [MASK]?,1,,1.1445658487827306
+6063,P1376,What municipality functions as the capital of [MASK]?,1,,1.0573360933519806
+6062,P1376,What metropolitan area serves as the seat of [MASK]?,1,,0.8631437359613109
+6061,P1376,What metropolitan area holds the seat of [MASK]'s government?,1,0.8996037712518568,0.8996037712518571
+6057,P1376,What metropolis plays host to the capital of [MASK]?,1,,0.9423722610104033
+6056,P1376,What metropolis is the seat of government for [MASK]?,1,,0.8941643627991525
+6053,P1376,What metropolis is the governing focus of [MASK]?,1,,1.0130552863979194
+6052,P1376,What metropolis is the governing focal point of [MASK]?,1,,0.9025348874228315
+6049,P1376,What metropolis holds the highest prominence in [MASK]?,1,,0.9615283452340594
+6047,P1376,What major city serves as the capital of [MASK]?,1,0.8851156967922378,0.9980471462742113
+6108,P1376,What serves as the main center of power in [MASK]?,1,,0.8852061850439884
+6046,P1376,What major city is the political center of [MASK]?,1,0.9473589688141824,1.1426774249438658
+6045,P1376,What major city holds the seat of [MASK]'s administration?,1,,0.9473986324646912
+6043,P1376,What location is the seat of government of [MASK]?,1,0.9250208269809544,0.9250208269809539
+6042,P1376,What location is the ruling power of [MASK]?,1,,0.8859176420107291
+6041,P1376,What location is the political center of [MASK]?,1,,0.905934532623722
+6040,P1376,What location is the focus of [MASK]'s government?,1,,0.8814475997355482
+6038,P1376,What location is the capital of [MASK]?,1,,0.9382093664836433
+6036,P1376,What locality serves as capital of Nebraska's [MASK]?,1,,1.0519191027627397
+6029,P1376,What locality is designated as the governing hub of [MASK]?,1,,1.0187324221244471
+6028,P1376,What locality holds the title of capital of [MASK]?,1,,1.051830408387551
+6066,P1376,What municipality holds the key administrative and political functions of [MASK]?,1,1.1436508260526947,0.8739909559693726
+6068,P1376,What municipality is [MASK]'s capital?,1,0.8679790135720938,0.9946877466605405
+6069,P1376,What municipality is considered the centre of [MASK]?,1,,1.0334236943202346
+6071,P1376,What municipality is regarded as the seat of government for [MASK]?,1,0.8898016662792315,1.0418599448367973
+6107,P1376,What serves as the administrative hub of [MASK]?,1,0.8979088224817622,0.8979088224817623
+6106,P1376,What place is the seat of power in [MASK]?,1,,1.120009597172577
+6105,P1376,What place is the seat of government for [MASK]?,1,0.972382645157914,0.972382645157914
+6104,P1376,What place is the preeminent city of [MASK]?,1,0.8923921543259318,0.8923921543259254
+6170,P1376,Where does [MASK]'s governing authority reside?,1,,0.9597262326985446
+6100,P1376,What place is the hub of [MASK]?,1,1.165544270533076,0.9706931467726597
+6099,P1376,What place is the focus of power in [MASK]?,1,,0.8406672999652368
+6096,P1376,What place houses the government of [MASK]?,1,,0.9576419200618423
+6092,P1376,What place has the title of capital for [MASK]?,1,1.2379096862866898,1.2009460907378742
+6091,P1376,What municipality serves as the head of [MASK]?,1,,1.056974714196193
+6090,P1376,What municipality serves as the governing center of [MASK]?,1,,1.0063344231470785
+6089,P1376,What municipality serves as the central government for [MASK]?,1,,1.1562893799896306
+6088,P1376,What municipality serves as the center of political power for [MASK]?,1,1.6568563195898733,0.8455235073360995
+6087,P1376,What municipality serves as the administrative center of [MASK]?,1,,0.9130277031732754
+6086,P1376,What municipality serves as [MASK]'s capital?,1,,1.2819066063842777
+6082,P1376,What municipality is the presiding capital of [MASK]?,1,,0.8710159812819995
+6079,P1376,What municipality is the governing headquarters for [MASK]?,1,0.9012292974038384,1.0483739728005042
+6077,P1376,What municipality is the formal capital of [MASK]?,1,,1.02382633054888
+6076,P1376,What municipality is the focus of [MASK]'s government?,1,,1.0134381732313098
+6074,P1376,What municipality is the capital of [MASK] Province?,1,,1.0949051448548957
+6073,P1376,What municipality is the capital city of [MASK]?,1,,0.8687341659395668
+6169,P1376,Where can [MASK]'s head of government be found?,1,,0.871936090705143
+6174,P1376,Where is [MASK]'s main urban center?,1,,0.9235575973502881
+6359,P1376,Who holds the reins of power in [MASK]?,1,,0.9345771612181362
+6337,P1376,Which metropolitan area is the political hub of [MASK]?,1,0.9163677323790472,0.9163677323790469
+6023,P1376,What is the urban centre for [MASK]?,1,,0.8848561603829603
+6274,P1376,Which city is the central focus of [MASK]'s governing?,1,,1.1010045982852845
+6273,P1376,Which city is the center of authority in [MASK]?,1,,1.1332275896782473
+6338,P1376,Which municipality has [MASK] as its seat?,1,,0.8779759502830797
+6340,P1376,Which municipality serves as the administrative headquarters of [MASK]?,1,,0.9227597024892507
+6272,P1376,Which city is the center of [MASK]'s politics?,1,,1.0370440450529963
+6271,P1376,Which city is the capital of the [MASK] region?,1,0.9474619863898819,1.068548561052766
+6341,P1376,Which place is the capital of [MASK]?,1,1.0196809752904539,1.0568832773232433
+6270,P1376,Which city is the capital of the Dutch province of [MASK]?,1,1.0601327395311106,1.0601327395311106
+6269,P1376,Which city is the capital of [MASK] County?,1,,1.146108538302879
+6268,P1376,Which city is the base for [MASK]'s government?,1,0.9174004530894366,0.9174004530894361
+6267,P1376,Which city is the administrative hub of [MASK]?,1,,1.0716003882229213
+6342,P1376,Which place is the core of [MASK]?,1,0.9763208170116419,0.9763208170116419
+6266,P1376,Which city is the administrative heart of [MASK]?,1,0.9791651310509839,0.9791651310509839
+6343,P1376,Which place is the seat of government in [MASK]?,1,,1.0185978958442363
+6259,P1376,Which city is at the center of [MASK]?,1,,1.0910728658023363
+6257,P1376,Which city is [MASK]'s main government hub?,1,,0.8827394506511692
+6344,P1376,Which place serves as the center of [MASK]'s government?,1,,0.9408138889921048
+6345,P1376,Which settlement is the capital of [MASK]?,1,,1.083743203320896
+6254,P1376,Which city houses the headquarters of [MASK]?,1,,0.9199919417968577
+6346,P1376,Which settlement is the governing seat of [MASK]?,1,,1.081644841604004
+6250,P1376,Which city holds the highest offices of [MASK]?,1,0.8744549170450334,0.9193301223432322
+6248,P1376,Which city holds the authority for [MASK]?,1,,1.0601373913759082
+6247,P1376,Which city has [MASK] as its seat of government?,1,,0.9197253708135824
+6347,P1376,Which settlement serves as the epicenter of [MASK]?,1,,1.0457502831593422
+6275,P1376,Which city is the centre of [MASK] government?,1,,1.0121998023279666
+6277,P1376,Which city is the focal point of governmental affairs in [MASK]?,1,,0.9110010427576601
+6245,P1376,Which city functions as the governmental hub of [MASK]?,1,,1.0312429271899006
+6283,P1376,Which city is the headquarters of [MASK]'s government?,1,,0.9512073469119036
+6312,P1376,Which city serves as the main center of government for [MASK]?,1,,1.1033757790307184
+6319,P1376,Which is the central city for [MASK]' governing body?,1,,0.9812866287209303
+6311,P1376,Which city serves as the hub for the government of [MASK]?,1,,1.1696127269170489
+6310,P1376,Which city serves as the head of [MASK]?,1,,1.102588694063863
+6320,P1376,Which is the chief city of [MASK]?,1,,1.0705496168392585
+6306,P1376,Which city serves as the administrative center for [MASK]?,1,,1.028498866656423
+6321,P1376,Which is the designated capital of [MASK]?,1,,1.0782855542267165
+6305,P1376,Which city serves as [MASK]'s capital?,1,,0.9890420160436713
+6326,P1376,Which locale is the nucleus of [MASK]?,1,,0.9751764564674579
+6299,P1376,Which city is the ruling center of [MASK]?,1,,1.1543140869065334
+6297,P1376,Which city is the primary urban center of [MASK]?,1,,1.151862712683527
+6296,P1376,Which city is the primary political hub of [MASK]?,1,0.8850606147463808,0.993447862857478
+6295,P1376,Which city is the primary city in [MASK]?,1,0.9088704836280228,0.9088704836280228
+6327,P1376,Which locality holds the chief administrative position in [MASK]?,1,0.9903967042355591,0.9903967042355591
+6292,P1376,Which city is the political capital of [MASK]?,1,,1.0464685598877375
+6291,P1376,Which city is the political base of [MASK]?,1,0.9300322407460057,1.1806021773886894
+6290,P1376,Which city is the metropolis of [MASK]?,1,1.0750195702519298,1.0750195702519298
+6328,P1376,Which locality is the primary center of [MASK]?,1,,1.0364753130223407
+6329,P1376,Which locality serves as the seat of government for [MASK]?,1,0.9104730500948758,0.9104730500948753
+6331,P1376,Which location is the primary seat of government for [MASK]?,1,,0.9454819832441835
+6333,P1376,Which metropolis is the official center for [MASK]?,1,0.9244549311214455,0.9357538935164758
+6334,P1376,Which metropolis is the political center of [MASK]?,1,,0.9659025593883906
+6284,P1376,Which city is the home of [MASK]'s government?,1,1.0847241721586558,1.0847241721586558
+6335,P1376,Which metropolis is the political hub of [MASK]?,1,0.9171627750092357,0.9171627750092365
+6336,P1376,Which metropolitan area is the capital of [MASK]?,1,0.88228155712718,1.0256155810781773
+6246,P1376,Which city functions as the political center of [MASK]?,1,,1.156589487428764
+6244,P1376,Which city do the civic offices of [MASK] call home?,1,,1.0053341801792819
+6358,P1376,Who has [MASK] as its capital?,1,,0.8742203456417885
+6203,P1376,Where is the government located in [MASK]?,1,,0.8889910312595629
+6201,P1376,Where is the governing city of [MASK]?,1,0.8858045892750023,0.9217208702179748
+6200,P1376,Where is the governing center of [MASK]?,1,0.8928115524012976,1.0794041530007978
+6199,P1376,Where is the governing body of [MASK] located?,1,,1.0043519965157222
+6197,P1376,Where is the city that serves as the capital of [MASK]?,1,,0.9925016006710966
+6196,P1376,Where is the city that acts as the head of [MASK]?,1,0.8950542916497259,0.9807666544170888
+6193,P1376,Where is the city located that is the governing center of [MASK]?,1,,1.0717415290217
+6192,P1376,Where is the chief administrative city of [MASK]?,1,,1.0525982532572256
+6191,P1376,Where is the centre of [MASK] located?,1,0.8957367538783094,0.8957367538783094
+6353,P1376,Which town serves as the seat of government for [MASK]?,1,,1.0366229559479432
+6189,P1376,Where is the central city of [MASK]?,1,,1.019078777323968
+6188,P1376,Where is the center of politics for [MASK]?,1,,0.9972226680440142
+6354,P1376,Which town serves as the seat of power for [MASK]?,1,1.2580572097560212,1.0102392041372634
+6187,P1376,Where is the center of government in [MASK]?,1,,1.1006241993169037
+6186,P1376,Where is the center of government for [MASK]?,1,,0.8940441658555984
+6185,P1376,Where is the center of administration for [MASK]?,1,,0.9957227361754846
+6355,P1376,Which urban area is at the heart of [MASK]?,1,,0.8985368894810646
+6183,P1376,Where is the capital located in [MASK]?,1,1.1655494750968654,1.1655494750968654
+6356,P1376,Which urban area is the capital of [MASK]?,1,,0.9007043510122351
+6180,P1376,Where is the capital city located for [MASK]?,1,,1.1031313583280216
+6179,P1376,Where is the capital city in [MASK]?,1,0.891047947575742,1.1362447940966394
+6178,P1376,Where is the base of power in [MASK]?,1,,0.9480480851223946
+6177,P1376,Where is the administrative headquarters of [MASK]?,1,1.0090397465002365,1.0090397465002365
+6175,P1376,Where is the administrative capital of [MASK]?,1,,1.019252783961753
+6313,P1376,Which city serves as the major urban center for [MASK]?,1,,1.012342707783676
+6357,P1376,Which urban area is the hub of [MASK]?,1,,0.9002820965681859
+6202,P1376,Where is the governing headquarters of [MASK]?,1,0.957460298507265,0.9574602985072658
+6205,P1376,Where is the head of [MASK]?,1,,1.1304392733730724
+6243,P1376,Which city acts as the capital of [MASK]?,1,,0.9351406352105761
+6206,P1376,Where is the home of [MASK]'s government?,1,,0.9661518330363845
+6242,P1376,Which city acts as the administrative center for [MASK]?,1,,0.9954464081040076
+6241,P1376,Which centre is the capital of [MASK]?,1,,1.043129457844989
+6240,P1376,Which Taiwanese municipality has [MASK] as its primary city?,1,1.643736286784503,0.9652331591378007
+6235,P1376,Where is the seat of [MASK]'s government?,1,,0.962868170941091
+6234,P1376,Where is the provincial capital of [MASK]?,1,,1.0845570154444075
+6233,P1376,Where is the principal city of [MASK]?,1,,1.1552822558441254
+6231,P1376,Where is the primary municipal center of [MASK] located?,1,0.9181875422170258,1.037569561993596
+6348,P1376,Which settlement stands as the political capital of [MASK]?,1,1.0133424422733242,1.0401977823796826
+6227,P1376,Where is the political heart of [MASK]?,1,,0.9047854017940129
+6226,P1376,Where is the political headquarters of [MASK]?,1,,0.9423379273166385
+6224,P1376,Where is the official capital of [MASK]?,1,,0.9811012781606245
+6221,P1376,Where is the municipal center for [MASK]?,1,,0.9580102773395909
+6220,P1376,Where is the most populous urban area of [MASK]?,1,0.8694822411857714,0.8694822411857713
+6219,P1376,Where is the metropolis of [MASK]?,1,,0.8157284794746387
+6218,P1376,Where is the major civic center of [MASK]?,1,,0.9128378887327225
+6349,P1376,Which town is the epicenter of [MASK]?,1,,0.9561626348704744
+6216,P1376,Where is the major city located in [MASK]?,1,0.8890977186625125,0.9654023936669314
+6350,P1376,Which town is the seat of government in [MASK]?,1,,0.9542636881881118
+6214,P1376,Where is the main seat of [MASK]?,1,0.8985655159675309,0.8985655159675292
+6212,P1376,Where is the main hub of [MASK] located?,1,,0.9024539468503495
+6211,P1376,Where is the main governing city for [MASK] located?,1,,1.0680228368296512
+6210,P1376,Where is the main centre of power for [MASK]?,1,0.8843183126872327,0.8843183126872327
+6352,P1376,Which town or city serves as the seat of [MASK]?,1,,1.1065512683623606
+6209,P1376,Where is the main capital of [MASK]?,1,,1.068600731254303
+6208,P1376,Where is the legislative center of [MASK]?,1,,0.9099998992190301
+6026,P1376,What is the urban locale that serves as the center of [MASK]?,1,,0.9264275770541837
+5871,P1376,What is the main city of the Dutch province of [MASK]?,1,1.0690873697175802,1.0690873697175802
+6020,P1376,What is the urban area of [MASK] that is the seat of power?,1,,0.8964047184992432
+5733,P1376,What is [MASK]'s metropolis?,1,,1.0147806565326067
+5731,P1376,What is [MASK]'s main governmental city?,1,,0.9608809725163302
+5730,P1376,What is [MASK]'s hub for governmental affairs?,1,0.9389450159229398,0.9389450159229398
+5728,P1376,What is [MASK]'s civic center?,1,0.8664394862657391,0.8664394862657391
+5727,P1376,What is [MASK]'s chief metropolitan area?,1,,0.8949896411606845
+5726,P1376,What is [MASK]'s chief governmental hub?,1,,0.8943441830119299
+5725,P1376,What is [MASK]'s chief city?,1,,0.8918493109647794
+5724,P1376,What is [MASK]'s capitular city?,1,,0.908895936299029
+5722,P1376,What destination is the administrative centre of [MASK]?,1,,0.8879628627459979
+5721,P1376,What constitutes the administrative center of [MASK]?,1,,0.9683850175443293
+5719,P1376,What community is the main metropolis of [MASK]?,1,,0.9718162081973502
+5718,P1376,What community is the home base for [MASK]?,1,0.8785316482786298,0.878531648278631
+5717,P1376,What community is the central governing area of [MASK]?,1,1.1789986240585022,0.8747327340678946
+5713,P1376,What city serves as the primary location for [MASK]?,1,,0.8962495734242849
+5711,P1376,What city serves as the primary hub in [MASK]?,1,,0.96286516261078
+5709,P1376,What city serves as the main headquarters for [MASK]?,1,,0.9218801276979524
+5708,P1376,What city serves as the main city of [MASK]?,1,0.9098812516733579,0.9098812516733518
+5706,P1376,What city serves as the headquarters of [MASK]?,1,0.9665922670949302,1.1461705063610559
+5705,P1376,What city serves as the head of state for [MASK]?,1,,0.9508318606606234
+5701,P1376,What city serves as the epicenter for [MASK]?,1,,1.0483497037323595
+5699,P1376,What city serves as [MASK]'s seat of government?,1,,0.9408564443156964
+5698,P1376,What city serves as [MASK]'s administrative center?,1,,1.0593713653164407
+5697,P1376,What city represents the seat of power for [MASK]?,1,,0.9761727976974758
+5694,P1376,What city is the seat of [MASK]'s municipal authority?,1,,1.0711854640577845
+5690,P1376,What city is the prime location in [MASK]?,1,0.9150788106677125,1.0897166277220751
+5684,P1376,What city is the political seat of [MASK]?,1,0.9571811940602042,1.088041471538684
+5732,P1376,What is [MASK]'s main urban centre?,1,,1.0182824089843991
+5735,P1376,What is [MASK]'s principal city?,1,,1.049603291588528
+5677,P1376,What city is the official residence for the government of [MASK]?,1,,1.0903570915874536
+5738,P1376,What is the [MASK] capital city called?,1,,1.0007493044179998
+5779,P1376,What is the chief governing place in [MASK]?,1,,0.9001065160572644
+5777,P1376,What is the chief administrative center for [MASK]?,1,,1.1106924426900675
+5775,P1376,What is the centrally located city in [MASK]?,1,,1.0135412826475279
+5774,P1376,What is the central municipality of [MASK]?,1,,0.9580685883784249
+5773,P1376,What is the central metropolis of [MASK]?,1,,0.968623620013917
+5772,P1376,What is the central location of [MASK]?,1,,0.852480477536118
+5769,P1376,What is the central city for the [MASK] region?,1,0.9444701423930995,1.1229163168347198
+5768,P1376,What is the central administrative area of [MASK]?,1,,1.0287801263354865
+5767,P1376,What is the centered city of [MASK]?,1,0.9896481329931034,0.9896481329931034
+5766,P1376,What is the center point of [MASK]?,1,,0.8932769247699978
+5763,P1376,What is the center of power for [MASK]?,1,0.9084788741471618,0.9084788741471618
+5762,P1376,What is the center of political power in [MASK]?,1,,0.8939524814367402
+5760,P1376,What is the center of governance for [MASK]?,1,,0.8875479119968769
+5759,P1376,What is the center of authority in [MASK]?,1,,1.1099707517979949
+5758,P1376,What is the center of activity in [MASK]?,1,0.8773998935356602,0.8773998935356319
+5757,P1376,What is the center of [MASK]'s political power?,1,,0.8871566206970738
+5754,P1376,What is the capitol of [MASK]?,1,,1.006073779536238
+5750,P1376,What is the capital of the Canadian province of [MASK]?,1,,1.0887982178398374
+5748,P1376,What is the capital of [MASK] called?,1,,1.1389891637903014
+5747,P1376,What is the capital of [MASK] Bay?,1,0.9143869259217132,1.0817228774933139
+5744,P1376,What is the capital city for [MASK]?,1,,1.015190915024303
+5743,P1376,What is the base of the government of [MASK]?,1,,0.8689458661516145
+5742,P1376,What is the base for the political operations of [MASK]?,1,,0.817126873519082
+5741,P1376,What is the authoritative city in [MASK]?,1,,0.924732562536659
+5739,P1376,What is the administrative center of the [MASK] region?,1,0.946237922479547,0.9691473470791884
+5682,P1376,What city is the political centre of [MASK]?,1,,0.9289203866681315
+5672,P1376,What city is the main political base of [MASK]?,1,,1.0437882343333462
+5781,P1376,What is the chief metropolitan area of [MASK]?,1,,0.9960877322529206
+5609,P1376,What city acts as the seat of [MASK]?,1,,1.0000842790130064
+5607,P1376,What area serves as the heart of [MASK]?,1,,0.9008987192990301
+5605,P1376,To which urban area is [MASK]'s political power centralized?,1,,1.0210733184314535
+5604,P1376,To which city does [MASK] refer as its capital?,1,,1.0531771272475339
+5603,P1376,To which city does [MASK] owe its capital status?,1,,0.998155098844401
+5602,P1376,To which city does [MASK] owe allegiance?,1,,0.8818268203075629
+5601,P1376,To what city does [MASK] give its allegiance?,1,0.8965264172543518,0.8965264172543446
+5600,P1376,Name the city that serves as the capital of [MASK].,1,,0.897048529056567
+5599,P1376,Name the city that is the political center of [MASK]?,1,,1.058224995770334
+5598,P1376,Name the city that is the hub of [MASK]?,1,,0.9493953746322477
+5597,P1376,Name the city that is the headquarters of [MASK].,1,,0.9278142641416454
+5596,P1376,Name the city that is the capital of [MASK]?,1,,1.0247321913781038
+5595,P1376,In which municipality is the governing center of [MASK] located?,1,,0.9611560755254117
+5591,P1376,In which city is the government of [MASK] headquartered?,1,,1.1614948151975844
+5587,P1376,In which city is [MASK] situated?,1,,0.8231084998502098
+5586,P1376,In which city does [MASK] hold its government?,1,,0.9821385157380834
+5585,P1376,In which city does [MASK] have its headquarters?,1,,1.038019024634181
+5584,P1376,In which city does [MASK] have its capital?,1,1.1241010752273415,1.1241010752273415
+5582,P1376,In what urban area does the government of [MASK] reside?,1,0.9115351764083752,1.0544346791036907
+5581,P1376,In what location is [MASK]'s capital located?,1,,1.0245920498433594
+5576,P1376,In what city does [MASK] have its governmental headquarters?,1,0.9227846978089376,1.0158474517264087
+5574,P1376,Identify the municipality that serves as the capital of [MASK].,1,,0.9163825331306801
+5573,P1376,Identify the capital of [MASK].,1,1.2021541588071185,1.2021541588071185
+5572,P1376,For which region is [MASK] its capital?,1,,0.8795717531424645
+5571,P1376,For which city is [MASK] the capital?,1,,0.9865480273405132
+5570,P1376,Could you tell me which city is the capital of [MASK]?,1,1.0539121461138121,1.0539121461138121
+5608,P1376,What city acts as the capital for [MASK]?,1,,1.1497613888408107
+5610,P1376,What city currently acts as the capital of [MASK]?,1,,1.0567760736891416
+5671,P1376,What city is the main hub for [MASK]’ government?,1,,1.0998990396071648
+5611,P1376,What city does [MASK] have as its administrative center?,1,,1.1111681548581636
+5666,P1376,What city is the locus of power for [MASK]?,1,,1.1831125871719532
+5664,P1376,What city is the hub of the [MASK] region?,1,1.350818560473945,1.350818560473945
+5662,P1376,What city is the hub for [MASK]?,1,,0.9188405822390846
+5661,P1376,What city is the home to the governmental structures of [MASK]?,1,,1.1021756825143942
+5656,P1376,What city is the government headquarters for [MASK]?,1,,0.8959553962298024
+5655,P1376,What city is the focal point of government for [MASK]?,1,0.9306745496354997,0.9846228019560409
+5653,P1376,What city is the epicenter of [MASK]'s governing bodies?,1,,1.030167155872924
+5650,P1376,What city is the cornerstone of [MASK]?,1,,0.9875115882107589
+5643,P1376,What city is the centre of power in [MASK]?,1,0.9052731862503569,0.9859763745621729
+5642,P1376,What city is the centre of power for [MASK]?,1,,0.9036144936207023
+5639,P1376,What city is the capital of the [MASK] province?,1,,1.104973230236425
+5637,P1376,What city is the base of operations for [MASK]?,1,,0.9203553458843576
+5636,P1376,What city is the authority of [MASK]?,1,,0.9137373836804157
+5634,P1376,What city is situated in [MASK] with the role of capital?,1,,1.052279580738013
+5631,P1376,What city is named the capital of [MASK]?,1,,1.0979213600852125
+5629,P1376,What city is home to the [MASK] authorities?,1,,1.1307154448817303
+5628,P1376,What city is home to [MASK]'s government?,1,,1.0059017961201115
+5624,P1376,What city is [MASK]'s primary capital?,1,0.940472493125391,1.118854737068515
+5623,P1376,What city is [MASK]'s designated center of government?,1,,1.0387255089946923
+5620,P1376,What city houses the administrative offices for [MASK]?,1,0.8747913778071938,0.8747913778071919
+5618,P1376,What city holds the title of [MASK]'s capital?,1,,1.0372914098571897
+5617,P1376,What city holds the status of capital in [MASK]?,1,0.9188190679713222,0.9987960192646814
+5616,P1376,What city holds the highest administrative power in [MASK]?,1,0.8783436809368793,0.8783436809368793
+5615,P1376,What city has the title of capital for [MASK]?,1,,1.1070154824349392
+5612,P1376,What city forms the capital of [MASK]?,1,,0.9441176079620148
+5780,P1376,What is the chief hub of [MASK]?,1,,1.049156615553848
+5783,P1376,What is the chief settlement in [MASK]?,1,,1.187974863488672
+6019,P1376,What is the town that serves as the governing center of [MASK]?,1,0.9140584058424138,1.0267725019083755
+5969,P1376,What is the predominant urban center of [MASK]?,1,0.9195413863664234,0.9195413863664209
+5966,P1376,What is the population center that is the home of [MASK]'s government?,1,0.9096526450387267,1.0218202147848838
+5963,P1376,What is the political core of [MASK]?,1,,0.8750633332080142
+5961,P1376,What is the political center of the [MASK] region?,1,,1.0104845939656741
+5957,P1376,What is the official head of [MASK]?,1,,0.8272421497145407
+5953,P1376,What is the nominal capital of [MASK]?,1,0.8829762950391253,1.0836595469867776
+5950,P1376,What is the name of the main administrative center of [MASK]?,1,,1.0956182191480703
+5948,P1376,What is the municipality that serves as the seat of government in [MASK]?,1,,1.0925194147670934
+5946,P1376,What is the municipality that is the most important city of [MASK]?,1,,1.0183818197516818
+5941,P1376,What is the municipal nucleus of [MASK]?,1,0.8862773619763177,0.8862773619763162
+5940,P1376,What is the municipal headquarters of [MASK]?,1,,0.9328001338864206
+5939,P1376,What is the municipal centre for [MASK]?,1,,0.9551864535209197
+5937,P1376,What is the municipal capital of [MASK]?,1,,0.8537207452393517
+5936,P1376,What is the most significant town in [MASK]?,1,,1.0429592879602607
+5935,P1376,What is the most significant city in [MASK]?,1,,1.035369726637119
+5934,P1376,What is the most prominent city in [MASK]?,1,,1.135684372120284
+5933,P1376,What is the most populous city in [MASK]?,1,,1.010260853555368
+5932,P1376,What is the most influential city in [MASK]?,1,,0.9613470000796385
+5930,P1376,What is the metropolitan area that serves as the capital of [MASK]?,1,,0.8778599925393106
+5928,P1376,What is the metropolis that serves as the political heart of [MASK]?,1,,0.9707321339310916
+5927,P1376,What is the metropolis that is the official capital of [MASK]?,1,0.8943324258319587,1.004609588392465
+5923,P1376,What is the major urban area that is the governmental hub for [MASK]?,1,0.9173296353472494,1.0462458477942571
+5922,P1376,What is the major urban area of [MASK]?,1,,0.9253446062991275
+5921,P1376,What is the major settlement acting as the capital of [MASK]?,1,,0.9341112494043885
+5915,P1376,What is the major metropolis at the core of [MASK]?,1,,0.9523560147250336
+5914,P1376,What is the major hub of [MASK]?,1,,0.8532173567842621
+5968,P1376,What is the predominant municipality of [MASK]?,1,,1.219979172401455
+5970,P1376,What is the preeminent city of the Dutch province of [MASK]?,1,0.9929655255127109,0.9929655255127109
+5910,P1376,What is the major city serving as the seat of government in [MASK]?,1,,1.049893459438881
+5971,P1376,What is the preeminent municipality of [MASK]?,1,2.1049364093325122,1.0869970107321916
+6018,P1376,What is the town that provides the government for [MASK]?,1,,0.9502888645110703
+6017,P1376,What is the top city of [MASK]?,1,,1.0367603927368254
+6014,P1376,What is the seat of power within [MASK]?,1,,1.0098918870070628
+6010,P1376,What is the ruling center of [MASK]?,1,,0.8806452634413633
+6009,P1376,What is the residence of [MASK]'s government?,1,0.8974162918888395,0.8974162918888399
+6008,P1376,What is the prominent city of [MASK]?,1,0.8829213574937455,0.8829213574937451
+6004,P1376,What is the principal town of [MASK]?,1,,1.0913075191611694
+6003,P1376,What is the principal municipality of [MASK]?,1,0.8914432710221469,0.8914432710221443
+6002,P1376,What is the principal metropolis in [MASK]?,1,,1.043747273002751
+5999,P1376,What is the principal city for [MASK]'s government?,1,,1.0729296929120946
+5998,P1376,What is the primary urban zone of [MASK]?,1,,1.015408746262246
+5995,P1376,What is the primary seat of power for [MASK]?,1,,0.9392294525830491
+5994,P1376,What is the primary seat of government for [MASK]?,1,,0.8991842288731119
+5993,P1376,What is the primary political stronghold of [MASK]?,1,,0.9119030922012221
+5991,P1376,What is the primary municipal city for [MASK]?,1,,1.0178254144342485
+5989,P1376,What is the primary municipal area in [MASK]?,1,,0.9298658628807569
+5988,P1376,What is the primary municipal area for [MASK]?,1,,0.8810400840516341
+5987,P1376,What is the primary metropolitan area of [MASK]?,1,,0.8456602836988585
+5983,P1376,What is the primary government center for [MASK]?,1,,1.0944341731829288
+5981,P1376,What is the primary governing area of [MASK]?,1,0.8962914643004429,0.8962914643004429
+5979,P1376,What is the primary city that supports the government of [MASK]?,1,,0.9723078983496277
+5977,P1376,What is the primary city that houses the government of [MASK]?,1,,0.9688486662443659
+5975,P1376,What is the primary city governing [MASK]?,1,,0.8758017242443498
+5973,P1376,What is the primary capital of [MASK]?,1,,0.9813292382741898
+5972,P1376,What is the premier city in [MASK]?,1,0.937788030863305,1.0835102114676398
+5912,P1376,What is the major city that represents [MASK]?,1,,0.9472814964072828
+5907,P1376,What is the major city governing the [MASK] area?,1,1.2771156040011784,1.1115484689767814
+5784,P1376,What is the chief source of authority in [MASK]?,1,,0.9030924300321873
+5845,P1376,What is the home city of [MASK]?,1,0.9164167698154025,1.0509433459888722
+5843,P1376,What is the home base of governance in [MASK]?,1,0.9260443109113792,0.9260443109113787
+5842,P1376,What is the head of government for [MASK]?,1,,0.8830513543993221
+5839,P1376,What is the governmental municipality of [MASK]?,1,,1.0013993426551622
+5835,P1376,What is the governmental administrative center for [MASK]?,1,,0.8884116849254551
+5833,P1376,What is the governing municipality of [MASK]?,1,,0.8950239216015647
+5831,P1376,What is the governing core of [MASK]?,1,,0.9089455917554244
+5829,P1376,What is the foremost municipality of [MASK]?,1,,1.103637242556484
+5828,P1376,What is the foremost city in [MASK]?,1,,0.9493791659501409
+5827,P1376,What is the focus of [MASK]'s governance?,1,,0.9020509491486001
+5826,P1376,What is the epicentre of [MASK]'s administration?,1,,0.9038169797796769
+5825,P1376,What is the epicenter of [MASK]?,1,,0.8666828511911768
+5823,P1376,What is the dominant urban area in [MASK]?,1,0.8791549476458512,0.8791549476458506
+5821,P1376,What is the designated hub of [MASK]?,1,,0.8862362531332915
+5819,P1376,What is the designated city of [MASK]?,1,,1.1504297584050556
+5818,P1376,What is the core municipality of [MASK]?,1,1.546987697595143,0.9427763240323505
+5816,P1376,What is the city that serves as the seat of government in [MASK]?,1,,1.093580824167885
+5811,P1376,What is the city that serves as the government hub for [MASK]?,1,,1.15166781362727
+5809,P1376,What is the city that serves as [MASK]'s administrative capital?,1,,1.0652110425831658
+5808,P1376,What is the city that leads [MASK] politically?,1,,1.1000570753676109
+5798,P1376,What is the city that houses the seat of government of [MASK]?,1,,1.098356242535428
+5797,P1376,What is the city that holds the prominent governmental offices for [MASK]?,1,0.885173504750318,0.9804030328690974
+5795,P1376,What is the city that heads the government in [MASK]?,1,,0.9174745030966347
+5791,P1376,What is the city holding the governmental authority for [MASK]?,1,,0.9217886333425702
+5790,P1376,What is the city designated as the administrative hub of [MASK]?,1,,0.8838515639440052
+5786,P1376,What is the chief urban area of [MASK]?,1,,1.0148788832420337
+5844,P1376,What is the home city for [MASK]'s government?,1,0.9549859827996624,1.1437081623501368
+5848,P1376,What is the hub of politics for [MASK]?,1,0.9530241200828333,0.9530241200827739
+5904,P1376,What is the main urban center that rules over [MASK]?,1,0.8905835594422828,1.0878232382512973
+5849,P1376,What is the hub of power in [MASK]?,1,,0.8794684720679444
+5903,P1376,What is the main settlement that [MASK] has as its capital?,1,,1.0525385670899512
+5902,P1376,What is the main settlement in [MASK]?,1,,0.9808444933407096
+5901,P1376,What is the main seat of [MASK]'s municipal government?,1,,0.9551725781548646
+5900,P1376,What is the main point of government in [MASK]?,1,,0.9339233066155095
+5897,P1376,What is the main municipal area of [MASK]?,1,,0.8772815006454017
+5896,P1376,What is the main metropolitan region of [MASK]?,1,,0.9081470928033981
+5893,P1376,What is the main hub for [MASK]?,1,,0.8842784464130824
+5892,P1376,What is the main hub for [MASK]'s executive branch?,1,,0.8704669048476827
+5891,P1376,What is the main headquarters of [MASK]?,1,,0.8869463384979129
+5884,P1376,What is the main city where [MASK] is based?,1,0.9416686759575194,0.9935091584873766
+5881,P1376,What is the main city that serves as a residence of the government in [MASK]?,1,,0.9314217259387539
+5879,P1376,What is the main city that is the administrative headquarters of [MASK]?,1,,1.067197012288502
+5877,P1376,What is the main city that holds the governing powers in [MASK]?,1,1.605159378407195,0.9315247398489447
+5876,P1376,What is the main city that governs the [MASK] region?,1,,0.9705560878518509
+5875,P1376,What is the main city that [MASK] has as its capital?,1,,1.023671458114205
+5874,P1376,What is the main city that [MASK] centers around?,1,,0.8681551537602179
+5872,P1376,What is the main city presiding over [MASK]?,1,0.9374356559827541,1.0800755925882293
+5870,P1376,What is the main city leading [MASK]?,1,,0.9285512083675098
+5865,P1376,What is the main centre of government for [MASK]?,1,,0.9167472727310674
+5861,P1376,What is the main center of governance in [MASK]?,1,0.8764602883830811,0.8764602883830804
+5856,P1376,What is the leading urban area in [MASK]?,1,,0.8880359746099603
+5855,P1376,What is the leading municipally of [MASK]?,1,,1.0549002438235084
+5854,P1376,What is the leading municipality in [MASK]?,1,,0.8753353688742072
+5853,P1376,What is the leading city that presides over [MASK]?,1,,0.9188586066598954
+5852,P1376,What is the leading city in [MASK]?,1,1.0100776645198972,1.0100776645198972
+6362,P1376,Who is the primary governing city in [MASK]?,1,,0.9638633407414506

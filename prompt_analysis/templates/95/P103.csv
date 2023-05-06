@@ -1,0 +1,575 @@
+,p,template,fact_id,effect_gold,effect_top
+83,P103,What language is [MASK]'s native dialect?,134,,0.9992997186847355
+5,P103,What language is [MASK]'s mother tongue?,98,,1.006502548990182
+0,P103,What language did [MASK] grow up speaking?,90,0.9978727643231754,1.0022213356983098
+839,P103,What tongue is [MASK]'s first language?,88,,1.0200275203291733
+195,P103,What language did [MASK] learn to speak first?,81,,1.0039561096728868
+2,P103,What language was [MASK] born speaking?,71,1.0030653966034981,1.0058531452922264
+3,P103,What language does [MASK] come from?,63,,1.0010265448666713
+724,P103,What language is native to the [MASK]?,63,,0.9881371517114955
+142,P103,What language does [MASK] speak by birth?,56,1.0306728132998333,1.0074775825255966
+755,P103,What language is the primary language of the [MASK]?,53,0.9995962250394824,1.0062110586665622
+705,P103,What language is [MASK]'s primary dialect?,51,1.023561013205262,1.0127036418710962
+11,P103,What is the mother tongue of [MASK]?,44,1.0015469291211105,1.008315488809271
+10,P103,What is the language of origin for [MASK]?,42,1.041750567263907,0.9824900931343178
+12,P103,What is the original language of [MASK]?,41,0.9957986911968385,0.9949167510921273
+22,P103,What language was [MASK] raised speaking?,32,0.9693168074330033,0.9965310504321983
+348,P103,What is the language of [MASK]'s national origin?,32,,0.9812267278161545
+36,P103,What language is [MASK] most familiar with?,32,0.9827347849128014,0.9929584307207727
+27,P103,What language is [MASK] originally from?,31,0.9507317232914568,0.9894266132148962
+835,P103,What tongue does [MASK] speak as his first language?,30,1.0219693754927364,1.0281014913896256
+15,P103,What is [MASK]'s native tongue?,29,,1.0039056657106464
+26,P103,What language does [MASK] speak as his mother tongue?,28,1.0247477671673921,1.0085355992983638
+20,P103,What language was [MASK] brought up speaking?,26,1.0051642951875024,1.0106454723600593
+32,P103,What language is [MASK] a native speaker of?,24,,1.001518014231135
+28,P103,What is the first language of [MASK]?,22,0.9935056925906629,1.0120013464286444
+29,P103,What is the language [MASK] grew up speaking?,21,,1.0005675876831202
+21,P103,What is the native tongue of [MASK]?,21,0.9751084728106962,0.9895177326867669
+37,P103,What language was [MASK]'s native tongue?,20,0.9863461800085556,1.0092800257562304
+19,P103,What was [MASK]'s mother tongue?,20,0.9843041245979697,0.984045925308792
+41,P103,What is [MASK]'s original language?,19,1.0461969563514035,1.0143898600985628
+30,P103,What is the language of [MASK]'s birth?,19,1.003221319372188,1.0123483214385427
+71,P103,What language does [MASK] have as his mother tongue?,17,,1.0144078702263588
+23,P103,What language did [MASK] learn as a child?,17,,1.0061555971417218
+597,P103,What language does [MASK] have as his native?,16,,0.9994256427012216
+31,P103,What language does [MASK] originate from?,16,0.9736878856280601,0.9789626735728111
+38,P103,What was [MASK]'s first language?,16,,1.009679751665876
+62,P103,What was the native language of [MASK]?,15,,0.9919034440983758
+85,P103,What language is traditionally spoken in [MASK]?,15,1.0153898756087305,1.0108894320154937
+43,P103,What language does [MASK] know best?,14,1.0166748011281652,1.009286155423419
+147,P103,What language is natively spoken by [MASK]?,13,,1.0129565674318184
+45,P103,What was [MASK]'s language of origin?,12,1.1185763634073749,0.9859417054776335
+70,P103,What language does [MASK] have as his first language?,11,0.9956560042039517,1.0128577541283788
+100,P103,What language does [MASK] consider his native language?,10,1.0178323080700993,1.0270733810819475
+42,P103,What language does [MASK] identify with?,10,0.9329398260399687,1.0008863399362236
+59,P103,What language is indigenous to [MASK]?,10,0.9640934000937298,0.9927587946952604
+69,P103,What language does [MASK] consider his own?,10,0.9628354169188734,0.9763304969197296
+120,P103,What is the language [MASK] learned first?,10,,1.002837306747853
+86,P103,What language was [MASK] brought up with?,9,0.9911789133424271,1.0051163030964128
+55,P103,What language does [MASK] call his own?,9,0.9350022210102679,0.9577510393517797
+107,P103,What language is [MASK] most comfortable speaking?,9,1.0303555010578327,1.004447257522434
+48,P103,What language did [MASK] originate from?,9,0.9329239132829797,0.975487764337267
+54,P103,What is the language of origin in [MASK]?,8,1.0074965530128854,0.9970520091143157
+140,P103,What language does [MASK] speak as his primary language?,8,,0.9900186324000473
+81,P103,What language does [MASK] primarily use?,7,1.099016688239114,1.0121348830944499
+162,P103,In what language did [MASK] learn to communicate?,7,,0.9656822110435525
+73,P103,What language does [MASK] have the most fluency in?,7,0.9933426566760575,1.0536646986193712
+145,P103,What language is [MASK] natively fluent in?,7,0.9794313041750841,1.0011207912967823
+63,P103,What language does [MASK] have roots in?,7,0.9630966244523832,0.9681429113269602
+138,P103,What language does [MASK] have as his primary language?,6,1.0388494858641273,1.01991099185061
+94,P103,Which language is [MASK]'s native language?,6,0.9720050004923905,0.9799991276565851
+322,P103,What is the language [MASK] is from?,6,,1.0037400762340845
+92,P103,What was the language of [MASK]'s upbringing?,6,0.9865215493089621,1.0079516788432334
+90,P103,What was [MASK]'s primary language?,6,1.0149723167571896,1.0185070998277301
+98,P103,What language did [MASK] originally speak?,6,0.9339071055607895,1.0109389774925843
+93,P103,Which language is [MASK]'s mother tongue?,6,0.972878348462976,1.00937168255465
+121,P103,What is the language that [MASK] is most fluent in?,6,0.9816239145334209,1.0089061153611074
+137,P103,What language does [MASK] have as her native language?,5,,1.0075976125994455
+152,P103,What language was [MASK]'s native speech?,5,1.0356708382713717,0.9938946033435915
+204,P103,What language do [MASK] typically use?,5,0.9698690285495912,0.9698690285495912
+192,P103,What language did [MASK] learn from her parents?,5,0.9459905773097812,1.0110515361937347
+113,P103,What was the primary language spoken by [MASK]?,5,1.0122996012846042,1.00458035395266
+168,P103,What is the language [MASK] is most proficient in?,5,0.950688639962598,1.05079728077621
+117,P103,What is the indigenous language of [MASK]?,5,,0.9604890699609883
+144,P103,What language is [MASK] native in?,5,1.0019027387277322,1.0252786084328285
+151,P103,What language was [MASK] originally speaking?,4,0.9544058299572182,0.9957044005056082
+136,P103,What language does [MASK] consider his primary language?,4,1.0247145531653086,0.9849167053942975
+356,P103,What is the language of the native people in [MASK]?,4,,0.9956144267642776
+663,P103,What language does [MASK] use to communicate in his home country?,4,,1.0108634917841046
+202,P103,What language did [MASK] use first?,4,0.9503651095179476,1.050566990875782
+198,P103,What language did [MASK] speak as her first language?,4,0.9999379855004717,1.031402733156817
+102,P103,What language does [MASK] have the most proficiency in?,4,0.9178793213489559,0.9495706455915935
+103,P103,What language does [MASK] identify as his first language?,4,0.9103329933039336,1.0322758557167375
+143,P103,What language does [MASK] use as his native language?,4,,1.0173524201376116
+128,P103,What language did [MASK] come from?,4,0.9364766349942967,1.0070731548342429
+239,P103,What language was the primary language of [MASK]?,4,,1.0276353299971899
+262,P103,In what language does [MASK] communicate most fluently?,4,1.0031859151033466,1.0278253790505332
+171,P103,What is the language spoken by [MASK]'s family?,4,0.9415995714886063,0.997460384339757
+124,P103,What is the linguistic background of [MASK]?,4,0.9857555822569113,0.9573334082956699
+150,P103,What language was [MASK] originally fluent in?,4,,0.9903267010554195
+133,P103,What language did [MASK] speak at home?,4,0.9735497850100044,1.0190255575240537
+158,P103,What was the first language [MASK] learned?,4,0.98396975124266,1.0088239723243877
+509,P103,What language did [MASK] speak as her native tongue?,4,,0.9868207432757078
+213,P103,What language does [MASK] have the most familiarity with?,3,0.941855222610737,0.995879206795573
+237,P103,What language was [MASK] raised with?,3,0.9336819229606425,1.0017800012380393
+549,P103,What language do [MASK] use primarily?,3,,1.0126190889088804
+523,P103,What language did [MASK] use as his primary communication?,3,,0.9969205527833446
+225,P103,What language is [MASK]'s linguistic origin?,3,,0.9386027275810155
+250,P103,Which language is native to [MASK]?,3,0.8993297709530083,0.9702945848820953
+220,P103,What language does [MASK] usually speak?,3,1.0050540484681336,1.0122871200595407
+218,P103,What language does [MASK] speak as a first tongue?,3,,0.9821016060153465
+457,P103,What language did [MASK] consider his mother tongue?,3,,1.0062382044351212
+327,P103,What is the language [MASK] speaks as a first language?,3,,1.0552007032770039
+307,P103,What is the first language [MASK] was exposed to?,3,,0.9958619972266057
+217,P103,What language does [MASK] natively speak?,3,,1.006164391763933
+214,P103,What language does [MASK] identify as her native language?,3,,0.9387515992351888
+230,P103,What language is the basis of [MASK]'s communication?,3,,0.9796237762161781
+190,P103,What language did [MASK] know best?,3,1.013948687395683,1.0096427612550798
+172,P103,What is the language that [MASK] is a native of?,3,0.976130190276192,1.0197156789895425
+166,P103,What is [MASK]'s native lingo?,3,0.8880686927828924,0.8880686927828924
+153,P103,What language was [MASK]'s original language?,3,0.9415240700976981,0.9963817305181459
+184,P103,What is the vernacular of [MASK]?,3,0.9408417889812893,0.9408417889812893
+619,P103,What language does [MASK] possess fluency in?,3,,0.973300786280051
+161,P103,Which language was [MASK] born speaking?,3,0.9655105264111379,1.0303169253008908
+134,P103,What language do [MASK] speak as their mother tongue?,3,0.9808613764655109,1.0119928113961156
+132,P103,What language did [MASK] learn at home?,3,0.9819354438613894,1.0397436537381715
+126,P103,What is the natural language of [MASK]?,3,1.0004188882131395,0.9969095112134911
+156,P103,What tongue does [MASK] speak?,3,1.0278058704558728,1.003066903874737
+197,P103,What language did [MASK] primarily speak?,3,0.9930549609443662,0.9930549609443662
+210,P103,What language does [MASK] have a native fluency in?,3,,1.0388679167159223
+199,P103,What language did [MASK] speak natively?,3,,1.0038001583467075
+200,P103,What language did [MASK] speak naturally?,3,0.9193487140232763,0.9671451756586963
+125,P103,What is the native dialect of [MASK]?,3,0.9058457715603438,0.9058457715603434
+208,P103,What language does [MASK] first learned to speak?,3,,0.9996591822138802
+435,P103,What is the primary language that [MASK] speaks?,2,1.2274656995474473,0.9736232761207687
+803,P103,What language was [MASK]'s primary means of communication as a child?,2,,1.0112830280374758
+402,P103,What is the main language spoken by [MASK]?,2,,0.9965904899121911
+810,P103,What language was originally spoken by [MASK]?,2,1.0189867103457944,1.0169418824998124
+419,P103,What is the native speech of [MASK]?,2,1.0123560581318984,1.0123560581318984
+409,P103,What is the native language of [MASK]'s heritage?,2,0.960822529321884,0.9581894894616729
+405,P103,What is the native idiom of [MASK]?,2,1.0745089750781267,0.929595266991647
+437,P103,What is the primary language used by [MASK]?,2,1.0481501614680706,0.9947618272297138
+438,P103,What is the primary tongue spoken in [MASK]?,2,,0.9902064124562162
+585,P103,What language does [MASK] have a familiarity with?,2,0.9878295228002429,0.9878295228002404
+369,P103,What is the language that [MASK] first learned to communicate in?,2,,0.9371572705582631
+831,P103,What tongue did [MASK] primarily speak?,2,,0.9865634418219802
+381,P103,What is the language that [MASK] is natively familiar with?,2,,0.9538905998403926
+377,P103,What is the language that [MASK] is known for?,2,,0.9397776929750785
+366,P103,What is the language that [MASK] are born speaking?,2,0.970469910966952,1.0030480665702097
+364,P103,What is the language spoken by [MASK]'s parents?,2,,0.9061989569457821
+347,P103,What is the language of [MASK]'s cultural background?,2,0.99489284191124,0.9834404448843359
+345,P103,What is the language of [MASK]'s ancestors?,2,0.9296911890657041,1.057352006330933
+341,P103,What is the language [MASK] was taught at home?,2,,0.9749881982738455
+338,P103,What is the language [MASK] was born into?,2,0.9975298677928277,0.9975298677928277
+857,P103,What was the language [MASK] spoke natively?,2,1.0569782951030775,1.0088990681456662
+328,P103,What is the language [MASK] speaks as a native?,2,0.9780669754495862,0.9780669754495862
+326,P103,What is the language [MASK] primarily speaks?,2,,1.0351728831695888
+865,P103,What was the language of [MASK]'s early years?,2,,0.9822229348028255
+442,P103,What is the tongue that [MASK] speaks natively?,2,1.0530885448992187,0.9896034491055858
+763,P103,What language was [MASK] a native of?,2,0.9530413058860892,0.9907155932243339
+462,P103,What language did [MASK] converse in since birth?,2,,1.046932271219383
+472,P103,What language did [MASK] have as his native idiom?,2,1.0145903496083397,1.0145903496083397
+685,P103,What language is [MASK] originally proficient in?,2,0.9450941794166708,0.9830350204895089
+687,P103,What language is [MASK]' native one?,2,,1.0334624395039849
+672,P103,What language is [MASK] an expert in?,2,0.9269739504632493,0.9801666677439169
+581,P103,What language does [MASK] converse in?,2,,1.0223992049701833
+692,P103,What language is [MASK]'s initial language?,2,1.0173948469133602,0.9661856498419086
+693,P103,What language is [MASK]'s main language?,2,,1.0595907267296205
+699,P103,What language is [MASK]'s natural language?,2,,1.024413296296191
+659,P103,What language does [MASK] use in everyday life?,2,,1.033705838669358
+700,P103,What language is [MASK]'s origin of speech?,2,,1.0010917262037187
+658,P103,What language does [MASK] use daily?,2,0.933460115050694,0.9812629268903503
+651,P103,What language does [MASK] use as her primary language?,2,,1.0193717109318525
+649,P103,What language does [MASK] use as her mother tongue?,2,,0.9974498773865701
+561,P103,What language do the people of [MASK] use as their primary language?,2,,0.9797340685166827
+552,P103,What language do [MASK]' parents speak?,2,,0.9272851054440363
+614,P103,What language does [MASK] most fluently speak?,2,,0.9860974775138638
+537,P103,What language do [MASK] call their own?,2,0.9627179067221667,1.009406313817676
+533,P103,What language did [MASK]'s parents speak to him?,2,,0.9756275222253381
+718,P103,What language is most commonly spoken by [MASK]?,2,0.9976786162214057,1.0572351159887265
+720,P103,What language is most familiar to [MASK]?,2,,1.0019362534143839
+528,P103,What language did [MASK] use in his home country?,2,1.0174800015625851,1.0174800015625851
+647,P103,What language does [MASK] use as her first language?,2,0.9528123316642315,1.052411544497034
+730,P103,What language is primarily spoken by [MASK]?,2,1.0255589699244423,1.0255589699244423
+624,P103,What language does [MASK] speak as a native speaker?,2,0.8701979949807171,1.027600069421507
+514,P103,What language did [MASK] speak before any other?,2,0.9410256925691258,0.9440690651883596
+642,P103,What language does [MASK] understand fluently?,2,0.9467193487830095,0.9670249271235332
+482,P103,What language did [MASK] learn as a native speaker?,2,,0.9168276665619681
+478,P103,What language did [MASK] initially learn?,2,,1.0084169744917375
+765,P103,What language was [MASK] born knowing?,2,,1.0469919992153505
+766,P103,What language was [MASK] born with?,2,,0.9753715529922586
+323,P103,What is the language [MASK] learned as a child?,2,1.0662369550862159,1.0662369550862159
+331,P103,What is the language [MASK] speaks as her native language?,2,1.0277222410793714,1.0277222410793714
+320,P103,What is the language [MASK] has spoken since birth?,2,1.220986344445671,0.946890654984188
+196,P103,What language did [MASK] natively know?,2,1.0742059795175258,0.9722112750581038
+205,P103,What language do most [MASK] speak?,2,1.0289531698223047,1.0289531698223047
+209,P103,What language does [MASK] grow up speaking?,2,1.071717471759293,1.0351476057114373
+212,P103,What language does [MASK] have as his original language?,2,1.0068917007057703,1.0068917007057703
+215,P103,What language does [MASK] identify as his own?,2,0.9899711446194951,0.9899711446194951
+216,P103,What language does [MASK] identify as his primary language?,2,,1.0211464866841378
+222,P103,What language is [MASK] most comfortable with?,2,0.9230019234087681,0.9739384667303803
+297,P103,What is [MASK]'s native vernacular?,2,1.0841754602487912,0.8437002741385298
+226,P103,What language is [MASK]'s native idiom?,2,0.990617819592739,1.022080107399582
+228,P103,What language is most commonly used by [MASK]?,2,1.00968157577985,1.0033686958061034
+229,P103,What language is originally spoken in [MASK]?,2,0.9974708733107809,0.9974708733107809
+234,P103,What language is the primary tongue in [MASK]?,2,0.9928737468708215,1.0051927905779967
+236,P103,What language is typically used in [MASK]?,2,,1.0265138055176213
+243,P103,What tongue was [MASK] born speaking?,2,0.8733667969283518,0.928311095237971
+244,P103,What was the first language spoken by [MASK]?,2,0.9143918318675957,1.0093966822350793
+245,P103,What was the language [MASK] grew up with?,2,0.9952547786383812,0.9803520326082994
+247,P103,What was the language of [MASK]'s childhood?,2,1.2380637663420628,0.949111326555223
+254,P103,In what language did [MASK] communicate natively?,2,0.9123190840258095,0.9764600832965601
+203,P103,What language did [MASK]'s family speak?,2,0.8490682688573622,0.9065318744901962
+240,P103,What linguistic background does [MASK] come from?,2,0.885806991553794,0.9872320186474992
+270,P103,In what language was [MASK] most proficient?,2,,1.0539712989020076
+176,P103,What is the language that [MASK] speaks fluently?,2,0.9908410487862632,0.9908410487862632
+867,P103,What was the language of [MASK]'s mother tongue?,2,0.9631667963276072,1.015384018171647
+182,P103,What is the primary language spoken in [MASK]?,2,1.0256920180163007,1.0354736540347573
+183,P103,What is the traditional language of [MASK]?,2,0.9899706856483343,0.9899706856483343
+185,P103,What language did [MASK] acquire at birth?,2,0.9533736221174083,1.018210014914462
+186,P103,What language did [MASK] call his own?,2,0.9832121812263872,0.9832121812263872
+188,P103,What language did [MASK] grow up with?,2,1.0126721607310012,1.0126721607310012
+194,P103,What language did [MASK] learn in her childhood?,2,,0.9754052026067426
+175,P103,What is the language that [MASK] knows best?,2,1.0178633358190512,1.0166219529552172
+924,P103,Which tongue does [MASK] belong to?,1,1.0219735083385304,1.0219735083385304
+723,P103,What language is native to the Armenian people?,1,1.0058472033357206,1.0058472033357206
+722,P103,What language is most frequently used by [MASK]?,1,1.2628265405260848,1.109665315281414
+923,P103,Which language was naturally spoken by [MASK]?,1,0.9641962627315956,0.9641962627315956
+733,P103,What language is spoken by [MASK] as their primary tongue?,1,1.00517417914331,1.00517417914331
+725,P103,What language is native to the people of Armenia?,1,1.0104103631257733,1.0104103631257733
+640,P103,What language does [MASK] trace back to his roots?,1,,0.952462736092995
+721,P103,What language is most frequently used as the language of origin for [MASK]?,1,0.8974832734327712,0.8974832734327712
+728,P103,What language is of origin to [MASK]?,1,0.9233331900863516,1.017535894495452
+729,P103,What language is predominantly used by [MASK]?,1,1.0052590413098417,1.0052590413098417
+920,P103,Which language was [MASK]'s language of origin?,1,1.0046688686509226,1.0046688686509226
+925,P103,Which tongue is [MASK]' native one?,1,,0.9429176294995159
+919,P103,Which language was [MASK]'s language from birth?,1,1.1034195019561093,1.1034195019561093
+732,P103,What language is spoken by [MASK] as his first language?,1,,1.03024894721744
+735,P103,"What language is the Duke of Sussex, Prince Harry, originally from?",1,,0.9547758354942137
+734,P103,What language is spoken by people from Macedonia?,1,1.0132099974372326,1.0132099974372326
+918,P103,Which language was [MASK] brought up with?,1,0.933888804568275,0.933888804568275
+760,P103,What language is usually spoken by [MASK] as their first language?,1,1.0042306169353115,1.0042306169353115
+759,P103,What language is used by people from [MASK]?,1,,1.0298984353909655
+758,P103,What language is used as the main form of communication in [MASK]?,1,,0.9139631331898973
+757,P103,What language is typically spoken in [MASK]?,1,1.0075361771346911,1.0075361771346911
+756,P103,What language is the primary language used in [MASK]?,1,,1.0257054149896416
+915,P103,Which language is the original language of [MASK]?,1,1.4901320666080655,0.9599920813647281
+916,P103,Which language is the primary language within the [MASK]?,1,,0.9896093887117502
+754,P103,What language is the predominant language for [MASK]?,1,1.0070895902656032,1.0070895902656032
+753,P103,What language is the original tongue spoken in [MASK]?,1,,1.045767476824496
+750,P103,What language is the origin of Slovak people?,1,0.9390679167777966,0.9390679167777966
+743,P103,What language is the mother tongue for [MASK]?,1,1.0024308191177511,1.0024308191177511
+741,P103,What language is the most common among [MASK]?,1,1.0135352958175148,1.0135352958175148
+739,P103,What language is the foundation of [MASK]'s dialogue?,1,0.9678433927493123,0.9678433927493123
+738,P103,What language is the birthplace of [MASK]'s linguistic heritage?,1,0.9700939431258341,1.0415805099555253
+736,P103,What language is the ancestral language of the [MASK]?,1,0.9902169328224806,0.9902169328224806
+926,P103,Which tongue was [MASK]'s mother tongue?,1,,1.0567840410881604
+662,P103,What language does [MASK] use natively?,1,,0.9995047952404615
+717,P103,What language is most commonly spoken by [MASK] as their primary language?,1,1.0015575986332717,1.0015575986332717
+681,P103,What language is [MASK] most closely associated with?,1,,0.92979715151214
+648,P103,What language does [MASK] use as her main form of communication?,1,1.0090340688648158,1.0090340688648158
+689,P103,What language is [MASK]'s ancestry?,1,1.0151617151895658,1.0151617151895658
+688,P103,What language is [MASK]'s ancestral heritage?,1,1.0159119287382556,1.0159119287382556
+650,P103,What language does [MASK] use as her native dialect?,1,,0.8972998800290706
+653,P103,What language does [MASK] use as his primary communication tool?,1,0.9186056199171772,1.0106551308905571
+684,P103,What language is [MASK] natively speaking?,1,0.9754735649228805,1.031714949588403
+677,P103,What language is [MASK] conversant in?,1,1.0630628133706552,1.0630628133706552
+716,P103,What language is linked to [MASK]'s heritage?,1,0.9709343029364583,1.0215535942915193
+676,P103,What language is [MASK] considered to be most proficient in?,1,,1.063570292351003
+673,P103,What language is [MASK] considered a native of?,1,,0.9540081258287171
+654,P103,What language does [MASK] use as his primary form of communication?,1,,1.0716778721545284
+655,P103,What language does [MASK] use as his primary tongue?,1,1.0252088834573079,1.0252088834573079
+670,P103,What language has [MASK] been speaking the longest?,1,0.9724438389511013,0.9297870877683757
+669,P103,What language has [MASK] always been most comfortable speaking?,1,0.9989305869897386,0.9989305869897386
+694,P103,What language is [MASK]'s native expression?,1,0.992850034425855,0.992850034425855
+695,P103,What language is [MASK]'s native mother language?,1,1.0138169437705564,1.0138169437705564
+697,P103,What language is [MASK]'s native vocalization?,1,,0.9849796913409227
+698,P103,What language is [MASK]'s natively-spoken language?,1,0.8705951299545744,0.9657609978357333
+646,P103,What language does [MASK] use as a primary mode of communication?,1,1.0022583218874255,1.0022583218874255
+645,P103,What language does [MASK] use as a native?,1,,0.8648007115766951
+704,P103,What language is [MASK]'s originally?,1,1.000552736418999,1.000552736418999
+761,P103,What language was Francois Arago exposed to the most?,1,0.9482925340142199,0.9620628929497778
+706,P103,What language is [MASK]'s primary mode of communication?,1,,0.9865037380997461
+708,P103,What language is closest to [MASK]'s heart?,1,,1.0139252761831696
+709,P103,What language is considered [MASK]'s primary language?,1,1.0215448793908473,1.0215448793908473
+710,P103,What language is considered the native tongue in the [MASK]?,1,,0.9880655361431467
+711,P103,What language is considered to be [MASK]'s native language?,1,0.9078528788855973,1.0565992164647278
+643,P103,What language does [MASK] understand intrinsically?,1,1.0035007723751106,1.0035007723751106
+712,P103,What language is considered to be the first language of [MASK]?,1,1.005119230347421,1.005119230347421
+713,P103,What language is considered to be the mother tongue of [MASK]?,1,0.9549507609038225,0.9549507609038225
+714,P103,What language is historically used in [MASK]?,1,,0.9990672113420448
+715,P103,What language is indigenous to Macedonia?,1,1.0303569437493851,1.0303569437493851
+762,P103,What language was Francois Arago taught from a young age?,1,0.9539478985036547,1.0117793648779967
+866,P103,What was the language of [MASK]'s education?,1,0.9981177282810734,0.9981177282810734
+914,P103,Which language is the native idiom of [MASK]?,1,0.941477230302748,0.9896040761205207
+887,P103,What was the native tongue for [MASK]?,1,0.969183651720082,0.969183651720082
+888,P103,What was the original language [MASK] spoke?,1,0.9809342593712084,0.9809342593712084
+889,P103,What was the primary language [MASK] spoke?,1,,1.0132789582072501
+846,P103,What tongue was [MASK] originally versed in?,1,0.9881998643935922,0.9881998643935922
+845,P103,What tongue was [MASK] exposed to in his early years?,1,,0.9976433789276272
+844,P103,What tongue was [MASK] brought up speaking?,1,1.327548888052862,1.0158568191587412
+890,P103,What was the primary language for [MASK]?,1,0.9154880183693727,1.0223692887826241
+893,P103,What was the primary language used in [MASK]'s household?,1,,0.9414685699924867
+840,P103,What tongue is associated with [MASK]?,1,,0.9437294341894777
+838,P103,What tongue is [MASK] originally from?,1,0.8730178419177035,0.9712123982062008
+837,P103,What tongue does [MASK] usually converse in?,1,1.3461192481616677,0.9958683963257865
+894,P103,What would be the language of [MASK]'s origin?,1,0.7402256281200603,0.7402256281200603
+834,P103,What tongue does [MASK] have as their native tongue?,1,0.960302308525482,0.960302308525482
+895,P103,Where did [MASK] first learn to communicate?,1,0.7005172736808775,0.7005172736808732
+830,P103,What tongue did [MASK] first use to communicate?,1,0.9048819405609423,1.0066458389527893
+896,P103,Which language did [MASK] have as her mother tongue?,1,0.9100209604914906,1.0013656121602805
+829,P103,What tongue did [MASK] first learn?,1,0.8854016735209984,0.8854016735209984
+897,P103,Which language did [MASK] have as her original?,1,1.0523380615536757,1.0494516059091588
+828,P103,What tongue did [MASK] come from?,1,1.0099677493417887,1.0099677493417887
+827,P103,What speech did [MASK] know before any other?,1,0.8315338756250826,0.8315338756250826
+825,P103,What native language does [MASK] possess?,1,1.0250698280880395,1.0250698280880395
+847,P103,What verbal communication does [MASK] identify with?,1,0.7753968313760357,0.7753968313760328
+848,P103,What verbal communication does [MASK] originate from?,1,1.2756478843321626,1.0079417574825786
+849,P103,What verbal language is [MASK]'s native language?,1,1.0132751894412315,1.0673498912085448
+876,P103,What was the language that [MASK] had for his mother tongue?,1,0.9137757592502621,1.0205201504539771
+863,P103,What was the language [MASK] was originally fluently in?,1,1.0131958432463037,1.0131958432463037
+869,P103,What was the language of origin of [MASK]?,1,,1.0252655096849652
+873,P103,What was the language spoken in [MASK]'s home?,1,0.8423525671087937,0.8423525671087904
+861,P103,What was the language [MASK] was most used to speaking?,1,0.9177181598505176,1.0113745664039115
+638,P103,What language does [MASK] think and speak in?,1,0.9380712693353898,1.0935192871171322
+860,P103,What was the language [MASK] was most familiar with?,1,0.9926168074450684,0.9926168074450684
+859,P103,What was the language [MASK] used most often?,1,1.003920596925423,1.003920596925423
+858,P103,What was the language [MASK] spoke originally?,1,1.0148253713369284,1.0148253713369284
+875,P103,What was the language that [MASK] grew up speaking?,1,,0.9907159231313467
+877,P103,What was the language that [MASK] learnt as first language?,1,0.897418614626117,0.9871632747894306
+850,P103,What was [MASK]'s native dialect?,1,,0.8701470621400414
+856,P103,What was the language [MASK] spoke in his home?,1,0.9378186089919067,0.9378186089919067
+855,P103,What was the language [MASK] spoke by birth?,1,1.0491145336973366,1.004330207499612
+854,P103,What was the language [MASK] learned before any other?,1,,1.027505210694002
+878,P103,What was the language that [MASK] spoke as her native tongue?,1,0.8980300384770703,1.0014493781256983
+882,P103,What was the language that [MASK] was most comfortable with?,1,0.9440124935145011,1.0487061712062369
+885,P103,What was the native language [MASK] used?,1,1.8296544442404872,0.9380892374221187
+853,P103,What was the language [MASK] initially spoke?,1,0.9554105001561985,0.9554105001561985
+852,P103,What was the first language that [MASK] spoke?,1,0.9982001606881172,1.0069719623830793
+886,P103,What was the native language of [MASK] before he learned others?,1,,1.0099458686899687
+898,P103,Which language did [MASK] learn first?,1,0.9870186899614134,1.0450020891730702
+823,P103,What mother tongue is spoken by [MASK]?,1,0.9936549246025264,0.9983167784920108
+819,P103,What language would [MASK] converse in before he knew any other?,1,0.9964009771664045,0.9964009771664045
+773,P103,What language was [MASK] exposed to growing up?,1,0.8781317262167847,0.8992870674533093
+787,P103,What language was [MASK] speaking from the start?,1,0.9686160938338461,1.0739631182820393
+782,P103,What language was [MASK] natively proficient in?,1,,0.9796575995325173
+781,P103,What language was [MASK] native to?,1,1.005776018320551,1.005776018320551
+780,P103,What language was [MASK] most fluent in?,1,1.0471852212835089,1.0471852212835089
+779,P103,What language was [MASK] initially familiar with?,1,0.9703601567079775,0.9703601567079775
+778,P103,What language was [MASK] initially an speaker of?,1,1.0947240357850274,1.0089004935061512
+775,P103,What language was [MASK] familiar with from birth?,1,0.931651406174922,0.9584832551198523
+907,P103,Which language does [MASK] speak the most?,1,0.9766269481213304,1.1869391082272869
+774,P103,What language was [MASK] exposed to since birth?,1,,1.0781839192211469
+772,P103,What language was [MASK] exposed to from birth?,1,0.9519624975504627,1.0636127493251837
+790,P103,What language was [MASK] taught in his home?,1,,1.0814787378113182
+908,P103,Which language is [MASK] originally from?,1,0.9261999027013571,1.0432733026740801
+771,P103,What language was [MASK] considered a native speaker of?,1,0.9067686986487719,1.026363486499286
+770,P103,What language was [MASK] competent in from birth?,1,,0.9557479015955589
+769,P103,What language was [MASK] comfortable using?,1,0.96216602307369,0.9702670925485163
+768,P103,What language was [MASK] brought up learning?,1,1.0067966998656175,1.0067966998656175
+909,P103,Which language is [MASK]' primary one?,1,,1.0987965844824794
+911,P103,Which language is considered to be the native language of [MASK]?,1,,0.9106875350954434
+912,P103,Which language is indigenous to [MASK]?,1,1.0111877507211189,1.0111877507211189
+913,P103,Which language is most familiar to [MASK]?,1,0.9838249767550322,0.9838249767550322
+788,P103,What language was [MASK] taught as a child?,1,1.0116048329234062,1.0116048329234062
+791,P103,What language was [MASK] taught to speak at a young age?,1,0.9462907097690275,1.0849755212156422
+818,P103,What language was used in [MASK]'s childhood home?,1,,0.8922217863631078
+807,P103,What language was historically spoken in [MASK]?,1,1.003179324826365,1.003179324826365
+817,P103,What language was used by [MASK] in his childhood?,1,0.8992346006443495,0.9891586953341195
+815,P103,What language was the original language of [MASK]?,1,0.964740444083248,0.964740444083248
+813,P103,What language was spoken in [MASK]'s home country?,1,,0.9092777270861573
+812,P103,What language was spoken by [MASK] when she was born?,1,0.9280112356596097,1.0440387764847123
+811,P103,What language was spoken by [MASK] as a first language?,1,1.0300502941484695,1.0300502941484695
+899,P103,Which language did [MASK] originate from?,1,1.0082396485145442,1.0082396485145442
+900,P103,Which language did [MASK] speak as his first language?,1,1.0214370974728852,1.0214370974728852
+809,P103,What language was native for [MASK]?,1,0.9895227410085314,0.9895227410085314
+808,P103,What language was initially spoken by [MASK]?,1,,1.021370150274253
+902,P103,Which language does [MASK] come from?,1,0.9988616786757119,0.9988616786757119
+793,P103,What language was [MASK]'s birth language?,1,1.082456279539312,1.0100243817578902
+802,P103,What language was [MASK]'s primary form of communication?,1,1.153458640364045,1.0246124030006785
+903,P103,Which language does [MASK] consider native to him?,1,0.9550596817978986,1.0160271722468333
+904,P103,Which language does [MASK] have as his native language?,1,0.9411039935149312,1.0373340665709314
+905,P103,Which language does [MASK] speak as her mother tongue?,1,,1.004585410438061
+800,P103,What language was [MASK]'s natural tongue?,1,1.0003910351224614,1.0003910351224614
+796,P103,What language was [MASK]'s first form of communication?,1,1.1757774213609606,0.9901474169199626
+795,P103,What language was [MASK]'s first exposure to spoken words?,1,1.0420428298645388,1.0420428298645388
+906,P103,Which language does [MASK] speak fluently?,1,0.982907273211366,0.9652412052894185
+794,P103,What language was [MASK]'s earliest language?,1,0.9365435919333015,0.9365435919333015
+639,P103,What language does [MASK] think and talk in?,1,,1.0328822242947808
+491,P103,What language did [MASK] learn growing up?,1,1.0079685665852334,1.0079685665852334
+636,P103,What language does [MASK] speak at home?,1,1.022819673200521,1.022819673200521
+404,P103,What is the native dialect of the Macedonian people?,1,0.9962581121725105,0.9962581121725105
+398,P103,What is the language used in [MASK]'s home?,1,0.9759909909477475,0.9759909909477475
+397,P103,What is the language used by [MASK] in their homeland?,1,1.0197954739104786,1.0197954739104786
+392,P103,What is the language that [MASK] was originally taught?,1,0.9895673804822608,0.9895673804822608
+390,P103,What is the language that [MASK] was exposed to as a child?,1,0.9278876695039414,0.9278876695039414
+389,P103,What is the language that [MASK] uses in her everyday life?,1,,1.0343169727468207
+388,P103,What is the language that [MASK] use in their daily life?,1,0.9733483652413368,0.9733483652413368
+384,P103,What is the language that [MASK] learned in his home environment?,1,1.0338321779495867,1.0338321779495867
+374,P103,What is the language that [MASK] has been exposed to from birth?,1,1.022126271275555,1.0618747539652587
+373,P103,What is the language that [MASK] has a natural fluency in?,1,1.1079065163579251,1.1079065163579251
+372,P103,What is the language that [MASK] grew up hearing?,1,0.9977452037838794,0.9210779383235105
+363,P103,What is the language spoken by [MASK] in his homeland?,1,,0.9704887223814753
+361,P103,What is the language spoken as a mother tongue in [MASK]?,1,,1.008857822944855
+360,P103,What is the language originally spoken by [MASK]?,1,0.8461512622636591,0.8461512622636591
+357,P103,What is the language of the original inhabitants of [MASK]?,1,0.9827100071724422,0.9827100071724422
+353,P103,What is the language of native [MASK] residents?,1,,0.9751734782040503
+349,P103,What is the language of [MASK]'s natives?,1,1.0039161249272224,0.9722411618544359
+344,P103,What is the language of Macedonia's inhabitants?,1,1.0035102870962127,1.0035102870962127
+343,P103,What is the language native to Slovakia?,1,1.0222289521465524,1.0222289521465524
+342,P103,What is the language commonly used by [MASK]?,1,1.024279504724211,1.024279504724211
+336,P103,What is the language [MASK] speaks natively?,1,1.053325740426649,1.053325740426649
+335,P103,What is the language [MASK] speaks in his homeland?,1,0.9297888139323844,0.9297888139323844
+401,P103,What is the lingua franca for [MASK]?,1,0.8848090234643661,0.9223217169190623
+406,P103,What is the native language of [MASK]'s background?,1,,1.0080606949656306
+631,P103,What language does [MASK] speak as his native tongue?,1,0.9013375507525182,0.999617920172309
+407,P103,What is the native language of [MASK]'s culture?,1,0.9375054076360927,0.9375054076360927
+446,P103,What language could [MASK] converse in fluently?,1,0.9805502349221289,0.9805502349221289
+445,P103,What language comes most naturally to [MASK]?,1,0.961756657425913,0.9811681811900629
+444,P103,What is the vernacular that [MASK] learned as a child?,1,0.9950495737689625,0.9950495737689625
+441,P103,What is the tongue that [MASK] is native in?,1,0.9857067684965739,0.9857067684965739
+440,P103,What is the principal language used in [MASK]?,1,0.9997239810232855,0.9997239810232855
+439,P103,What is the principal language of [MASK]?,1,,1.0882952490349584
+433,P103,What is the primary language of people from Slovakia?,1,1.0194281816613497,1.0194281816613497
+431,P103,What is the primary language of Macedonia?,1,1.023483275494072,1.023483275494072
+428,P103,What is the original tongue of the Armenian people?,1,0.9962533835305426,0.9962533835305426
+426,P103,What is the original language spoken by [MASK]?,1,1.0959028145214584,0.9148422132890054
+423,P103,What is the natural language spoken by [MASK]?,1,,1.0199779774607771
+421,P103,What is the native tongue used in [MASK]?,1,,0.9774979698983584
+418,P103,What is the native language used within the [MASK]?,1,,1.0112456127396567
+417,P103,What is the native language of the people of Macedonia?,1,1.0227220681406544,1.0227220681406544
+415,P103,"What is the native language of the Princess Royal, Anne?",1,0.9269025254991956,1.0244310890353878
+414,P103,What is the native language of [MASK]'s upbringing?,1,0.9858231439773489,0.9858231439773489
+413,P103,What is the native language of [MASK]'s roots?,1,,0.9751552014946966
+412,P103,What is the native language of [MASK]'s lineage?,1,0.9327209155388003,1.0134645681680892
+411,P103,What is the native language of [MASK]'s homeland?,1,0.9207290262249529,1.045950628096888
+410,P103,What is the native language of [MASK]'s home country?,1,,0.9428542610878717
+408,P103,What is the native language of [MASK]'s forebears?,1,0.9882194450530637,0.9882194450530637
+334,P103,What is the language [MASK] speaks first and foremost?,1,,1.0504507279336515
+333,P103,What is the language [MASK] speaks as his mother tongue?,1,0.9135057982629603,1.0136129265614724
+330,P103,What is the language [MASK] speaks as her first tongue?,1,0.9968207459683935,0.9968207459683935
+325,P103,What is the language [MASK] originally speaks?,1,1.020674916054602,1.020674916054602
+285,P103,To which language does [MASK] owe his mother-tongue?,1,0.9991564529457614,0.9991564529457614
+284,P103,To which language does [MASK] have an ancestral tie?,1,,0.8791465335502204
+283,P103,To what language were [MASK]'s earliest words spoken?,1,,1.015218961754742
+282,P103,To what language does [MASK] trace his origin?,1,2.1032609580473514,0.9384185988489521
+281,P103,To what language does [MASK] trace his linguistic roots?,1,0.9424385220472249,1.04668234158823
+280,P103,Of which language was [MASK] a native speaker?,1,1.020326312318422,0.8944953652366477
+277,P103,In which language was [MASK] originally brought up?,1,,1.0176732109671547
+276,P103,In which language was [MASK] most fluent?,1,0.978195050129036,1.061828442303711
+275,P103,In which language was [MASK] most comfortable speaking?,1,0.8947643216879644,0.9868120874234507
+274,P103,In which language does [MASK] have a natural fluency?,1,1.0021298279054889,1.0021298279054889
+273,P103,In which language does [MASK] communicate?,1,,0.9972210012778372
+272,P103,In which language did [MASK] receive his primary education?,1,1.0818301497999259,1.0818301497999259
+269,P103,In what language was [MASK] initially schooled?,1,,1.003673159565457
+268,P103,In what language is [MASK] considered a native speaker?,1,0.9142636285461191,0.9142636285461172
+267,P103,In what language does [MASK] primarily speak?,1,1.0224821743320058,1.0224821743320058
+263,P103,In what language does [MASK] communicate most naturally?,1,1.0112805644344074,1.0112805644344074
+261,P103,In what language did [MASK] originally communicate?,1,,0.9367582508923813
+257,P103,In what language did [MASK] converse in his early years?,1,0.9293293629450248,1.0222634514157183
+255,P103,In what language did [MASK] communicate naturally?,1,1.0581324517140827,1.0678171904519433
+253,P103,From which language does [MASK] originate?,1,0.984945700194154,0.984945700194154
+252,P103,From which language does [MASK] derive his first linguistic influences?,1,,0.9783667657225972
+286,P103,To which language was [MASK] born?,1,,0.9409621271142412
+287,P103,To which language was [MASK] originally exposed?,1,0.9635006165649994,0.9635006165649994
+288,P103,What did [MASK] speak as his first language?,1,1.4245438815180569,0.9975274076422792
+309,P103,What is the first language heard by [MASK]?,1,0.9497934874230695,1.0900770222078062
+324,P103,What is the language [MASK] learned primarily?,1,1.0340501249131906,1.0340501249131906
+319,P103,What is the language [MASK] has as his native?,1,0.9635453534395808,1.0472192721325178
+317,P103,What is the language [MASK] grew up learning?,1,,1.0240506944546035
+316,P103,What is the language [MASK] call their own?,1,1.005632275700614,1.005632275700614
+315,P103,What is the intrinsic language of the [MASK]?,1,0.9600755715850761,0.9600755715850761
+314,P103,What is the initial language of [MASK]?,1,1.0008796437143033,1.0008796437143033
+312,P103,What is the home language of [MASK]?,1,,1.0000889569171623
+311,P103,What is the first language that [MASK] speaks?,1,,1.003687686201587
+310,P103,What is the first language spoken in the [MASK]?,1,,1.018307162730041
+305,P103,What is the ethnic language of [MASK]?,1,0.9893778160335404,0.9893778160335404
+291,P103,What is [MASK]'s historic language?,1,0.9221627728445069,0.9221627728445069
+304,P103,What is the dominant language spoken in [MASK]?,1,1.003950600836488,1.003950600836488
+303,P103,What is the basic language of [MASK]?,1,0.9887048496152817,0.9887048496152817
+302,P103,What is the Armenian population's primary language?,1,0.9939819876607906,0.9939819876607906
+301,P103,"What is considered [MASK]'s ""mother tongue""?",1,1.0862932825913711,1.0426733899855039
+300,P103,What is a native tongue of [MASK]?,1,,0.9713957524171973
+298,P103,What is [MASK]'s original tongue?,1,,0.8785584478567048
+296,P103,What is [MASK]'s native linguistic background?,1,1.6268175850163338,0.9461150134582134
+294,P103,What is [MASK]'s native language origins?,1,0.9920744203739024,0.9920744203739024
+293,P103,What is [MASK]'s native language of communication?,1,0.945533060482127,0.945533060482127
+447,P103,What language did Swami Vivekananada consider his native tongue?,1,0.8983297396854599,0.8983297396854599
+448,P103,What language did [MASK] acquire as his first language?,1,,0.9794888291638925
+449,P103,What language did [MASK] acquire before any other?,1,1.0654969810939428,1.0654969810939428
+538,P103,What language do [MASK] consider to be their own?,1,1.006927899770294,1.006927899770294
+583,P103,What language does [MASK] feel the most affinity for?,1,0.9257940765339201,1.0217162116770004
+582,P103,What language does [MASK] express himself in natively?,1,1.0096529696908225,1.0096529696908225
+580,P103,What language does [MASK] consider to be their native language?,1,1.0633988041473594,1.0633988041473594
+579,P103,What language does [MASK] consider to be their mother language?,1,1.0740875465750497,1.0740875465750497
+578,P103,What language does [MASK] consider to be her primary language?,1,,0.9220355430758392
+575,P103,What language does [MASK] consider his first language?,1,1.0171847626056942,1.0171847626056942
+570,P103,What language does [MASK] communicate in first?,1,1.0069379646706926,1.0069379646706926
+569,P103,What language does [MASK] commonly use as his first language?,1,,1.0697060940863332
+568,P103,What language does [MASK] come from as his native language?,1,1.0733187144652967,0.928852643131969
+567,P103,What language does [MASK] claim as his native language?,1,0.8516013826312432,0.8516013826312419
+566,P103,What language does [MASK] call home?,1,1.0433511540748333,1.0828505593030342
+564,P103,What language does [MASK] call her mother tongue?,1,0.7870533409978878,0.8381687205431616
+563,P103,What language does King [MASK] speak?,1,1.1925354896515044,0.9491981973153785
+562,P103,What language do the people of [MASK] usually speak?,1,0.9969751517903163,0.9969751517903163
+558,P103,What language do the people of [MASK] ordinarily speak?,1,0.9113144249117332,0.9113144249117332
+556,P103,What language do the [MASK] use as their native language?,1,1.0103186036943541,1.0103186036943541
+555,P103,What language do the [MASK] speak?,1,0.9904460365599448,0.9904460365599448
+554,P103,What language do habitants of [MASK] usually converse in?,1,1.0281392239508367,1.0281392239508367
+551,P103,What language do [MASK] usually use?,1,1.0211841940560789,1.0211841940560789
+546,P103,What language do [MASK] traditionally speak?,1,1.0144484848932465,1.0144484848932465
+541,P103,What language do [MASK] originally come from?,1,0.9413565534157542,0.9413565534157542
+586,P103,What language does [MASK] have a native proficiency in?,1,0.9984735520050027,0.9984735520050027
+587,P103,What language does [MASK] have a strong command of?,1,,1.042826392755089
+589,P103,What language does [MASK] have an origin in?,1,0.9341820346441663,1.0753146611139137
+610,P103,What language does [MASK] instinctively speak?,1,0.9927011773753777,0.9927011773753777
+629,P103,What language does [MASK] speak as her primary tongue?,1,0.998441838614241,0.998441838614241
+626,P103,What language does [MASK] speak as her native language?,1,,0.9795715454982087
+618,P103,What language does [MASK] originate in?,1,1.006755392212449,1.006755392212449
+617,P103,What language does [MASK] originally hail from?,1,0.9301337082596189,1.047703906573491
+616,P103,What language does [MASK] normally speak?,1,1.0119018223958254,1.0119018223958254
+615,P103,What language does [MASK] naturally communicate with?,1,,1.0017635962429279
+613,P103,What language does [MASK] most commonly communicate in?,1,,0.9976966729221363
+612,P103,What language does [MASK] know the most?,1,,1.0115645797840431
+611,P103,What language does [MASK] know most naturally?,1,1.0052661159862089,1.0052661159862089
+608,P103,What language does [MASK] have the strongest grasp of?,1,,1.0471264476929523
+590,P103,What language does [MASK] have an original understanding of?,1,0.9956492528737677,0.9956492528737677
+607,P103,What language does [MASK] have the strongest connection to?,1,1.0863725789297662,1.0863725789297662
+606,P103,What language does [MASK] have the strongest abilities in?,1,1.6815476216192442,0.9973294926375331
+605,P103,What language does [MASK] have the most knowledge of?,1,0.9311366087092589,0.9812238925897313
+604,P103,What language does [MASK] have the most command of?,1,0.9064053962196417,0.9958627919776235
+603,P103,What language does [MASK] have the closest connection to?,1,0.8980715080857995,0.9591977145207906
+602,P103,What language does [MASK] have native-level proficiency in?,1,,1.0640481463626554
+600,P103,What language does [MASK] have native command of?,1,1.0744667970546669,1.0744667970546669
+599,P103,What language does [MASK] have from birth?,1,0.9562795376217397,0.9562795376217397
+594,P103,What language does [MASK] have as his birthright?,1,0.9682696745725942,0.9537457281821777
+539,P103,What language do [MASK] generally speak?,1,0.9773053852602271,0.9773053852602271
+536,P103,What language do Slovak people identify as their own?,1,1.0168252857128706,1.0168252857128706
+450,P103,What language did [MASK] acquire initially?,1,1.0563819962847603,0.9734280321857034
+535,P103,What language did [MASK]'s parents teach him?,1,0.9612256482591354,1.042491265333644
+488,P103,What language did [MASK] learn from her family?,1,0.9395795640725851,1.0452925836352713
+487,P103,What language did [MASK] learn from birth?,1,1.0857813510585796,1.0857813510585796
+485,P103,What language did [MASK] learn before any other?,1,0.9556106511698793,0.9556106511698793
+484,P103,What language did [MASK] learn as her mother tongue?,1,1.0313854628412975,1.0313854628412975
+480,P103,What language did [MASK] know before learning any other?,1,0.9406324902032576,1.0464619543831821
+479,P103,What language did [MASK] initially speak?,1,,0.9979561278962238
+477,P103,What language did [MASK] hear in his home?,1,1.0625341354024131,0.9529680858947017
+475,P103,What language did [MASK] have the greatest fluency in?,1,,0.9372021486321435
+474,P103,What language did [MASK] have as their primary language?,1,1.058525163857258,0.8892213190598551
+471,P103,What language did [MASK] have as her native tongue?,1,1.0243399859414755,1.0243399859414755
+470,P103,What language did [MASK] have as her first language?,1,0.9087900712006033,1.000006862870715
+469,P103,What language did [MASK] have as a native?,1,1.152952877337824,0.974000842790046
+468,P103,What language did [MASK] grow up using?,1,0.9908713437766115,0.9908713437766115
+461,P103,What language did [MASK] consider to be his natural language?,1,0.9424496760331653,0.9789647212059412
+460,P103,What language did [MASK] consider to be his native language?,1,0.9013311595057392,1.0094462915654714
+458,P103,What language did [MASK] consider his own?,1,,0.9645558097973654
+456,P103,What language did [MASK] communicate in initially?,1,0.952222324699541,1.0313753258647842
+455,P103,What language did [MASK] communicate in before he learned any other?,1,0.993469294222393,0.993469294222393
+454,P103,What language did [MASK] come to understand first?,1,0.9233257506113096,0.923325750611295
+453,P103,What language did [MASK] come to know first?,1,1.0966185272226174,1.013449550787121
+451,P103,What language did [MASK] call his mother tongue?,1,1.0071167215503807,1.0071167215503807
+489,P103,What language did [MASK] learn from the beginning?,1,0.9481587524259525,1.018432647735497
+492,P103,What language did [MASK] learn in her home country?,1,,1.0375384889595187
+493,P103,What language did [MASK] learn in his formative years?,1,0.9393423746871383,1.009535499992284
+517,P103,What language did [MASK] speak fluently?,1,0.9609363758435117,1.1028795224451837
+532,P103,What language did [MASK] use when he spoke?,1,0.9027609847463716,0.9997451272222408
+531,P103,What language did [MASK] use to communicate with his family?,1,0.9909813426448788,0.9909813426448788
+529,P103,What language did [MASK] use most frequently?,1,1.0559098657183121,0.9830351521582998
+527,P103,What language did [MASK] use in his early life?,1,0.9924379348907115,0.9924379348907115
+522,P103,What language did [MASK] use as a primary means of communication?,1,0.9423037135095522,1.0452764328022026
+521,P103,What language did [MASK] understand before any other?,1,,0.9993087915844951
+520,P103,What language did [MASK] start out speaking?,1,1.006325199634835,1.006325199634835
+519,P103,What language did [MASK] speak when she was growing up?,1,0.9050746133739584,0.9959155228837663
+518,P103,What language did [MASK] speak from birth?,1,1.1145487511798688,0.9713805839903914
+513,P103,What language did [MASK] speak as his primary tongue?,1,0.9025772451195576,1.0016893075395172
+494,P103,What language did [MASK] learn in the home?,1,,1.0138769440848685
+511,P103,What language did [MASK] speak as his native language?,1,0.9998468594672492,0.9998468594672492
+510,P103,What language did [MASK] speak as his birth tongue?,1,1.0025501059075526,1.0025501059075526
+508,P103,What language did [MASK] speak as a native?,1,1.1699367695254612,0.9242667130362794
+506,P103,What language did [MASK] speak as a child?,1,0.9620217122639246,0.9620217122639246
+505,P103,What language did [MASK] regard as his native language?,1,1.052510016880626,0.9399426791160875
+502,P103,What language did [MASK] primarily communicate in?,1,,1.0191962458862047
+501,P103,What language did [MASK] pick up first?,1,,1.0842106513339065
+500,P103,What language did [MASK] originally learn?,1,,0.9830993451798835
+499,P103,What language did [MASK] originally know?,1,1.0014564319549222,1.0014564319549222
+927,P103,what was the language that [MASK] was originally raised with?,1,0.9448898259738765,1.0472185496259332

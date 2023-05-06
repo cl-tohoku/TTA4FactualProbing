@@ -1,0 +1,1087 @@
+,p,template,fact_id,effect_gold,effect_top
+21251,P641,In what kind of sport is [MASK] involved?,43,,1.0472000977161011
+21246,P641,What type of game does a [MASK] participate in?,38,,0.9546404846155482
+21146,P641,What is [MASK]'s sport?,34,,1.0489712358528245
+22136,P641,What is the primary sport of [MASK]?,32,1.0050178377689774,1.065142990129409
+21378,P641,What type of game does an [MASK] take part in?,31,,0.9465178078504958
+21141,P641,In which sport does [MASK] compete?,29,0.9394400324278431,0.9964182795685287
+21231,P641,What is the sport that the [MASK] plays?,28,,1.0612233218982992
+21244,P641,What type of game does [MASK] compete in?,28,0.9202199259311347,0.9605674465867079
+21206,P641,What type of sport does [MASK] take part in?,27,,1.0401187346399074
+21825,P641,What game is involved in the [MASK]?,24,,0.9895789207725385
+22430,P641,What sport does a [MASK] compete in?,23,,1.0145766949723387
+22400,P641,What sort of sport does [MASK] engage in?,23,,1.0509078875900746
+21777,P641,What game does the [MASK] engage in?,21,,0.9683167082211759
+21452,P641,In what sporting activity does [MASK] engage?,19,,0.9939073630184259
+22391,P641,What sort of athletic activity is [MASK] involved in?,18,,0.9969597413135894
+21414,P641,In what athletic activity does [MASK] participate?,18,,0.9904840665980783
+21149,P641,What is the focus of the [MASK]?,16,,0.9952918145606049
+22283,P641,What kind of game is associated with the [MASK]?,15,,1.0091585631657318
+21986,P641,What is the athletic game of [MASK]?,15,,0.9858270777176513
+21147,P641,What is the athletic pursuit of [MASK]?,15,,0.963466908567448
+21179,P641,What type of sport does [MASK] participate in?,15,,0.9780891772263356
+22073,P641,What is the game that [MASK] team plays?,15,,0.9940123022512702
+22107,P641,What is the name of the sport associated with [MASK]?,14,,1.021734901072746
+22490,P641,What sport is played by an [MASK]?,13,,1.0402893799040827
+21209,P641,In which sport does [MASK] participate?,12,,0.9709313727348974
+22004,P641,What is the competition in [MASK]?,11,,0.9138056081584292
+21153,P641,What game is featured in the [MASK]?,11,,0.9349050079337964
+21220,P641,What competition does [MASK] participate in?,11,,0.8898320173206483
+22193,P641,What is the sport that an [MASK] is involved in?,10,,1.069449359119215
+21200,P641,What kind of sport does [MASK] play?,10,,1.0367509411956493
+21171,P641,What athletic activity does [MASK] take part in?,10,,0.9473713973709493
+22077,P641,What is the game that a [MASK] is engaged in?,10,,1.0042287084309571
+21173,P641,What athletic event does [MASK] compete in?,9,,0.9686875497407925
+21175,P641,What kind of game is [MASK]?,9,,0.9636468226116239
+21249,P641,Which sport is [MASK] involved in?,9,,1.0791076739496033
+21168,P641,What sport is [MASK] engaged in?,9,,1.0596644565411408
+22355,P641,What physical activity does [MASK] compete in?,9,,1.0480405601208387
+22469,P641,What sport is being featured in the [MASK]?,9,,1.0509695372906145
+21165,P641,What is the athletic activity of [MASK]?,9,,0.9627814161613532
+21928,P641,What is the activity associated with the [MASK]?,9,,0.9554571213418743
+21193,P641,What is the game that [MASK] competes in?,8,1.1087257601139577,1.0306864445952038
+22104,P641,What is the name of the game played in a [MASK]?,8,,0.930650844970962
+21264,P641,What activity is [MASK] engaged in?,8,,0.9882965309598217
+21203,P641,What sports were featured at the [MASK]?,7,,1.0516296987870326
+21226,P641,What is the athletic activity that [MASK] participates in?,7,1.3616605519695957,1.0021721492197466
+21205,P641,What type of game is [MASK]?,7,,0.9886817946932335
+21188,P641,What game does [MASK] practice?,7,,0.9871431503690947
+21189,P641,What game does [MASK] specialize in?,7,,1.0483651885075094
+21221,P641,What game does [MASK] involve?,7,,0.9153752176443163
+21196,P641,What is the sport that [MASK] participates in?,7,1.0325867234929067,1.0546549179759992
+21242,P641,What type of athletic activity is [MASK]?,7,,0.9489595047948266
+21382,P641,What type of sport is [MASK]?,7,,1.064222612746157
+21375,P641,What type of competition is the [MASK]?,7,,0.9629310668830289
+21362,P641,What sport is played at [MASK]?,6,,1.0705366053450442
+21293,P641,What game is part of [MASK]?,6,,0.9779504896075114
+21289,P641,What game does the [MASK] participate in?,6,0.9820019706941787,0.9228391525781516
+21331,P641,What is the sport that [MASK] competes in?,6,,0.9988726125297211
+21215,P641,What athletic activity does [MASK] do?,6,,0.9331066745174105
+21247,P641,What type of sport does [MASK] involve?,6,,1.05772357178395
+21236,P641,What physical activity does [MASK] do?,6,,0.9029314333591162
+21183,P641,In which game does [MASK] participate?,6,0.8795547636855477,0.9027526560574475
+21186,P641,What athletic event does [MASK] take part in?,6,,0.9268330428375976
+21191,P641,What is the [MASK]'s chosen sport?,6,,1.07511131152666
+21260,P641,What activity does [MASK] specialize in?,6,,1.0337081938579928
+21322,P641,What is the main sport for the [MASK]?,5,,1.0671432754920016
+21241,P641,What sport was included in the [MASK]?,5,,1.0504104657398963
+21234,P641,What kind of game does [MASK] play?,5,1.0468029469991307,1.0072166157858597
+21341,P641,What kind of physical activity does [MASK] take part in?,5,,0.9618104371401209
+21225,P641,What is the athletic activity that [MASK] does?,5,,0.9678363995924112
+21315,P641,What is the game played by [MASK]?,5,,1.0358548120374422
+21314,P641,What is the game [MASK] participates in?,5,0.90232678702925,0.9364049294576727
+21311,P641,What is the competition for the [MASK]?,5,,0.9187044479669252
+21764,P641,What game does [MASK] partake in?,5,,1.0152607766672028
+21253,P641,In what sport does a [MASK] participate?,5,0.9910145524285232,0.9968495655976053
+21879,P641,What is [MASK]' sport of choice?,5,,1.0959151103497295
+21237,P641,What physical activity does [MASK] practice?,4,1.0735850797242052,0.9569706242145626
+21229,P641,What is the sport that [MASK] takes part in?,4,,1.0522331037875228
+21259,P641,What activity does [MASK] involve?,4,,0.8838662324994455
+21294,P641,What game is played at [MASK]?,4,,0.9354715875042949
+21335,P641,What is the sport that [MASK] practices?,4,,1.0486204375650638
+21334,P641,What is the sport that [MASK] performs?,4,,1.0414470211322615
+21224,P641,What is [MASK]'s athletic pursuit?,4,,0.913297994695451
+21357,P641,What sport is [MASK] a part of?,4,,1.0194638853330895
+21274,P641,What athletic pursuit is [MASK] involved in?,4,1.0002108647540897,0.993057410460008
+21320,P641,What is the main activity at the [MASK]?,4,,0.9676697900546782
+21263,P641,What activity is [MASK] a part of?,4,,0.9233572728443524
+22028,P641,What is the featured sport of the [MASK]?,4,,1.0633703483630919
+21537,P641,What activity is done in a [MASK]?,4,,0.9423150975550285
+21371,P641,What type of athletic competition is [MASK] involved in?,4,,1.0615796473322634
+21381,P641,What type of sport does [MASK] play?,4,,1.0355777047635473
+21217,P641,What athletic competition does [MASK] take part in?,4,,0.8723751171965408
+21268,P641,What athletic event does [MASK] partake in?,4,,0.9156463359394094
+21342,P641,What kind of sport does [MASK] specialize in?,4,,1.0507755219191612
+22275,P641,What kind of game does [MASK] take part in?,3,,0.9593749930971135
+21468,P641,In which game does [MASK] compete?,3,,0.9060459602757883
+22299,P641,What kind of sport does [MASK] do?,3,,1.044439833078924
+22535,P641,What sports are contested at the [MASK]?,3,,1.0635817195657318
+22307,P641,What kind of sport does the [MASK] participate in?,3,,1.0874915732307662
+21394,P641,"At the [MASK], what sport was held?",3,,0.9848369247172682
+21844,P641,What game is the [MASK] focused on?,3,,1.0609973277974227
+21697,P641,What does [MASK] practice as a sport?,3,,1.0064293500453116
+21448,P641,In what sport is a [MASK] played?,3,,1.0633633323722795
+21501,P641,What activities were featured in the [MASK]?,3,,1.0051456853506673
+21427,P641,In what kind of athletic competition does [MASK] engage?,3,,0.9554393691299348
+21891,P641,What is [MASK]'s game of choice?,3,,1.1219925666476955
+21433,P641,In what sport are the [MASK] involved?,3,,1.0617194614851497
+22772,P641,Which sport is a [MASK] associated with?,3,,0.9479363514673919
+22773,P641,Which sport is a part of the [MASK]?,3,,1.0614683106154315
+21218,P641,What athletic pursuit does [MASK] practice?,3,,0.9777335028832267
+21478,P641,In which sport does [MASK] take part?,3,,1.0569803668344468
+21450,P641,In what sport is the [MASK] played?,3,,1.0224356659430451
+21457,P641,In which activity does [MASK] participate?,3,,0.9481501963629687
+22759,P641,Which sport does [MASK] practice?,3,,1.0731171316022485
+21550,P641,What activity is the [MASK] known for?,3,,0.9595019064189336
+21219,P641,What athletic pursuit does [MASK] take part in?,3,,0.989770635754354
+21423,P641,In what game does the [MASK] compete?,3,0.9372280754385862,0.894053048249674
+21222,P641,What game does [MASK] perform?,3,,0.9986267067122635
+21212,P641,In which sport is [MASK] active?,3,,0.962080996016112
+21572,P641,What athletic competition does [MASK] compete in?,3,,0.8888749803115364
+21377,P641,What type of game does [MASK] enjoy?,3,,1.053911849952131
+21374,P641,What type of competition does [MASK] take part in?,3,,0.9913537663705959
+21328,P641,What is the sport contested in the [MASK]?,3,,1.093040835710926
+21313,P641,What is the discipline of [MASK]?,3,,0.9849700540983356
+21309,P641,What is the athletic event of [MASK]?,3,,0.9588829273174279
+21304,P641,What is the athletic activity [MASK] engages in?,3,,1.069890074618556
+22098,P641,What is the main sport at the [MASK]?,3,,1.101610881375496
+21298,P641,What game was included in the [MASK]?,3,,0.9823620717933191
+21297,P641,What game is the [MASK] participating in?,3,0.8837680774018463,0.8806079459124572
+21295,P641,What game is represented by the [MASK]?,3,,1.006068568130373
+21560,P641,What are the sports included in the [MASK]?,3,,1.0467043645168204
+21292,P641,What game is [MASK] known for?,3,1.052736774851217,0.9175653266561383
+22181,P641,What is the sport that [MASK] is known for?,3,,1.0418697578011333
+21281,P641,What disciplines were included in the [MASK]?,3,,1.004379672081036
+21280,P641,What discipline is [MASK] involved in?,3,,0.9642880742243713
+21278,P641,What discipline does [MASK] compete in?,3,,1.0147914463900036
+21276,P641,What competition is part of the [MASK]?,3,0.8981981091369112,0.852247932572728
+21573,P641,What athletic competition does [MASK] do?,3,,1.0306699771678787
+21373,P641,What type of competition does [MASK] involve?,3,0.9435171355245352,0.9830796142280148
+21324,P641,What is the specialty of the [MASK]?,3,,0.9045044310847756
+21843,P641,What game is the [MASK] devoted to?,3,,1.0321340581828176
+21641,P641,What competition does the [MASK] take part in?,3,0.887470235676874,0.8874702356768723
+22040,P641,What is the game [MASK] play?,3,,0.9655408841417096
+22052,P641,What is the game of choice for [MASK]?,3,,1.1796699870538419
+21346,P641,What kind of sports were included in the [MASK]?,3,,1.03591758983898
+21366,P641,What sport is used for [MASK]?,3,,0.9713702528968063
+21360,P641,What sport is featured in a [MASK]?,3,1.0343160160311753,1.0479807284419396
+21598,P641,What athletic event does [MASK] feature?,2,,0.8867823055250361
+21578,P641,What athletic competition is [MASK] engaged in?,2,,0.8771605643700442
+21804,P641,What game is being played during the [MASK]?,2,,0.9270272511497761
+22556,P641,What type of activity does [MASK] engage in?,2,,0.913804157081554
+22422,P641,What sport do the [MASK] feature?,2,,1.0605160858078935
+22580,P641,What type of athletics does [MASK] participate in?,2,,0.960023531954779
+21556,P641,What activity was part of the [MASK]?,2,,1.0593455036687778
+21605,P641,What athletic events are part of [MASK]?,2,,1.035142754057723
+21677,P641,What discipline is used for [MASK]s?,2,1.1653774272396584,0.9600229440450021
+21656,P641,What competitive activity does [MASK] engage in?,2,,0.9033895459439081
+21567,P641,What athletic activity is associated with IMSA sportscar racing?,2,,0.9294891869089394
+21826,P641,What game is involved with [MASK]?,2,0.9746081958024014,0.9746081958024015
+21798,P641,What game is an [MASK] a master of?,2,,0.9451679904765895
+21670,P641,What did the [MASK] include?,2,,0.9745152562090313
+21818,P641,What game is held at a [MASK]?,2,0.9715296715921475,0.9715296715921475
+21820,P641,What game is highlighted in the [MASK]?,2,,1.079538305229173
+21599,P641,What athletic event does [MASK] participate in?,2,,0.9717963974343197
+22498,P641,What sport is the [MASK] affiliated with?,2,,1.0239529607720579
+22447,P641,What sport event is included in the [MASK]?,2,,1.0129152453006414
+22495,P641,What sport is showcased in [MASK]?,2,,1.0979162018772328
+22618,P641,What type of game is [MASK] involved in?,2,1.1216114755658877,0.9550039210894701
+21734,P641,What exercise does [MASK] engage in?,2,,0.9322531738908383
+21622,P641,What athletic pursuits are part of the [MASK]?,2,,1.0866323004544423
+21743,P641,What form of recreation is [MASK] involved in?,2,,0.9646729093749111
+22479,P641,What sport is highlighted in the [MASK]?,2,,1.1079201892373964
+21747,P641,What game did the [MASK] involve?,2,,0.9654397578591434
+22404,P641,What sort of sport does a [MASK] take part in?,2,0.9561185558445846,1.0591210329895264
+21752,P641,What game do [MASK]s play?,2,,1.0060281320180744
+21611,P641,What athletic game does [MASK] do?,2,,0.9829352535801652
+22465,P641,What sport is associated with [MASK]s?,2,1.0099077103651601,1.0099077103651508
+22529,P641,What sporting events are held at the [MASK]?,2,,1.0240519659372953
+21630,P641,What competition do [MASK]s engage in?,2,,0.9008614184477228
+21631,P641,What competition do [MASK]s enter?,2,,1.013488097665683
+22637,P641,What type of sport does [MASK] do?,2,,1.0472925962948074
+21636,P641,What competition does [MASK] join?,2,,0.9039976887319472
+22455,P641,What sport is [MASK] competing in?,2,,0.9980796300749999
+22453,P641,What sport is IMSA sportscar racing?,2,,0.9861634782545459
+22538,P641,What sports are part of the [MASK]?,2,,1.0659408959327963
+22018,P641,What is the competitive sport a [MASK] is involved in?,2,1.031042783782994,1.031042783782994
+21846,P641,What game is the [MASK] playing?,2,,0.8957065730309568
+22093,P641,What is the main event at the [MASK]?,2,,1.0690023503725545
+22301,P641,What kind of sport does [MASK] practice?,2,,0.9655523147140206
+22296,P641,What kind of sport do [MASK] participate in?,2,,1.0864882206770154
+22009,P641,What is the competition that [MASK] takes part in?,2,,0.857973228707342
+22013,P641,What is the competitive event for a [MASK]?,2,0.8848475449556845,0.8848475449556839
+22021,P641,What is the discipline practiced by [MASK]?,2,0.8841632798188304,0.8841632798188237
+22269,P641,What kind of game do [MASK] do?,2,,1.0600043666098742
+22035,P641,What is the game [MASK] engage in?,2,,0.9819168335726118
+22044,P641,What is the game an [MASK] takes part in?,2,,0.8893804116744362
+22258,P641,What kind of competition is supported by the [MASK]?,2,,0.9020752612542899
+22062,P641,What is the game played on a [MASK]?,2,0.9489468628383781,1.0110989983284848
+22070,P641,What is the game that [MASK] perform in?,2,,1.0057197796255497
+22095,P641,What is the main game of [MASK]?,2,,0.9186611220874568
+22401,P641,What sort of sport does [MASK] involve himself in?,2,,0.9787770373020654
+22097,P641,What is the main sport at Nordic Ski Area?,2,1.024574016486914,1.024574016486914
+22101,P641,What is the most typical sport that takes place on a [MASK]?,2,1.0786171263782296,1.0051651187983333
+22113,P641,What is the name of the sport that hosts a [MASK]?,2,,0.9617857964431601
+22222,P641,What is the sporting event that [MASK] participates in?,2,,1.024751099074439
+22209,P641,What is the sporting activity [MASK] engages in?,2,,0.9814757916930048
+22131,P641,What is the primary game of the [MASK]?,2,,0.9274341690335683
+22133,P641,What is the primary sport at a [MASK]?,2,1.094178047926182,1.0951102931102674
+22200,P641,What is the sport that requires a [MASK]?,2,,1.090773717143429
+22147,P641,What is the sport [MASK] is playing?,2,,1.069930123539085
+22180,P641,What is the sport that [MASK] is involved with?,2,,1.0942248568556934
+22159,P641,What is the sport celebrated by the [MASK]?,2,0.9291466251142424,1.1273153461585261
+21991,P641,What is the athletic pastime of [MASK]?,2,,1.0278817443104251
+21987,P641,What is the athletic game that [MASK] engages in?,2,,0.9846077336346086
+21985,P641,What is the athletic game [MASK] performs?,2,,0.935686324300724
+21978,P641,What is the athletic event that [MASK] participate in?,2,,0.9164778571804818
+22399,P641,What sort of sport do [MASK] plays?,2,,1.084154791304449
+21866,P641,What games are held at the [MASK]?,2,,0.9187887844524503
+21876,P641,What is [MASK]' athletic specialty?,2,1.0015795379824888,0.9548033411117622
+21880,P641,What is [MASK]'s activity of choice?,2,,0.9655919778429243
+21882,P641,What is [MASK]'s athletic activity?,2,1.0287715997517781,0.9596765822653103
+21883,P641,What is [MASK]'s athletic endeavor?,2,,0.9150474309988774
+21886,P641,What is [MASK]'s chosen pastime?,2,,1.1711145551129918
+22375,P641,What physical recreation does [MASK] participate in?,2,,0.9096633119116204
+21890,P641,What is [MASK]'s favorite game?,2,,0.8618468881539043
+21911,P641,What is the [MASK] team sport?,2,,1.017090582162826
+22362,P641,What physical activity involves [MASK]?,2,0.9339356845006332,1.0313186358474826
+21913,P641,What is the [MASK] used for in regards to sports?,2,,0.9214715649451942
+21926,P641,What is the activity a [MASK] participates in?,2,0.939522462318568,1.00123988343323
+21931,P641,What is the activity that [MASK] are involved in?,2,0.8437752790504025,0.8437752790504018
+21938,P641,What is the activity that [MASK] take part in?,2,1.1501204858426832,1.0470701180284063
+21945,P641,What is the athletic activity [MASK] takes part in?,2,,1.094596743904599
+21950,P641,What is the athletic activity that [MASK] compete in?,2,,1.0370860683602912
+22339,P641,What kind of sportsmanship do [MASK] practice?,2,,0.8870371499479435
+22327,P641,What kind of sport was featured in the [MASK]?,2,,0.9823113868621045
+22323,P641,What kind of sport is the [MASK] participating in?,2,,1.0308972019771128
+21972,P641,What is the athletic event [MASK] compete in?,2,,0.951769782962259
+22322,P641,What kind of sport is represented in the [MASK]?,2,1.3180161517840132,1.0251866765865707
+22315,P641,What kind of sport is conducted at the [MASK]?,2,,1.07281974032836
+21555,P641,What activity was featured at the [MASK]?,2,,1.0189652870125494
+22167,P641,What is the sport in which the [MASK] competes?,2,1.0057027826202207,1.0057027826202207
+21391,P641,"At the 2020 Summer Olympics – women's tournament, which sport is featured in field hockey?",2,0.9652261720869002,0.9915339678434704
+21442,P641,In what sport does [MASK] partake?,2,,1.0239061726759728
+21352,P641,What sort of sport does [MASK] do?,2,,1.0145947527880772
+21438,P641,In what sport do the [MASK] compete?,2,,1.017606471988886
+21512,P641,What activity does [MASK] perform?,2,,0.9524771050099303
+21351,P641,What sort of game does [MASK] compete in?,2,,0.940393793530805
+21513,P641,What activity does [MASK] play?,2,,0.985823445143768
+21350,P641,What recreational activity does [MASK] do?,2,0.9252707227904491,1.0380049801752165
+21490,P641,To which sport does [MASK] belong?,2,,1.0557194490631634
+21349,P641,What recreation does [MASK] pursue?,2,,0.9130295729437174
+21338,P641,What kind of game does [MASK] excel in?,2,,0.906998756836586
+21286,P641,What game does [MASK] play professionally?,2,0.946069675197158,1.0286702108233026
+21337,P641,What kind of competition is a [MASK]?,2,0.8275161696585005,0.9427710169641352
+21445,P641,In what sport does the [MASK] specialize?,2,0.8932254217469551,0.9382129788400887
+21336,P641,What is the sport that the [MASK] is engaged in?,2,1.0547967966794225,1.0547967966794225
+21332,P641,What is the sport that [MASK] does?,2,0.9941557713071177,1.0335632765830787
+21330,P641,What is the sport in which [MASK] participates?,2,,1.0659711242099421
+21301,P641,What is the [MASK] engaged in?,2,0.8985761596191209,0.9635755246510006
+21299,P641,What games were included in the [MASK]?,2,,0.9728911056287284
+21531,P641,What activity is an [MASK] involved in?,2,,0.917113926590388
+21354,P641,What sport does [MASK] excel in?,2,0.9931502109258779,1.0493735031806257
+21367,P641,What sport was contested in the [MASK]?,2,,1.0257333002941666
+21368,P641,What sport was held during the [MASK]?,2,,1.053212217814091
+21492,P641,What activities are held at the [MASK]?,2,,1.0663709045989493
+21406,P641,"In [MASK], what kind of sport is played?",2,,1.0215008361988616
+21399,P641,For what activity is [MASK] used?,2,,0.8927538725970294
+21415,P641,In what athletic discipline does [MASK] participate?,2,,1.0245282629481
+22778,P641,Which sport is contested at the [MASK]?,2,,1.0567333225148494
+21428,P641,In what kind of sporting event does [MASK] engage?,2,,1.0531050512188358
+21497,P641,What activities does [MASK] do for athletics?,2,,0.8675356230728013
+22796,P641,Which sports are included in [MASK]?,2,,1.12581182271252
+22798,P641,Which sports are part of the [MASK]?,2,,1.0552206473312569
+21388,P641,"At the 2016 Summer Olympics, what is weightlifting a part of?",2,,0.9553116136020352
+21386,P641,Which sport does [MASK] play?,2,,1.0029746655658445
+21385,P641,Which sport does [MASK] do?,2,,1.106409259855115
+21436,P641,In what sport do [MASK] take part?,2,,1.014681619130247
+21384,P641,What was the main sport of the [MASK]?,2,,1.0623612062220122
+21376,P641,What type of event is the [MASK]?,2,1.0212456856383274,1.0445618065551407
+21494,P641,What activities are included in the [MASK]?,2,,1.074361501659443
+21372,P641,What type of competition does [MASK] engage in?,2,0.915774346499891,0.9008012085508261
+21370,P641,What sporting activity does [MASK] take part in?,2,,1.0860824644500544
+21290,P641,What game does the [MASK] recognize?,2,0.9162687006748993,0.9407178244068903
+21488,P641,To what sport does [MASK] belong?,2,,1.0384132044139056
+22782,P641,Which sport is included in the [MASK]?,2,,1.0698624112453228
+21279,P641,What discipline does [MASK] practice?,2,1.213250997125459,1.0562888024635146
+21464,P641,In which discipline do [MASK]s participate?,2,,0.9993674902640644
+21270,P641,What athletic events are included in the [MASK]?,2,,1.0899554692145084
+21271,P641,What athletic events were held during the [MASK]?,2,,1.0069125222729773
+21544,P641,What activity is included in the [MASK]?,2,,1.0095422912503573
+21272,P641,What athletic pursuit does [MASK] compete in?,2,,0.970460242983789
+21541,P641,What activity is featured by the [MASK]?,2,1.4902479796563657,0.9973033722003352
+21273,P641,What athletic pursuit does [MASK] engage in?,2,1.1004597180477442,1.0192988412924917
+21275,P641,What ball game does [MASK] play?,2,0.9324530006405164,0.9938548244144727
+21460,P641,In which athletic discipline does [MASK] compete?,2,,0.8892860530583728
+21267,P641,What athletic competition does [MASK] partake in?,2,,0.9936123810235722
+21265,P641,What athletic activity does [MASK] practice?,2,,0.9161720558878721
+21262,P641,What activity does the [MASK] practice?,2,0.9177309664311235,0.9666789406207461
+21482,P641,In which sport is an [MASK] an expert?,2,,0.9731550666306986
+21255,P641,In which sport is [MASK] engaged?,2,0.9557715902153456,1.1264251696936856
+21269,P641,What athletic event is [MASK] engaged in?,2,0.8329553249579692,1.0268289794177319
+21535,P641,What activity is conducted at the [MASK]?,2,,0.9301561299730288
+21285,P641,What game do the [MASK] compete in?,2,0.9418101691393548,0.9418101691393377
+21282,P641,What events were featured at the [MASK]?,2,,1.0241504438481557
+22345,P641,What match is [MASK] engaged in?,1,0.8727288423063517,0.8727288423063517
+22357,P641,What physical activity does [MASK] participate in?,1,,0.9702044870650489
+22338,P641,What kind of sports will be contested at the [MASK]?,1,,0.9854298946847442
+22353,P641,What physical activities were held at the [MASK]?,1,,0.9954346815084514
+22354,P641,What physical activity do [MASK] teams engage in?,1,1.1167979736224467,0.8942587361898349
+22775,P641,Which sport is being played in the [MASK]?,1,,1.0084372887303956
+22360,P641,What physical activity does [MASK] pursue?,1,,0.9401879134507776
+22334,P641,What kind of sports does [MASK] partake in?,1,,1.1287073299583463
+22341,P641,What kinds of athletic events does [MASK] participate in?,1,,0.9288896272604005
+22771,P641,Which sport is [MASK] playing?,1,,1.0406822356990395
+22332,P641,What kind of sporting event is [MASK]?,1,,0.9236412816779297
+22407,P641,What sort of sport involves [MASK]?,1,1.3144924258407358,1.105422985609276
+22331,P641,What kind of sporting event does the [MASK] recognize?,1,0.870276658271326,0.8702766582713216
+22413,P641,What sport activities featured in the [MASK]?,1,,1.020001819020559
+22409,P641,What sort of sport is offered on the [MASK]?,1,,1.1493753106008526
+22346,P641,What pastime do [MASK]s take part in?,1,0.9278272120454255,0.9278272120454255
+22352,P641,What physical activities does [MASK] engage in?,1,,0.8933457877719355
+22342,P641,What kinds of events take place at the [MASK]?,1,,0.8920424606950631
+22410,P641,What sort of sports are held in the [MASK]?,1,,0.8750499286686335
+22412,P641,What sort of sports will be featured at the [MASK]?,1,,1.0344096226646955
+22781,P641,Which sport is featured in the [MASK]?,1,,1.1831098157894986
+22776,P641,Which sport is being represented at the [MASK]?,1,,0.9608067644850554
+22343,P641,What kinds of sports are played in the [MASK]?,1,,0.946457651092844
+22749,P641,Which physical activities are part of the [MASK]?,1,,0.9593300152878289
+22350,P641,What pastime is the centerpiece of the [MASK]?,1,,1.1185624958614337
+22349,P641,What pastime is played by [MASK]?,1,,1.100230179063818
+22348,P641,What pastime does [MASK] participate in?,1,,1.0049001970050158
+22347,P641,What pastime do the students of [MASK] participate in?,1,,1.0735759824591566
+22411,P641,What sort of sports happened at the [MASK]?,1,,0.9949979045772942
+22344,P641,What kinds of sports will be played in the [MASK]?,1,,0.9992866913358617
+22777,P641,Which sport is characteristic of the Nordic Ski Area?,1,0.9661743916749055,0.9661743916749055
+22755,P641,Which sport do the [MASK] take part in?,1,,1.1281511338523922
+22770,P641,Which sport is [MASK] competing in?,1,,1.0765732292408932
+22767,P641,Which sport does weightlifting take part in at the 2016 Summer Olympics?,1,,0.9722860171240888
+22754,P641,Which sport do the [MASK] involve?,1,0.9326644187865067,1.0914251714847898
+22763,P641,Which sport does the [MASK] engage in?,1,0.9119015142127596,1.0607431777142073
+22389,P641,What sort of athletic activity does [MASK] play?,1,,1.0273517553684814
+22762,P641,Which sport does the IMSA sportscar competition involve?,1,,1.0245080143453231
+22758,P641,Which sport does [MASK] partake in?,1,,1.0506708380232295
+22757,P641,Which sport does [MASK] include?,1,1.0630629913908867,1.0630629913908867
+22377,P641,What recreation do [MASK] take part in?,1,0.9073337230899482,0.9073337230899479
+22379,P641,What recreation does [MASK] perform?,1,,1.0280861607989629
+22388,P641,What sort of activities were involved in the [MASK]?,1,,0.9323041101798013
+22387,P641,What recreational pursuit is [MASK]?,1,0.9278859142498656,0.9278859142498649
+22386,P641,What recreational activity does [MASK] take part in?,1,1.0607703240658861,1.0443291617574046
+22380,P641,What recreation does [MASK] practice?,1,0.9874089069972347,0.9874089069972347
+22385,P641,What recreational activity does [MASK] participate in?,1,0.8856390184477868,1.0193921049171957
+22382,P641,What recreation is highlighted at the [MASK]?,1,0.9116741466701722,1.0724999722205042
+22383,P641,What recreation is played at the [MASK]?,1,0.9097591507999522,1.1272097259391198
+22393,P641,What sort of game does [MASK] take part in?,1,,0.899245940505049
+22330,P641,What kind of sporting event does [MASK] take part in?,1,,1.070748773372951
+22750,P641,Which sport can be enjoyed on the [MASK]?,1,,1.3095172009930922
+22376,P641,What pursuit is [MASK] used for?,1,,0.9594876504330581
+22365,P641,What physical activity is [MASK] known for?,1,0.9458760303470709,0.9458760303470704
+22384,P641,What recreational activity does [MASK] compete in?,1,,1.0083183737730466
+22751,P641,Which sport did field hockey compete in at the 2016 Summer Olympics?,1,0.9083802900481329,1.0280262061208127
+22367,P641,What physical activity is conducted at [MASK]?,1,,0.9769197484966122
+22369,P641,What physical activity is practiced by [MASK]?,1,,0.8916621827894198
+22370,P641,What physical activity was found in the [MASK]?,1,,1.0030270112682278
+22372,P641,What physical contests took place in the [MASK]?,1,,1.0324093332692743
+22373,P641,What physical exercise is done in a [MASK]?,1,,0.999943631918415
+22752,P641,Which sport do [MASK]s compete in?,1,1.0275578643371264,1.0275578643371264
+22753,P641,Which sport do teams in the [MASK] play?,1,1.096040472494895,1.096040472494895
+22398,P641,What sort of physical activity is [MASK] involved in?,1,,0.90603627009369
+22397,P641,What sort of games took place during the [MASK]?,1,,0.8365464651609209
+22396,P641,What sort of game is the [MASK] responsible for?,1,,0.900996729655458
+22768,P641,Which sport is [MASK] an enthusiast of?,1,,0.9971678633587816
+22395,P641,What sort of game is taking place during the [MASK]?,1,,0.911793738186283
+22366,P641,What physical activity is a [MASK] involved in?,1,1.0069993782149733,1.0069993782149733
+22701,P641,What was the sport associated with the [MASK]?,1,,0.9075977908040963
+22328,P641,What kind of sport was showcased at the [MASK]?,1,,1.034812383753248
+22240,P641,What kind of athletic activity is [MASK] playing?,1,,1.1050391530601253
+22229,P641,What is the type of game that [MASK] is?,1,,0.9127646056405372
+22230,P641,What kind of activities occur at the [MASK]?,1,,0.885827237187425
+22231,P641,What kind of activity does the [MASK] take part in?,1,0.8954527584694615,0.8954527584694586
+22232,P641,What kind of activity is [MASK] involved in?,1,,0.8823938150995867
+22233,P641,What kind of activity is associated with [MASK]?,1,0.914796332175984,0.9147963321759828
+22234,P641,What kind of activity is the [MASK]?,1,0.8856087640806144,0.8856087640806127
+22235,P641,What kind of athletic activity does [MASK] comprise?,1,,1.0443361898374073
+22238,P641,What kind of athletic activity does the [MASK] focus on?,1,1.8886967392178435,1.0386222170875283
+22241,P641,What kind of athletic competition do the [MASK] engage in?,1,0.9116167682762758,1.1054587224902246
+22223,P641,What is the sporting event that is held at a [MASK]?,1,1.057636245118431,1.057636245118431
+22243,P641,What kind of athletic competition does the American football movie feature?,1,1.0496198511396595,1.0496198511396595
+22244,P641,What kind of athletic contest will be featured in the [MASK]?,1,,1.022779093034182
+22246,P641,What kind of athletic event is [MASK]?,1,,1.3914662451710587
+22247,P641,What kind of athletic events are held at the [MASK]?,1,0.9086831811576511,1.0186801701260408
+22250,P641,What kind of athletics are featured in the [MASK]?,1,,0.886334650910329
+22251,P641,What kind of athletics does [MASK] engage in?,1,,1.1426257610898416
+22252,P641,What kind of athletics were held during the [MASK]?,1,,0.8774097540140883
+22253,P641,What kind of competition did field hockey take part in at the 2016 Summer Olympics?,1,0.9335051647356621,1.142094892955191
+22225,P641,What is the sporting theme of [MASK]?,1,,0.8925541954942801
+22221,P641,What is the sporting event that [MASK] partake in?,1,,1.0057265384463685
+22784,P641,Which sport is played by a [MASK]?,1,0.9324764582864645,0.9324764582864609
+22203,P641,What is the sport that the [MASK] governs?,1,,1.1805475057283819
+22170,P641,What is the sport of [MASK]' involvement?,1,,1.0284219226267612
+22177,P641,What is the sport that [MASK] belongs to?,1,,0.9036003849198909
+22179,P641,What is the sport that [MASK] is based on?,1,,0.9487464502453491
+22182,P641,What is the sport that [MASK] is part of?,1,,1.0682432303141054
+22183,P641,What is the sport that [MASK] organizes?,1,1.9692091043219786,1.0203506570337
+22184,P641,What is the sport that [MASK] partake in?,1,,0.9919936184813214
+22189,P641,What is the sport that a [MASK] engages in?,1,,1.0823169355057394
+22199,P641,What is the sport that is the focus of a [MASK]?,1,1.1140901127633402,1.1140901127633402
+22205,P641,What is the sport the [MASK] play?,1,,1.0877331990645949
+22220,P641,What is the sporting event in which [MASK] compete?,1,,0.9337597479113328
+22210,P641,What is the sporting activity [MASK] is active in?,1,,0.9984599346677107
+22211,P641,What is the sporting activity at [MASK]?,1,,1.2043705392930995
+22212,P641,What is the sporting activity of the [MASK]?,1,1.0227970157208626,1.0227970157208626
+22213,P641,What is the sporting activity that [MASK] is devoted to?,1,1.0026322828741223,0.9554320019724496
+22214,P641,What is the sporting activity that [MASK] takes part in?,1,,1.0970190880019859
+22217,P641,What is the sporting event [MASK] plays?,1,0.8360454530740072,0.8360454530740068
+22218,P641,What is the sporting event a [MASK] takes part in?,1,0.9111287774830517,0.9111287774830517
+22219,P641,What is the sporting event being held at the [MASK]?,1,,1.044833250378266
+22255,P641,What kind of competition does [MASK] include?,1,,1.1427070368079693
+22256,P641,What kind of competition does [MASK] practice?,1,,0.8819269618699269
+22257,P641,What kind of competition does [MASK] take part in?,1,,0.901223128211544
+22310,P641,What kind of sport is Nordic Ski Area involved in?,1,0.9784104188724481,0.9784104188724481
+22304,P641,What kind of sport does the [MASK] comprise?,1,,1.1280083104850278
+22306,P641,What kind of sport does the [MASK] enjoy?,1,1.1043375070132235,1.1043375070132235
+22795,P641,Which sports are featured in the [MASK]?,1,,0.9269989407403546
+22794,P641,Which sport requires an [MASK]?,1,1.0111651424022123,1.2913441798874001
+22309,P641,What kind of sport includes shooting in the 2016 Summer Olympics?,1,0.9244679070245607,1.0916283410321592
+22793,P641,Which sport is the men's tournament for handball at the 2020 Summer Olympics?,1,1.114553053153783,1.114553053153783
+22792,P641,Which sport is the men's event for handball at the 2020 Summer Olympics?,1,1.1356207798777775,1.1356207798777775
+22791,P641,Which sport is the [MASK] related to?,1,,1.1709970663149252
+22311,P641,What kind of sport is [MASK] involved with?,1,,1.0202828372609574
+22260,P641,What kind of competition takes place at the [MASK]?,1,0.8817481575487214,0.9884846355313108
+22312,P641,What kind of sport is [MASK] playing?,1,,1.0692194086199587
+22314,P641,What kind of sport is associated with [MASK]?,1,1.054184059843127,1.1503351333925886
+22790,P641,Which sport is the [MASK] participating in?,1,,1.0426823065176576
+22318,P641,What kind of sport is performed by [MASK]?,1,1.1723721851432158,1.0743577443055807
+22789,P641,Which sport is the [MASK] focused on?,1,0.9115375323347382,1.000135962835099
+22786,P641,Which sport is supervised by the [MASK]?,1,,1.0535234855539375
+22785,P641,Which sport is showcased during a [MASK]?,1,1.1498732061193058,1.035617581040196
+22326,P641,What kind of sport requires [MASK]?,1,,1.1758396502404103
+22302,P641,What kind of sport does a [MASK] take part in?,1,,1.0385285160054143
+22415,P641,What sport did the [MASK] host?,1,,0.9611500153954404
+22300,P641,What kind of sport does [MASK] host?,1,,0.964995364048462
+22295,P641,What kind of sport do [MASK] compete in?,1,,1.070686722730048
+22261,P641,What kind of competition takes place in a [MASK]?,1,0.8553840680184274,0.8553840680184276
+22262,P641,What kind of competition was held in the [MASK]?,1,,0.8827255912776671
+22263,P641,What kind of competitions did the [MASK] feature?,1,,0.9872854430178187
+22264,P641,What kind of competitions make up an [MASK]?,1,0.904117099239088,1.0606578774997757
+22265,P641,What kind of competitive activity is [MASK] into?,1,,0.872182742622195
+22266,P641,What kind of competitive activity was featured in the [MASK]?,1,,0.9039024754083589
+22267,P641,What kind of event does the [MASK] compete in?,1,0.9347915271993592,1.0112653480075011
+22268,P641,What kind of exercise do the pupils of [MASK] take part in?,1,,0.8881678044401156
+22271,P641,What kind of game does Nordic Ski Area partake in?,1,1.0061207364155673,1.0061207364155673
+22280,P641,What kind of game is [MASK] involved in?,1,1.0324184114141042,1.0324184114141042
+22282,P641,What kind of game is [MASK] responsible for?,1,0.8701943130371572,0.8701943130371573
+22285,P641,What kind of games are contested at the [MASK]?,1,,0.9168498743847451
+22287,P641,What kind of games is included in 2000 Summer Paralympic program?,1,,0.9146641019195592
+22288,P641,What kind of physical activity did the [MASK] have in its program?,1,,1.005455538035888
+22799,P641,Which sports were at the [MASK]?,1,,1.1011267161264817
+22291,P641,What kind of physical activity is [MASK]?,1,,0.9558251989846603
+22293,P641,What kind of recreation does [MASK] focus on?,1,,0.9044729377400933
+22414,P641,What sport constitutes the activity of a [MASK]?,1,0.9340784758659896,1.1023644289777637
+22419,P641,What sport do [MASK] players participate in?,1,1.1872157247628832,1.1872157247628832
+22748,P641,Which kind of athletic activity does [MASK] do?,1,,0.8740278722741384
+22716,P641,Which activity is the [MASK] engaging in?,1,,1.0604639111932312
+22601,P641,What type of contest is held in a [MASK]?,1,0.8886430696920834,0.8886430696920834
+22602,P641,What type of game did the [MASK] feature?,1,,0.9057159080007864
+22718,P641,Which athletic activity do the [MASK] practice?,1,,0.9555382980714898
+22603,P641,What type of game do [MASK] competitors engage in?,1,,0.8984090881718803
+22605,P641,What type of game do the [MASK] players play?,1,0.9324923479024864,0.9324923479024864
+22606,P641,What type of game do the [MASK] take part in?,1,,0.9049260058426383
+22607,P641,What type of game does [MASK] do?,1,,0.8840032338838588
+22717,P641,Which athletic activities takes place at the [MASK]?,1,,1.0073350852628238
+22610,P641,What type of game does a [MASK] engage in?,1,0.9822014939890769,0.9822014939890769
+22615,P641,What type of game does the [MASK] play?,1,1.0200136207457557,1.0200136207457557
+22620,P641,What type of game is associated with [MASK]?,1,0.9483437364715692,0.9595554679866117
+22599,P641,What type of competitive activity does [MASK] participate in?,1,,0.9732621211229826
+22621,P641,What type of game is conducted by [MASK]?,1,,0.9092068805017941
+22714,P641,Where is [MASK] a part of a competitive sport?,1,,0.9276242453559438
+22625,P641,What type of game is represented at the [MASK]?,1,,0.8785415134059597
+22626,P641,What type of game is the American football movie about?,1,1.0529743350497487,1.0529743350497487
+22627,P641,What type of game is the [MASK] a part of?,1,0.8341129694447433,0.8341129694447433
+22628,P641,What type of game was held at the [MASK]?,1,,0.9828174125566673
+22629,P641,What type of game was played at the [MASK]?,1,,1.2139668477155692
+22630,P641,What type of games are included in the [MASK]?,1,,0.8698110398158685
+22631,P641,What type of games are played at the [MASK]?,1,,0.9099545946857736
+22632,P641,What type of physical activity does [MASK] enjoy?,1,,0.9240827419021783
+22600,P641,What type of contest do [MASK]s engage in?,1,0.8477324139699107,0.8477324139699107
+22598,P641,What type of competition will the [MASK] feature?,1,,0.9549154981081993
+22634,P641,What type of recreation does [MASK] involve?,1,,0.9078995033581779
+22578,P641,What type of athletics are part of the [MASK]?,1,,0.9180125386755424
+22560,P641,What type of activity does a [MASK] pursue?,1,0.8919221748279976,0.9373612329306846
+22561,P641,What type of activity does the [MASK] enjoy?,1,0.9131113066566108,0.9131113066566108
+22562,P641,What type of activity is [MASK] involved in?,1,0.9180406331729668,0.9180406331729534
+22564,P641,What type of activity is available on the [MASK]?,1,,0.9258290639974712
+22723,P641,Which athletic event does [MASK] play?,1,,0.9003122099458688
+22566,P641,What type of athletic activity do [MASK]s do?,1,0.8853679263756237,0.8853679263756237
+22574,P641,What type of athletic event is included in [MASK]?,1,,0.891730203196215
+22575,P641,What type of athletic events happened during the [MASK]?,1,,0.8931739020449335
+22576,P641,What type of athletic pursuit does [MASK] do?,1,,0.8731616464933101
+22577,P641,What type of athleticism is [MASK] involved in?,1,0.8666104424266289,0.8666104424266289
+22579,P641,What type of athletics does [MASK] engage in?,1,,0.8229096325691826
+22597,P641,What type of competition takes place in a [MASK]?,1,0.9397841428327955,0.9397841428327955
+22722,P641,Which athletic competitions are held during the [MASK]?,1,,0.978929452011758
+22581,P641,What type of athletics does the [MASK] compete in?,1,,0.9313062009782089
+22166,P641,What is the sport in which [MASK]s are raced?,1,,0.9592762882613083
+22584,P641,What type of athletics is featured during [MASK]?,1,,0.8969895558138752
+22720,P641,Which athletic activity is [MASK] involved in?,1,,1.085314626382143
+22585,P641,What type of athletics were presented at the [MASK]?,1,,0.9320062449830506
+22587,P641,What type of competition does [MASK] have?,1,,1.1343030001399388
+22589,P641,What type of competition does [MASK] partake in?,1,0.8978697671410558,1.0345570750292743
+22590,P641,What type of competition goes on at the [MASK]?,1,,1.0563641015828693
+22596,P641,What type of competition occurs in [MASK]?,1,,0.8507065237399214
+22633,P641,What type of physical activity requires the use of a [MASK]?,1,0.8599731821728631,0.8599731821728618
+22713,P641,"When players form a [MASK], what sport do they usually play?",1,,1.0049916650906456
+22558,P641,What type of activity does [MASK] practice?,1,,0.8889598685673523
+22688,P641,What types of games were part of the [MASK]?,1,,0.9211667517656807
+22709,P641,What were the sporting activities played at the [MASK]?,1,,1.0434254172595718
+22679,P641,What type of sporting event is included in the [MASK]?,1,,1.07424366130444
+22680,P641,What type of sports activity does [MASK] do?,1,,0.9585464943297447
+22708,P641,What were the sport events held at the [MASK]?,1,,1.002075849923599
+22681,P641,What type of sports are featured in the [MASK]?,1,,0.9435465325288129
+22683,P641,What type of sports are played during [MASK]?,1,,0.894838902757532
+22685,P641,What types of athletic competition are featured in the [MASK]?,1,,0.8829724504172074
+22707,P641,What were some of the sports contested at the [MASK]?,1,,1.0839050777641248
+22686,P641,What types of events will the [MASK] feature?,1,,1.0272058038623353
+22687,P641,What types of games are done in a [MASK]?,1,0.9205312495383846,1.1375772251801686
+22689,P641,What was field hockey's contribution to the 2016 Summer Olympics?,1,0.890590582075757,0.8905905820757547
+22677,P641,What type of sporting activity does the [MASK] specialize in?,1,,1.0607988669214543
+22690,P641,What was on the docket for the [MASK]?,1,,0.8319884871223585
+22691,P641,What was represented at the [MASK]?,1,,0.9495267856718198
+22692,P641,What was the athletic competition during the [MASK]?,1,,0.9243545944909249
+22693,P641,What was the athletic competition featured in the [MASK]?,1,,0.932969633725242
+22706,P641,What was the sport that was featured in the [MASK]?,1,,1.0508208077642613
+22705,P641,What was the sport of choice at the [MASK]?,1,,1.0217411075136518
+22694,P641,What was the competition played at the [MASK]?,1,,1.3015166270217071
+22695,P641,What was the featured event of the [MASK]?,1,,1.0383154879124872
+22696,P641,What was the field hockey event at the 2016 Summer Olympics?,1,0.911200441963185,0.911200441963184
+22704,P641,What was the sport focus of the [MASK]?,1,,0.9516398479793363
+22678,P641,What type of sporting event is held at [MASK]?,1,,1.1798600220882483
+22676,P641,What type of sport was part of the [MASK]?,1,,1.0481433023083384
+22712,P641,What were the sports featured in the [MASK]?,1,,1.0098173066949647
+22658,P641,What type of sport is being held for the [MASK]?,1,,1.0166087214987125
+22638,P641,What type of sport does [MASK] focus on?,1,,0.9145756142755199
+22639,P641,What type of sport does [MASK] have?,1,0.9596956732974333,0.9650074538624792
+22641,P641,What type of sport does [MASK] practice?,1,,1.136123808740639
+22642,P641,What type of sport does [MASK] pursue?,1,1.075500742958177,0.9716193750533734
+22643,P641,What type of sport does [MASK] specialize in?,1,,0.9038128429612774
+22647,P641,What type of sport does the Australian rules football organization play?,1,1.0453512475761801,1.0203361488613776
+22648,P641,What type of sport does the [MASK] compete in?,1,,0.9862738610781986
+22649,P641,What type of sport does the [MASK] engage in?,1,1.0913194502690529,1.0528155969218906
+22652,P641,What type of sport involves shooting during the 2016 Summer Olympics?,1,3.1683925166873954,1.0656504884972924
+22710,P641,What were the sporting events of the [MASK]?,1,,0.9918152292964687
+22659,P641,What type of sport is conducted on a [MASK]?,1,1.0032139134106877,0.9394434877227418
+22675,P641,What type of sport was on the program at the [MASK]?,1,,0.9588558391121645
+22661,P641,What type of sport is done while in a [MASK]?,1,2.1118839685114037,0.9245986297188951
+22664,P641,What type of sport is included in an [MASK]?,1,,0.9979481275666813
+22665,P641,What type of sport is included in the [MASK]?,1,0.8717468517974549,0.871746851797454
+22666,P641,What type of sport is monitored by the [MASK]?,1,,1.031083919028466
+22667,P641,What type of sport is part of the men's handball tournament at the 2020 Summer Olympics?,1,1.0807539358383518,1.0807539358383518
+22668,P641,What type of sport is played at IMSA sportscar events?,1,,0.9293552253860393
+22670,P641,What type of sport is signified by the [MASK]?,1,,1.0692703181883014
+22672,P641,What type of sport is the men's field hockey tournament at the 2020 Summer Olympics?,1,1.0406978360288441,1.0406978360288441
+22673,P641,What type of sport was contested at the [MASK]?,1,,1.0221641967772448
+22674,P641,What type of sport was highlighted at the [MASK]?,1,,1.000716275414888
+22559,P641,What type of activity does [MASK] take part in?,1,,0.8476116997757095
+22724,P641,Which athletic field do the [MASK] specialize in?,1,,1.1677031062576346
+22747,P641,Which game is played at [MASK]?,1,,1.0912008620662015
+22463,P641,What sport is a [MASK] focused on?,1,1.661420037060535,0.9405418632853959
+22449,P641,What sport includes [MASK]?,1,,0.9018297726521352
+22450,P641,What sport includes shooting as part of the 2016 Summer Olympics?,1,0.94009991594683,1.1291545750640655
+22451,P641,What sport involves the use of [MASK]?,1,,1.1147418576155768
+22452,P641,What sport involves the utilization of [MASK]?,1,,0.9183558060009978
+22739,P641,Which game does a [MASK] involve?,1,0.8707896951048735,0.8707896951048735
+22738,P641,Which game does [MASK] play?,1,,1.13182018295616
+22454,P641,What sport is [MASK] a competitor in?,1,,0.8941122867485558
+22736,P641,Which game do the characters in the American football movie play?,1,0.9740403779637417,0.9740403779637417
+22456,P641,What sport is [MASK] connected with?,1,0.9723449607751541,0.9723449607751541
+22459,P641,What sport is [MASK] partaking in?,1,,0.9626518142994716
+22735,P641,Which game do [MASK] teams play?,1,1.1230068550991037,1.1230068550991037
+22741,P641,Which game does the [MASK] engage in?,1,1.234818310456059,1.0929637424864844
+22467,P641,What sport is associated with the IMSA sportscar league?,1,,0.9084661405894329
+22468,P641,What sport is at the center of the [MASK]?,1,,1.0274377665503065
+22471,P641,What sport is connected to [MASK]s?,1,1.0151219422227027,1.1169404848979028
+22473,P641,What sport is featured during [MASK]?,1,,1.174487063814529
+22474,P641,What sport is featured for the [MASK]?,1,,1.1384154258653674
+22475,P641,What sport is featured in the [MASK] event?,1,,1.0704577105356818
+22734,P641,Which event is held as part of the [MASK]?,1,,0.9030315144057991
+22476,P641,What sport is featured in the men's tournament for handball at the 2020 Summer Olympics?,1,0.9912102771241832,0.9912102771241832
+22477,P641,What sport is frequently played using [MASK]?,1,,1.1830389598391258
+22478,P641,What sport is held in a [MASK]?,1,0.9093324403923554,1.0307334736507074
+22448,P641,What sport has [MASK] taken on?,1,,0.9803084882971737
+22446,P641,What sport does the organisation [MASK] focus on?,1,,1.1767324338500396
+22480,P641,What sport is hosted by [MASK]?,1,,1.3391537617224547
+22425,P641,What sport does [MASK] involve itself in?,1,,1.0072064288405103
+22416,P641,What sport do IMSA sportscar drivers compete in?,1,,0.9694463611275109
+22746,P641,Which game is included in the [MASK]?,1,,0.8987038934532069
+22418,P641,What sport do [MASK] competitors usually play?,1,,1.2035259459612966
+22745,P641,Which game is highlighted during the [MASK]?,1,0.796307985069372,0.7963079850693718
+22699,P641,What was the main sporting event at the [MASK]?,1,,0.9082092555504783
+22420,P641,What sport do [MASK]s compete in?,1,1.1537522494758399,0.9666609609348422
+22421,P641,What sport do [MASK]s typically show?,1,0.9600460243525296,0.9600460243525287
+22744,P641,Which game is administered by the [MASK]?,1,,0.9928971938023331
+22423,P641,What sport do the [MASK] team participate in?,1,1.1864893879517473,1.0449170431518064
+22424,P641,What sport does Mr. SquarePants take part in?,1,,0.9197182296357793
+22743,P641,Which game includes [MASK]?,1,0.8925579363848907,0.8925579363848785
+22445,P641,What sport does the governing body of [MASK] focus on?,1,,1.1418245025890033
+22431,P641,What sport does a [MASK] consist of?,1,,1.0532921268288202
+22432,P641,What sport does a [MASK] involve?,1,,1.0439729600946492
+22435,P641,What sport does the Australian rules football team take part in?,1,0.9877275416317427,1.0086895730075278
+22436,P641,What sport does the Nordic Ski Area participate in?,1,1.0036857648786726,1.0036857648786726
+22438,P641,What sport does the [MASK] involve?,1,0.900857407227741,1.0641848544116115
+22440,P641,What sport does the [MASK] perform in?,1,1.0401541194850121,1.0401541194850121
+22441,P641,What sport does the [MASK] play?,1,0.9902186642683586,1.025891219645241
+22742,P641,Which game does the [MASK] take part in?,1,0.8155565425180813,0.8155565425180813
+22442,P641,What sport does the [MASK] program compete in?,1,1.0451043543900254,1.0451043543900254
+22444,P641,What sport does the [MASK] team engage in?,1,1.0705383184580284,1.0705383184580284
+22733,P641,Which event does [MASK] participate in?,1,,0.9240512820084033
+22481,P641,What sport is included in the 2020 Summer Olympics – women's field hockey tournament?,1,0.9742338205998747,1.060057893250561
+22557,P641,What type of activity does [MASK] partake in?,1,,1.0113794112667382
+22726,P641,Which athletic pursuit was conducted at the [MASK]?,1,,0.8899132363193645
+22526,P641,What sporting event is at the center of the American football movie?,1,0.8525878348865921,0.8525878348865921
+22528,P641,What sporting event is usually conducted on a [MASK]?,1,1.0173381545949685,1.0173381545949685
+22729,P641,Which competition is part of the [MASK]?,1,,0.8514657308968546
+22531,P641,What sporting events happen at an [MASK]?,1,0.9053173745944991,1.1417059987881253
+22532,P641,What sporting events happened at the [MASK]?,1,,0.9347875935091478
+22533,P641,What sporting events take place in the [MASK]?,1,,0.9336306599332533
+22534,P641,What sports are competed in at the [MASK]?,1,,1.0831690112080372
+22728,P641,Which competition does [MASK] partake in?,1,,0.9021193300689151
+22727,P641,Which athletics is part of 2000 Summer Paralympic events?,1,,0.8889468317987512
+22537,P641,What sports are involved in [MASK]?,1,,1.1132869437053743
+22539,P641,What sports do [MASK]s feature?,1,0.9012788273438671,0.9012788273438647
+22523,P641,What sporting event does [MASK] compete in?,1,1.065749112707685,1.0252943367439127
+22542,P641,What sports occurred during the [MASK]?,1,,1.054206484911135
+22547,P641,What sports were performed in the [MASK]?,1,,1.038311363793729
+22548,P641,What sports were played in the [MASK]?,1,,1.0041032740146099
+22549,P641,What sports were represented in the [MASK]?,1,,1.0274397444527108
+22550,P641,What sports will the [MASK] host?,1,,1.0526481860357118
+22551,P641,What teams represent the [MASK] athletically?,1,,0.8721420756706947
+22552,P641,What type of activities do the [MASK] involve?,1,,0.8688552414576205
+22553,P641,What type of activities took place during the [MASK]?,1,,0.9114686261491984
+22555,P641,What type of activity do the [MASK] participate in?,1,,1.0588017697187835
+22725,P641,Which athletic pursuit does [MASK] participate in?,1,1.079190123604367,1.079190123604367
+22525,P641,What sporting event does [MASK] enjoy?,1,,1.08069126558681
+22522,P641,What sporting discipline does [MASK] take part in?,1,,1.0585881082336066
+22482,P641,What sport is included in the men's tournament for handball at the 2020 Summer Olympics?,1,0.9345144272921642,0.9345144272921642
+22499,P641,What sport is the [MASK] an expert in?,1,1.3615617669221318,0.9458721544472285
+22483,P641,What sport is included in the sailing event at the 2016 Summer Olympics?,1,,1.1767127708557898
+22485,P641,What sport is involved in a [MASK]?,1,,1.0120206903139866
+22486,P641,What sport is linked to [MASK]?,1,1.0030014217574756,1.1585858025058295
+22732,P641,Which discipline is [MASK] involved in?,1,0.8946862212490925,0.8946862212490799
+22488,P641,What sport is performed while playing [MASK]?,1,0.9182354091855269,1.1692565303947078
+22491,P641,What sport is played by the [MASK] players?,1,1.0820258675892505,1.0820258675892505
+22731,P641,Which discipline does [MASK] practice?,1,2.269723249107005,1.0488803946233725
+22496,P641,What sport is symbolized by [MASK]s?,1,1.152516077306295,1.0420949592876985
+22497,P641,What sport is the [MASK] a tournament for?,1,1.3163211836922188,0.9925130419045093
+22730,P641,Which competitive sports are available to [MASK] students?,1,,1.1600577483076868
+22503,P641,What sport is the [MASK] focused on?,1,,0.9865673082813772
+22521,P641,What sporting discipline does [MASK] practise?,1,,0.8964870441147648
+22506,P641,What sport is the [MASK] showcasing?,1,,1.050757913587604
+22508,P641,What sport is under the umbrella of [MASK]?,1,,1.0288478081809824
+22509,P641,What sport is weightlifting associated with during the 2016 Summer Olympics?,1,,0.9785657051580972
+22510,P641,What sport occurred in 1993 at the World Championships in Athletics?,1,,1.0676556576494758
+22512,P641,What sport was celebrated in the [MASK]?,1,,1.0545115060900827
+22515,P641,What sport was played in the [MASK]?,1,,1.123177970282089
+22516,P641,What sport will the men's handball tournament be at the 2020 Summer Olympics?,1,1.1380343438542782,1.1380343438542782
+22517,P641,What sporting activity does [MASK] participate in?,1,0.9461332413496136,1.1506789964122386
+22519,P641,What sporting activity is [MASK] involved in?,1,,1.039451906991586
+22520,P641,What sporting activity is [MASK] passionate about?,1,,0.9550056669639962
+22583,P641,What type of athletics is associated with [MASK]?,1,0.8740992079023933,0.8740992079023923
+21969,P641,What is the athletic endeavor of [MASK]?,1,0.9293846565377069,1.107409371972028
+22165,P641,What is the sport in which [MASK] takes part?,1,,0.9703070199929152
+21590,P641,What athletic endeavor does [MASK] partake in?,1,,0.9641038816064091
+21624,P641,What athletics are played at the [MASK]?,1,0.9012653871329112,0.9012653871329087
+21625,P641,What athletics can be played on the [MASK]?,1,,1.1863199152586283
+21626,P641,What athletics were part of the [MASK]?,1,,1.036139726144672
+21628,P641,What ballgame is played on a [MASK]?,1,1.0305427777841152,1.0660021585208732
+21632,P641,What competition do [MASK]s illustrate?,1,0.9102597953999669,0.9102597953999664
+21637,P641,What competition does [MASK] oversee?,1,0.8637840740452748,0.9113939622630899
+21639,P641,What competition does the [MASK] do?,1,0.9065520139004731,0.9065520139004708
+21640,P641,What competition does the [MASK] honor?,1,0.9149288132347018,0.9149288132346979
+21643,P641,What competition does the men's handball team have at the 2020 Summer Olympics?,1,0.8929416573054828,0.8929416573054828
+21644,P641,What competition is [MASK] a part of?,1,,0.9116797849048819
+21646,P641,What competition is held in [MASK]?,1,,0.8656169068009232
+21647,P641,What competition is regulated by the [MASK]?,1,,0.8866118461268201
+21649,P641,What competition occurred in the [MASK]?,1,,0.9832156676476301
+21650,P641,What competition took place at the [MASK]?,1,,0.9659547937483857
+21651,P641,What competition was played in 1993 at the World Championships in Athletics?,1,,0.8537868805890143
+21652,P641,What competitions are held in the [MASK]?,1,,1.0848915829268149
+21653,P641,What competitions happened at the [MASK]?,1,,0.943412943916611
+21654,P641,What competitions took place during the [MASK]?,1,,0.9360429540319509
+21655,P641,What competitions were held at the [MASK]?,1,,0.8752905991292723
+21657,P641,What competitive activity does [MASK] partake in?,1,,0.9641299539224787
+21659,P641,What competitive activity is played by [MASK] players?,1,1.240629156536102,1.0072263262610324
+21660,P641,What competitive activity takes place on a [MASK]?,1,1.0101852695383253,1.0101852695383253
+21661,P641,What competitive endeavor does the [MASK] represent?,1,,0.9026452386116666
+21623,P641,What athletics are held during the [MASK]?,1,,1.1183238818378067
+21621,P641,What athletic pursuit is controlled by the [MASK]?,1,,1.1144228829178286
+21620,P641,What athletic pursuit does the [MASK] concentrate on?,1,1.827041412441731,1.0315509521734554
+21606,P641,What athletic events are played by the [MASK]?,1,,0.9800463216803548
+21592,P641,What athletic endeavor does [MASK] practice?,1,0.9112984388279448,1.1470968133276056
+21593,P641,What athletic endeavor does [MASK] take part in?,1,,0.9426279850881834
+21594,P641,What athletic endeavor is [MASK] associated with?,1,0.9761556449752723,1.100586166730876
+21595,P641,What athletic endeavor is [MASK] engaged in?,1,,0.9805586284330801
+21596,P641,What athletic event can you participate in on the [MASK]?,1,,0.8726974155680649
+21600,P641,What athletic event is a [MASK] involved in?,1,1.0500103309902633,1.0563259181281972
+21601,P641,What athletic event is being held at the [MASK]?,1,,0.9774228331341056
+21602,P641,What athletic event is done in a [MASK]?,1,0.9372686706185319,0.9372686706185277
+21603,P641,What athletic event is part of [MASK]?,1,,0.8641566211691188
+21604,P641,What athletic event was organized in the [MASK]?,1,,0.9742436877433828
+21607,P641,What athletic events were held at the [MASK]?,1,,0.9698489686341643
+21619,P641,What athletic pursuit does a [MASK] partake in?,1,0.9233812847533125,1.0571535507575376
+21608,P641,What athletic events were part of the [MASK]?,1,,1.0874789164206347
+21609,P641,What athletic events were played at the [MASK]?,1,,1.0395299478518538
+21610,P641,What athletic game does [MASK] compete in?,1,,1.0516667872891199
+21612,P641,What athletic pastime do people play when doing [MASK]?,1,0.9329961924015614,1.2443812036425388
+21613,P641,What athletic pastime does [MASK] pursue?,1,,0.9999532613766621
+21614,P641,What athletic programs are offered by the [MASK]?,1,,0.899148773411754
+21615,P641,What athletic pursuit do people participate in during [MASK]?,1,0.9237987251836698,1.2590647115911842
+21616,P641,What athletic pursuit does [MASK] enjoy?,1,0.8912164183721349,0.8912164183721107
+21617,P641,What athletic pursuit does [MASK] involve himself in?,1,,0.8936935173221323
+21618,P641,What athletic pursuit does [MASK] perform?,1,,1.0851885201778417
+21662,P641,What competitive event does [MASK] participate in?,1,0.8839002545632147,0.8839002545632152
+21663,P641,What competitive sport does [MASK] participate in?,1,,1.0610993574505239
+21664,P641,What competitive sport does [MASK] play?,1,0.9445479377375269,1.0445358432822396
+21716,P641,What event is included in sailing during the 2016 Summer Olympics?,1,,0.8858690423051837
+21702,P641,What does the [MASK] do for recreation?,1,0.8903054255094036,0.8903054255094036
+21703,P641,What does the [MASK] engage in as a team?,1,,1.1463080065585718
+21704,P641,What event do [MASK]s partake in?,1,0.8805518564094793,0.8805518564094791
+21707,P641,What event does [MASK] involve?,1,1.0247300007762477,1.0247300007762477
+21708,P641,What event does [MASK] organize?,1,,1.1277565622575338
+21711,P641,What event does the men's handball team have at the 2020 Summer Olympics?,1,1.005396892381242,1.005396892381242
+21712,P641,What event featured [MASK]?,1,0.9169498489163309,1.1210101363471912
+21713,P641,What event includes shooting in the 2016 Summer Olympics?,1,0.9098048744158126,0.9098048744158013
+21714,P641,What event is celebrated at the [MASK]?,1,0.9505470899914455,0.9505470899914455
+21715,P641,What event is included at the [MASK]?,1,,0.8816924347238204
+21717,P641,What event is men's field hockey competing in at the 2020 Summer Olympics?,1,0.8895814580861953,0.8895814580861953
+21699,P641,What does [MASK]'s sport consist of?,1,,0.9871831690551521
+21718,P641,What event is the [MASK] centered around?,1,0.9091186812702792,1.1395418916797317
+21719,P641,What event is usually conducted at a [MASK]?,1,0.9789034677781642,0.9789034677781642
+21720,P641,What event takes place during the [MASK]?,1,0.8936611478509611,0.8936611478509607
+21721,P641,What event took place in 1993 at the World Championships in Athletics?,1,,0.856872973306673
+21722,P641,What event was held at the [MASK]?,1,,0.9785335644244338
+21723,P641,What event was part of the [MASK]?,1,,0.9121384625682311
+21724,P641,What event were field hockey players involved in at the 2016 Summer Olympics?,1,0.9129826736197343,1.1117299261253566
+21725,P641,What event will be taking place in the [MASK]?,1,,1.0332505228249205
+21726,P641,What events are contested during the [MASK]?,1,,1.120505616352912
+21727,P641,What events are featured in the [MASK]?,1,,1.0625823514691821
+21700,P641,What does a [MASK] participate in during the season?,1,0.907100176274512,0.9071001762745103
+21694,P641,What does [MASK] entail?,1,,0.8980170483489405
+21666,P641,What contest does [MASK] partake in?,1,0.8908404246373964,0.8908404246373964
+21680,P641,What disciplines are part of the [MASK]?,1,,1.0527408922053627
+21667,P641,What contest does a [MASK] usually participate in?,1,,0.9056544747661902
+21668,P641,What contest includes shooting as part of the 2016 Summer Olympics?,1,0.8405201322014313,0.8405201322014259
+21669,P641,What contest is held in the [MASK]?,1,,0.9205466357630095
+21671,P641,What discipline does [MASK] feature?,1,,0.8371007022148365
+21672,P641,What discipline does [MASK] focus on?,1,1.0653044131215024,1.0653044131215024
+21673,P641,What discipline does [MASK] partake in?,1,,0.9109688081151918
+21674,P641,What discipline does [MASK] play?,1,,0.9047848684391432
+21675,P641,What discipline is featured in the [MASK]?,1,0.903525932787691,1.0666078567473682
+21676,P641,What discipline is field hockey featured in at the 2016 Summer Olympics?,1,0.9409472012120701,1.110910700269362
+21679,P641,What disciplines are part of an [MASK]?,1,0.8959495362362775,1.0132679921368024
+21681,P641,What disciplines will the [MASK] include?,1,,0.9404076708861623
+21693,P641,What does [MASK] engage in as a pastime?,1,,0.9062287641244796
+21682,P641,What do [MASK] players do?,1,,0.919915881867803
+21683,P641,What do [MASK]'s leisure activities involve?,1,,0.9524088595873957
+21684,P641,What do individuals in [MASK]s play?,1,1.561482248542252,1.1740976925467164
+21685,P641,What do people play in a [MASK]?,1,0.837065679616339,0.8370656796163388
+21686,P641,What do you play on the [MASK]?,1,,0.8896132435378089
+21687,P641,What does [MASK] do athletically?,1,0.8801379956687705,0.9079267676045547
+21689,P641,What does [MASK] do for sport?,1,0.8950300439634034,0.8950300439634034
+21690,P641,What does [MASK] do in terms of sports?,1,,0.8816794016466017
+21691,P641,What does [MASK] do in the realm of athletics?,1,,1.053363231004884
+21692,P641,What does [MASK] do professionally?,1,0.9345573091636534,1.1148492597326785
+21591,P641,What athletic endeavor does [MASK] participate in?,1,1.155121910548108,1.0489728147940856
+21589,P641,What athletic endeavor does [MASK] engage in?,1,,0.9024029754295161
+22164,P641,What is the sport in which [MASK] is utilized?,1,,0.9234448516062472
+21586,P641,What athletic contests will be showcased in the [MASK]?,1,,1.0143746243105025
+21449,P641,In what sport is the [MASK] awarded?,1,,1.1345667442553662
+21451,P641,In what sport is the [MASK] set?,1,1.069950537782159,1.069950537782159
+21453,P641,In what sporting event do the [MASK] compete?,1,1.0593811094011933,1.0593811094011933
+21454,P641,In what sporting event is [MASK] featured?,1,,0.8885373300293257
+21455,P641,In what sports league does [MASK] participate?,1,,0.8953812385920606
+21456,P641,In what type of athletic activity does the [MASK] compete?,1,1.0079075657037535,1.0079075657037535
+21458,P641,In which activity does the [MASK] compete?,1,1.093133503105522,1.028640561751376
+21461,P641,In which athletic event does [MASK] compete?,1,0.8980725487366988,1.055353746920648
+21462,P641,In which competition do [MASK] participate?,1,0.9332609661961687,0.933260966196169
+21463,P641,In which discipline do [MASK] compete?,1,,1.1084665891281689
+21467,P641,In which event at the 2016 Summer Olympics is weightlifting featured?,1,,0.8727918521717887
+21471,P641,In which game is a [MASK] involved?,1,0.8883692585029012,0.8883692585028975
+21475,P641,In which sport do the [MASK] compete?,1,,1.1483702217689695
+21476,P641,In which sport does IMSA sportscar racing take place?,1,,1.0306404091679588
+21477,P641,In which sport does [MASK] excel?,1,1.1182312609511593,1.1182312609511593
+21480,P641,In which sport is [MASK] practised?,1,,1.0164321611434377
+21481,P641,In which sport is a [MASK] held?,1,0.9875698786083436,1.1287316251321093
+21483,P641,In which sports do athletes compete at the [MASK]?,1,,0.944185198452591
+21484,P641,In which type of game does [MASK] specialize?,1,1.66105106949865,1.0119570087023808
+21485,P641,To what event does [MASK] devote its time?,1,0.8665756966310624,0.8665756966310602
+21486,P641,To what game does [MASK] devote its attention?,1,,0.9324957656204035
+21487,P641,To what sport do [MASK] devote their efforts?,1,,1.0041851204224355
+21489,P641,To what sport does [MASK] dedicate her time?,1,,0.9184763552095456
+21446,P641,In what sport is [MASK] active?,1,0.9650694327194077,1.0558826999239284
+21443,P641,In what sport does [MASK] play?,1,,1.0294466919854828
+21440,P641,In what sport does [MASK] contest?,1,1.2336871329224597,0.9342192246268692
+21402,P641,For which sport is the [MASK] held?,1,1.495202213723152,1.1143047030327853
+21387,P641,"At the 2016 Summer Olympics, what game involves shooting?",1,0.9423755751803001,1.1331403087676486
+21389,P641,"At the 2016 Summer Olympics, which sport includes weightlifting?",1,,1.0788497160772128
+21390,P641,"At the 2020 Summer Olympics – women's tournament, what sport is played in field hockey?",1,0.8737682091528818,0.9404921079595184
+21392,P641,"At the 2020 Summer Olympics, what sport is men's field hockey taking part in?",1,0.9921437058208097,0.9921437058208097
+21393,P641,"At the 2020 Summer Olympics, what sport will the men's field hockey team be playing?",1,1.203421003701526,1.155535935899501
+21395,P641,"At the upcoming Summer Olympics, what is the male field hockey team participating in?",1,1.0040855571207121,1.0040855571207121
+21397,P641,"During the 2016 Summer Olympics, in what sport is weightlifting included?",1,,1.0111990010238459
+21398,P641,"During the 2016 Summer Olympics, which sport did field hockey participate in?",1,0.8819823617870499,0.8819823617870494
+21400,P641,For what sport does an [MASK] have a role?,1,0.9339089988181679,0.9339089988181627
+21401,P641,For what sport is the [MASK] given?,1,,1.1227133338241317
+21403,P641,How do individuals in a [MASK] take part in a sport?,1,0.848745492346358,0.8487454923463579
+21437,P641,In what sport do [MASK]s depict?,1,1.1023001902415643,0.9807845635133662
+21404,P641,How do people occupy themselves in a [MASK]?,1,,0.8893170191149421
+21405,P641,How is [MASK] played?,1,,0.8974988064326478
+21412,P641,In what activity is [MASK] utilized?,1,,0.8475677043097333
+21419,P641,In what game do [MASK]s compete?,1,,1.009218748108626
+21422,P641,In what game does an [MASK] compete?,1,0.8525875854693488,0.8525875854693432
+21426,P641,In what kind of athletic activity do the [MASK] participate?,1,0.9035310873341671,0.9957802704897293
+21429,P641,In what kind of sports do the [MASK] teams compete?,1,,1.1593418929608257
+21430,P641,In what league does [MASK] compete?,1,0.8947607467622625,0.894760746762254
+21432,P641,In what sport are the 2020–21 NCAA Division I men's basketball teams competing?,1,,1.0727804327486297
+21434,P641,In what sport did field hockey participate in the 2016 Summer Olympics?,1,0.8948667023008638,1.0281267933678853
+21491,P641,Weightlifting is featured in which sport at the 2016 Summer Olympics?,1,,1.1413989247289105
+21495,P641,What activities are part of the [MASK]?,1,,1.1007638732445983
+21496,P641,What activities did the [MASK] feature?,1,,1.041862209609104
+21568,P641,What athletic activity is featured in the [MASK]?,1,,1.0067652098624487
+21553,P641,What activity is weightlifting associated with in the 2016 Summer Olympics?,1,,0.9498667950940671
+21554,P641,What activity takes place at the [MASK]?,1,0.9118809687723016,1.0197167307761583
+21557,P641,What activity will be featured in the [MASK]?,1,,0.9174419029028494
+21558,P641,What are the athletic competitions of the [MASK]?,1,,0.8823469474550736
+21559,P641,What are the athletics included in [MASK]?,1,,0.8694448730393535
+21561,P641,What athletic activities are held during the [MASK]?,1,,1.1027104149930587
+21562,P641,What athletic activities take place in the [MASK]?,1,,1.0288395993510768
+21563,P641,What athletic activities took place during the [MASK]?,1,,1.0650424851416764
+21565,P641,What athletic activity does [MASK] pursue?,1,,0.9945088131816371
+21566,P641,What athletic activity is [MASK] usually associated with?,1,,1.0693602560981683
+21569,P641,What athletic activity is held at the [MASK]?,1,0.9070491151305385,1.0112441507267038
+21549,P641,What activity is the [MASK] centered around?,1,,1.0926862337890177
+21571,P641,What athletic activity was included in the [MASK]?,1,,1.0411148175777871
+21575,P641,What athletic competition does [MASK] practise?,1,0.8767689760097884,0.8767689760097862
+21577,P641,What athletic competition does the [MASK] play?,1,,0.8476694598361352
+21579,P641,What athletic competition is being held in the [MASK]?,1,,0.9980791102185689
+21580,P641,What athletic competition is usually found on a [MASK]?,1,1.0139117634531472,1.0139117634531472
+21581,P641,What athletic competition takes place at the [MASK]?,1,,0.9358483891147646
+21582,P641,What athletic competitions are contested in the [MASK]?,1,,0.9749529787363996
+21583,P641,What athletic competitions are held at the [MASK]?,1,,0.8898897674249726
+21584,P641,What athletic competitions are included in the [MASK]?,1,,0.9590874135430562
+21585,P641,What athletic competitions is [MASK] involved in?,1,,0.8888975264996085
+21552,P641,What activity is the men's tournament for handball at the 2020 Summer Olympics?,1,0.8702664543992352,0.8702664543992352
+21548,P641,What activity is represented through [MASK]?,1,,1.1224869574330445
+21498,P641,What activities does the [MASK] have for athletics?,1,,0.8824997769704467
+21511,P641,What activity does [MASK] encompass?,1,0.8823585613015652,0.8823585613015652
+21499,P641,What activities is [MASK] composed of?,1,,1.1172481886792338
+21500,P641,What activities occur at an [MASK]?,1,0.9064122049711391,0.9064122049711358
+21502,P641,What activities were held during the [MASK]?,1,,1.013725102129189
+21503,P641,What activities were present in the [MASK]?,1,,1.0149460617330528
+21504,P641,What activities will be part of the [MASK]?,1,,1.0498265302048857
+21506,P641,What activity do [MASK]s represent?,1,0.8488656584211711,0.8488656584211713
+21507,P641,What activity do the 2020–21 NCAA Division I men's basketball teams participate in?,1,,0.896761218351967
+21508,P641,What activity do the [MASK] players engage in?,1,0.906469659546328,0.906469659546328
+21509,P641,What activity does Nordic Ski Area practice?,1,0.976844059882686,0.976844059882686
+21510,P641,What activity does Nordic Ski Area specialize in?,1,1.0186713177705065,1.0186713177705065
+21515,P641,What activity does a [MASK] do?,1,1.0179519178454726,1.0179519178454726
+21547,P641,What activity is played by an [MASK]?,1,0.8917387401506632,0.8917387401506611
+21519,P641,What activity does the [MASK] commemorate?,1,,0.8182065045338247
+21521,P641,What activity does the [MASK] engage in?,1,1.1789719510825873,0.9886270929837123
+21527,P641,What activity is [MASK] used in?,1,0.8637627409654159,0.8637627409654102
+21529,P641,What activity is a [MASK] taking part in?,1,,0.8978778448285857
+21532,P641,What activity is an [MASK] particularly skilled at?,1,1.0280969813481882,1.0280969813481882
+21536,P641,What activity is conducted in the field hockey competition at the 2020 Summer Olympics – women's tournament?,1,0.8801101457685354,0.9855345973053584
+21540,P641,What activity is featured at a [MASK]?,1,0.8550147732101279,0.8550147732101275
+21542,P641,What activity is featured in a [MASK]?,1,0.8789970250611654,0.8789970250611654
+21545,P641,What activity is overseen by the [MASK]?,1,,0.9004611893886584
+21546,P641,What activity is played at the [MASK]?,1,,1.157898100591548
+21728,P641,What events are planned for the [MASK]?,1,,1.0307643219917053
+21729,P641,What events are played at the [MASK]?,1,,1.0868142372058835
+21730,P641,What events does the [MASK] feature?,1,,1.0124803052529616
+21731,P641,What events took place at the [MASK]?,1,,1.0110589652709645
+21996,P641,What is the athletic pursuit that [MASK] enjoys?,1,,0.9081389608532383
+21997,P641,What is the athletic pursuit that [MASK] follows?,1,,0.8927892185412928
+21998,P641,What is the athletic pursuit that [MASK] is known for?,1,,0.9411437900671071
+21999,P641,What is the athletic pursuit that an [MASK] competes in?,1,0.9187303105313251,1.0823744549882326
+22000,P641,What is the athletic pursuit that the [MASK] takes part in?,1,1.2821726989429183,0.9418619173533831
+22005,P641,What is the competition that [MASK] involves?,1,0.8807414507511744,0.8807414507511744
+22007,P641,What is the competition that [MASK] is associated with?,1,,0.8840335560239677
+22010,P641,What is the competition that the [MASK] engages in?,1,0.8784771595396625,0.8784771595396625
+22011,P641,What is the competitive arena that [MASK] centers around?,1,,0.8778091767397224
+22012,P641,What is the competitive endeavor of [MASK]?,1,0.8667091733842422,0.8667091733842406
+22014,P641,What is the competitive game [MASK] plays?,1,,0.9211790120680703
+22015,P641,What is the competitive game a [MASK] takes part in?,1,1.0540699040376191,1.0117725774701525
+22016,P641,What is the competitive game that [MASK] features?,1,,0.953462355357806
+22017,P641,What is the competitive game with which [MASK] is involved?,1,,0.838822983465207
+22019,P641,What is the contest that [MASK] participate in?,1,0.9249098484552704,0.9249098484552697
+22023,P641,What is the event associated with [MASK]?,1,0.8597183556824919,0.8597183556824919
+22024,P641,What is the event for [MASK]s?,1,,1.0864106481754596
+22026,P641,What is the event that [MASK] is featured in?,1,,0.8592225369380936
+22027,P641,What is the event that the [MASK] engages in?,1,0.881621419819755,0.8816214198197514
+22029,P641,What is the field of play for [MASK]?,1,0.8947427126975925,0.8947427126975919
+22031,P641,What is the focus of the American football movie?,1,0.927381970462211,0.927381970462211
+22032,P641,What is the form of [MASK]?,1,,1.091611144799641
+22033,P641,What is the game [MASK] active in?,1,0.9642390100169759,0.964239010016973
+21995,P641,What is the athletic pursuit that [MASK] does?,1,0.894149854511394,0.894149854511394
+21993,P641,What is the athletic program of [MASK]?,1,,0.8528282824341644
+21992,P641,What is the athletic pastime that [MASK] participates in?,1,,1.1584915006519627
+21967,P641,What is the athletic discipline of the [MASK] team?,1,0.8868965568754784,0.8868965568754784
+21944,P641,What is the athletic activity [MASK] practices?,1,,0.8926789180261034
+21946,P641,What is the athletic activity [MASK] undertake?,1,,0.9541622360446683
+21952,P641,What is the athletic activity that [MASK] play?,1,1.1830093336254106,0.9488976696954449
+21957,P641,What is the athletic competition [MASK] engage in?,1,,0.9914204878209807
+21959,P641,What is the athletic competition [MASK] take part in?,1,0.8855325142616465,0.8855325142616464
+21960,P641,What is the athletic competition for which [MASK] is responsible?,1,0.9051143494658342,0.9051143494658342
+21961,P641,What is the athletic competition of [MASK]?,1,,1.1486839788152285
+21963,P641,What is the athletic contest of [MASK]?,1,,0.8575455060851764
+21964,P641,What is the athletic contest that the [MASK] is involved in?,1,0.8627947875180089,0.8627947875180089
+21965,P641,What is the athletic discipline [MASK] plays?,1,0.901587419082753,0.9015874190827372
+21968,P641,What is the athletic discipline that [MASK]s are involved in?,1,1.0454118432188308,1.0454118432188308
+21990,P641,What is the athletic game that the [MASK] team is involved in?,1,1.0017512180097297,1.0017512180097297
+21970,P641,What is the athletic endeavor that [MASK] is involved in?,1,0.9293845866262324,1.2440544947622822
+21971,P641,What is the athletic endeavor that a [MASK] engages in?,1,1.018748408302718,1.018748408302718
+21974,P641,What is the athletic event [MASK] engage in?,1,,0.995040861910106
+21975,P641,What is the athletic event in a [MASK]?,1,1.060040858362279,1.060040858362279
+21977,P641,What is the athletic event that [MASK] is involved in?,1,,1.0754921046129275
+21980,P641,What is the athletic event that [MASK] take part in?,1,1.094989293928525,1.0073362949799833
+21981,P641,What is the athletic event that is participated in by the [MASK] team?,1,0.9124421453935023,0.9124421453935023
+21982,P641,What is the athletic event that the [MASK] is responsible for?,1,,0.9422851051611933
+21983,P641,What is the athletic game [MASK] do?,1,,0.8913467035704203
+21989,P641,What is the athletic game that the [MASK] compete in?,1,,1.103848704080917
+22046,P641,What is the game behind [MASK]?,1,0.8670721636809525,1.0005317866896626
+22048,P641,What is the game featured in the field hockey tournament of the 2020 Summer Olympics – women's tournament?,1,1.0918889216858052,1.019271965649254
+22056,P641,What is the game of choice in a [MASK]?,1,0.9057427040587221,1.0527643812773626
+22138,P641,What is the professional sport of the [MASK]?,1,1.036202463284929,1.036202463284929
+22122,P641,What is the pastime that [MASK]s are involved in?,1,,0.9685383877263173
+22123,P641,What is the performance sport [MASK] takes part in?,1,1.1989780242939858,1.0740100263899575
+22124,P641,What is the physical activity [MASK] involved in?,1,,0.9300533307694838
+22125,P641,What is the physical activity a [MASK] does?,1,0.8260140140643717,0.8260140140643717
+22127,P641,What is the physical activity of [MASK]?,1,,0.9025576496087406
+22128,P641,What is the preferred sport of the [MASK]?,1,0.9095951253797714,0.9955576212382072
+22129,P641,What is the primary competition of the [MASK]?,1,0.8603513481266953,0.8603513481266953
+22130,P641,What is the primary event at the [MASK]?,1,,1.0815167775236798
+22135,P641,What is the primary sport conducted at the [MASK]?,1,0.929746453367271,0.9297464533672664
+22137,P641,What is the primary sporting event of the [MASK]?,1,,1.152826693310638
+22139,P641,What is the recreation [MASK] does?,1,,0.8955340781620081
+22118,P641,What is the particular game [MASK] plays?,1,0.9053617907399836,1.0670893834959088
+22140,P641,What is the recreation associated with [MASK]?,1,,0.9234035966456152
+22141,P641,What is the recreational activity [MASK] plays?,1,1.0154183054198966,1.1144291050478672
+22142,P641,What is the recreational activity of [MASK]?,1,,0.9040696646062822
+22144,P641,What is the sport [MASK] compete in?,1,,0.9060372048606368
+22146,P641,What is the sport [MASK] is actively involved in?,1,0.9166966187279018,0.9829967287113067
+22148,P641,What is the sport [MASK] partakes in?,1,1.3614521651519376,1.1061929307721565
+22150,P641,What is the sport [MASK] take part in?,1,,1.0132543825958495
+22160,P641,What is the sport featured in the field hockey competition of the 2020 Summer Olympics – women's tournament?,1,1.4911302653930576,1.009185653071622
+22162,P641,What is the sport held at [MASK]?,1,,1.0652115653222265
+22163,P641,What is the sport in which [MASK] engage?,1,,0.9019530377470327
+22120,P641,What is the pastime a [MASK] plays?,1,1.023044934575291,1.023044934575291
+22117,P641,What is the nature of [MASK]?,1,,0.8919080323088404
+22057,P641,What is the game of which [MASK]s are a part?,1,,0.977089172559654
+22090,P641,What is the main activity at Nordic Ski Area?,1,1.0289718249903357,1.0289718249903357
+22059,P641,What is the game played by the Australian rules football organization?,1,0.916596458039059,1.0082720770634028
+22063,P641,What is the game showcased in the [MASK]?,1,0.8775527946980218,1.0802844399230391
+22066,P641,What is the game that [MASK] is a star in?,1,,0.9075512455396878
+22068,P641,What is the game that [MASK] is known to play?,1,,0.9132009165123441
+22069,P641,What is the game that [MASK] participate in?,1,1.0288549143542678,0.9133137150679185
+22074,P641,What is the game that [MASK]s are utilized in?,1,,1.0470140471949214
+22076,P641,What is the game that [MASK]s take part in?,1,1.0624532174509098,1.0624532174509098
+22081,P641,What is the game that requires [MASK]?,1,,0.9371468593897542
+22088,P641,What is the game the [MASK] represent?,1,,0.923371275223051
+22089,P641,What is the game the [MASK] specialize in?,1,1.0328575256801193,1.0328575256801193
+22094,P641,What is the main event of the [MASK]?,1,,0.9050889845971245
+22116,P641,What is the name of the sport typically played in [MASK]?,1,,1.0154780377749344
+22100,P641,What is the major sport at the [MASK]?,1,0.9151302114726679,1.3549367238388164
+22102,P641,What is the name of the competition men's field hockey is taking part in at the 2020 Summer Olympics?,1,0.869694328000162,0.869694328000162
+22103,P641,What is the name of the game for [MASK]?,1,0.8909849523558003,0.8909849523558003
+22105,P641,What is the name of the sport [MASK] players compete in?,1,,1.112428373974642
+22106,P641,What is the name of the sport a [MASK] is involved in?,1,1.671438029626618,1.0659433496755177
+22109,P641,What is the name of the sport being played for [MASK]?,1,,1.0387868291445712
+22110,P641,What is the name of the sport carried out in a [MASK]?,1,,1.038043203561526
+22111,P641,What is the name of the sport in which [MASK] is involved?,1,,1.1391872780265766
+22112,P641,What is the name of the sport played on a [MASK]?,1,1.125033656013514,0.9592690557717276
+22115,P641,What is the name of the sport the [MASK] plays?,1,1.125473898602135,1.053967105581319
+21943,P641,What is the athletic activity [MASK] plays?,1,,1.1757843530413727
+21939,P641,What is the activity that [MASK]s engage in?,1,,1.0109961748588887
+21937,P641,What is the activity that [MASK] plays?,1,,1.0219846598965472
+21800,P641,What game is an [MASK] a professional in?,1,1.02206326968851,1.02206326968851
+21778,P641,What game does the [MASK] feature?,1,,0.9046998148764281
+21779,P641,What game does the [MASK] honor?,1,,0.9314138332974974
+21783,P641,What game does weightlifting appear in during the 2016 Summer Olympics?,1,,1.1455324666626532
+21784,P641,What game falls under [MASK]?,1,,0.9250906922009493
+21786,P641,What game includes shooting during the 2016 Summer Olympics?,1,0.9027440335218176,0.902744033521817
+21787,P641,What game involves a [MASK]?,1,0.9439869144269035,0.9439869144269035
+21788,P641,What game involves firing a gun at the 2016 Summer Olympics?,1,0.8729828249325186,0.9191511436474601
+21792,P641,What game is [MASK] related to?,1,,0.9172779326629585
+21793,P641,What game is [MASK] responsible for managing?,1,0.9304423755886386,1.0724813267361004
+21795,P641,What game is a [MASK] based on?,1,1.3033842000225546,0.9300083765338987
+21801,P641,What game is an [MASK] adept at?,1,1.0593312330869213,1.0593312330869213
+21775,P641,What game does the Australian rules football organization compete in?,1,1.0158055677984053,1.0038131376376944
+21802,P641,What game is associated with IMSA sportscar racing?,1,,0.9085643444751066
+21805,P641,What game is being played for the [MASK]?,1,,0.8743932280238058
+21806,P641,What game is celebrated by the [MASK]?,1,0.9265528494999477,0.9265528494999441
+21807,P641,What game is competed in by using a [MASK]?,1,0.9413643613285214,1.1858005649629662
+21808,P641,What game is conducted on a [MASK]?,1,1.485760426116868,0.9425299640649342
+21809,P641,What game is contested at a [MASK]?,1,1.0211741326775265,1.0211741326775265
+21810,P641,What game is contested in [MASK]?,1,,0.9049837737690173
+21811,P641,What game is contested in the women's field hockey tournament at the 2020 Summer Olympics?,1,0.8635099425819331,0.9591054432458154
+21812,P641,What game is depicted in the American football movie?,1,0.9729130307825057,0.9729130307825057
+21813,P641,What game is done using a [MASK]?,1,0.952653176353353,1.3678307019304272
+21776,P641,What game does the [MASK] consist of?,1,,0.9110071356469919
+21774,P641,What game does field hockey compete in at the 2016 Summer Olympics?,1,0.883483471652773,0.8834834716527729
+21815,P641,What game is featured during the [MASK]?,1,0.9456482473223992,0.9456482473223902
+21746,P641,What game can you play on the [MASK]?,1,,0.918071979333512
+21732,P641,What events were contested at the [MASK]?,1,,0.9470068285534529
+21733,P641,What exercise did the [MASK] feature?,1,,0.9843973109713614
+21735,P641,What field does [MASK] compete in?,1,,1.0546469013386817
+21737,P641,What form of athletics does [MASK] do?,1,0.8584795988608388,0.8584795988608368
+21738,P641,What form of athletics does [MASK] take part in?,1,1.116015322622159,1.116015322622159
+21740,P641,What form of competition is [MASK]?,1,,0.9165526362760921
+21741,P641,What form of recreation does [MASK] engage in?,1,,1.2704841595654732
+21742,P641,What form of recreation is [MASK] an expert in?,1,,0.8990995094405404
+21744,P641,What form of recreation is a [MASK] engaged in?,1,0.9434322535163695,0.9434322535163685
+21745,P641,What form of sport is [MASK] involved in?,1,0.9256816858652461,1.0243876500162128
+21748,P641,What game do Australian rules football teams compete in?,1,0.9898528474737641,0.9922355302780047
+21769,P641,What game does a [MASK] play?,1,0.8921456573574584,0.8921456573574538
+21754,P641,What game do athletes of [MASK] participate in?,1,,0.9012176107307324
+21755,P641,What game do athletes of [MASK] specialize in?,1,,0.8867303902057005
+21756,P641,What game do players participate in when forming a [MASK]?,1,,0.9083642430038835
+21757,P641,What game do the [MASK] play?,1,,0.8709167492265005
+21758,P641,What game do the [MASK] team have a stake in?,1,0.9100881144287416,0.9100881144287416
+21759,P641,What game does American football movie depict?,1,0.8613458191555882,0.8613458191555882
+21760,P641,What game does Nordic Ski Area take part in?,1,0.9530124183571194,0.9530124183571194
+21763,P641,What game does [MASK] favor?,1,,1.10144863536896
+21765,P641,What game does [MASK] pertain to?,1,1.1217090398698912,1.1217090398698912
+21767,P641,What game does a [MASK] contend in?,1,0.8850903470130324,0.9107861371319848
+21814,P641,What game is featured at the [MASK]?,1,0.9062342679071226,0.9062342679071218
+21817,P641,What game is featured on [MASK]s?,1,1.4028524630259882,0.9779117387331235
+21936,P641,What is the activity that [MASK] partake in?,1,0.9007363480035341,1.0486040423425655
+21901,P641,What is [MASK]'s sporty endeavor?,1,,0.8853133228633217
+21871,P641,What games will comprise the [MASK]?,1,,0.8705640765726406
+21872,P641,What is [MASK] a form of?,1,,0.9805069987521415
+21874,P641,What is [MASK] focused on competing in?,1,0.8753331682947789,0.875333168294778
+21875,P641,What is [MASK] known for performing?,1,1.1144269888828064,0.9448107393720206
+21887,P641,What is [MASK]'s chosen sporting activity?,1,0.9756091432759202,0.9756091432759202
+21889,P641,What is [MASK]'s favored pastime?,1,,0.958222985149994
+21893,P641,What is [MASK]'s particular sport?,1,,1.122061805594467
+21897,P641,What is [MASK]'s recreational activity?,1,0.9056047178080765,1.1108662731593038
+21898,P641,What is [MASK]'s specialty in athletics?,1,,0.862430722217282
+21900,P641,What is [MASK]'s sporting specialty?,1,,0.8795648334716942
+21904,P641,What is practiced inside of a [MASK]?,1,,0.9554881008614908
+21867,P641,What games are included in 2000 Summer Paralympic competition?,1,,1.1266519695861053
+21909,P641,What is the [MASK] played as?,1,0.9326438778602727,0.9545157856042712
+21912,P641,What is the [MASK] used for athletically?,1,,1.0621402984601174
+21915,P641,What is the [MASK] used for in terms of athletics?,1,,0.9002857308187894
+21916,P641,What is the [MASK]' playing field?,1,,0.8611092827354676
+21917,P641,What is the [MASK]'s chosen game?,1,1.0122336440963606,1.0122336440963606
+21919,P641,What is the [MASK]'s preferred sport?,1,0.8933276991179383,1.012763621755275
+21920,P641,What is the [MASK]'s specialty?,1,0.890613755675113,1.0284043465545458
+21922,P641,What is the [MASK]'s sporting activity?,1,1.1073862259181455,1.1073862259181455
+21933,P641,What is the activity that [MASK] is concerned with?,1,0.8586006534270165,0.9287505663220794
+21935,P641,What is the activity that [MASK] is played in?,1,0.8850941497724255,0.8850941497724255
+21869,P641,What games were contested at the [MASK]?,1,,0.9982816060573383
+21865,P641,What game(s) were involved in the [MASK]?,1,,1.0398380862078604
+21819,P641,What game is held in a [MASK]?,1,0.8880692560028663,1.026607916981466
+21848,P641,What game is the focus of the international chess governing body [MASK]?,1,0.9558034384641787,1.1086549984146816
+21824,P641,What game is involved in sailing in the 2016 Summer Olympics?,1,,1.0531480078019018
+21827,P641,What game is most typically held on a [MASK]?,1,1.0246755598821122,1.0246755598821122
+21829,P641,What game is performed in a [MASK]?,1,,0.8731177030098668
+21833,P641,What game is played in the 1984 Summer Paralympic Games?,1,,0.9842055447945126
+21834,P641,What game is played in the 2020 Summer Olympics – women's field hockey tournament?,1,0.9245973527145777,1.0351101992881753
+21836,P641,What game is regulated by the [MASK]?,1,,0.8969143650164694
+21838,P641,What game is represented in the 2020 Summer Olympics – women's field hockey competition?,1,1.196059893341961,1.0089884216278358
+21839,P641,What game is represented on [MASK]s?,1,0.8172607964743268,0.8172607964743268
+21840,P641,What game is showcased in the American football movie?,1,1.1071644900602073,1.1071644900602073
+21841,P641,What game is the Australian rules football association involved in?,1,1.0032052175609016,1.0056367261658212
+21849,P641,What game is the key attraction at the [MASK]?,1,,0.9171732120344513
+21863,P641,What game will the men's field hockey team be playing at the 2020 Summer Olympics?,1,1.0761529881777556,1.0380197328687868
+21850,P641,What game is the men's field hockey team playing in the 2020 Summer Olympics?,1,1.161840369407003,1.161840369407003
+21851,P641,What game is the men's field hockey tournament at the 2020 Summer Olympics?,1,0.8821438335205259,0.8821438335205259
+21852,P641,What game is the men's tournament for handball at the 2020 Summer Olympics?,1,0.8494877938058434,0.8494877938058434
+21854,P641,What game or competition involves [MASK]?,1,,1.1824269096356133
+21855,P641,What game relies on [MASK]?,1,,1.0034866683745338
+21856,P641,What game was at the center of the [MASK]?,1,,0.8889199188183108
+21857,P641,What game was contested in the [MASK]?,1,,1.0534741232843892
+21859,P641,What game was part of the [MASK]?,1,,0.9131001688686862
+21860,P641,What game was played in the [MASK]?,1,,0.917399666415641
+21862,P641,What game will be played at [MASK]?,1,,0.9029005070808067
+22802,P641,Which types of sports were included in the [MASK]?,1,,1.0223749913781845

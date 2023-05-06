@@ -10,20 +10,26 @@ def main():
         "t5-large.dev",
         "t5-large.test",
         "t5-3b",
-        "t5-3b.dev",
-        "t5-3b.test",
-        "t5-11b",
-        "t5-11b.dev",
-        "t5-11b.test",
-        "flan-small",
-        "flan-small.dev",
-        "flan-small.test",
-        "flan-xl",
-        "flan-xl.dev",
-        "flan-xl.test",
-        "t03b",
-        "t03b.dev",
-        "t03b.test",
+        # "t5-3b.dev",
+        # "t5-3b.test",
+        # "t5-11b",
+        # "t5-11b.dev",
+        # "t5-11b.test",
+        # "flan-small",
+        # "flan-small.dev",
+        # "flan-small.test",
+        # "flan-xl",
+        # "flan-xl.dev",
+        # "flan-xl.test",
+        # "t03b",
+        # "t03b.dev",
+        # "t03b.test",
+        # "t5-small.chatgpt",
+        # "t5-large.chatgpt",
+        # "t5-small.gpt3",
+        # "t5-large.gpt3",
+        # "flan-small.gpt3",
+        # "flan-large.gpt3",
     ]
 
     for file_prefix in file_prefix_list:
@@ -31,8 +37,12 @@ def main():
         dst = "analysis/table/sorth_eff/"+file_prefix+".csv"
 
         df = pd.read_table(src, index_col=0)
+        # df = df.loc[:, ~df.columns.isin(['P155', 'P156'])]
         df["total"] = df.apply(lambda row: sum(row), axis = 1)
+        print(df.loc['c_all'])
+        print(df.loc['c_original'])
         df = df.apply(lambda row: (np.asarray(row) + 1)/ (df.loc["c_original"] + 1), axis=1)
+        print(df.loc['c_all'])
         df.to_csv(dst, sep="\t")
         
 

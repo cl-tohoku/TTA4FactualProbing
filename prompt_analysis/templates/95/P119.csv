@@ -1,0 +1,421 @@
+,p,template,fact_id,effect_gold,effect_top
+928,P119,What is the final resting place of [MASK]?,259,,1.0368684723634083
+1247,P119,What is the address of [MASK]'s burial site?,186,,0.9945888864890261
+1270,P119,What is the current location of [MASK]'s grave?,158,,0.9507066398414287
+1153,P119,Where was [MASK]'s body laid to rest?,129,,1.0337421461916991
+1493,P119,Where has [MASK]'s remains been laid to rest?,98,,1.0281447452561359
+933,P119,Where is the grave of [MASK]?,79,,0.9750593000683807
+1087,P119,What is [MASK]'s burial location?,73,,1.010737249517505
+952,P119,What is the burial place of [MASK]?,46,,1.0363007980392689
+934,P119,Where was [MASK] interred?,42,,1.0493388397795747
+936,P119,Where has [MASK] been interred?,40,,1.0264702479728163
+938,P119,What is the grave site of [MASK]?,40,,0.9668083080207655
+937,P119,What is the cemetery where [MASK] is buried?,37,,0.9898385848638867
+939,P119,Where did [MASK] get laid to rest?,32,,0.9931884378647158
+940,P119,Where is [MASK] interred?,31,,1.0048484666393012
+945,P119,What is the burial ground of [MASK]?,28,,1.037948879733744
+942,P119,Where was [MASK] buried?,28,,1.0231465199651015
+963,P119,What cemetery is [MASK] interred in?,23,,1.0084830695499192
+949,P119,Where did [MASK] receive his last rites?,22,,0.902500210104429
+943,P119,Where has [MASK] been buried?,22,,1.0219501043882013
+960,P119,In which graveyard is [MASK] buried?,22,,0.9917998565271806
+957,P119,What is the burial spot of [MASK]?,22,,0.9788990934786493
+951,P119,Where did [MASK] take his last breath?,22,,0.9034996301929678
+950,P119,What is the last resting place of [MASK]?,21,,1.025163449656817
+944,P119,Where is the final resting place of [MASK]?,21,0.9572001626602974,1.0511253704254726
+953,P119,What is the cemetery of [MASK]?,21,,0.9910371864847252
+956,P119,Where did [MASK] lay to rest?,20,,1.06974132956274
+958,P119,What is the cemetery where [MASK] is interred?,17,,0.9819937354373642
+970,P119,What is the memorial site of [MASK]?,17,,0.9480829855073625
+954,P119,Where is the tomb of [MASK]?,17,,0.9670072343907333
+977,P119,What cemetery holds [MASK]'s remains?,14,,0.9956992279737571
+976,P119,In which cemetery is [MASK] buried?,14,,1.0180071458235167
+965,P119,Where is [MASK]'s grave located?,14,,1.0036534355718494
+962,P119,Where did [MASK] find his final resting place?,14,1.026409166905701,1.0182819891727148
+967,P119,What is the final resting spot of [MASK]?,13,,1.014866511208556
+973,P119,What is the cemetery where [MASK] was laid to rest?,13,,0.9981511870387128
+983,P119,In which cemetery was [MASK] laid to rest?,13,,1.027678801346218
+1037,P119,Where does [MASK] lie?,12,,0.9467805294162887
+995,P119,Where did [MASK] receive his final interment?,12,,1.0253293400244854
+982,P119,Where did [MASK]'s remains come to rest?,12,,0.9851113467093887
+966,P119,In which cemetery is [MASK] interred?,11,,1.0077268737007765
+991,P119,What is [MASK]'s final resting place?,11,,1.0089852051699595
+1007,P119,What is the place of interment for [MASK]?,11,,0.9747346501988112
+986,P119,Where did [MASK] find his eternal rest?,10,,0.9407575100063014
+972,P119,What cemetery holds the remains of [MASK]?,10,,1.0228419968883475
+990,P119,What cemetery is [MASK] buried in?,10,,1.0032084008153785
+1011,P119,What is the tomb of [MASK]?,10,,0.9234466931165862
+974,P119,Where can one find the grave of [MASK]?,10,,0.931169784151113
+1006,P119,What is the place of [MASK]'s interment?,10,,1.0237747154648509
+1015,P119,Where did [MASK] receive his final resting place?,9,,0.9741555072132972
+975,P119,Where is [MASK]'s final resting place?,9,,1.027344411753537
+997,P119,Where is [MASK]'s burial site?,9,,0.9591874692946976
+994,P119,Where did [MASK] get interred?,9,,0.9872355927981145
+1001,P119,In what graveyard is [MASK] buried?,8,,1.0063111233236963
+1009,P119,What is the site of [MASK]'s interment?,8,,1.0369172195835126
+1014,P119,Where did [MASK] receive a burial?,8,,0.9817501648639777
+981,P119,Where did [MASK] get buried?,8,0.9009366256564667,0.9714714474215498
+1016,P119,Where did [MASK] spend eternity?,8,,0.9106538731467828
+1027,P119,What is the graveyard of [MASK]?,7,,0.9753417674441928
+1021,P119,In which graveyard is [MASK] interred?,7,,1.0288785535583258
+1017,P119,Where did [MASK]'s body come to rest?,7,,0.9780457498332089
+1019,P119,Where is the last resting place of [MASK]?,7,,1.0085005414930974
+1034,P119,Where did [MASK] receive his final burial?,7,,1.0118114766186916
+1010,P119,What is the spot where [MASK] was laid to rest?,7,,0.9680582202175774
+998,P119,Where is [MASK]'s tomb?,7,,0.997689237359463
+984,P119,What is the grave of [MASK] located?,7,0.9464077644879523,1.016771314324312
+987,P119,Where is [MASK] entombed?,7,1.0197240686958107,0.9849562781255512
+988,P119,Where is [MASK]'s grave situated?,7,0.9516270857716512,0.9160982477559657
+989,P119,Where is the burial site of [MASK]?,7,,0.9757138809372966
+1029,P119,What is the location of [MASK]'s interment?,7,,1.0041947194010874
+999,P119,Where was [MASK] put to rest?,7,,0.9686428076615549
+1054,P119,What is the place where [MASK] is buried?,6,,1.0264572630684992
+993,P119,Where can [MASK]'s grave be found?,6,,0.9424620688013684
+1072,P119,Where is the burial plot of [MASK]?,6,,0.9475688798220601
+996,P119,Where has [MASK] been entombed?,6,,0.9743876858997252
+1066,P119,Where does [MASK] now rest?,6,,0.9726718539883764
+1004,P119,What cemetery is [MASK] laid to rest in?,6,,1.012429984398082
+1068,P119,Where is [MASK] buried?,5,,0.9609864300377662
+1023,P119,In which graveyard was [MASK] laid to rest?,5,,0.9473385590484422
+1020,P119,In what location is [MASK] interred?,5,,0.9985533052788966
+1041,P119,In what place is [MASK] interred?,5,,0.9821192018811493
+1028,P119,What is the graveyard where [MASK] is interred?,5,,0.9521213680343946
+1035,P119,Where did [MASK] receive his final rites?,5,,0.9500413350875123
+1032,P119,Where did [MASK] have his final resting place?,4,,1.0536321323691902
+1074,P119,Where was [MASK] entombed?,4,,0.9851826781798314
+1071,P119,Where is the burial place of [MASK]?,4,,1.0348212640887704
+1049,P119,What is the final destination of [MASK]?,4,,0.9236789475557187
+1043,P119,What is the address of [MASK]'s grave?,4,,0.8815599875121568
+1112,P119,What location was chosen for the burial of [MASK]?,4,,0.9876479013705627
+1024,P119,What is [MASK]'s burial site?,4,,0.9229149247819629
+1055,P119,What is the spot where [MASK] is buried?,4,,0.9342368002461785
+1134,P119,Where did [MASK]'s remains end up?,4,,0.9854130959636771
+1314,P119,What is the last place of repose for [MASK]?,3,,0.9298021198714879
+1084,P119,What cemetery holds the grave of [MASK]?,3,,0.9734368562541676
+1110,P119,What is the spot where [MASK] is interred?,3,,1.0147177340278972
+1117,P119,Where can one find [MASK]'s grave?,3,,0.8989164714552142
+1118,P119,Where can one find the burial of [MASK]?,3,,0.924214995680682
+1107,P119,What is the place where [MASK] is laid to rest?,3,,0.9948510439495934
+1102,P119,What is the place of [MASK]'s entombment?,3,,0.9925531174174301
+1095,P119,What is the graveyard where [MASK] was buried?,3,,0.89401353430401
+1145,P119,Where is the burial location of [MASK]?,3,,1.0173249464988965
+1124,P119,Where did [MASK] find his final repose?,3,,0.9717993283173381
+1078,P119,In what place is [MASK] buried?,3,,1.027431434801082
+1069,P119,Where is [MASK]'s burial plot?,3,0.9014933254846528,1.02670044398105
+1059,P119,Where did [MASK] pass away?,3,,0.9348537275150596
+1148,P119,Where is the sepulchre of [MASK]?,3,,0.9723160793592727
+1080,P119,In what spot is [MASK] buried?,3,,0.9933213200489371
+1039,P119,In what cemetery was [MASK] interred?,3,,1.0180476070218172
+1040,P119,In what place has [MASK] been buried?,3,,0.9359034252280595
+1042,P119,What cemetery contains the remains of [MASK]?,3,,0.9953822601977871
+1056,P119,Where did [MASK] find his last resting place?,3,,1.0746205351677813
+1057,P119,Where did [MASK] have his last rites?,3,,0.8875102270318168
+1076,P119,Can you tell me where [MASK] is interred?,3,,0.9624402092455515
+1058,P119,Where did [MASK] have his remains interred?,3,,1.0118175804773673
+1082,P119,What cemetery contains [MASK]'s grave?,3,,1.0237606432392812
+1064,P119,Where do [MASK]'s remains lie?,3,,0.9709163554685901
+1061,P119,Where did [MASK] receive his eternal rest?,3,,0.9760723132055967
+1160,P119,Can you tell me where [MASK] is buried?,2,,0.9465321389331837
+1205,P119,Is there a burial place for [MASK]?,2,,0.9480092701750134
+1155,P119,Where was the body of [MASK] laid to rest?,2,,1.11129026174838
+1193,P119,In what spot is [MASK] interred?,2,,0.9918899225505686
+1185,P119,In what location is [MASK] laid to rest?,2,,1.0137265102811157
+1179,P119,In what cemetery is [MASK]'s tomb?,2,,0.965071840578992
+1306,P119,What is the last abode of [MASK]?,2,,0.9393087682501157
+1287,P119,What is the final place of repose for [MASK]?,2,,1.0396420531055768
+1154,P119,Where was [MASK]'s burial?,2,,1.051795128741494
+1307,P119,What is the last known location of [MASK]'s body?,2,,0.9243977580766755
+1317,P119,What is the location of [MASK]' burial site?,2,,1.0457063961496587
+1371,P119,What was the burial ground chosen for [MASK]?,2,,1.0670168028304468
+1386,P119,Where can [MASK]' tomb be found?,2,,0.9330633272177917
+1403,P119,Where did [MASK] find his final home?,2,,0.9097419129396607
+1412,P119,Where did [MASK] have his mortal remains laid to rest?,2,,0.9910983802610347
+1419,P119,Where did [MASK] meet his final resting place?,2,,0.9857410689221382
+1422,P119,Where did [MASK] receive a final farewell?,2,,0.8912677829577496
+1439,P119,Where did [MASK] take his final breath?,2,,0.9056250516808229
+1489,P119,Where has [MASK] been laid to eternal sleep?,2,,0.9003676575996621
+1497,P119,Where in the ground was [MASK] placed?,2,,0.8927268911840215
+1511,P119,Where is [MASK]'s last earthly resting place?,2,,0.9898933966952754
+1555,P119,Where was [MASK]'s mortal remains placed?,2,,0.9396497524898728
+1503,P119,Where is [MASK]' final resting spot?,2,,1.0446908629644511
+1245,P119,What is [MASK]'s place of internment?,2,,0.9056941742508919
+1150,P119,Where was [MASK] consigned to the earth?,2,,0.8902083304972861
+1096,P119,What is the graveyard where [MASK] was laid to rest?,2,0.9561000991287778,1.0452511962603481
+1141,P119,Where has [MASK] been memorialized?,2,,0.8817963168491251
+1081,P119,In which location is [MASK] interred?,2,0.9045092560260477,1.0408306237121436
+1083,P119,What cemetery contains the grave of [MASK]?,2,,0.9809911228221123
+1085,P119,What cemetery houses [MASK]?,2,,1.0641716656845661
+1086,P119,What cemetery houses the remains of [MASK]?,2,,0.9316254095260676
+1088,P119,What is [MASK]'s burial place?,2,,1.0658488957302876
+1138,P119,Where has [MASK] been committed to the earth?,2,,0.8871359706354667
+1137,P119,Where does [MASK] lie in eternal rest?,2,0.8916295250248626,0.90202064875715
+1135,P119,Where do we find the tomb of [MASK]?,2,,0.9584489768916836
+1133,P119,Where did [MASK]'s funeral take place?,2,,0.8946281788808237
+1143,P119,Where is [MASK]'s remains located?,2,,0.8896039464722516
+1100,P119,What is the location where [MASK] was buried?,2,,0.982969784080385
+1131,P119,Where did [MASK] spend his final days?,2,,0.9166120403004823
+1125,P119,Where did [MASK] have his last interment?,2,1.049901877693643,1.014939104416288
+1101,P119,What is the memorial location of [MASK]?,2,,0.9054872956161457
+1121,P119,Where did [MASK] end up being buried?,2,,1.0179593177280992
+1119,P119,Where can one locate the grave of [MASK]?,2,,0.9717446724929995
+1109,P119,What is the sepulcher of [MASK]?,2,,0.9044438705724973
+1111,P119,What is the whereabouts of [MASK]'s burial?,2,,0.9774028422933072
+1113,P119,What place is the grave of [MASK]?,2,,1.0319740450700046
+1142,P119,Where has [MASK] been put to rest?,2,,0.9941131631003287
+1116,P119,Where can [MASK]'s grave be located?,2,0.8914485658891016,0.9953362674892716
+1144,P119,Where is the burial ground of [MASK]?,2,,1.0172997155293428
+1077,P119,In what cemetery is [MASK] entombed?,2,,0.9014150535744827
+1147,P119,Where is the memorial of [MASK]?,2,,0.9231695317780755
+1543,P119,Where was [MASK] laid to rest for eternity?,1,,1.0177721069092425
+1568,P119,Who knows the burial location of [MASK]?,1,,0.916580884016788
+1416,P119,Where did [MASK] leave this mortal coil?,1,0.9033334018504792,0.9033334018504792
+1417,P119,Where did [MASK] make her last resting place?,1,,1.0213893337198665
+1418,P119,Where did [MASK] meet his final end?,1,,0.9044320302530992
+1566,P119,Who can tell us where [MASK] is entombed?,1,,0.8833113100593422
+1565,P119,Who can tell us the whereabouts of [MASK]'s grave?,1,,0.9164675058342228
+1564,P119,Who can tell us the whereabouts of [MASK]'s burial?,1,,0.8970571444399811
+1420,P119,Where did [MASK] pass away and is now buried?,1,,1.046998347724571
+1563,P119,Who can tell us the burial site of [MASK]?,1,,0.8972433168683082
+1424,P119,Where did [MASK] receive a final send-off?,1,,0.8727850945318812
+1425,P119,Where did [MASK] receive a funeral?,1,,0.9067639553439862
+1427,P119,Where did [MASK] receive her final rite of passage?,1,,0.8940493279817973
+1429,P119,Where did [MASK] receive her interment?,1,,0.9864122644333698
+1431,P119,Where did [MASK] receive his final earthly repose?,1,,0.8847332331007185
+1433,P119,Where did [MASK] receive his last sleep?,1,,0.8703769208349681
+1434,P119,Where did [MASK] rest his final days?,1,,0.8668188391363739
+1436,P119,Where did [MASK] spend her eternal slumber?,1,,1.0068755258358417
+1437,P119,Where did [MASK] spend his eternal rest?,1,,1.1504326391551718
+1562,P119,Which graveyard holds the remains of [MASK]?,1,,1.04466543505088
+1438,P119,Where did [MASK] take his final bow?,1,,1.0645977970069913
+1561,P119,Which cemetery holds the remains of [MASK]?,1,,0.9157761001024546
+1441,P119,Where did [MASK] take his last bow?,1,,0.8968886931127388
+1442,P119,Where did [MASK] take his last rest?,1,,0.8917360907958446
+1443,P119,Where did [MASK] take his last sleep?,1,,0.9216302135091057
+1448,P119,Where did [MASK] ultimately rest?,1,,1.0095750633253004
+1450,P119,Where did [MASK]' remains find their final home?,1,,0.9047283078610604
+1451,P119,Where did [MASK]'s body end up?,1,,0.9036532207508343
+1567,P119,Who is interred in the grave of [MASK]?,1,,0.8809666606067903
+1415,P119,Where did [MASK] lay his head to rest after death?,1,,0.8963864692850522
+1453,P119,Where did [MASK]'s body find its final interment?,1,,1.0118755055063158
+1396,P119,Where can we find the burial site of [MASK]?,1,,1.0869549739970772
+1379,P119,What was the last place [MASK] was buried?,1,,0.8963902748016374
+1382,P119,Where can [MASK] be found in death?,1,,0.8977261370566736
+1383,P119,Where can [MASK] be found in his final resting place?,1,,0.9984326930304499
+1384,P119,Where can [MASK] be found in his grave?,1,,0.9048911097704374
+1385,P119,Where can [MASK] be found interred?,1,,1.1537157997519483
+1570,P119,Who knows the ultimate resting place of [MASK]?,1,,0.9039308845034562
+1387,P119,Where can [MASK]'s final resting place be found?,1,,1.0089930167112677
+1388,P119,Where can [MASK]'s last resting place be found?,1,,1.0121441085103833
+1389,P119,Where can [MASK]'s remains be found?,1,,0.8969758043278864
+1391,P119,Where can one find [MASK]'s burial site?,1,,1.0175233690661076
+1392,P119,Where can one find [MASK]'s tomb?,1,,0.9210449553827269
+1394,P119,Where can one find the tomb of [MASK]?,1,,0.9947136651487055
+1397,P119,Where can you find [MASK]'s grave?,1,,0.8800648473019981
+1414,P119,Where did [MASK] lay buried?,1,,1.154382469052491
+1399,P119,Where did [MASK] breathe his last?,1,,0.896122716235269
+1400,P119,Where did [MASK] come to his end?,1,,0.905126920318179
+1401,P119,Where did [MASK] end up being laid to rest?,1,,1.0445745193897562
+1402,P119,Where did [MASK] find his eternal peace?,1,0.926753221567477,0.9267532215674757
+1569,P119,Who knows the location of [MASK]'s grave?,1,,0.8843386661806556
+1405,P119,Where did [MASK] go to his eternal rest?,1,,1.002471474990173
+1406,P119,Where did [MASK] go to his final rest?,1,,0.909118560649572
+1407,P119,Where did [MASK] have a burial?,1,,1.2417722336093753
+1408,P119,Where did [MASK] have her interment?,1,,1.0423055201107212
+1409,P119,Where did [MASK] have his burial?,1,,1.0296405492410545
+1410,P119,Where did [MASK] have his funeral?,1,,1.0648537347499973
+1411,P119,Where did [MASK] have his last resting place?,1,,1.0282779130195476
+1452,P119,Where did [MASK]'s body find its final home?,1,,1.1188534127890808
+1455,P119,Where did [MASK]'s body find its last resting place?,1,,1.0623125038380572
+1454,P119,Where did [MASK]'s body find its final repose?,1,,0.8937239416550617
+1542,P119,Where was [MASK] laid to his final sleep?,1,,0.9943379968009776
+1501,P119,Where is [MASK] laid to eternal rest?,1,,0.950823822678842
+1502,P119,Where is [MASK] laid to his final rest?,1,,0.9050526068842749
+1553,P119,Where was [MASK]'s final resting place chosen?,1,,1.042374806684534
+1504,P119,Where is [MASK]'s burial located?,1,,1.0341526230485474
+1505,P119,Where is [MASK]'s burial place?,1,,0.9716025682732782
+1508,P119,Where is [MASK]'s final abode?,1,,0.9367297094664173
+1510,P119,Where is [MASK]'s interment?,1,,0.9075831624396266
+1548,P119,Where was [MASK] ultimately laid to rest?,1,,0.9780067611221887
+1513,P119,Where is [MASK]'s memorial site?,1,,0.8876945451891068
+1514,P119,Where is [MASK]'s physical body interred?,1,,1.1191980562110113
+1517,P119,Where is the cemetery where [MASK] has been laid to rest?,1,,0.9171681414674953
+1520,P119,Where is the final home of [MASK]?,1,,0.9348249509980743
+1521,P119,Where is the final place of [MASK]’s internment?,1,,0.948106939175082
+1523,P119,Where is the graveyard of [MASK]?,1,1.3030579509193572,1.1330196291605454
+1524,P119,Where is the last place [MASK] was laid to rest?,1,,0.8968340653070908
+1527,P119,Where is the place of [MASK]'s entombment?,1,0.8923763321978934,0.8923763321978934
+1546,P119,Where was [MASK] sent to his eternal rest?,1,,1.0219932641956364
+1529,P119,Where is the place of entombment for [MASK]?,1,,1.0528644664191702
+1530,P119,Where is the place of repose for [MASK]?,1,,1.1203826506559187
+1534,P119,Where was [MASK] committed to the earth?,1,,0.8794877934083117
+1535,P119,Where was [MASK] committed to the ground?,1,,1.0456142397712629
+1537,P119,Where was [MASK] finally laid to rest?,1,,0.9050377975509448
+1538,P119,Where was [MASK] given a burial?,1,,1.0811764816005722
+1539,P119,Where was [MASK] laid in eternal rest?,1,,1.0287962551897598
+1544,P119,Where was [MASK] laid to rest in perpetuity?,1,,0.9655385127005988
+1540,P119,Where was [MASK] laid to her eternal rest?,1,,1.014211991776716
+1541,P119,Where was [MASK] laid to his eternal sleep?,1,,1.0037424103067514
+1498,P119,Where is [MASK] at her eternal rest?,1,,0.9701728876278514
+1496,P119,Where have the remains of [MASK] been placed?,1,,1.0266158906898541
+1494,P119,Where have [MASK]'s ashes been interred?,1,,1.0555276533095082
+1474,P119,Where do the remains of [MASK] lay?,1,,0.9125751342193944
+1457,P119,Where did [MASK]'s body interred?,1,,1.073443999307332
+1459,P119,Where did [MASK]'s burial take place?,1,,0.9183775874698056
+1560,P119,Which cemetery holds [MASK]'s remains?,1,,1.0974528008659414
+1460,P119,Where did [MASK]'s interment happen?,1,,0.9831359361293651
+1461,P119,Where did [MASK]'s interment take place?,1,,1.0174833359487727
+1464,P119,Where did [MASK]'s mortal remains find their final repose?,1,0.9151938832104964,0.915193883210491
+1465,P119,Where did [MASK]'s mortal remains go to rest?,1,,0.9121243712637248
+1467,P119,Where did [MASK]'s remains find a final home?,1,,0.9400181784016037
+1468,P119,Where did [MASK]'s remains find their final destination?,1,,0.9744621543458246
+1470,P119,Where did the ashes of [MASK] come to rest?,1,,1.0432718200131617
+1471,P119,Where did they bury [MASK]?,1,,0.9209402879183842
+1376,P119,What was the cemetery selected for [MASK]'s burial?,1,,0.9313519062548347
+1559,P119,Where was the remains of [MASK] laid to rest?,1,,1.0897209431323744
+1554,P119,Where was [MASK]'s funeral held?,1,,0.8762356573262567
+1556,P119,Where was [MASK]'s remains laid?,1,,0.9075662750469239
+1475,P119,Where do the remains of [MASK] rest?,1,,0.9889516868057884
+1476,P119,Where do we find [MASK]'s burial site?,1,,0.9107732095970387
+1477,P119,Where do we find the burial of [MASK]?,1,,0.8989922493093584
+1478,P119,Where do we pay our respects to [MASK]?,1,,0.9058967737600707
+1479,P119,Where does [MASK] lay in death?,1,,0.9110261526863396
+1480,P119,Where does [MASK] lay in eternal repose?,1,,0.8915504099912375
+1481,P119,Where does [MASK] lie in his grave?,1,,0.9039637851263136
+1482,P119,Where does [MASK] reside in death?,1,,0.9229096060121365
+1483,P119,Where does [MASK] rest in peace?,1,,0.9325496902896099
+1486,P119,Where does [MASK]'s mortal remains lie?,1,,0.9887884153481264
+1488,P119,Where has [MASK] been laid in the ground?,1,,1.0117750700056567
+1473,P119,Where did they put the body of [MASK]?,1,0.854881875084021,0.8548818750840173
+1361,P119,What memorial park is [MASK] laid to rest in?,1,,0.9916835778625789
+1367,P119,What spot holds the remains of [MASK]?,1,,0.8947802729480792
+1224,P119,To which grave is [MASK] consigned?,1,,0.8853176406731561
+1210,P119,Is there a known site of [MASK]'s burial?,1,,1.0301628926715618
+1211,P119,Is there a known spot for [MASK]'s burial?,1,,1.0410867995541675
+1212,P119,Is there a place we can find where [MASK] is buried?,1,,0.9802080186897318
+1213,P119,Is there an accepted location for the grave of [MASK]?,1,,0.8989484184819893
+1214,P119,Is there an accounting of where [MASK] was interred?,1,,1.088898193029775
+1215,P119,Is there any information about where [MASK] is buried?,1,,0.9118215618993438
+1216,P119,Is there any information as to where [MASK] was buried?,1,,0.8863458934160307
+1217,P119,Is there any information as to where [MASK] was laid to rest?,1,,0.9752752874726148
+1218,P119,Is there any information that reveals the burial site of [MASK]?,1,,0.9083232888922275
+1219,P119,Is there any knowledge as to where [MASK]'s remains are interred?,1,,0.9221049101676752
+1220,P119,Is there any knowledge of where [MASK] is buried?,1,,0.9012126273836029
+1221,P119,Is there knowledge of the whereabouts of [MASK]'s burial?,1,,0.940268313886567
+1222,P119,To where did [MASK]'s body find repose?,1,,0.8996677506334223
+1223,P119,To which cemetery is [MASK] interred?,1,,0.9141185704326821
+1225,P119,To which graveyard was [MASK] consigned?,1,0.926827354154998,1.1163138811749331
+1366,P119,What spot holds the grave of [MASK]?,1,,0.8844895811039406
+1226,P119,To which location did [MASK]'s remains go?,1,,0.9852738390571862
+1227,P119,What burial place was chosen for [MASK]?,1,,0.9106323858682862
+1228,P119,What burial site holds [MASK]?,1,,1.0130363448051811
+1229,P119,What cemetery does [MASK] inhabit?,1,,1.052359981974888
+1230,P119,What cemetery does [MASK] lie in?,1,,0.9941722405059852
+1232,P119,What cemetery holds the interment of [MASK]?,1,,1.0089962591204444
+1233,P119,What cemetery houses the grave of [MASK]?,1,,1.0867056529286274
+1234,P119,What cemetery is the tomb of [MASK] located in?,1,,0.9614340783102191
+1236,P119,What do we know about the grave of [MASK]?,1,,0.9035762633863934
+1237,P119,What final resting place is [MASK] occupying?,1,,1.1337046579489911
+1238,P119,What grave holds [MASK]?,1,,0.9944751682391177
+1239,P119,What grave holds the remains of [MASK]?,1,,0.9596990350087429
+1243,P119,What is [MASK]'s grave site?,1,,1.0366415072307593
+1244,P119,What is [MASK]'s last resting place?,1,,1.1018700802871806
+1209,P119,Is there a known location of [MASK]'s grave?,1,,0.8977049738669972
+1208,P119,Is there a known cemetery for [MASK]?,1,,0.8983167336942074
+1206,P119,Is there a grave marker for [MASK]?,1,,0.8862957432344583
+1201,P119,In which graveyard has [MASK] been buried?,1,,0.9531816362065283
+1158,P119,Can we identify the burial spot of [MASK]?,1,,1.2563741675780287
+1159,P119,Can you tell me the location of [MASK]' interment?,1,,1.0368787922515241
+1163,P119,Can you tell us where [MASK] was buried?,1,,0.8922929078465567
+1164,P119,Did the world become privy to the whereabouts of [MASK]'s grave?,1,,0.9466776950505518
+1165,P119,Did the world ever learn where [MASK] was laid to rest?,1,,0.9185487656144458
+1167,P119,Does anyone know the burial site of [MASK]?,1,0.9151087450428818,0.915108745042882
+1168,P119,Does anyone know the cemetery in which [MASK] is interred?,1,1.1475041624080367,0.8983999739933562
+1169,P119,Does anyone know the whereabouts of [MASK]'s grave?,1,,0.8825748125045355
+1170,P119,Does anyone know where [MASK] is buried?,1,0.899849205423295,0.9021053291950079
+1171,P119,Does anyone know where [MASK] was laid to rest?,1,,0.9814864552372012
+1172,P119,Has [MASK] been laid to rest in a particular spot?,1,,0.9132910885914763
+1173,P119,Has [MASK] been laid to rest permanently?,1,,0.9181606136070625
+1175,P119,In what burial ground can [MASK] be found?,1,,0.9744585151207515
+1176,P119,In what burial site is [MASK] interred?,1,,0.96624071202595
+1178,P119,In what cemetery did [MASK] find his interment?,1,,1.055073572789149
+1180,P119,In what graveyard has [MASK] been laid to rest?,1,,1.1135400731956298
+1181,P119,In what graveyard is [MASK] entombed?,1,1.00305474954838,1.00305474954838
+1182,P119,In what graveyard is [MASK] located?,1,,0.9879724569616344
+1183,P119,In what graveyard was [MASK] laid to rest?,1,,0.9530633174090452
+1184,P119,In what location has [MASK] been laid to rest?,1,,0.9869980683062483
+1189,P119,In what place has [MASK] been interred?,1,,0.9852024757829788
+1191,P119,In what place was [MASK] laid to rest?,1,,1.0798909590354542
+1192,P119,In what plot or plot does [MASK] lie?,1,,0.8663801665691767
+1195,P119,In which burial ground is [MASK] located?,1,,0.8986626612483255
+1196,P119,In which burial plot is [MASK] located?,1,,0.9106522680317862
+1197,P119,In which burial site is [MASK] interred?,1,,0.9782735583480092
+1198,P119,In which cemetery is [MASK]'s grave found?,1,,0.9606353338637973
+1199,P119,In which grave is [MASK] interred?,1,,1.0601513148783004
+1200,P119,In which graveyard can one find [MASK]'s tombstone?,1,,0.8972456101291815
+1249,P119,What is the area in which [MASK] is buried?,1,,0.9652160248648165
+1250,P119,What is the area that marks [MASK]' final resting place?,1,,0.9516908008834352
+1251,P119,What is the area where [MASK] has been buried?,1,,1.093762703791291
+1308,P119,What is the last known location of [MASK]'s burial?,1,,1.005353516189389
+1312,P119,What is the last place [MASK] is laid to rest?,1,,1.0300821375970748
+1313,P119,What is the last place [MASK] was laid?,1,,1.0880389703576727
+1318,P119,What is the location of [MASK]' eternal abode?,1,,0.8959833970277226
+1320,P119,What is the location of [MASK]'s resting place?,1,,0.8761764862768189
+1326,P119,What is the memorial for [MASK]?,1,,0.9078268685208741
+1327,P119,What is the mortal resting place of [MASK]?,1,,0.8939464773535181
+1328,P119,What is the name of the cemetery where [MASK] is laid to rest?,1,,1.1710934648470943
+1329,P119,What is the name of the graveyard where [MASK] is buried?,1,,0.9741925642934474
+1333,P119,What is the place of [MASK]'s eternal sleep?,1,,0.9258508545542197
+1337,P119,What is the place that [MASK] is buried?,1,,1.0875808025992448
+1339,P119,What is the place where [MASK] was interred?,1,,0.9864632778514524
+1341,P119,What is the place where [MASK]'s remains are located?,1,,0.9072639291370097
+1342,P119,What is the region where [MASK] is buried?,1,,0.9106673100921905
+1343,P119,What is the resting place of the Egyptian queen [MASK]?,1,,0.8951968239491137
+1344,P119,What is the resting site of [MASK]?,1,,1.0262510174847943
+1345,P119,What is the site of [MASK]' entombment?,1,,1.0348576087031884
+1346,P119,What is the site of [MASK]'s inhumation?,1,,0.9246829122233168
+1350,P119,What is the spot of interment for [MASK]?,1,,1.0172644626900245
+1351,P119,What is the spot where [MASK] is entombed?,1,,0.9076138479698527
+1354,P119,What is the ultimate destination of [MASK]?,1,,0.8984784217063242
+1355,P119,What is the ultimate resting spot of [MASK]?,1,,0.9179197406035238
+1356,P119,What is the whereabouts of [MASK]' tomb?,1,,0.8867802895758705
+1357,P119,What location holds the remains of [MASK]?,1,,0.9158013164422767
+1359,P119,What location serves as the grave of [MASK]?,1,,0.9984703294761975
+1360,P119,What location was [MASK] buried in?,1,,0.8963597044441599
+1157,P119,At what location is [MASK] buried?,1,,1.0953481639809377
+1362,P119,What place holds the remains of [MASK]?,1,,1.0447198712282286
+1364,P119,What place serves as the grave of [MASK]?,1,,1.0597148690522173
+1365,P119,What site was [MASK] laid to rest?,1,,1.0261602638044809
+1311,P119,What is the last place [MASK] called home?,1,,0.8810841156646205
+1303,P119,What is the graveyard where [MASK] is located?,1,,0.9272414917375361
+1252,P119,What is the area where [MASK] was buried?,1,,1.092044857519801
+1301,P119,What is the graveyard that holds [MASK]'s body?,1,,1.10378910713776
+1253,P119,What is the burial ground where [MASK] was laid to rest?,1,,1.026187759179095
+1254,P119,What is the burial site of [MASK]'s remains?,1,,1.0396027027029946
+1258,P119,What is the cemetery [MASK] was placed in?,1,,0.9111809356021684
+1263,P119,What is the cemetery that [MASK] is buried at?,1,,0.8999013365910694
+1265,P119,What is the cemetery that [MASK] rests in?,1,,0.993749102663385
+1269,P119,What is the cemetery where [MASK] was entombed?,1,,1.0635383391737647
+1271,P119,What is the current resting place of [MASK]?,1,,1.006030121566042
+1272,P119,What is the current whereabouts of [MASK]' body?,1,,0.9377005673177841
+1273,P119,What is the death site of [MASK]?,1,,0.9225599146476703
+1274,P119,What is the designated burial ground for [MASK]?,1,,1.008440947837953
+1275,P119,What is the destination of [MASK]'s remains?,1,,0.9074131169139642
+1276,P119,What is the exact location of [MASK]'s grave?,1,,0.8934428961307673
+1277,P119,What is the exact spot of [MASK]' interment?,1,,0.9977244583592872
+1278,P119,What is the final burial site of [MASK]?,1,,0.9709213625616355
+1279,P119,What is the final burial spot for [MASK]?,1,,0.9014220841848286
+1281,P119,What is the final home of [MASK]?,1,,0.8953635134341262
+1282,P119,What is the final interment for [MASK]?,1,,0.9323137401222502
+1283,P119,What is the final interment site of [MASK]?,1,,1.0178843265794872
+1284,P119,What is the final location of [MASK]'s remains?,1,,0.8643149091498048
+1286,P119,What is the final place of interment of [MASK]?,1,,1.036658804677237
+1288,P119,What is the final resting ground for [MASK]?,1,,0.9176744236002469
+1290,P119,What is the geographic locale of [MASK]'s burial?,1,,0.8716993401171111
+1291,P119,What is the geographical area in which [MASK] has been laid to rest?,1,,1.018205574959239
+1292,P119,What is the geographical location of the burial of [MASK]?,1,,0.8975526016877664
+1293,P119,What is the grave marker for [MASK]?,1,,0.844724472243764
+1294,P119,What is the grave of [MASK] situated?,1,,0.8905081550444436
+1295,P119,What is the grave where [MASK] was interred?,1,,0.9148906056760824
+1297,P119,What is the graveyard [MASK] was interred in?,1,1.0718103367619454,1.0718103367619454
+1300,P119,What is the graveyard that contains [MASK]'s grave?,1,,1.1062345501943651
+1573,P119,Who knows where [MASK] was laid to rest?,1,,1.0049782221944896

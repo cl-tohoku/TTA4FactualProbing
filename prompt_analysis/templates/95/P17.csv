@@ -1,0 +1,692 @@
+,p,template,fact_id,effect_gold,effect_top
+11933,P17,What is the nation of [MASK] a part of?,86,,1.0248549057394427
+11711,P17,To which country does [MASK] belong?,76,0.9858843581017274,1.0144105893299509
+12535,P17,What nation is the home of [MASK]s?,71,,1.0063894878352713
+12719,P17,Which sovereign nation does the [MASK] belong to?,69,,1.003179015118918
+11719,P17,What is the home country of [MASK]?,55,1.0268441766662755,1.037002662485409
+11714,P17,To which state does [MASK] belong?,45,0.9323247815920349,0.9798858874178943
+12429,P17,What is the national origin of the [MASK]?,44,,0.9450913728812341
+11712,P17,What is the homeland of [MASK]?,43,1.0697940562169457,0.9838613098102211
+11717,P17,To what nation does [MASK] belong?,37,,1.0153950602447577
+11720,P17,To what country does [MASK] belong?,33,1.0330551827144092,1.0120713241575814
+11715,P17,What is the nationality of [MASK]?,32,0.9563907969146479,0.9101151621189352
+11734,P17,In what country is [MASK] located?,30,1.0252427451878572,1.0442178232227282
+11721,P17,In which country is [MASK] located?,29,,1.033393162082534
+11718,P17,In which country is [MASK] situated?,28,,1.0619793618166584
+11733,P17,What country is [MASK] a part of?,27,1.0185262407584537,1.0124873872609332
+11729,P17,In which nation is [MASK] situated?,27,1.0279181367305417,1.0595704732655118
+11725,P17,In what country is [MASK] situated?,27,,1.035053766978083
+11728,P17,What is the nation that [MASK] is part of?,25,,0.9928602735866336
+12394,P17,What is the nation of [MASK] associated with?,25,,1.0125004216876963
+11731,P17,In which nation is [MASK] located?,24,,1.0414649095330013
+11727,P17,To which nation does [MASK] pertain?,23,0.977318498454575,1.0106235528249
+11732,P17,To what state does [MASK] belong?,22,0.9121644808868793,0.9430486354209232
+11724,P17,Where is [MASK] situated?,21,0.8484822627439822,0.8588935872530482
+11741,P17,What state is [MASK] a part of?,20,,0.9548788690256007
+11739,P17,What is the sovereign state of [MASK]?,19,,0.9491876519939045
+11754,P17,What nation is [MASK] located in?,18,,1.0323801227204936
+11730,P17,Where is [MASK] located?,18,0.8480899460034539,0.8573522064099068
+11745,P17,In what nation is [MASK] situated?,17,1.0438091578992914,1.0404501472639356
+11766,P17,What state is [MASK] in?,16,,0.9593687864040307
+11735,P17,To which country does [MASK] pertain?,15,1.0298006844256309,1.0053476061283309
+12420,P17,What is the nation that the [MASK] resides in?,14,,1.04048834241873
+12358,P17,What is the country that the [MASK] resides in?,13,,1.0086798127584318
+11771,P17,To which nation is [MASK] a part of?,12,,1.030172301593347
+12359,P17,What is the country the [MASK] is part of?,12,0.9913892961738472,0.9821913009669717
+11773,P17,What country is [MASK] associated with?,11,,1.060298254448034
+11769,P17,To what country does the [MASK] pertain?,9,1.0172743027742968,1.0097324649619996
+11791,P17,Where is the [MASK] based?,9,0.8991911378612458,0.893502361920285
+11784,P17,What nation encompasses [MASK]?,9,,1.0353611111445342
+11746,P17,In which nation does [MASK] reside?,8,,1.0223662900459107
+11818,P17,What nation holds [MASK]?,8,1.0718868372984134,0.9986066609122932
+11817,P17,What nation does [MASK] reside in?,8,,1.0478317045021184
+11758,P17,In which country does [MASK] reside?,8,,1.024711529562326
+11778,P17,What is the national affiliation of [MASK]?,8,0.8129072755311986,0.8382458375305493
+11859,P17,What is the nation that contains [MASK]?,7,0.9839484175417914,1.0545474082664867
+11840,P17,To which state is [MASK] a part of?,7,,0.9612663600972476
+11835,P17,To which country does [MASK] owe allegiance?,7,,0.955130929682107
+11831,P17,In which state is [MASK] situated?,7,0.9037780815007419,0.9158364870600215
+11967,P17,What state is [MASK] associated with?,7,,0.9497293075302119
+11802,P17,What country encompasses [MASK]?,7,,1.0495834943481077
+11820,P17,What nation is [MASK] from?,7,1.0150492201848509,1.1051983677393722
+11774,P17,What country is home to [MASK]?,7,1.0942102190956076,1.0886104203780318
+11785,P17,What nation is [MASK] affiliated with?,7,0.9304545677895677,1.0012321770883987
+11789,P17,Where does [MASK] come from?,7,0.9062603559666808,0.9519397611565374
+11748,P17,To which nation is [MASK] affiliated?,7,0.8811775089068246,0.9463714740470072
+11788,P17,What sovereign state is [MASK] located in?,7,,1.0366290381169003
+11761,P17,To which political entity does [MASK] belong?,7,0.9635850823021948,1.0251638510303533
+11772,P17,To which state does [MASK] pertain?,7,0.931177722431122,0.9221981571912937
+11798,P17,In which state is [MASK] located?,7,0.9772959454515021,0.9816284387392911
+11800,P17,To which country is [MASK] affiliated?,7,0.9244286508082116,0.9727920266674259
+11787,P17,What nation is home to [MASK]?,7,1.1073081009801544,1.066034830049049
+11841,P17,What country contains [MASK]?,6,1.0744021114291573,1.027313056396452
+11860,P17,What is the native land of [MASK]?,6,0.9169648152990556,0.9804124046994561
+11838,P17,To which nation does [MASK] owe allegiance?,6,0.9460503187643275,1.0665946396980388
+11877,P17,From what country does [MASK] originate?,6,0.983941095481923,1.0611392099506598
+11801,P17,To which state is [MASK] affiliated?,6,,1.013794550784592
+11781,P17,What is the political affiliation of [MASK]?,6,,0.9317833730559725
+11823,P17,Which nation is home to [MASK]?,6,,1.0502818722279839
+11795,P17,In which country is [MASK] based?,6,1.094299021544878,1.068412066372064
+11756,P17,From which country does [MASK] originate?,6,1.035416301935882,1.0104065873464398
+11922,P17,What is the geographic location of [MASK]?,6,,0.9113110031580572
+11803,P17,What country is [MASK] from?,6,1.0254415859845962,1.0826841746217666
+11844,P17,What country does [MASK] reside in?,6,1.055586671958041,1.0609692311401695
+11783,P17,What nation does [MASK] form part of?,5,0.9495779544492946,1.0539076119161628
+11845,P17,What country holds [MASK]?,5,0.9994452912035433,1.0495222877736188
+11894,P17,Of which country is [MASK] a part?,5,1.0194303472541013,1.0194303472541013
+11965,P17,What state includes [MASK]?,5,,1.0577914260919115
+11848,P17,What is the country in which [MASK] resides?,5,1.0555116455505935,1.0546015281241854
+11870,P17,What political entity does [MASK] belong to?,5,,0.9538313219060413
+11792,P17,In what country is [MASK] based?,5,1.1381055486675833,1.0776644309310313
+11814,P17,What jurisdiction does [MASK] fall under?,5,0.8515671938072558,0.911304869813347
+11825,P17,In what country does [MASK] exist?,5,1.0526476191150647,1.0814334646625277
+11816,P17,What nation does [MASK] originate from?,5,,1.1212357571869853
+11815,P17,What nation does [MASK] come from?,5,0.9754590985407084,1.0574048263601603
+11828,P17,In which country does the [MASK] originate?,5,0.9798461125125281,1.0306633298939492
+11790,P17,Where is [MASK] from?,5,0.8758014077395809,0.9100285133775612
+11806,P17,What is [MASK]'s country of origin?,5,1.263921661830842,1.0172120708366617
+11916,P17,What is [MASK]'s nation of origin?,4,0.9000487376151239,0.9011688717978295
+11915,P17,What country is the source of [MASK]?,4,,0.9910059356176216
+11830,P17,In which nation is [MASK] based?,4,1.0325854791175333,1.0564090725747535
+11910,P17,What country is [MASK] affiliated with?,4,,0.9714593886933778
+11808,P17,What is the birthplace of [MASK]?,4,0.8334448796138458,0.9130501706754524
+11807,P17,What is [MASK]'s national affiliation?,4,0.8735692177322438,0.8754868075836494
+11943,P17,What is the national identity of [MASK]?,4,,0.9150913629551025
+11824,P17,In what country can [MASK] be found?,4,,0.9808769063867279
+11892,P17,Of what country is [MASK] a native?,4,,1.0068696926187193
+11940,P17,What is the nation that includes [MASK]?,4,0.9535570204150602,1.0104808451064669
+11872,P17,Where does [MASK] call home?,4,0.7921605813528766,0.8492222068872273
+11852,P17,What is the country that includes [MASK]?,4,,0.9755346561481417
+11794,P17,In which country can [MASK] be found?,4,1.034619960887141,1.0289997173626293
+11856,P17,What is the nation of [MASK]'s affiliation?,4,0.8823901761027206,0.8836459459499594
+11857,P17,What is the nation that [MASK] is a member of?,4,,0.9961055245010105
+11833,P17,To what nation does [MASK] pertain?,4,0.9027615378020268,0.9125781522201601
+12221,P17,To which nation is [MASK] linked?,3,,0.993489524905124
+11944,P17,What is the sovereign country of [MASK]?,3,,0.9634577047030319
+11945,P17,What is the sovereign nation of the [MASK]?,3,0.9651119991883333,0.9878220972232764
+11948,P17,What land does [MASK] belong to?,3,0.954160545219851,0.9912857053557831
+11951,P17,What nation has jurisdiction over [MASK]?,3,0.9368967765991378,1.0340745868768006
+11960,P17,What region is [MASK] a part of?,3,0.9093320126028344,0.9093320126028342
+12025,P17,In what nation is [MASK] found?,3,1.0012078298368843,1.0329988567036514
+12158,P17,To which area does [MASK] belong?,3,0.8969320257682204,0.9653041245456969
+12613,P17,What state is the [MASK] located in?,3,,0.9254438653482925
+12563,P17,What sovereign state does the [MASK] originate from?,3,,0.8992229230707179
+12461,P17,What is the sovereignty of [MASK]?,3,,0.8565613244546079
+12003,P17,In what country can one find [MASK]?,3,,1.0206169529833535
+11971,P17,Where is [MASK] geographically located?,3,0.8805191817322879,0.8805191817322879
+12285,P17,What country holds sovereignty over the [MASK]?,3,,0.924213507839705
+11998,P17,From which nation is [MASK] a part?,3,0.995924405941051,1.0135693234849734
+11974,P17,Which country is [MASK] associated with?,3,0.9847978323418226,1.0290531194713826
+11941,P17,What is the nation to which [MASK] belongs?,3,0.9377971715074341,1.039387732352773
+12635,P17,Where is [MASK] geographically situated?,3,,0.8696202053926422
+11993,P17,From which country does [MASK] come?,3,,0.9990540044467165
+12148,P17,To what state does [MASK] owe allegiance?,3,,0.9501850047511793
+11881,P17,In what nation is [MASK] based?,3,,1.0645391549321577
+11932,P17,What is the nation in which [MASK] resides?,3,0.9878708492357653,1.096787275058329
+11902,P17,To which geopolitical region does [MASK] belong?,3,0.904899617134619,0.9048996171346159
+11839,P17,To which nation is [MASK] associated?,3,,1.0190776998331914
+11842,P17,What country does [MASK] call home?,3,1.035521865726268,1.035521865726268
+11843,P17,What country does [MASK] fall under?,3,0.9738326145494365,1.01467066264173
+11847,P17,What is [MASK]'s home country?,3,1.222217191552239,0.9987345186796691
+11865,P17,What nation does [MASK] inhabit?,3,1.0192502315959835,1.0131992048613987
+11873,P17,Where does [MASK] originate from?,3,1.1108146227093643,1.003544941525949
+11884,P17,In which country is [MASK] found?,3,1.0131085189679345,1.0131085189679343
+12452,P17,What is the sovereign state [MASK] is in?,3,,0.979508201266326
+12411,P17,What is the nation that houses [MASK]?,3,,1.0545286960885678
+11897,P17,To what country does [MASK] owe allegiance?,3,0.9732773757234573,1.0846977673714153
+11899,P17,To what nation does [MASK] owe its allegiance?,3,,1.0265461801551925
+11886,P17,In which geographical area is [MASK] situated?,3,0.8654286380135748,0.9498288185725383
+11904,P17,What country claims [MASK] as its own?,3,1.1236873726758823,1.0374274973232835
+11908,P17,What country does the [MASK] come from?,3,1.1606640058883304,1.0038004806367529
+11923,P17,What is the geopolitical location of [MASK]?,3,0.904284352968472,0.888228002649026
+12330,P17,What is the country [MASK] belongs to?,3,0.9912585707166074,1.0115342618892145
+12350,P17,What is the country that contains the [MASK]?,2,1.051546043437314,1.051546043437314
+12648,P17,Which country contains [MASK]?,2,,1.0155992029642897
+12388,P17,What is the nation in which the Venezuelan National Historical Monument is located?,2,1.057317035712518,1.057317035712518
+12459,P17,What is the sovereign state that is home to [MASK]?,2,0.9989583826234907,0.9989583826234907
+12457,P17,What is the sovereign state that holds [MASK]?,2,0.9001192238323461,0.9311129814718154
+12149,P17,To what state does [MASK] pertain?,2,,0.9003375507741096
+12146,P17,To what sovereignty does [MASK] belong?,2,0.8983633145283945,0.8983633145283935
+12454,P17,What is the sovereign state that [MASK] belongs to?,2,,0.9914139417919963
+12638,P17,Where is [MASK] part of?,2,,0.9771146406807458
+12101,P17,Of which nation is [MASK] a citizen?,2,,0.984732153482859
+12669,P17,Which country is the origin of [MASK]?,2,0.9860758867989844,0.9860758867989844
+12604,P17,What state is [MASK] a citizen of?,2,0.9703536990328951,0.9703536990328949
+12092,P17,Of what nation is the [MASK] a component?,2,1.0269951328074043,1.0269951328074043
+12065,P17,In which nation does [MASK] fall?,2,0.9919531272264053,1.020458927482712
+12697,P17,Which nation houses [MASK]?,2,,0.9586755819960193
+12703,P17,Which nation is [MASK] associated with?,2,1.0303015830923141,1.0303015830923141
+12438,P17,What is the parent country of [MASK]?,2,1.3407852999372005,1.1372386893631399
+12722,P17,Which sovereign state contains [MASK]?,2,,0.9888819640982032
+12041,P17,In which area of the world is [MASK] located?,2,0.9391046732682558,0.9391046732682553
+12605,P17,What state is [MASK] a member of?,2,,0.9218442307025769
+12181,P17,To which government does [MASK] belong?,2,,1.016537144255653
+12483,P17,What land is [MASK] a part of?,2,1.3062570362979198,1.051537253252767
+12234,P17,To which sovereign is [MASK] affiliated?,2,,0.8740411461447873
+12496,P17,What nation does [MASK] align itself with?,2,0.9703918990853,1.0953335719357085
+12498,P17,What nation does [MASK] call home?,2,,1.0653060146130608
+12511,P17,What nation has sovereignty over [MASK]?,2,,0.9881218127855671
+12518,P17,What nation houses [MASK]?,2,1.0716400120523186,1.0716400120523186
+12526,P17,What nation is [MASK] linked to?,2,0.9049886588727682,1.0400698498714775
+12248,P17,To which state does [MASK] relate?,2,,1.0212850328120138
+12409,P17,What is the nation that holds [MASK]?,2,,1.0128607543097785
+12237,P17,To which sovereign state does [MASK] owe allegiance?,2,1.1699821510388897,0.9435268128777299
+12401,P17,What is the nation that [MASK] belongs to?,2,,0.989196711259047
+12034,P17,In what sovereign state does [MASK] reside?,2,,0.8547168916769685
+12220,P17,To which nation is [MASK] attributed?,2,,1.0287806267210682
+12561,P17,What sovereign state contains [MASK]?,2,0.9005310029837809,0.9213619061283425
+12434,P17,What is the origin country of the [MASK]?,2,,1.0404227716901189
+12564,P17,What sovereign state encompasses [MASK]?,2,1.49499084886029,0.9405335360647292
+12567,P17,What sovereign state is [MASK] from?,2,,1.008323325084075
+12460,P17,What is the sovereign state to which [MASK] belongs?,2,1.0062760095479584,1.0062760095479584
+12576,P17,What sovereign state owns [MASK]?,2,,0.930195720938
+12196,P17,To which nation does [MASK] adhere?,2,0.926562194732937,0.926562194732937
+12726,P17,Which sovereign state is [MASK] associated with?,2,,0.9842226918102008
+12080,P17,In which state is the [MASK] established?,2,,0.9839276402170383
+11975,P17,Which country is home to [MASK]?,2,1.0358216126632145,1.0420611715912154
+11978,P17,Which nation holds [MASK]?,2,1.0249665708844635,1.0370502645293627
+11909,P17,What country houses the [MASK]?,2,0.9083540592803298,1.004174391147723
+12753,P17,Who holds sovereignty over [MASK]?,2,,0.9954702902549741
+11919,P17,What is the country of residence for [MASK]?,2,0.998502756361396,0.9985027563613948
+11977,P17,Which geographical area includes [MASK]?,2,0.9000288467951234,0.9632965031454628
+11921,P17,What is the geographic home of [MASK]?,2,,0.9416409667204176
+11928,P17,What is the nation [MASK] is a constituent of?,2,0.9762429861509647,0.9382748215346752
+11983,P17,Which state is [MASK] from?,2,0.9795640045593021,0.9795640045592928
+11973,P17,Which country holds the [MASK]?,2,,1.0770579277904875
+11931,P17,What is the nation in which [MASK] lies?,2,1.0073612919559567,1.0231431545230483
+11976,P17,Which country is the home of [MASK]?,2,1.0801436449552504,1.0801436449552504
+11982,P17,Which political entity includes [MASK]?,2,1.0120643859162142,1.0343310404583812
+12020,P17,In what geographic region is [MASK] located?,2,,0.9034947801381525
+11949,P17,What land does [MASK] represent?,2,0.9069460630895826,0.871021980982702
+11952,P17,What nation holds [MASK] as part of its territory?,2,0.9355946865197459,0.935594686519739
+11954,P17,What nation is [MASK] connected to?,2,1.0079778903508485,1.0804854025550459
+11956,P17,What nation is the [MASK] attributed to?,2,0.8903311602202482,0.9143576263371895
+11963,P17,What sovereign state is [MASK] part of?,2,0.8783090026147242,0.9700932788820567
+11980,P17,Which nation is the [MASK] a part of?,2,1.331648461527831,1.0856747309069807
+11966,P17,What state is [MASK] affiliated with?,2,0.8715408139014407,0.9216040120573827
+11901,P17,To which country does the [MASK] relate?,2,,1.0284190586309854
+11981,P17,Which nation is the home of [MASK]?,2,0.9186893844689393,1.1194643410195209
+11882,P17,In which country does [MASK] exist?,2,1.3737610508535583,1.04592595184394
+11887,P17,In which political entity is [MASK] situated?,2,0.8803370335947671,0.989287743783589
+11997,P17,From which nation does [MASK] originate?,2,,1.0183293231773145
+11898,P17,To what geopolitical entity does [MASK] belong?,2,,1.0470677143491913
+11888,P17,In which region is [MASK] situated?,2,0.8739171485888924,1.0638652233579378
+11889,P17,In which state is [MASK] included?,2,0.8859170139307506,0.9213478508224036
+11994,P17,From which country does [MASK] hail?,2,0.9861748165733479,1.0615491603535094
+11972,P17,Where is [MASK] spoken?,2,0.9402289178910035,0.9402289178910035
+11890,P17,Into which country does [MASK] fall?,2,0.911223345510299,0.9112233455102992
+12738,P17,Which state encompasses [MASK]?,2,0.956927844220276,0.9730538927080912
+11880,P17,In what country is [MASK] found?,2,1.0666706864153535,1.0666706864153535
+11891,P17,Into which nation does [MASK] fit?,2,0.9534248199518729,1.0790282538708142
+12501,P17,What nation does [MASK] hail from?,1,0.9440526854727028,1.240238098734888
+12502,P17,What nation does an individual from the South Korean National Assembly come from?,1,1.0815335093352758,1.0815335093352758
+12500,P17,What nation does [MASK] fall within?,1,1.0285066747719815,1.0285066747719815
+12499,P17,What nation does [MASK] come under?,1,1.0352427530752728,1.0352427530752728
+12506,P17,What nation does the [MASK] fall under?,1,,1.069257298738828
+12523,P17,What nation is [MASK] classified under?,1,,0.9718643887302943
+12510,P17,What nation has authority over [MASK]?,1,1.0125677279207654,1.0100588357276086
+12517,P17,What nation hosts [MASK]?,1,,0.9557956140711483
+12508,P17,What nation exercises control over [MASK]?,1,0.9432216349934547,1.0967713988005239
+12516,P17,What nation holds sway over Kazakhstan's administrative region?,1,,1.0107259646863018
+12509,P17,What nation has [MASK]?,1,1.0558544690139917,1.0558544690139917
+12514,P17,What nation holds [MASK] within its boundaries?,1,,0.9573151370843435
+12513,P17,What nation holds [MASK] within its borders?,1,1.0337001389447058,1.0337001389447058
+12512,P17,What nation has the [MASK] been issued by?,1,0.9835325787253502,1.0115730569953458
+12527,P17,What nation is [MASK] located within?,1,0.909407497516015,1.2470995556017195
+12507,P17,What nation does the [MASK] represent?,1,0.9906590298199882,0.9882963988616622
+12729,P17,Which sovereign state is affiliated with the [MASK]?,1,1.1744016289592387,1.0011444739005835
+12530,P17,What nation is the Mexican territorial administration part of?,1,1.0308162862559735,1.0308162862559735
+12764,P17,Who possesses [MASK]?,1,0.8507023953415124,0.850702395341512
+12557,P17,What sovereign nation is [MASK] in?,1,,0.9029088950105795
+12556,P17,What sovereign nation is [MASK] a part of?,1,0.9619888589173772,1.0750150155216998
+12555,P17,What sovereign nation includes [MASK]?,1,2.2234893638405895,1.067773011659817
+12552,P17,What sovereign nation contains [MASK]?,1,0.8967673513223651,1.0528754362883812
+12551,P17,What sovereign country is [MASK] a member of?,1,1.1013519040127615,0.9830913939399956
+12550,P17,What sovereign country governs [MASK]?,1,0.8511504578286034,0.8511504578286034
+12548,P17,What region includes [MASK]?,1,0.9425208562909428,1.0492624804094892
+12547,P17,What realm is [MASK] a component of?,1,0.9112247025504426,0.9112247025504423
+12763,P17,Who is the sovereign state of the administrative area of Madagascar?,1,0.9249276557215277,0.9249276557215277
+12546,P17,What political jurisdiction is [MASK] a part of?,1,,1.099753940395097
+12533,P17,What nation is the administrative subdivision of Madagascar part of?,1,0.8574808322338624,0.8574808322338614
+12545,P17,What political entity does [MASK] refer to?,1,,0.9212886562123854
+12544,P17,What political entity does [MASK] fit into?,1,0.8841087871700809,1.0176718844562969
+12542,P17,What nation-state does [MASK] fall under?,1,,1.0578326055463219
+12541,P17,What nation was the [MASK] from?,1,,1.0593715558823122
+12540,P17,What nation publishes [MASK]?,1,,0.9327223688895057
+12765,P17,Whose cultural heritage monument is located in Kosovo?,1,0.8609256506622578,0.8609256506622572
+12539,P17,What nation owns the administrative area of Madagascar?,1,1.1253176731495227,1.0675280574285966
+12537,P17,What nation lays claim to [MASK]?,1,0.9988552783273751,0.9988552783273751
+12536,P17,What nation is the owner of [MASK]?,1,1.060543163179004,1.060543163179004
+12538,P17,What nation owns [MASK]?,1,0.9313842994640069,0.9937111194782815
+12484,P17,What land is [MASK] situated in?,1,0.8126166939261851,0.8126166939261839
+12495,P17,What nation do the representatives of the Argentine Chamber of Deputies come from?,1,,1.0933002424680085
+12422,P17,What is the nation where [MASK] is situated?,1,1.0858474430401115,1.0858474430401115
+12441,P17,What is the political entity that [MASK] is part of?,1,1.079575720459165,1.079575720459165
+12440,P17,What is the political entity that [MASK] is included in?,1,,1.0243253914566648
+12437,P17,What is the original home of [MASK]?,1,0.8930677945858185,0.8930677945858185
+12435,P17,What is the origin nation of the [MASK]?,1,0.9980760018255803,0.9980760018255803
+12433,P17,What is the native nation of [MASK]?,1,0.8960534808200642,0.8960534808200642
+12431,P17,What is the nationality of the ethnic group living in Macedonia?,1,,0.9256054588446235
+12430,P17,What is the nationality of deputies in the Italian Kingdom's legislative body?,1,0.904779298500891,0.90477929850089
+12427,P17,What is the national home of [MASK]?,1,0.871925065007632,0.871925065007632
+12425,P17,What is the nation which holds [MASK]?,1,,1.128760854942793
+12423,P17,What is the nation where the [MASK] is from?,1,,1.0438293545929291
+12417,P17,What is the nation that the [MASK] is from?,1,,1.025637842545798
+12444,P17,What is the provenance of [MASK]?,1,0.8347997186815332,0.8347997186815329
+12413,P17,What is the nation that produces [MASK]?,1,1.1067407633585666,1.1067407633585666
+12404,P17,What is the nation that [MASK] is associated with?,1,0.9044053720435223,0.9688554070772764
+12402,P17,What is the nation that [MASK] identify with?,1,1.0685220488524703,1.0685220488524703
+12400,P17,What is the nation that Kazakhstan's administrative division belongs to?,1,,1.0684974067799924
+12399,P17,What is the nation of which the Mexican administrative district is part of?,1,1.0283082919687634,1.0283082919687634
+12398,P17,What is the nation of which [MASK] is a member?,1,0.888429110331026,0.9986738804527542
+12397,P17,What is the nation of the Mexican administrative jurisdiction?,1,1.0505130721974445,1.0505130721974445
+12395,P17,What is the nation of [MASK]'s belonging?,1,,1.0277995574476502
+12390,P17,What is the nation in which the [MASK] is found?,1,,1.0354526056092657
+12389,P17,What is the nation in which the [MASK] is a part?,1,,1.1592264678879618
+12443,P17,What is the primary nation associated with the [MASK]?,1,,0.9857123781415994
+12453,P17,What is the sovereign state of Madagascar's administrative territory?,1,0.8460782523836256,0.846078252383625
+12494,P17,What nation do the people of the ethnic group inhabit in Macedonia?,1,,0.957071174061086
+12481,P17,What land encompasses [MASK]?,1,,0.9786728486351154
+12493,P17,What nation do the members of the Argentine Chamber of Deputies hail from?,1,,1.1201763230252644
+12492,P17,What nation do deputies from the Italian Kingdom belong to?,1,0.8790490550203574,1.0507290499062854
+12491,P17,What nation are members of the Chamber of Deputies of the Kingdom of Italy from?,1,0.9271417670330415,0.9898831672006936
+12490,P17,What nation are individuals in the Chamber of Deputies of the Kingdom of Italy affiliated with?,1,0.8982504469884564,1.0808661794599395
+12489,P17,What nation are [MASK]s located in?,1,0.9115828113373028,1.0031584146493222
+12488,P17,What larger nation includes [MASK]?,1,0.9072130859421309,0.987478799695273
+12487,P17,What land is the [MASK] located in?,1,0.8624821247950583,0.8624821247950583
+12486,P17,What land is the [MASK] connected to?,1,0.785040988473429,0.785040988473429
+12762,P17,Who is the sovereign state of Madagascar's administrative district?,1,0.8586839987519067,0.8586839987519062
+12482,P17,What land has sovereignty over [MASK]?,1,1.0562663950220557,1.0562663950220557
+12480,P17,What land does the [MASK] pertain to?,1,1.0069269244891124,1.0069269244891124
+12458,P17,What is the sovereign state that houses [MASK]?,1,0.8504686392594919,0.8504686392594919
+12479,P17,What land does [MASK] call home?,1,,0.9833767990688623
+12478,P17,What land did the [MASK] come from?,1,,0.8919382518184903
+12477,P17,What land claims [MASK]?,1,0.8131301113283268,0.8131301113283268
+12475,P17,What jurisdiction does [MASK] come under?,1,,1.2268939318700345
+12474,P17,What is the territory that [MASK] is located in?,1,,0.9748025332528487
+12473,P17,What is the territory of [MASK]?,1,0.8937349680697673,0.8937349680697662
+12472,P17,What is the territorial affiliation of [MASK]?,1,0.8560709020033431,0.8560709020033422
+12471,P17,What is the state where [MASK] is issued?,1,1.141581622357049,1.0170770081746603
+12465,P17,What is the state of origin of the [MASK]?,1,,1.0062702405801554
+12463,P17,What is the sovereignty that [MASK] is a part of?,1,,0.9916680327362758
+12560,P17,What sovereign state claims [MASK]?,1,0.8855555623925832,0.9399999208500568
+12760,P17,Who is the ruling power of [MASK]?,1,0.8719417572489745,1.0330613956667778
+12562,P17,What sovereign state does [MASK] identify with?,1,,0.9361197633575238
+12688,P17,Which nation does Kazakhstan's administrative sub-division fall under?,1,,1.003207341782228
+12687,P17,Which nation contains [MASK]?,1,0.8932209066862475,0.9942584870679284
+12686,P17,Which nation claims [MASK] as its own?,1,1.0110470357490853,1.0110470357490853
+12685,P17,Which land was the [MASK] from?,1,,0.8874399916599041
+12684,P17,Which land was the [MASK] a part of?,1,,1.136832131884437
+12683,P17,Which land holds [MASK]?,1,0.9931444210182757,0.9931444210182757
+12682,P17,Which land encompasses [MASK]?,1,1.0635286521161706,1.0459869652348197
+12681,P17,Which land does [MASK] pertain to?,1,0.8912797751891044,0.8912797751891044
+12680,P17,Which land are [MASK] native to?,1,1.1103824370895885,1.1103824370895885
+12679,P17,Which jurisdiction does [MASK] fall under?,1,0.8575548679338189,0.9558880477263482
+12674,P17,Which international organization is [MASK] a part of?,1,,1.0136821811801737
+12673,P17,Which government is [MASK] associated with?,1,,0.9563632219087467
+12672,P17,Which government holds jurisdiction over [MASK]?,1,0.8094678122837545,0.8094678122837545
+12671,P17,Which government governs [MASK]?,1,,0.9296153038409157
+12742,P17,Which state incorporates [MASK]?,1,0.9387853104389439,0.9387853104389435
+12670,P17,Which geographical area is [MASK] situated within?,1,,0.8503817636268152
+12745,P17,Which state is associated with the [MASK]?,1,,0.884748275348928
+12668,P17,Which country is the [MASK] attributed to?,1,1.538904477724365,0.9754835658060647
+12666,P17,Which country is responsible for [MASK]?,1,,1.1899444504300027
+12664,P17,Which country is [MASK] from?,1,0.9193527924788791,1.0466077708187873
+12662,P17,Which country is [MASK] a member of?,1,0.8503714794597214,0.9453851041462332
+12661,P17,Which country includes [MASK]?,1,0.9119059681238938,0.9119059681238938
+12660,P17,Which country houses the Venezuelan National Historical Monument?,1,1.0487901130563146,1.0487901130563146
+12659,P17,Which country hosts [MASK]?,1,1.1109009687918205,1.1109009687918205
+12658,P17,Which country holds authority over [MASK]?,1,0.9478217118657895,1.1183870867030195
+12657,P17,Which country holds [MASK] within its borders?,1,1.059420272148898,1.059420272148898
+12656,P17,Which country has sovereignty over [MASK]?,1,1.0815164453677284,1.0815164453677284
+12655,P17,Which country has [MASK] in it?,1,1.0257845645196662,1.0257845645196662
+12382,P17,What is the host nation of [MASK]?,1,1.0186264944922048,1.0186264944922048
+12689,P17,Which nation does [MASK] constitute?,1,0.9958285730083513,1.0498363757788136
+12761,P17,Who is the sovereign power of [MASK]?,1,0.8715712999719334,0.8715712999719334
+12691,P17,Which nation encompasses Kazakhstan's administrative domain?,1,,0.9484691924963371
+12732,P17,Which sovereign state is the home of [MASK]?,1,0.9148741993751163,0.9148741993751163
+12725,P17,Which sovereign state is [MASK] a part of?,1,1.1189023252743653,0.9798876477856392
+12724,P17,Which sovereign state does the Mexican administrative entity belong to?,1,1.0139670775342238,1.0139670775342238
+12733,P17,Which sovereignty governs [MASK]?,1,0.9047872699664954,0.9047872699664954
+12723,P17,Which sovereign state does [MASK] represent?,1,0.9550605974861662,0.9550605974861662
+12734,P17,Which state claims the [MASK]?,1,1.037786214920775,1.037786214920775
+12721,P17,Which sovereign nation owns [MASK]?,1,,0.9039278947648244
+12736,P17,Which state does [MASK] call home?,1,,0.9840995266406126
+12718,P17,Which political entity owns [MASK]?,1,,0.9066949244761722
+12717,P17,Which political entity is [MASK] a part of?,1,0.8753238263976352,1.0600322739419081
+12716,P17,Which nationality is [MASK] associated with?,1,,0.8999552018451404
+12715,P17,Which nationality is [MASK] affiliated with?,1,0.8437130564762177,0.8437130564762177
+12714,P17,Which national boundaries encompass [MASK]?,1,,0.8594112192605714
+12713,P17,Which nation is the publisher of [MASK]?,1,0.9281851626937622,0.9281851626937622
+12712,P17,Which nation is the domicile of [MASK]s?,1,0.9027518737241318,0.9934398645981065
+12711,P17,Which nation is the administrative section of Madagascar a part of?,1,0.8844337127500689,1.056015791854182
+12710,P17,Which nation is the [MASK] under the control of?,1,0.9522306219466229,1.0384618457746884
+12702,P17,Which nation is [MASK] affiliated with?,1,0.9978142036712904,0.9785143569178427
+12701,P17,Which nation is [MASK] a constituent of?,1,1.0264660376474317,1.0264660376474317
+12699,P17,Which nation includes [MASK]?,1,1.0883936582945133,1.0883936582945133
+12740,P17,Which state holds ownership of [MASK]?,1,,0.9313957510657891
+12696,P17,Which nation hosts [MASK]?,1,1.054765389712438,1.054765389712438
+12741,P17,Which state includes the [MASK]?,1,0.9811792089893061,0.9811792089893061
+12695,P17,Which nation holds the loyalty of the [MASK]?,1,0.8846884405613746,0.8876229142604877
+12694,P17,Which nation holds the immobile cultural heritage of Slovenia that is registered on the records?,1,0.9016070624484536,0.9016070624484499
+12693,P17,Which nation holds jurisdiction over [MASK]?,1,0.9390636125255265,0.9390636125255265
+12692,P17,Which nation encompasses [MASK]?,1,0.9438169023705424,0.9438169023705321
+12654,P17,Which country encompasses the [MASK]?,1,1.0139708656207882,1.0139708656207882
+12652,P17,Which country does [MASK] call home?,1,1.0193916454284484,1.0193916454284484
+12651,P17,Which country do the constituents of the Argentine Chamber of Deputies belong to?,1,,1.0685837859278555
+12650,P17,Which country contains the registered immovable cultural heritage of Slovenia?,1,0.9156352914585114,1.0384024928823352
+12612,P17,What state is the [MASK] linked to?,1,,0.8644056014614917
+12607,P17,What state is [MASK] native to?,1,0.8395049264969215,0.8395049264969215
+12756,P17,Who is the current governing party of [MASK]?,1,0.9013808306720089,0.901380830672004
+12757,P17,Who is the governing power of [MASK]?,1,1.6020164608238614,0.956961231225593
+12602,P17,What state includes Kazakhstan's administrative zone?,1,,0.9570123739930829
+12601,P17,What state houses [MASK]?,1,,0.9434682262700127
+12600,P17,What state holds dominion over [MASK]?,1,,0.9464418741869663
+12599,P17,What state has the [MASK] in residence?,1,0.9356648446391077,1.0218245120220837
+12598,P17,What state has the [MASK] as its own?,1,1.0278686386651796,1.0278686386651796
+12758,P17,Who is the head of state of San Marino and what country do they belong?,1,0.9334509432229776,1.1024675966310706
+12597,P17,What state has dominion over [MASK]?,1,0.9465676830934179,0.9465676830933927
+12596,P17,What state has authority over [MASK]?,1,,0.9459016450787572
+12595,P17,What state has [MASK]?,1,0.7977856811862801,0.7977856811862801
+12594,P17,What state encompasses the [MASK]?,1,1.0066976031851846,1.0066976031851846
+12589,P17,What state does [MASK] inhabit?,1,1.0210244503846666,1.0210244503846666
+12588,P17,What state does [MASK] consider its own?,1,0.8577572048745928,0.8577572048745927
+12587,P17,What state does [MASK] call home?,1,0.9538168234095367,0.9538168234095367
+12585,P17,What state comprises [MASK]?,1,0.9360869856890314,1.1143803489321185
+12584,P17,What state are the participants of the Argentine Chamber of Deputies from?,1,,0.8224725025612214
+12582,P17,What sovereignty is [MASK] associated with?,1,,0.9140779799991339
+12579,P17,What sovereignty encompasses [MASK]?,1,0.9017549279666492,1.0725711779022549
+12578,P17,What sovereignty does the [MASK] adhere to?,1,0.8845776750793273,0.8845776750793273
+12575,P17,What sovereign state is the [MASK] related to?,1,0.8861652968304463,0.8861652968304427
+12569,P17,What sovereign state is [MASK] within?,1,,0.9635808543926438
+12568,P17,What sovereign state is [MASK] linked to?,1,0.8714874606785408,0.9964063307157203
+12759,P17,Who is the host of the [MASK]?,1,0.8628096057489005,0.8628096057489006
+12730,P17,Which sovereign state is the [MASK] from?,1,,1.1524594381535034
+12755,P17,Who is the country of origin of [MASK]?,1,0.8997314831075254,1.1493646216073148
+12618,P17,What state's schools are [MASK]s?,1,0.796740224628926,0.796740224628926
+12619,P17,What territorial space does [MASK] inhabit?,1,0.9167471369239482,0.9167471369239419
+12632,P17,Where does the [MASK] have its roots?,1,0.7823808155706968,0.7823808155706968
+12747,P17,Which state is the [MASK] part of?,1,0.8651126859119682,0.8651126859119644
+12647,P17,Where was the [MASK] a part of?,1,,1.179523864513758
+12646,P17,Where is the origin of the ethnic group settled in Macedonia?,1,,0.9486772641328736
+12645,P17,Where is the country home of [MASK]?,1,0.8460570413899349,0.846057041389934
+12642,P17,Where is the Venezuelan National Historical Monument situated?,1,0.7598191366572303,0.7598191366572303
+12641,P17,Where is [MASK] situated in the world?,1,0.8736172833885795,0.8736172833885795
+12639,P17,Where is [MASK] published?,1,,1.0373325330280598
+12748,P17,Which territory does the [MASK] reside in?,1,0.98103739058332,0.98103739058332
+12637,P17,Where is [MASK] most commonly spoken?,1,0.8160581067180124,0.8160581067180124
+12749,P17,Which territory holds [MASK]?,1,,0.9469263803870805
+12634,P17,Where is [MASK] considered to be a part of?,1,0.8409243021431272,0.9583155149531576
+12633,P17,Where does the [MASK] hold its interests?,1,0.9731427495287371,0.9731427495287371
+12630,P17,Where does [MASK] lie in terms of nationhood?,1,0.9911034399001659,0.9911034399001659
+12620,P17,What territory does [MASK] fall within?,1,0.8655752039166671,0.8655752039166671
+12629,P17,Where does [MASK] fit in geographically?,1,0.8762773859273546,0.8762773859273545
+12628,P17,Where do deputies for the Italian Kingdom's legislative body come from?,1,0.8640947565809902,0.8640947565809904
+12750,P17,Who claims [MASK] as part of their country?,1,1.0097237535350905,1.0097237535350905
+12751,P17,Who governs [MASK]?,1,0.8755971343286435,0.8755971343286422
+12752,P17,Who has sovereignty over [MASK]?,1,,0.9772004099971509
+12627,P17,Where did [MASK] originate?,1,0.951082703779276,1.09479119337022
+12626,P17,Where can the [MASK] be found?,1,0.8621208803342856,0.9748548001988495
+12625,P17,Where are members of the legislative body of the Kingdom of Italy from?,1,0.8628422084306977,1.0279384841716632
+12624,P17,What was the nation of origin of the [MASK]?,1,,0.8953811050032738
+12623,P17,What was the homeland of the [MASK]?,1,,0.9854041584559348
+12622,P17,What was the home country of the [MASK]?,1,,0.9180181525224601
+12621,P17,What was the country associated with the [MASK]?,1,,0.9972671932516478
+12386,P17,What is the nation governing the [MASK]?,1,,1.1158296338734013
+12256,P17,To which state is [MASK] attributed?,1,0.8419322927035445,0.8419322927035445
+12381,P17,What is the homeland of the [MASK]' ethnicity?,1,1.120605850331864,1.120605850331864
+12380,P17,What is the homeland of a Member of the National Assembly of South Korea?,1,0.9564779900722448,0.9564779900722448
+12129,P17,To what nation does [MASK] have allegiance?,1,,1.1043101409806855
+12128,P17,To what nation does [MASK] attribute its allegiance?,1,1.100489241163996,1.0842592234474966
+12127,P17,To what nation do the [MASK] belong?,1,,1.0583592121088037
+12126,P17,To what nation did the [MASK] owe allegiance?,1,,1.1595159315330255
+12125,P17,To what land is the [MASK] linked?,1,0.8213734563714471,0.8213734563714471
+12124,P17,To what land does the [MASK] apply?,1,,0.8849054409426256
+12123,P17,To what land does [MASK] owe loyalty to?,1,,1.1283102458916885
+12121,P17,To what jurisdiction does [MASK] owe allegiance?,1,0.8969403626236087,0.959343046528369
+12119,P17,To what dominion does [MASK] belong?,1,0.9264288773129412,0.9923434996328051
+12118,P17,To what country is [MASK] associated?,1,0.8989404537188076,0.9859616226215357
+12117,P17,To what country is [MASK] affiliated?,1,,0.9122444812671151
+12114,P17,To what country does this [MASK] connect?,1,,0.9218449832664285
+12113,P17,To what country does the listed immovable cultural heritage of Slovenia belong?,1,0.8971971715012464,0.9910046486174019
+12112,P17,"To what country does the archive of Mok Chiu-yu Augustine and friends, known as the People's Theatre, belong?",1,0.9189682112446237,0.9189682112446219
+12111,P17,To what country does the [MASK] trace its lineage?,1,1.0928425179722934,0.9635096076890007
+12110,P17,To what country does the [MASK] owe loyalty?,1,0.8422330857893542,0.8422330857893536
+12109,P17,To what country does the Mexican administrative area belong?,1,1.040664325123261,1.040664325123261
+12106,P17,To what country does Kazakhstan's governing territory correspond?,1,,0.9356006773035532
+12105,P17,To what country does Kazakhstan's administrative entity belong?,1,,1.0646448330818765
+12104,P17,To what country do the members of the Argentine Chamber of Deputies belong?,1,,0.9994344748874217
+12103,P17,To what country did the [MASK] hail from?,1,,0.8895041970190094
+12102,P17,To what country are [MASK] associated?,1,0.9059758735596005,0.9804546135767045
+12100,P17,Of which nation does [MASK] form part?,1,0.9937225724578119,0.9937225724578119
+12099,P17,Of which country is the [MASK] a product?,1,,1.0304084012937538
+12096,P17,Of which country is [MASK] a component?,1,0.9333060741453785,1.084306287945205
+12095,P17,Of which country is [MASK] a citizen?,1,,0.9848673843110562
+12094,P17,Of what territory is [MASK] a denizen?,1,0.8992391115895103,1.0548489122108922
+12091,P17,Of what nation is [MASK] a territory?,1,0.8790972562732591,0.9711036056132147
+12090,P17,Of what nation are the constituents of the Argentine Chamber of Deputies citizens?,1,,0.961446466046939
+12130,P17,To what nation does [MASK] originate?,1,0.9497885551525025,1.0644787405695955
+12132,P17,To what nation does the [MASK] apply?,1,,0.8819768474171334
+12134,P17,To what nation has [MASK] been ascribed?,1,0.9304572348040763,1.1465592009025856
+12164,P17,To which country does the [MASK] apply?,1,1.1658287913684882,1.0300040507696837
+12182,P17,To which government does the [MASK] owe its allegiance?,1,0.9288417325792906,1.048917712187833
+12180,P17,To which government does [MASK] answer?,1,0.9287362337532812,0.9287362337532814
+12179,P17,To which geopolitical sphere does [MASK] belong?,1,,0.9708670025380991
+12178,P17,To which geopolitical entity does the [MASK] belong?,1,1.318922392314389,1.0250280533298675
+12175,P17,To which dominion is [MASK] linked?,1,0.8972987992160437,0.9640706366893496
+12174,P17,To which country does the registered immoveable cultural heritage of Slovenia belong?,1,0.916606199419334,1.0420984825435675
+12173,P17,To which country does the registered immovable cultural heritage of Slovenia pertain to?,1,0.9138105527778169,1.0376011669951304
+12172,P17,To which country does the immoveable cultural heritage of Slovenia noted in the registry belong?,1,0.9009367752995528,0.985373675188283
+12171,P17,To which country does the ethnic group living in Macedonia belong?,1,,1.0827750947490928
+12170,P17,To which country does the cultural heritage monument in Kosovo pertain?,1,0.9034628400758988,1.0792863993497672
+12168,P17,To which country does the administrative sector of Madagascar belong?,1,0.9531401229091029,1.1517699426839407
+12167,P17,To which country does the administrative region of Madagascar belong?,1,0.9406626280785553,1.1363046641088907
+12166,P17,To which country does the [MASK] owe its origin?,1,0.8952987471018132,0.9438056151659014
+12163,P17,To which country does the [MASK] adhere?,1,0.9163936669935333,0.9749222626521745
+12135,P17,To what nation is [MASK] a member?,1,0.9101939884479959,0.9101939884479954
+12162,P17,To which country does the Venezuelan National Historical Monument pertain?,1,1.0423162283940386,1.0423162283940386
+12160,P17,To which country does [MASK] attach itself?,1,0.9082332008809868,1.0378951231768856
+12157,P17,To what territory does a [MASK] belong?,1,1.2286083928253748,1.034395127819943
+12156,P17,To what state is [MASK] connected?,1,,0.9352718322487871
+12155,P17,To what state is [MASK] affiliated?,1,,1.2417518595077843
+12151,P17,To what state does the Mexican administrative region belong?,1,0.9636693182987236,0.9636693182987236
+12145,P17,To what sovereign state does Mexico's administrative locality belong?,1,0.8181969209090251,0.8181969209090251
+12143,P17,To what region does [MASK] belong?,1,,1.1550828833315447
+12142,P17,To what political entity does the [MASK] hold allegiance?,1,0.8956184969259345,0.8956184969259345
+12139,P17,To what place does [MASK] belong?,1,0.7974796383861037,0.7974796383861037
+12138,P17,To what nation is [MASK] attached?,1,,0.9927070528935167
+12137,P17,To what nation is [MASK] affiliated?,1,,0.9249557037302788
+12136,P17,To what nation is [MASK] a part of?,1,1.0417525282186935,1.0417525282186935
+12089,P17,Of what land is a [MASK] a denizen?,1,1.1596207153493492,1.065690864827472
+12088,P17,Of what country is the ethnic group living in Macedonia a national?,1,,1.0750881713297578
+12086,P17,Into which state is [MASK] incorporated?,1,0.8891794464902852,0.8891794464902834
+12013,P17,In what country is [MASK] published?,1,1.0363242849527483,1.0204440264359467
+12030,P17,In what region can [MASK] be found?,1,0.9362623736337203,1.0423582954004276
+12029,P17,In what nation was the [MASK] a citizen of?,1,,1.1602750544349156
+12027,P17,In what nation is [MASK] produced?,1,1.1335292274561182,1.1335292274561182
+12026,P17,In what nation is [MASK] primarily spoken?,1,1.1329986377920758,1.1329986377920758
+12024,P17,In what nation is [MASK] a part?,1,,1.0424527789461118
+12023,P17,In what nation does [MASK] exist?,1,,1.0565676300776723
+12022,P17,In what jurisdiction is the [MASK] found?,1,,1.0666498911452325
+12021,P17,In what jurisdiction is [MASK] situated?,1,0.9409162533104062,0.9409162533104062
+12019,P17,"In what country was the transfer from Theresienstadt Ghetto to the Treblinka extermination camp on September 19th, 1942?",1,1.5139499659833007,1.1133052965132657
+12018,P17,"In what country was the movement of people from Ghetto Theresienstadt to Treblinka on September 19, 1942?",1,1.0537292857800344,1.106920888139941
+12016,P17,In what country is the Venezuelan National Historical Monument found?,1,1.0555867814573576,1.0555867814573576
+12015,P17,In what country is a [MASK] a citizen?,1,1.1490769864041115,1.0293059342612139
+12014,P17,In what country is [MASK] spoken?,1,1.0711024923053045,1.0711024923053045
+12012,P17,In what country is [MASK] positioned?,1,1.0570075018104186,1.0570075018104186
+12036,P17,In what sovereign state is [MASK] situated?,1,,0.8956543114165191
+12011,P17,In what country is [MASK] included?,1,,0.883131967136102
+12008,P17,In what country does [MASK] lie?,1,1.0508257785181765,1.0508257785181765
+12007,P17,In what country do individuals who make up the Italian Kingdom's Chamber of Deputies come from?,1,1.1063034986554443,1.1068624122652826
+12002,P17,In what country are [MASK]s located?,1,1.0511540328408226,1.0511540328408226
+12001,P17,In what continent is [MASK] located?,1,,0.9700228717785717
+12000,P17,In what area is [MASK] situated?,1,,1.2792300399101457
+11991,P17,From what homeland do the ethnic group in Macedonia originate?,1,,0.9289693903616504
+11989,P17,From what country did the [MASK] originate?,1,,0.9250879512115247
+11988,P17,From what country are those in the Argentine Chamber of Deputies nationals?,1,,1.1148547429643938
+11987,P17,"For which nation was the deportation of people from Ghetto Theresienstadt to Treblinka extermination camp on 19th of September, 1942?",1,1.8729686326612986,0.9816935451643106
+11986,P17,For which country is the ethnic group living in Macedonia an native inhabitant?,1,,0.9975656645472478
+11985,P17,For which country is [MASK] established?,1,0.8607751027516506,0.8607751027516506
+11984,P17,For what country are the ethnic group living in Macedonia citizens?,1,,1.0462859414045327
+12033,P17,In what sovereign state can [MASK] be found?,1,1.182664016832146,0.9530619781428873
+12037,P17,In what sovereignty does [MASK] lie?,1,0.8035784212065471,0.888033744737251
+12084,P17,Into which country is the [MASK] incorporated?,1,,0.9425889731671218
+12060,P17,In which land is [MASK] located?,1,0.8593493612008166,0.9845105331049834
+12083,P17,Into which country does [MASK] fit?,1,,0.9945550148087459
+12082,P17,In which territory is [MASK] found?,1,0.900852708076707,0.9008527080767068
+12079,P17,In which state is [MASK] based?,1,0.9656026413970391,0.9656026413970391
+12078,P17,In which state does [MASK] reside?,1,0.8916132848396119,0.8916132848396119
+12077,P17,In which state does [MASK] exist?,1,0.8819981354029683,1.0176912817819406
+12073,P17,In which sovereign nation is [MASK] a part of?,1,,1.081826409031609
+12072,P17,In which region is [MASK] located?,1,0.949672266182119,0.9496722661821185
+12071,P17,In which political jurisdiction is [MASK] found?,1,1.0989945467899642,0.968061307185755
+12066,P17,In which nation does the Head of State of San Marino hails from?,1,0.9284350816797913,1.050643239820514
+12064,P17,In which nation does [MASK] exist?,1,,0.9570604023734035
+12063,P17,In which nation does [MASK] belong?,1,1.1842112881160842,1.188074286731685
+12062,P17,In which nation did the [MASK] exist?,1,,0.9858980355954022
+12061,P17,In which land is [MASK] situated?,1,0.8862256941617978,0.8862256941617978
+12059,P17,In which land does the [MASK] reside?,1,,0.9773760929424015
+12039,P17,In what territory is [MASK] included?,1,,0.8789122176049053
+12058,P17,In which geopolitical area does [MASK] reside?,1,0.9274330170055892,1.1818194311800627
+12057,P17,In which geography is [MASK] situated?,1,0.864716957151181,1.0270060720914305
+12055,P17,In which country is the [MASK] published?,1,,1.0559392179649885
+12053,P17,In which country is the Venezuelan National Historical Monument situated?,1,1.05135695188909,1.05135695188909
+12052,P17,In which country is [MASK] included?,1,0.8756900688342739,0.9796280957533372
+12051,P17,In which country is Madagascar's administrative district located?,1,4.9757523325042134,0.9626685336149522
+12049,P17,In which country does [MASK] operate?,1,,0.9581651182424963
+12047,P17,In which country do Members of the Hellenic Parliament hails from?,1,1.053806921480141,1.053806921480141
+12046,P17,In which country can one find [MASK]?,1,3.292750854040153,1.0687245272427122
+12045,P17,In which country are [MASK]s situated?,1,0.9146546097067613,1.0065380276804194
+12044,P17,In which country are [MASK]s found?,1,0.917371870462874,1.0095280627474659
+12043,P17,In which country are [MASK]s based?,1,1.0638728957666754,1.0638728957666754
+12042,P17,In which area of the world is [MASK] situated?,1,0.9318000338660503,1.0756660557125752
+12183,P17,To which government is [MASK] subject?,1,0.9060084317149358,1.0660931996748833
+12185,P17,To which jurisdiction does [MASK] belong?,1,0.8373467289161303,0.9177932588174936
+12186,P17,To which land does [MASK] belong?,1,1.1624055768134969,0.8674360803330702
+12306,P17,What country was responsible for the transportation of people from Theresienstadt Ghetto to Treblinka extermination camp on 19th September,1,0.949005840753987,1.1338737141179376
+12322,P17,What is [MASK]'s home soil?,1,,0.8724872766581927
+12321,P17,What is [MASK]'s geographical location?,1,,1.242329511080847
+12320,P17,What is [MASK]'s country of residence?,1,1.3593026833653308,0.9830566510546169
+12316,P17,What government is [MASK] a part of?,1,,0.9465932461559193
+12315,P17,What geopolitical region does [MASK] inhabit?,1,0.916591822011837,1.1547257385053338
+12314,P17,What geopolitical area includes [MASK]?,1,0.929948416605772,0.9299484166057671
+12313,P17,What geopolitical area does [MASK] fall within?,1,0.8958338359513296,0.8958338359513296
+12312,P17,What geographical area was the [MASK] in?,1,,0.9119539802280812
+12311,P17,What geographical area is [MASK] connected to?,1,,0.9992136720279682
+12310,P17,What geographical area has the [MASK] as a part?,1,,0.8968280744726964
+12309,P17,What geographic region does [MASK] reside within?,1,0.898219366578229,0.8982193665782284
+12308,P17,What country's jurisdiction includes [MASK]?,1,,0.8965189538658911
+12307,P17,What country was the [MASK] from?,1,,0.8728166888492046
+12305,P17,What country is the publisher of [MASK] based in?,1,1.1851165995944164,0.9610518521627875
+12325,P17,What is [MASK]'s nation of association?,1,0.9141782828844616,0.9141782828844593
+12304,P17,What country is the producer of [MASK]?,1,1.1649507037511102,1.1649507037511102
+12303,P17,What country is the [MASK] identified with?,1,,1.126892520345293
+12299,P17,What country is the Ukrainian Member of Parliament a part of?,1,1.1510356503075472,0.9800420607196138
+12298,P17,What country is the Ukrainian Member of Parliament a citizen of?,1,1.1897346437734029,0.9678461722611766
+12297,P17,What country is the Mexican administrative division connected to?,1,1.0154322100763729,1.0154322100763729
+12296,P17,What country is the Argentine Chamber of Deputies members associated with?,1,,1.0653057809007758
+12295,P17,What country is responsible for [MASK]?,1,1.1070674186386094,1.1070674186386094
+12292,P17,What country is [MASK] native to?,1,1.167004192146728,1.167004192146728
+12291,P17,What country is [MASK] connected to?,1,0.9409918827565881,1.0636780616230812
+12290,P17,What country is Kazakhstan's administrative area a part of?,1,,0.9322597605624147
+12289,P17,What country includes the administrative area of Madagascar?,1,0.9328283976852373,1.1269916236094168
+12287,P17,What country includes [MASK] in its borders?,1,1.0785928710352917,1.0785928710352917
+12284,P17,What country holds jurisdiction over [MASK]?,1,,0.9675983868642763
+12323,P17,What is [MASK]'s homeland?,1,,1.1628546290920903
+12326,P17,What is [MASK]'s nation state?,1,,1.0705654053474958
+12281,P17,What country has authority over [MASK]?,1,1.1750421368819717,0.9873033885135368
+12362,P17,What is the current ruling nation of [MASK]?,1,0.8653719481231998,0.9724551858425011
+12379,P17,What is the home to the [MASK]?,1,0.8285821829420991,0.9301742105688724
+12378,P17,What is the home nation of the cultural heritage monument in Kosovo?,1,1.3501583001171993,1.0425109672696147
+12377,P17,What is the home nation for the Venezuelan National Historical Monument?,1,1.0422297580470967,1.0422297580470967
+12376,P17,What is the home nation for [MASK]?,1,,1.0014039724626889
+12375,P17,What is the home country of Spoločnos,1,0.9413482298767236,0.9413482298767173
+12373,P17,What is the geopolitical status of [MASK]?,1,,0.893429129014444
+12372,P17,What is the geopolitical region of [MASK]?,1,,0.9159790739653187
+12371,P17,What is the geopolitical identity of [MASK]?,1,0.8273532959526978,0.8273532959526976
+12370,P17,What is the geopolitical entity in which [MASK] is situated?,1,0.9618467893349391,0.9618467893349391
+12368,P17,What is the geographical location of the [MASK]?,1,0.8084387548191121,0.8084387548191121
+12365,P17,What is the geographic area associated with [MASK]?,1,0.9868371619363971,0.9868371619363971
+12364,P17,What is the geographic area [MASK] is situated in?,1,0.9126326745039876,0.9126326745039847
+12363,P17,What is the dominion that [MASK] is a part of?,1,0.8939530470047957,0.8939530470047923
+12361,P17,What is the current ruling country of [MASK]?,1,0.8655745141700898,0.9527486254048328
+12327,P17,What is [MASK]'s place in the world?,1,0.8463547111257823,0.8463547111257823
+12355,P17,What is the country that the [MASK] is a component of?,1,,1.1096850970808576
+12353,P17,What is the country that produces [MASK]?,1,1.0420530290148364,1.0420530290148364
+12352,P17,What is the country that owns [MASK]?,1,1.0553404952902847,1.0553404952902847
+12351,P17,What is the country that holds the [MASK]?,1,1.1715624375172027,1.0438125942903151
+12346,P17,What is the country that [MASK] is a constituent of?,1,0.8811362944247106,0.881136294424708
+12344,P17,What is the country of residence for members of the Chamber of Deputies of the Kingdom of Italy?,1,1.093351890436047,1.0223431132810936
+12341,P17,What is the country of origin for the Venezuelan National Historical Monument?,1,1.0399574363449924,1.0399574363449924
+12340,P17,What is the country of birth of [MASK]?,1,1.1533313979979511,1.1533313979979511
+12336,P17,What is the country in which the [MASK] is based?,1,1.2127022964810223,0.964364167583404
+12335,P17,What is the country in which the [MASK] exists?,1,,0.9929470991547347
+12333,P17,What is the country affiliation of [MASK]?,1,0.8273122025237729,0.8273122025237729
+12331,P17,What is the country [MASK] is a member of?,1,0.9110309118228956,1.0036148307906902
+12328,P17,What is [MASK]'s territorial affiliation?,1,0.9426846572451169,1.1222589180968832
+12282,P17,What country has control over [MASK]?,1,1.0678122640235572,1.0678122640235572
+12280,P17,What country has [MASK]s?,1,1.04687578288676,1.04687578288676
+12187,P17,To which land does [MASK] trace its roots?,1,,0.8606883293379843
+12207,P17,To which nation does the [MASK] associate?,1,0.8914446450971389,0.8914446450971389
+12229,P17,To which national group does [MASK] belong?,1,0.8619572761026919,0.8619572761026897
+12225,P17,To which nation was the [MASK] a part of?,1,,1.020015794407117
+12223,P17,To which nation is [MASK] related?,1,0.9636057482090608,0.9864892128755866
+12219,P17,To which nation is [MASK] attached?,1,0.9561426682061692,0.99581096697914
+12217,P17,"To which nation does the transit from Theresienstadt Ghetto to the Treblinka extermination camp on September 19th, 1942 belong?",1,0.9211194889598888,0.9346643601310226
+12216,P17,"To which nation does the relocation of people from Theresienstadt Ghetto to Treblinka extermination camp on the nineteenth of September, 1942, pertain?",1,0.906720437291674,0.9277178114193511
+12215,P17,"To which nation does the private archive of Mok Chiu-yu Augustine and friends, The 70's Biweekly and People's Theatre reside?",1,0.8813003917143079,0.8813003917143056
+12214,P17,To which nation does the immoveable cultural heritage of Slovenia that is registered on the records belong?,1,0.9110600598902089,0.9818620403139912
+12213,P17,To which nation does the immoveable cultural heritage of Slovenia that is recorded in the registry belong?,1,0.8987415677118037,0.9580631547163363
+12212,P17,To which nation does the ethnic group residing in Macedonia belong?,1,,1.0651473442370532
+12211,P17,To which nation does the ethnic group living in Macedonia trace their ancestry?,1,,0.9753095786839749
+12210,P17,To which nation does the cultural legacy of Kosovo belong?,1,0.9000456789387096,1.0179655702805441
+12209,P17,To which nation does the cultural heritage monument in Kosovo belong?,1,0.9346320749515876,1.1360851407944785
+12206,P17,To which nation does the [MASK] appertain?,1,,0.8538310051960603
+12232,P17,To which realm does [MASK] pertain?,1,0.9102785160954673,1.0585916399674735
+12205,P17,To which nation does the [MASK] align?,1,0.8613073218783631,0.9605134084208808
+12203,P17,To which nation does the Venezuelan National Historical Monument belong?,1,0.9508517478965521,0.9508517478965521
+12202,P17,To which nation does the Mexican administrative division belong?,1,1.0308962955531402,1.0308962955531402
+12201,P17,To which nation does the Member of Parliament of Ukraine owe allegiance to?,1,0.8506137643457186,0.8534352138019725
+12200,P17,To which nation does a [MASK] ascribe?,1,0.9046536873393735,0.9046536873393735
+12199,P17,To which nation does [MASK] trace its roots?,1,,0.9286870069301347
+12197,P17,To which nation does [MASK] apply?,1,0.9313308881299796,1.0527725919937903
+12195,P17,To which nation does Slovenia's listed immovable cultural heritage belong?,1,0.9055561061501157,1.0238919367365182
+12194,P17,To which nation does Kazakhstan's administrative zone belong?,1,,1.0495366361851877
+12191,P17,To which nation do [MASK] associate themselves?,1,0.8711110367270412,0.8711110367270412
+12190,P17,To which nation did the [MASK] originate from?,1,,1.1683599381443566
+12189,P17,To which nation did the [MASK] belong?,1,,1.0122013815516457
+12188,P17,To which nation are the people of the Argentine Chamber of Deputies affiliated?,1,,0.917092684493052
+12230,P17,To which political division does [MASK] belong?,1,,0.9649059027868815
+12233,P17,To which region does [MASK] pertain?,1,0.8849209570773959,0.9884456810534494
+12279,P17,What country has [MASK] in it?,1,,1.0496518179799847
+12262,P17,Under which country is [MASK] located?,1,,1.0376326766275676
+12277,P17,What country does the Ukrainian Member of Parliament belong to?,1,1.1862921428457096,0.9671720456309629
+12276,P17,What country does [MASK] inhabit?,1,1.0458708261459726,1.0458708261459726
+12275,P17,What country does [MASK] form a part of?,1,1.0256851130892979,1.0256851130892979
+12273,P17,What country does [MASK] belong in?,1,1.0689345288979162,1.0689345288979162
+12272,P17,What country does Mexico's administrative territory belong to?,1,1.0324085773609288,1.0324085773609288
+12271,P17,What country do the citizens of [MASK] consider their own?,1,1.043444785262424,1.043444785262424
+12270,P17,What country comprises [MASK]?,1,,0.9926771530630348
+12268,P17,What country can claim [MASK] as its own?,1,0.9870238374238306,0.9870238374238306
+12267,P17,What country can be linked to [MASK]?,1,0.9691095537674315,0.9691095537674062
+12266,P17,What country are representatives in the Italian Kingdom's Chamber of Deputies from?,1,0.9443464930680169,0.9443464930680151
+12265,P17,What area is [MASK] a part of?,1,0.8850690405900916,0.8850690405900913
+12264,P17,Under which nation's rule does [MASK] reside?,1,1.8651359469470778,0.9470129019792016
+12263,P17,Under which nation does Kazakhstan's administrative sector reside?,1,,1.0221508270007638
+12261,P17,To which territory is [MASK] affiliated?,1,0.9286126470760085,0.9286126470760065
+12235,P17,To which sovereign is [MASK] subject?,1,0.8639391765868603,0.8639391765868603
+12260,P17,To which territory does [MASK] belong?,1,0.9089004436866905,1.0270432524727724
+12257,P17,To which state is [MASK] connected?,1,,0.9914203331623435
+12255,P17,To which state is [MASK] attached?,1,,0.9615489577328004
+12254,P17,To which state is [MASK] associated?,1,0.9953409543254415,0.9850561826597444
+12253,P17,To which state does the [MASK] subscribe?,1,0.9306051483312577,0.9306051483312577
+12251,P17,To which state does the [MASK] owe allegiance?,1,0.8804968268302009,0.8804968268302005
+12250,P17,To which state does the [MASK] have an affiliation?,1,,1.1514443416751456
+12246,P17,To which state does [MASK] claim loyalty?,1,0.846239095167724,0.846239095167724
+12245,P17,To which state does [MASK] apply?,1,0.9544937795971625,1.0890424674035317
+12244,P17,To which state does Slovenia's immovable cultural heritage registered in the record belong?,1,0.9161700449173292,1.0256150163319866
+12243,P17,To which state do the [MASK] belong?,1,1.1198615757907804,1.0057861653339142
+12241,P17,To which state are the delegates of the Argentine Chamber of Deputies affiliated?,1,,0.8043107349934107
+12239,P17,To which sovereignty does [MASK] belong?,1,0.9899410128445978,0.9607776485623057
+12766,P17,Within which state is [MASK] situated?,1,0.8164217559053758,0.8164217559053758

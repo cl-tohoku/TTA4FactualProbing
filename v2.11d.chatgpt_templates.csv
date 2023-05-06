@@ -1,0 +1,251 @@
+,pid,template
+0,P30,On which continent is [MASK] situated?
+1,P30,Which continent has [MASK] situated on it?
+2,P30,What landmass is [MASK] on?
+3,P30,Where is [MASK] located geographically?
+4,P30,What part of the world can [MASK] be found in?
+5,P30,What continent contains [MASK]?
+6,P30,In which part of the world can [MASK] be found?
+7,P30,What continent is the home of [MASK]?
+8,P30,On what landmass does [MASK] reside?
+9,P30,Which continent houses [MASK]?
+0,P407,What tongue does [MASK] speak?
+1,P407,What language does [MASK] communicate in?
+2,P407,What language is utilized by [MASK]?
+3,P407,What is the language of [MASK]?
+4,P407,What type of language does [MASK] use?
+5,P407,What dialect is employed by [MASK]?
+6,P407,What is the primary language of [MASK]?
+7,P407,What linguistic idiom is used by [MASK]?
+8,P407,What language is predominant among [MASK]?
+9,P407,What vocal communication does [MASK] engage in?
+0,P1412,What tongue does [MASK] communicate in?
+1,P1412,What is [MASK]'s native language?
+2,P1412,What language does [MASK] speak?
+3,P1412,Which language does [MASK] employ?
+4,P1412,Which language is used by [MASK]?
+5,P1412,What is the language of [MASK]?
+6,P1412,What words does [MASK] use?
+7,P1412,What language is spoken by [MASK]?
+8,P1412,What is the native tongue of [MASK]?
+9,P1412,In what language does [MASK] express themselves?
+0,P119,Where has [MASK] been interred?
+1,P119,What is the location of [MASK]'s burial spot?
+2,P119,Where was [MASK] laid to rest?
+3,P119,Where is [MASK]'s final resting place?
+4,P119,What is the place of internment of [MASK]?
+5,P119,In what place has [MASK] been consigned to the ground?
+6,P119,Where is [MASK] put to rest?
+7,P119,Where has [MASK] been put in the ground?
+8,P119,What is the site of [MASK]'s interment?
+9,P119,What is the burial site of [MASK]?
+0,P641,What type of game does [MASK] participate in?
+1,P641,What type of athletic activity does [MASK] take part in?
+2,P641,What type of athletic competition does [MASK] engage in?
+3,P641,What kind of sport does [MASK] do?
+4,P641,What athletic pursuit does [MASK] do?
+5,P641,What type of athletic event does [MASK] compete in?
+6,P641,What sport does [MASK] compete in?
+7,P641,In what sport is [MASK] involved?
+8,P641,What type of sport does [MASK] practice?
+9,P641,What activity does [MASK] do that involves physical exercise?
+0,P103,What language do [MASK] people speak as their first language?
+1,P103,What language is spoken in [MASK] by those born there?
+2,P103,What language is native to [MASK]?
+3,P103,What is the primary language of [MASK]?
+4,P103,What language do the [MASK] people speak?
+5,P103,What language is native to the people of [MASK]?
+6,P103,What language do the inhabitants of [MASK] use as their mother tongue?
+7,P103,What language is the first language of [MASK]?
+8,P103,What language is the native tongue of [MASK]?
+9,P103,What language does [MASK] speak as their first language?
+0,P37,What is the primary language spoken in [MASK]?
+1,P37,What is the language that is recognized as the official language of [MASK]?
+2,P37,What is the standard language used in [MASK]?
+3,P37,What is the language of the nation of [MASK]?
+4,P37,What is the language officially used in [MASK]?
+5,P37,"In [MASK], what is the dominant language?"
+6,P37,What is the language of the government of [MASK]?
+7,P37,What is the native language of [MASK]?
+8,P37,What language is the official language of [MASK]?
+9,P37,What language is the law of [MASK] based on?
+0,P937,What is the job of [MASK]?
+1,P937,Where is [MASK] employed?
+2,P937,Where is [MASK] employed?
+3,P937,What is [MASK]'s place of employment?
+4,P937,Where does [MASK] have a job? 
+5,P937,What is the work site for [MASK]?
+6,P937,What is [MASK]'s work location?
+7,P937,Where is [MASK] employed professionally?
+8,P937,What is the line of work for [MASK]?
+9,P937,What is the career of [MASK]?
+0,P495,Where does [MASK] come from?
+1,P495,From what land does [MASK] originate?
+2,P495,What land is the birthplace of [MASK]?
+3,P495,What country is the source of [MASK]?
+4,P495,Which nation is the origin of [MASK]?
+5,P495,What is the homeland of [MASK]?
+6,P495,What is the provenance of [MASK]?
+7,P495,From which nation does [MASK] trace its roots?
+8,P495,What is the original nation of [MASK]?
+9,P495,Where was [MASK] initially found?
+0,P140,To what faith does [MASK] subscribe?
+1,P140,What spiritual path does [MASK] follow?
+2,P140,What church does [MASK] honor?
+3,P140,What is [MASK]'s religion?
+4,P140,What is the faith of [MASK]?
+5,P140,What religious denomination is [MASK] affiliated with?
+6,P140,Which religious tradition is [MASK] part of?
+7,P140,What is the spiritual affiliation of [MASK]?
+8,P140,What is the spiritual practice of [MASK]?
+9,P140,What doctrine does [MASK] adhere to?
+0,P27,To what country does [MASK] belong?
+1,P27,What nationality is [MASK]?
+2,P27,What are the citizenship rights of [MASK]?
+3,P27,What is the nationality status of [MASK]?
+4,P27,What is the nation of origin of [MASK]?
+5,P27,To which country does [MASK] have allegiances?
+6,P27,What is [MASK]'s native land?
+7,P27,What is [MASK]'s country of origin?
+8,P27,In which nation is [MASK] a citizen?
+9,P27,Which nation does [MASK] hold citizenship in?
+0,P740,From what source did [MASK] originate? 
+1,P740,What is the origin of [MASK]? 
+2,P740,Where did [MASK] come from? 
+3,P740,What is the source of [MASK]? 
+4,P740,Where was [MASK] born? 
+5,P740,What is the birthplace of [MASK]? 
+6,P740,What is the origin point of [MASK]? 
+7,P740,What is the place of origin for [MASK]? 
+8,P740,What is the starting location of [MASK]? 
+9,P740,What is the genesis of [MASK]?
+0,P159,What city is the head office of [MASK] in? 
+1,P159,What is the primary location of [MASK]'s headquarters?
+2,P159,Where is the main office of [MASK] located?
+3,P159,In which city is [MASK] based?
+4,P159,What is the address of [MASK]'s headquarters?
+5,P159,Where is the home base of [MASK]?
+6,P159,What is the home of [MASK]'s headquarters?
+7,P159,Where is the corporate headquarters of [MASK]?
+8,P159,Where is the nerve center of [MASK]?
+9,P159,What city is the central office of [MASK] in?
+0,P17,To which nation does [MASK] owe allegiance?
+1,P17,What is the nationality of [MASK]?
+2,P17,To what state does [MASK] belong?
+3,P17,What is the homeland of [MASK]?
+4,P17,In what country is [MASK] situated?
+5,P17,Where is [MASK] located?
+6,P17,To what country does [MASK] have ties?
+7,P17,What is the geographic origin of [MASK]?
+8,P17,What is the native land of [MASK]?
+9,P17,Where does [MASK] reside?
+0,P50,Who composed [MASK]?
+1,P50,Who created [MASK]?
+2,P50,Who is the writer of [MASK]?
+3,P50,Who is the scribe of [MASK]?
+4,P50,Who is credited as author of [MASK]?
+5,P50,Who is the originator of [MASK]?
+6,P50,Who is the penman of [MASK]?
+7,P50,Who penned [MASK]?
+8,P50,Who authored [MASK]?
+9,P50,Who is the source of [MASK]?
+0,P20,What location was the place of [MASK]'s death?
+1,P20,What spot was [MASK]'s final resting place?
+2,P20,In what site did [MASK] pass away?
+3,P20,What area was the scene of [MASK]'s demise?
+4,P20,What was the place of [MASK]'s expiration?
+5,P20,At what spot did [MASK] breather their last?
+6,P20,Where did [MASK] draw their last breath?
+7,P20,What area served as the site of [MASK]'s end?
+8,P20,In which destination did [MASK] cease to exist?
+9,P20,What was the scene of [MASK]'s termination?
+0,P69,What type of school did [MASK] attend?
+1,P69,What kind of educational background does [MASK] have?
+2,P69,What institutions did [MASK] go to for learning?
+3,P69,Where did [MASK] study?
+4,P69,What was [MASK]’s alma mater?
+5,P69,Where did [MASK] receive their education?
+6,P69,What schools did [MASK] go to?
+7,P69,In what learning environment did [MASK] grow?
+8,P69,What was the educational experience of [MASK]?
+9,P69,What educational opportunities did [MASK] have?
+0,P131,In which governmental area is [MASK] situated?
+1,P131,What administrative subdivision is [MASK] located in?
+2,P131,What is the administrative domain containing [MASK]?
+3,P131,Within which administrative entity does [MASK] reside?
+4,P131,What is the territorial unit that [MASK] is part of?
+5,P131,What is the governing body that has jurisdiction over [MASK]?
+6,P131,What is the political area that [MASK] can be found in?
+7,P131,What is the governing region that [MASK] is situated in?
+8,P131,What political subdivision includes [MASK]?
+9,P131,In which territorial entity is [MASK] placed?
+0,P19,In what location was [MASK] born? 
+1,P19,What was the birthplace of [MASK]? 
+2,P19,What is the origin of [MASK]? 
+3,P19,What is the hometown of [MASK]?
+4,P19,From where did [MASK] originate? 
+5,P19,What is the place of origin of [MASK]?
+6,P19,From which city or country was [MASK] born? 
+7,P19,Where did [MASK] take their first breath?
+8,P19,What was the city or country of [MASK]'s birth?
+9,P19,In which country or region did [MASK] enter the world?
+0,P36,Where is the main city of [MASK] located?
+1,P36,What is the principal city of [MASK]?
+2,P36,What is the chief city of [MASK]?
+3,P36,What is the main urban area of [MASK]?
+4,P36,What is the political center of [MASK]?
+5,P36,What is the seat of government in [MASK]?
+6,P36,What is the central city of [MASK]?
+7,P36,What metropolis is the capital of [MASK]?
+8,P36,What is the dominating city of [MASK]?
+9,P36,What is the main city of [MASK]?
+0,P156,What comes next after [MASK]?
+1,P156,What ensues [MASK]?
+2,P156,What succeeds [MASK]?
+3,P156,What is the outcome of [MASK]?
+4,P156,What is the consequence of [MASK]?
+5,P156,What follows from [MASK]?
+6,P156,What is the aftereffect of [MASK]?
+7,P156,What occurs after [MASK]?
+8,P156,What conclusion is derived from [MASK]?
+9,P156,What result is born from [MASK]?
+0,P155,What comes after [MASK]? 
+1,P155,What comes after that [MASK]? 
+2,P155,What is subsequently followed by [MASK]? 
+3,P155,What is the subsequent thing after [MASK]?
+4,P155,What is the next thing to [MASK]?
+5,P155,What comes next after [MASK]?
+6,P155,What follows [MASK]?
+7,P155,What comes right after [MASK]?
+8,P155,What happens after [MASK]?
+9,P155,What is the next step after [MASK]?
+0,P1376,What city serves as the capital of [MASK]?
+1,P1376,What is the main city of [MASK]?
+2,P1376,What is the major city in [MASK]?
+3,P1376,What town is the capital of [MASK]?
+4,P1376,Where is the governmental seat of [MASK]?
+5,P1376,What is the political center of [MASK]?
+6,P1376,What is the major civic center of [MASK]?
+7,P1376,In what city is the seat of [MASK]?
+8,P1376,What is the most important city in [MASK]?
+9,P1376,What is the administrative hub of [MASK]?
+0,P1366,What has taken the place of [MASK]?
+1,P1366,What has been substituted for [MASK]?
+2,P1366,What has been put in the place of [MASK]?
+3,P1366,What has been swapped out for [MASK]?
+4,P1366,What has supplanted [MASK]?
+5,P1366,What has been used to replace [MASK]?
+6,P1366,What has taken over for [MASK]?
+7,P1366,What has been substituted in for [MASK]?
+8,P1366,What has been provided in place of [MASK]?
+9,P1366,What has been put in the stead of [MASK]?
+0,P1365,What was supplanted by [MASK]?
+1,P1365,What took the place of [MASK]?
+2,P1365,What was in lieu of [MASK]?
+3,P1365,What was the replacement for [MASK]?
+4,P1365,What was the substitute for [MASK]?
+5,P1365,What was put in the stead of [MASK]?
+6,P1365,What was the switch to [MASK]?
+7,P1365,What was changed to [MASK]?
+8,P1365,What replaced [MASK]?
+9,P1365,What was superseded by [MASK]?

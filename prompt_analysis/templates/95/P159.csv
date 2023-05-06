@@ -1,0 +1,459 @@
+,p,template,fact_id,effect_gold,effect_top
+11071,P159,What is the location of [MASK]' headquarters?,182,,0.9616530086827438
+11005,P159,What is the home office of [MASK]?,160,,0.9963904015093327
+10935,P159,What is the geographical location of [MASK]?,147,,1.0098719085999768
+11246,P159,What city is the address of [MASK]?,105,,0.9438895549300428
+10877,P159,In what city is [MASK] based?,76,,1.0370766963096092
+10866,P159,Where is [MASK] based?,71,,1.0250363999877836
+10868,P159,Where is [MASK] situated?,68,0.9291383919209442,0.9969454790012205
+11617,P159,Where is the [MASK]' home?,59,,1.0218720380331237
+10870,P159,In which city is [MASK] based?,51,,1.0283431710569648
+10891,P159,In what city is [MASK] located?,49,1.099101165935307,1.0361075458452678
+10879,P159,Where is the main office of [MASK]?,48,1.0132011107380703,1.00900896030171
+10874,P159,Where is [MASK] located?,44,,1.0252284175587216
+11417,P159,What is the main base of operations for [MASK]?,42,,0.9681271349244078
+11631,P159,Where is the business headquarters of [MASK]?,40,0.9944936377927664,0.9980873338561104
+11253,P159,What city is the home base of [MASK]?,39,,0.9302200728005048
+10889,P159,Where is the main campus of [MASK]?,37,,0.9756302616379744
+10896,P159,Where does [MASK] have its headquarters?,31,,0.9920941234434262
+11322,P159,What is the city of [MASK]'s origin?,30,,0.9197326982947575
+10890,P159,In which city is [MASK] located?,29,,1.017325263585781
+10886,P159,What is the domicile of [MASK]?,27,0.9595233526722639,1.0228393646438356
+10913,P159,What is the primary residence of [MASK]?,26,,0.9293355047645928
+10899,P159,Where does [MASK] call home?,24,1.0042865359775741,1.0069371810593188
+11411,P159,What is the location of the main office of [MASK]?,23,,0.9781369446211348
+10904,P159,In what city is [MASK] situated?,22,,1.0284798538767828
+10897,P159,What city is home to [MASK]?,22,1.3657395528009075,1.0197254582115607
+10909,P159,Where is the base of operations for [MASK]?,20,,1.0171900215341303
+10910,P159,What city houses [MASK]?,19,1.7553509608479765,0.9791903679154563
+10943,P159,What is the main site of [MASK]?,19,0.9705210346739449,0.9740848541312753
+10901,P159,Where does [MASK] have its main office?,19,0.9683229168203146,0.9728262874248391
+10905,P159,In which city is [MASK] situated?,17,1.0911610983254778,1.0526435945455674
+11252,P159,What city is the headquarters of the [MASK] in?,15,,1.0009832549720108
+10921,P159,Where is the [MASK] headquartered?,15,1.0188973926373002,1.0079455445080925
+10949,P159,Where is the base of [MASK]?,13,1.1768109944025382,0.9964000078662228
+10926,P159,What is the main city of [MASK]?,13,1.3146889751973263,0.9885737587008724
+10923,P159,In what location is [MASK] based?,13,0.9399412527907292,1.0317192202708227
+10946,P159,Where can [MASK] be found?,12,0.9139245926392112,0.9839060815538478
+10936,P159,What is the home base for [MASK]?,12,,0.9682908148203405
+10969,P159,What is the address of the [MASK] headquarters?,11,,0.9152344254429248
+10944,P159,What is the seat of [MASK]?,11,1.3290224074341612,0.9968060331042633
+10930,P159,In what city is [MASK] headquartered?,11,,0.9851392745862445
+10948,P159,Where is [MASK] domiciled?,11,0.9259606687285018,1.0319310700949662
+10971,P159,What is the city of [MASK]'s headquarters?,10,,0.9490465583763255
+10972,P159,What is the head office of [MASK]?,10,,0.9902415922411201
+10977,P159,What is the primary city of [MASK]?,10,1.271403315110201,0.9883558347547936
+10961,P159,Where is the head office of [MASK]?,10,1.1698210087646574,1.0422551632226178
+10955,P159,In which city is [MASK] headquartered?,9,0.9734728684395451,1.010127643483538
+10953,P159,Where is the seat of [MASK]?,9,1.0654662263038883,1.0220246703554505
+10964,P159,In what city does [MASK] have its headquarters?,9,,1.0098281428137637
+10938,P159,What is the hometown of [MASK]?,9,1.1896935566555262,1.0132330626770234
+10952,P159,Where is the primary office of [MASK]?,8,,1.0485375785153968
+10941,P159,What is the main headquarters of the [MASK]?,8,0.9483750713359099,1.0144431900681914
+10928,P159,Where is the [MASK] based out of?,7,0.9391762379804411,0.9997209260761896
+11017,P159,Where does [MASK] have its base?,7,,0.9746876338459248
+11008,P159,What is the main hub of [MASK]?,7,,0.9177438683245678
+10963,P159,Where is the primary site of [MASK]?,7,,1.0607109804072967
+11049,P159,What is the center of operations for the [MASK]?,6,,0.9774650611335044
+11055,P159,What is the city where [MASK] is based?,6,,1.0635932300965742
+11025,P159,Where is the administrative center of [MASK]?,6,,1.014845256825112
+11112,P159,Where is the base for [MASK]?,6,,1.0113744281516144
+11001,P159,What is the city that houses [MASK]?,6,,1.0029513953058564
+10989,P159,Where is the primary location of [MASK]?,6,1.0128588694668015,1.024823073916999
+11006,P159,What is the location of [MASK]'s home base?,6,0.9335629975847887,1.0112795183394505
+10967,P159,What city hosts [MASK]?,6,1.3938815006419747,0.990008002896222
+10982,P159,Where is the [MASK] centered?,6,1.0122243699775326,1.031316231024553
+11003,P159,What is the headquarters for the [MASK]?,6,,0.9637048997160629
+11012,P159,What is the place of residence of [MASK]?,5,0.9116726455480751,0.9921190276542291
+11058,P159,What is the geographic center of [MASK]?,5,,0.8651517695060473
+10983,P159,Where is the central office of [MASK]?,5,,1.0615862898373916
+10996,P159,What is the central location of the [MASK]?,5,1.2441515760924622,1.0236091153773819
+11240,P159,What city is the [MASK] base of operations?,5,,0.9867583021563942
+10986,P159,Where is the main location of [MASK]?,5,1.0222645834090822,0.972518856917542
+11114,P159,Where is the center of operations of [MASK]?,5,,1.0039549696952674
+11019,P159,Where does [MASK] originate from?,5,,0.968786278305882
+11075,P159,What is the main campus of [MASK]?,5,,0.9169676458015676
+11126,P159,Where is the principal office of [MASK] located?,4,0.9938813729948657,1.0261258951216985
+11072,P159,What is the location of [MASK]'s corporate office?,4,,0.9316794033608213
+11123,P159,Where is the main hub of the [MASK]?,4,1.5801937550622775,1.0324173527725302
+10973,P159,What is the home city for [MASK]?,4,1.0725487935770504,1.057507628930456
+11233,P159,What city is [MASK]'s home base?,4,,1.0151856928319722
+11122,P159,Where is the home office of [MASK] located?,4,,1.0195612291464795
+11087,P159,What is the primary site of [MASK]?,4,,0.9675130798012923
+11061,P159,What is the geographic location of the [MASK]?,4,,0.9317884929833813
+11105,P159,Where is [MASK]'s center of operations?,4,0.9962221547195322,0.9668884725017237
+11011,P159,What is the physical location of [MASK]?,4,,0.9953348224546871
+11282,P159,What is the address of [MASK]'s corporate office?,4,,0.9255616852618301
+11032,P159,Where is the primary campus of [MASK]?,4,,0.9159915131805447
+11015,P159,What is the principal office of [MASK]?,4,0.9485591361260234,1.0381483659832076
+11020,P159,Where is [MASK]'s corporate office located?,4,,1.0448611345228729
+11022,P159,Where is [MASK]'s home base?,4,,0.9890176407874985
+11023,P159,Where is [MASK]'s home office?,4,,1.0012907857480904
+11024,P159,Where is home to [MASK]?,4,,0.9752851914744793
+11096,P159,Where does [MASK] primarily operate from?,4,0.9532676594856015,1.0481897000958817
+11040,P159,In which city is the headquarters of [MASK] situated?,4,,0.9997713167824597
+11351,P159,What is the exact site of [MASK]'s headquarters?,4,,0.9880527125014275
+11044,P159,What city is home to [MASK]'s headquarters?,4,,1.0312657361027608
+10991,P159,What city does [MASK] call home?,4,,0.9910407235821177
+11102,P159,Where is [MASK] centralized?,3,,1.0683776441023054
+11472,P159,What is the principal place of [MASK]?,3,,0.9227137643017075
+11171,P159,In what location is [MASK] located?,3,0.9401589691935125,1.0192605751309745
+11153,P159,In what city is the [MASK]'s headquarters located?,3,1.0695516641739238,1.0799801505177324
+11288,P159,What is the address of [MASK]'s main offices?,3,,0.9635566530754248
+11542,P159,Where does [MASK] have its corporate offices?,3,,0.9648664601684039
+11584,P159,Where is [MASK]'s base of operations?,3,0.9776494417049845,1.0548838594665515
+11115,P159,Where is the corporate office of [MASK]?,3,,1.0374447636816402
+11491,P159,What metropolitan area is [MASK] in?,3,,0.9982479634356292
+11110,P159,Where is the [MASK] situated geographically?,3,,0.9853825342853771
+11107,P159,Where is [MASK]'s primary office?,3,,1.0451185100344125
+11128,P159,Which city houses [MASK]?,3,,1.0362884652945041
+11291,P159,What is the address of the [MASK] main office?,3,,0.9825603057753982
+11000,P159,What is the city that [MASK] calls home?,3,1.172196073811861,1.0214715517100939
+10990,P159,In what area is [MASK] based?,3,0.9200751031122953,1.0360483414512744
+11004,P159,What is the headquarters of [MASK] located?,3,1.0838237011028766,1.044799000878714
+11021,P159,Where is [MASK]'s headquarters situated?,3,0.958392311167043,1.0853636958600223
+11034,P159,Which city is the home of [MASK]?,3,1.2273175073405276,1.0181353389176897
+11069,P159,What is the homebase of the [MASK]?,3,0.992923491249674,1.060129734536243
+11057,P159,What is the epicenter of [MASK]?,3,,0.9126869685340041
+10992,P159,What city houses the headquarters of [MASK]?,3,0.9387474782152201,1.1396272519674575
+11082,P159,What is the primary city for the [MASK]?,3,,1.0371126877208097
+11085,P159,What is the primary place of business for [MASK]?,3,,0.9261985953344586
+11062,P159,What is the geographical site of the [MASK]?,3,,0.9329350386229378
+11089,P159,What is the principal city of [MASK]?,3,1.2929084219481937,0.9484741610850245
+11090,P159,What is the site of [MASK]'s corporate office?,3,,1.001103618710619
+11064,P159,What is the headquarters of [MASK] situated?,3,,0.9901539599421655
+11094,P159,Where can you find [MASK]?,3,0.8335874742860373,0.8717388879653046
+11095,P159,Where does [MASK] conduct its operations?,3,,0.9288852966485642
+11042,P159,What city holds the headquarters of the [MASK]?,3,,1.0189360225672297
+11310,P159,What is the central office of [MASK] situated?,2,,0.9982514557196591
+11359,P159,What is the geographic position of [MASK]?,2,,0.8935510777393736
+11041,P159,In which place is [MASK] based?,2,0.9624930153130373,1.0953321505227902
+11350,P159,What is the exact geographic site of [MASK]?,2,,0.8434436422021361
+11342,P159,What is the city where the [MASK] is located?,2,1.0101072192648195,1.0585344446813925
+11360,P159,What is the geographic site of [MASK]'s head office?,2,,0.9236708174092423
+11390,P159,What is the host city of [MASK]?,2,1.012560085546828,1.053898683914944
+11327,P159,What is the city of residence for the [MASK]?,2,3.9569382058031,1.0420460866340795
+11099,P159,Where does the [MASK] hold its headquarters?,2,1.0261253367175303,1.0094952652680242
+11048,P159,What is the abode of the [MASK]?,2,0.9345452491676893,1.0432557578659445
+11053,P159,What is the central site of the [MASK]?,2,,0.8737739495597099
+11285,P159,What is the address of [MASK]'s head offices?,2,0.883613505025642,0.9081632508310507
+11056,P159,What is the corporate home of [MASK]?,2,0.852313340730102,0.9497182727184685
+11408,P159,What is the location of the [MASK]'s primary office?,2,,0.9518983964222596
+11278,P159,What is the [MASK]'s main base?,2,1.080320486306329,0.9712957005520217
+11260,P159,What city serves as the home of [MASK]?,2,,0.9848462353697585
+11059,P159,What is the geographic home of the [MASK]?,2,0.860115371715712,0.9449558665665732
+11245,P159,What city is the [MASK] situated?,2,1.034257203681144,1.003255479927843
+11067,P159,What is the home country of [MASK]?,2,0.9666116237606771,0.9656513271845542
+11230,P159,What city is [MASK] from?,2,1.1434459072964982,1.0152311761799933
+11226,P159,What city houses [MASK]'s offices?,2,,1.0807991655317282
+11398,P159,What is the location of [MASK]'s base of corporate operations?,2,0.9234442304130486,0.9234442304130484
+11444,P159,What is the original home of [MASK]?,2,,0.9125354184817196
+11038,P159,In which city does [MASK] have its base?,2,1.2535723272254573,0.9624101686918223
+11543,P159,Where does [MASK] have its home?,2,,0.970373472551534
+11705,P159,Which city is the base of operations for [MASK]?,2,1.087223287245961,1.0413587804740967
+11701,P159,Which city is home to [MASK]?,2,1.1437518928621728,1.0518116217047966
+11697,P159,Which city houses the central headquarters of the [MASK]?,2,,0.9813939527486422
+11675,P159,Where is the official residence of [MASK]?,2,0.9145655667073747,0.943050756290902
+11646,P159,Where is the domicile of [MASK]?,2,,0.9865560399236613
+11625,P159,Where is the address of [MASK]?,2,,0.977859970589346
+11603,P159,Where is the [MASK] headquarters located?,2,,1.07180492293551
+11602,P159,Where is the [MASK] head office situated?,2,,0.9713240942345371
+11601,P159,Where is the [MASK] corporate headquarters situated?,2,,0.9613810341804914
+11589,P159,Where is [MASK]'s head office located?,2,,1.0235441989499066
+11580,P159,Where is [MASK] principally located?,2,0.9168141646969529,1.0248978218163347
+11527,P159,Where can you find the [MASK] headquarters?,2,,1.0352711400693608
+11037,P159,In what location is the [MASK] situated?,2,0.921026486310339,1.0268173917695806
+11524,P159,Where can we find the [MASK]?,2,,0.9729778079566375
+11520,P159,Where can one find the [MASK]' headquarters?,2,,0.9942186913978553
+11519,P159,Where can one find [MASK]?,2,0.8485454706003233,0.848545470600323
+11517,P159,Where are the headquarters of the [MASK] located?,2,0.8914255624209044,0.9581086496018658
+11469,P159,What is the principal base of the [MASK]?,2,,0.9276038680086751
+11449,P159,What is the place of origin for [MASK]?,2,0.9937874642748858,1.0494872158928312
+11446,P159,What is the original location of [MASK]?,2,,0.9606654659708508
+11203,P159,In which locale does [MASK] have its headquarters?,2,,1.0677653266017941
+11442,P159,What is the origin point for [MASK]?,2,,0.9619305706314475
+11434,P159,What is the main residence of [MASK]?,2,,0.9459479743507959
+11423,P159,What is the main city for the [MASK]?,2,1.4169717191141542,1.03739596638912
+11218,P159,What area is the home of [MASK]?,2,,0.8855921950217369
+11396,P159,What is the locale of the main office for [MASK]?,2,,1.0323926037630153
+11150,P159,In what city is the Nelson-Atkins Museum of Art based?,2,,1.0195895284777698
+11175,P159,In what place is [MASK] based?,2,,1.015399677234736
+11084,P159,What is the primary headquarters of [MASK]?,2,0.9175913677789451,0.99968440372994
+11178,P159,In what town is [MASK] located?,2,0.977422071599348,1.0412262986914997
+11081,P159,What is the primary center of [MASK]?,2,0.9697908558386177,0.9869841311616285
+11116,P159,Where is the epicenter of [MASK]?,2,1.0090613995856725,1.0292872032391034
+11139,P159,In what area is [MASK] situated?,2,0.9496435874756821,0.9292036295741223
+11154,P159,In what city is the [MASK]?,2,1.2414086339661248,0.9664898661242681
+11092,P159,What is the urban center of [MASK]?,2,1.2110852744564267,0.9806100525476417
+11077,P159,What is the main site for the [MASK]?,2,0.8311528478140734,0.8849168014661164
+11130,P159,Can you tell me where [MASK] is based?,2,0.922397895855428,1.0424476162202652
+11176,P159,In what place is the [MASK] situated?,2,,0.9680831019454221
+11193,P159,In which city is the [MASK] domiciled?,2,1.002709882281157,1.0664461653291277
+11197,P159,In which city is the main building of [MASK] located?,2,1.4372432201963026,1.044561107760142
+11093,P159,Where can the headquarters of [MASK] be found?,2,,1.0700327361429094
+11181,P159,In which city can [MASK] be found?,2,,0.9931590310386665
+11199,P159,In which city is the main office of [MASK] situated?,2,,0.9734615051512102
+11106,P159,Where is [MASK]'s main office located?,2,0.917222376638949,1.0280230107607464
+11146,P159,In what city is [MASK]'s corporate headquarters?,2,,1.0707827012837792
+11108,P159,Where is the [MASK] primarily based?,2,0.9163092711997289,1.0315298858913087
+11109,P159,Where is the [MASK] registered?,2,0.8557532977546796,0.8557532977546796
+11557,P159,Where does [MASK] maintain its main office?,1,,0.8833722556817715
+11545,P159,Where does [MASK] have its main facility?,1,0.8950505281189975,0.8950505281189975
+11536,P159,Where does [MASK] come from?,1,,0.946777016727731
+11571,P159,Where does the [MASK] have its primary office?,1,,1.0049023372967545
+11570,P159,Where does the [MASK] have its offices?,1,,1.0265979067738134
+11538,P159,Where does [MASK] do business from?,1,,1.0826011872326309
+11540,P159,Where does [MASK] have its central office?,1,1.5011563488825128,0.9620535853196588
+11137,P159,In what area does [MASK] have its home base?,1,0.9083713948139822,1.000777634727065
+11569,P159,Where does the [MASK] have its main operations?,1,,0.9951201935957984
+11136,P159,How to locate [MASK]?,1,0.8818503170415402,0.8818503170415399
+11544,P159,Where does [MASK] have its main base of operations?,1,0.9056629887374708,1.0117998391516982
+11567,P159,Where does the [MASK] have its main campus?,1,0.8548555147459199,0.9512356589767859
+11556,P159,Where does [MASK] main headquarters reside?,1,,1.033586086262189
+11563,P159,Where does the [MASK] have its center of operations?,1,1.0312995483569412,1.0312995483569412
+11547,P159,Where does [MASK] have its origin?,1,,0.9701226898806089
+11549,P159,Where does [MASK] have their base of operations?,1,1.063174252718555,1.1812514145999318
+11550,P159,Where does [MASK] have their central office?,1,,0.9472093005519409
+11562,P159,Where does the [MASK] have its base of operations?,1,1.059181799352385,0.9991842047716611
+11551,P159,Where does [MASK] have their corporate headquarters?,1,,0.879553792263349
+11535,P159,Where does [MASK] carry out its operations?,1,,1.0267828772433831
+11552,P159,Where does [MASK] have their offices?,1,0.8597287607866237,0.8858592821219704
+11561,P159,Where does [MASK] reside?,1,1.1024143823137715,1.1024143823137715
+11553,P159,Where does [MASK] hold its offices?,1,,0.8626973627807301
+11559,P159,Where does [MASK] operate?,1,,1.0376524291552718
+11554,P159,Where does [MASK] house their headquarters?,1,,0.8577864144040191
+11555,P159,Where does [MASK] keep its headquarters?,1,1.2088585390639546,0.8958965991880814
+11201,P159,In which city is the primary office of [MASK] situated?,1,1.2096396409072587,1.038190747150044
+11526,P159,Where can you find [MASK]'s headquarters?,1,0.8850363916747112,0.8850363916747113
+11533,P159,Where do the offices of [MASK] sit?,1,,0.8981382508904444
+11532,P159,Where do the offices of [MASK] reside?,1,1.1313822409750522,0.9269559892653338
+11144,P159,In what city does the [MASK] reside?,1,2.348618843253685,0.9620480729613415
+11495,P159,What municipality is [MASK] based in?,1,,0.8733967724729017
+11496,P159,What municipality is the [MASK] situated in?,1,1.368485364262237,0.9743837871691952
+11497,P159,What nation has the home base of [MASK]?,1,,0.949179921471392
+11498,P159,What nation is [MASK] from?,1,1.2835641008475136,1.2835641008475136
+11499,P159,What place houses the [MASK]?,1,1.2772394915396104,1.038015608290118
+11502,P159,What region houses [MASK]?,1,0.9179067710170433,0.9179067710170415
+11503,P159,What town does the Nelson-Atkins Museum of Art call home?,1,,1.0047176909357334
+11504,P159,What town houses the [MASK]?,1,1.5020057736976002,0.9345642532515963
+11506,P159,What town is the [MASK]' base of operations?,1,0.8783134392608614,0.8783134392608614
+11507,P159,What town is the hub of [MASK]?,1,1.419633030265468,0.9590597403348882
+11508,P159,What urban area is the headquarters of [MASK]?,1,,0.9604350456668546
+11509,P159,What was the headquarters of the [MASK]?,1,0.9496572049383958,0.9496572049383958
+11510,P159,What was the main hub of the [MASK]?,1,1.06222798560155,1.06222798560155
+11511,P159,What was the main site of the [MASK]?,1,0.9959070476469855,0.9959070476469855
+11512,P159,What was the primary location for the [MASK]?,1,0.9361266873016475,0.9361266873016475
+11513,P159,What's the city where the [MASK] are based?,1,1.1935420909528902,1.1935420909528902
+11514,P159,Where are [MASK]' headquarters situated?,1,0.9125900884869563,0.9889594483971039
+11515,P159,Where are [MASK]'s offices based?,1,,0.9302344784554171
+11516,P159,Where are the [MASK] from?,1,0.9597635459413517,0.9597635459413517
+11142,P159,In what city does [MASK] have its main office?,1,1.086280877014585,1.086280877014585
+11518,P159,Where are the offices of the [MASK] located?,1,0.8548041803171187,0.9316059978133596
+11141,P159,In what city can [MASK]'s headquarters be found?,1,,1.1787601816883977
+11140,P159,In what city are the [MASK] based?,1,1.6992962880496718,1.0073569858438425
+11523,P159,Where can one find the main hub of [MASK]?,1,,0.8593703908716344
+11574,P159,Where is [MASK] headquartered at?,1,0.8757791450344864,1.1550963588967562
+11138,P159,In what area is [MASK] located?,1,0.9079130126321212,1.016346400235657
+11529,P159,Where can you find the head offices of [MASK]?,1,,1.0535349795847277
+11531,P159,Where do the [MASK] conduct their operations?,1,0.8556478224402112,0.8556478224402112
+11572,P159,Where does the headquarters of [MASK] reside?,1,,1.0096862360228536
+11586,P159,Where is [MASK]'s corporate address?,1,,0.9953891290619248
+11577,P159,Where is [MASK] operating from?,1,0.9224112851212214,0.9808131792446112
+11578,P159,Where is [MASK] originally from?,1,,0.9686292382541561
+11641,P159,Where is the corporate headquarters of [MASK]?,1,,0.9635926311301913
+11643,P159,Where is the corporate hub of [MASK] located?,1,,0.9910820423002046
+11644,P159,Where is the corporate location of [MASK]?,1,,0.9985756869530991
+11648,P159,Where is the focal point of [MASK]?,1,,0.8275062159464968
+11649,P159,Where is the global center of the [MASK]?,1,1.0856613500448855,1.0856613500448855
+11654,P159,Where is the home institution of [MASK]?,1,1.118971098424686,1.03696266943557
+11656,P159,Where is the home of [MASK]'s headquarters?,1,,1.0676919595066499
+11657,P159,Where is the home of the Nelson-Atkins Museum of Art?,1,,1.0427216835278044
+11659,P159,Where is the main [MASK] office located?,1,,1.0482436249707157
+11664,P159,Where is the main building of [MASK]?,1,1.020353080969111,1.020353080969111
+11667,P159,Where is the main center of the [MASK]?,1,1.1081532419333857,1.1081532419333857
+11668,P159,Where is the main establishment of [MASK]?,1,,1.0430904082978956
+11669,P159,Where is the main headquarters of the [MASK]?,1,1.1189497510667759,1.1189497510667759
+11672,P159,Where is the main office of the Nelson-Atkins Museum of Art?,1,,1.0422336025605123
+11673,P159,Where is the main site of [MASK]?,1,,0.8965724276106746
+11680,P159,Where is the primary headquarters of [MASK]?,1,1.0311086194145695,1.0311086194145695
+11683,P159,Where is the principal business of [MASK] situated?,1,0.8701924386593359,0.8701924386593364
+11684,P159,Where is the principal headquarters of [MASK]?,1,1.2866026296591173,0.9050178579542335
+11686,P159,Where is the principal residence of [MASK]?,1,0.9131786151276639,0.9131786151276639
+11688,P159,Where was the [MASK] based?,1,1.0117656313839694,1.0117656313839694
+11690,P159,Where was the base of operations for the [MASK]?,1,1.0213716970068227,1.0213716970068227
+11691,P159,Where was the central office of the [MASK]?,1,1.046162848970034,1.046162848970034
+11692,P159,Where was the headquarters of the [MASK]?,1,0.9755210993471439,0.9755210993471439
+11693,P159,Whereabouts is the [MASK] located?,1,1.0080104580699905,1.0080104580699905
+11694,P159,Whereabouts of [MASK]?,1,0.8240119734948134,0.887468021239667
+11695,P159,Which city contains [MASK]'s headquarters?,1,,0.9311746277526717
+11700,P159,Which city is [MASK]'s headquarters?,1,,1.1550130910734333
+11707,P159,Which city is the head office of [MASK]?,1,1.1625988816922959,0.9246276805142986
+11708,P159,Which city serves as the headquarters for the [MASK]?,1,0.908473826761488,0.9084738267614866
+11639,P159,Where is the chief office of [MASK]?,1,,1.0318427279921396
+11637,P159,Where is the central hub of [MASK]?,1,0.9761657224591129,0.9761657224591129
+11634,P159,Where is the center of [MASK] situated?,1,0.9064178598419504,1.007430176206507
+11597,P159,Where is [MASK]'s primary site?,1,1.041561410471232,1.041561410471232
+11135,P159,How can one find [MASK]?,1,,0.9493752338452038
+11581,P159,Where is [MASK] settled?,1,,1.0181568818018605
+11583,P159,Where is [MASK]'s administrative center?,1,0.8845234674782271,0.8845234674782245
+11134,P159,From which city does [MASK] operate?,1,,1.0731866069776899
+11585,P159,Where is [MASK]'s central office?,1,,1.0277949797224524
+11489,P159,What metropolis is the headquarters of [MASK]?,1,1.088780946587919,1.088780946587919
+11587,P159,Where is [MASK]'s corporate headquarters located?,1,,0.9149190012220234
+11133,P159,From where is [MASK] operated?,1,,1.0313821653806923
+11590,P159,Where is [MASK]'s head office situated?,1,1.079622364612636,1.0172936538254018
+11593,P159,Where is [MASK]'s main campus?,1,0.914702614612596,0.914702614612596
+11594,P159,Where is [MASK]'s main country?,1,1.0006656025011658,1.0006656025011658
+11595,P159,Where is [MASK]'s main headquarters?,1,1.0333435362552756,1.0343821997393892
+11596,P159,Where is [MASK]'s main office situated?,1,0.9630170756960217,1.1441702786974586
+11598,P159,Where is [MASK]'s principal place of business?,1,,0.9355086727947712
+11630,P159,Where is the administrative home of [MASK]?,1,,0.9811709588121967
+11599,P159,Where is the Nelson-Atkins Museum of Art situated?,1,,0.9650152052106246
+11132,P159,Could you provide me with the location of the [MASK]?,1,0.9218831069190416,1.0602622104455584
+11129,P159,Can you tell me the home base of the [MASK]?,1,1.2375996559916669,0.9379954176149662
+11606,P159,Where is the [MASK] housed?,1,,1.0577479342365959
+11607,P159,Where is the [MASK] mainly based?,1,1.055545592414359,1.0195311367614466
+11610,P159,Where is the [MASK] organization located?,1,0.9411928757449853,0.9697994103197118
+11611,P159,Where is the [MASK] physically situated?,1,0.8855344322421274,1.033331770556093
+11614,P159,Where is the [MASK]' corporate base?,1,,0.9945541519547504
+11621,P159,Where is the [MASK]'s main office?,1,1.0103522338597408,1.0103522338597408
+11623,P159,Where is the [MASK]'s principle residence?,1,0.9216697149962199,0.9216697149962199
+11624,P159,Where is the abode of [MASK]?,1,,1.0276646263848022
+11626,P159,Where is the administrative base of [MASK]?,1,1.4158831353951264,1.0018738980610442
+11629,P159,Where is the administrative centre of the [MASK] situated?,1,1.2358563890974272,1.0403382077998462
+11490,P159,What metropolitan area houses [MASK]?,1,1.113231695873709,1.113231695873709
+11145,P159,In what city is [MASK] found?,1,0.9264225035484711,1.0896281618419694
+11488,P159,What metropolis is [MASK] headquartered in?,1,1.053850284630363,1.053850284630363
+11300,P159,What is the base of the Nelson-Atkins Museum of Art?,1,,0.8635117262443002
+11259,P159,What city serves as home to [MASK]?,1,0.9141354381467265,0.9370445251283187
+11183,P159,In which city does [MASK] conduct its operations?,1,1.1023845827829968,1.1023845827829968
+11262,P159,What country hosts [MASK]?,1,1.0509221084148297,1.0509221084148297
+11263,P159,What geographical area is the [MASK] located in?,1,0.8093563850146243,0.8596168273350934
+11265,P159,What is [MASK]'s corporate home?,1,,1.0739713469726444
+11266,P159,What is [MASK]'s headquarters address?,1,,1.136000844105838
+11268,P159,What is [MASK]'s headquarters situated in?,1,1.0283503426491898,1.0193273772649398
+11273,P159,What is [MASK]'s main office situated?,1,,1.0137166187778597
+11280,P159,What is the address of [MASK]'s base of operations?,1,,1.0779114080288619
+11180,P159,In which area is the [MASK] situated?,1,0.8023161397819075,0.9094531441428546
+11179,P159,In which area is the [MASK] based?,1,0.9076116821920306,0.9076116821920276
+11177,P159,In what site is [MASK] based?,1,,0.9924650996164819
+11295,P159,What is the area in which [MASK] is headquartered?,1,,1.0514618712295034
+11296,P159,What is the area in which the offices of [MASK] are based?,1,,0.9286089574713811
+11302,P159,What is the center of activity for [MASK]?,1,0.8674178397384426,0.8674178397384426
+11256,P159,What city is the hub of [MASK]?,1,1.1282817072293783,1.1282817072293783
+11304,P159,What is the center point of [MASK]?,1,,1.0189105047620066
+11305,P159,What is the central address of [MASK]?,1,0.8280085125699335,0.8280085125699334
+11306,P159,What is the central base for [MASK]?,1,,0.9993793883792507
+11307,P159,What is the central city of [MASK]?,1,1.057961510552238,1.057961510552238
+11308,P159,What is the central home of [MASK]?,1,0.9220201507901421,0.9220201507901422
+11309,P159,What is the central office for [MASK]?,1,0.9569807249092193,0.9569807249092193
+11312,P159,What is the central position of [MASK]?,1,,1.0969946243362878
+11313,P159,What is the central spot of [MASK]?,1,,0.9069110698758416
+11314,P159,What is the chief city of [MASK]?,1,,0.9283198714828526
+11316,P159,What is the city hosting [MASK]?,1,0.9157372284426043,0.9942459657360695
+11319,P159,What is the city in which the [MASK] resides?,1,0.9502257793842904,1.0852943350973634
+11321,P159,What is the city of [MASK]'s home?,1,0.8804077856905327,0.8804077856905319
+11324,P159,What is the city of operations for [MASK]?,1,1.8285643221184096,1.0874811046503754
+11325,P159,What is the city of origin for the Nelson-Atkins Museum of Art?,1,,0.9667008244444534
+11258,P159,What city is the main offices of [MASK] located in?,1,,1.0395830299334012
+11184,P159,In which city does [MASK] have its central offices?,1,,0.9395745181306813
+11486,P159,What location is the [MASK] based out of?,1,,1.078402954326604
+11220,P159,What city does [MASK] inhabit?,1,1.1722548155929373,1.1722548155929373
+11204,P159,In which locale is [MASK] based?,1,,1.0677549920237204
+11205,P159,In which locale is [MASK] headquartered?,1,1.0829327343248274,1.130666784095312
+11206,P159,In which locale is [MASK] housed?,1,,1.0664094439891676
+11207,P159,In which locale is [MASK] situated?,1,0.9339256579291456,1.099569787608214
+11208,P159,In which locality is the [MASK]'s home base?,1,1.0182525085682386,1.0182525085682386
+11209,P159,In which location is [MASK] based?,1,,1.083416193637897
+11210,P159,In which location is [MASK]' main office?,1,,1.0407645038472346
+11211,P159,In which location is the [MASK] situated?,1,,0.962817435953192
+11212,P159,In which metropolitan area is [MASK] based?,1,1.248352437567747,0.9625078741596099
+11214,P159,In which place is [MASK] headquartered?,1,,0.9499920482646003
+11215,P159,In which place is [MASK] situated?,1,0.9506321782243986,1.0862506975310362
+11216,P159,In which place is the headquarters of [MASK]?,1,0.8714877455265756,0.8828615225736005
+11217,P159,In which town is the [MASK] based?,1,1.0728542133651182,1.0728542133651182
+11198,P159,In which city is the main campus of [MASK] found?,1,1.3878873565172438,0.9458526961379508
+11222,P159,What city has the home campus of [MASK]?,1,1.149644310799687,0.950180292056441
+11185,P159,In which city does [MASK] have its main offices?,1,,0.9740729667350854
+11223,P159,What city holds the main offices of [MASK]?,1,,0.9320015055207905
+11224,P159,What city holds the primary offices of [MASK]?,1,1.916180592007581,0.9637285654703162
+11225,P159,What city houses [MASK]'s headquarters?,1,0.9045273130580443,0.9045273130580432
+11228,P159,What city houses the offices of [MASK]?,1,,0.9362894161325351
+11229,P159,What city is [MASK] anchored in?,1,1.106312211927127,1.106312211927127
+11192,P159,In which city is the Nelson-Atkins Museum of Art located?,1,,1.0262074776978476
+11234,P159,What city is [MASK]'s main headquarters in?,1,0.9287974110667155,0.9287974110666978
+11235,P159,What city is headquarters of [MASK] located in?,1,1.1759772003838835,0.9964677751531507
+11237,P159,What city is home to [MASK]'s main campus?,1,1.3903229228218668,0.9371208516518594
+11238,P159,What city is home to the offices of [MASK]?,1,,0.9226760893092307
+11188,P159,In which city is [MASK] housed?,1,1.1244312184590626,1.1244312184590626
+11187,P159,In which city does the [MASK] have its headquarters?,1,1.3237448844454953,0.9913870529172165
+11186,P159,In which city does [MASK] have their corporate offices?,1,0.8998898152785889,0.9272409882183917
+11248,P159,What city is the center of [MASK]?,1,,0.9116778305860729
+11326,P159,What is the city of origin for the [MASK]?,1,0.8777177156280088,0.9768286280783597
+11173,P159,In what location is the home base of [MASK]?,1,0.9238739129293299,1.1129905373115496
+11336,P159,What is the city that is home to the [MASK]?,1,,1.0639519367538113
+11443,P159,What is the origin point of the [MASK]?,1,,1.009361174980296
+11409,P159,What is the location of the corporate offices for [MASK]?,1,,1.0694021281260666
+11410,P159,What is the location of the home office of [MASK]?,1,,1.0021722766600532
+11160,P159,In what city was the [MASK] headquartered?,1,1.0487381982864648,1.0487381982864648
+11413,P159,What is the location of the office for [MASK]?,1,,0.9018122848819666
+11414,P159,What is the main address for [MASK]?,1,,0.9264357868878593
+11158,P159,In what city is the main campus of [MASK] located?,1,1.0007535608848428,1.0156200005511788
+11421,P159,What is the main city associated with [MASK]?,1,1.3658562718257312,0.9924216496211907
+11425,P159,What is the main city that [MASK] is based in?,1,1.0343079782118159,1.0343079782118159
+11427,P159,What is the main city that the [MASK] is found in?,1,0.9174424484427912,1.0040378448718144
+11431,P159,What is the main location for [MASK]?,1,,1.0469147456928045
+11438,P159,What is the major city for [MASK]?,1,1.0329014097434601,0.9572226822895185
+11439,P159,What is the nation of origin for [MASK]?,1,1.2857634170917283,1.2857634170917283
+11440,P159,What is the official address of [MASK]?,1,0.8300030456020312,0.8300030456020313
+11152,P159,In what city is the [MASK] principally based?,1,,0.942546954165039
+11151,P159,In what city is the [MASK] headquarters based?,1,0.928508838276738,1.1153347848869166
+11337,P159,What is the city that is the home of [MASK]'s corporate offices?,1,0.9217421810740901,1.1071966103399187
+11148,P159,In what city is [MASK]'s main office?,1,1.0357548905753,1.0357548905753
+11453,P159,What is the postal address of [MASK]?,1,,0.8298335437438961
+11454,P159,What is the primary address of [MASK]?,1,0.8998797277248962,0.8998797277248962
+11455,P159,What is the primary city for [MASK]'s corporate headquarters?,1,0.9330317075152427,1.1208995471834733
+11457,P159,What is the primary city that [MASK] is based in?,1,1.2481220941232352,0.9676985341201244
+11461,P159,What is the primary home of the [MASK]?,1,0.9528900049151079,1.0848595052362244
+11462,P159,What is the primary location of [MASK]'s corporate offices?,1,1.0770022635468546,1.0428018653676323
+11463,P159,What is the primary nation for [MASK]?,1,1.0420979988367691,1.0420979988367691
+11468,P159,What is the principal address of [MASK]?,1,0.8468558774790805,0.9181622384425562
+11471,P159,What is the principal location of [MASK]?,1,,1.1225122189750312
+11202,P159,In which locale does [MASK] have its base of operations?,1,0.9427614134056801,0.9427614134056801
+11482,P159,What is the situated location of [MASK]?,1,0.9354025948691854,1.020593282447862
+11483,P159,What locality is [MASK] based in?,1,0.9358070819595578,1.1273664213200794
+11484,P159,What location does the [MASK] maintain its headquarters?,1,0.8770060037235994,0.9450802892584053
+11161,P159,In what community is [MASK] situated?,1,0.8918890925801297,1.0026576042358168
+11163,P159,In what geographic area is the [MASK] located?,1,1.1262192464142202,1.1262192464142202
+11397,P159,What is the locality of [MASK]?,1,,0.9829172247177805
+11164,P159,In what locale does [MASK] reside?,1,0.9125359249222611,0.9244454213101824
+11339,P159,What is the city where [MASK] operates from?,1,,0.9265097656338342
+11340,P159,What is the city where the [MASK] has its headquarters?,1,0.975436689084581,1.0794674997656128
+11170,P159,In what location is [MASK] headquartered?,1,0.8513728049247199,0.8513728049247189
+11344,P159,What is the company headquarters of [MASK]?,1,1.2745085547777162,0.9335979864548142
+11345,P159,What is the core city of [MASK]?,1,1.0825923997427522,1.0825923997427522
+11346,P159,What is the core location of the [MASK]?,1,,1.0236445345582146
+11347,P159,What is the core residence of [MASK]?,1,,1.0769371772979135
+11348,P159,What is the corporate center of [MASK]?,1,0.8848733268925018,0.884873326892499
+11349,P159,What is the country or city where [MASK] is headquartered?,1,,0.9410148257414712
+11169,P159,In what location is [MASK] centered?,1,0.9108677675334549,0.9108677675334549
+11168,P159,In what location does the [MASK] reside?,1,,1.0833560861234521
+11352,P159,What is the focal area of [MASK]?,1,,0.9386609111563592
+11353,P159,What is the geographic area of [MASK]?,1,0.9186992284304838,1.0804995518013087
+11357,P159,What is the geographic location of [MASK]'s corporate headquarters?,1,,0.9330169150986738
+11167,P159,In what location can the [MASK] be found?,1,,0.8848769434107656
+11166,P159,In what locale is [MASK]'s corporate office?,1,,0.9510080371295743
+11362,P159,What is the geographical area of [MASK]'s office?,1,,0.9936533401021732
+11364,P159,What is the geographical center of the [MASK]?,1,0.8849100334270821,0.8678222816195283
+11369,P159,What is the geographical setting of [MASK]?,1,0.8475508317934652,0.8475508317934654
+11371,P159,What is the global headquarters of the [MASK]?,1,1.0233480330073195,1.0233480330073195
+11377,P159,What is the headquarters of the Nelson-Atkins Museum of Art?,1,,1.0495780010115243
+11381,P159,What is the home nation of [MASK]?,1,1.1990437963208946,1.1990437963208946
+11384,P159,What is the home site of [MASK]?,1,,0.8974712608254479
+11385,P159,What is the home town of the [MASK]?,1,1.0129948442942482,1.0129948442942482
+11386,P159,What is the home turf of [MASK]?,1,1.7668356271639898,0.874050409755327
+11165,P159,In what locale is [MASK] centered?,1,0.8832070217369044,0.9850324250582952
+11392,P159,What is the hub for [MASK]?,1,0.8882522330264794,0.8882522330264794
+11394,P159,What is the key site for [MASK]?,1,,1.0646702890330375
+11395,P159,What is the locale of [MASK]?,1,0.9445644553021655,0.9945550596426945
+11709,P159,Which city serves as the home of the [MASK]?,1,1.196962093512273,1.0441214547922721

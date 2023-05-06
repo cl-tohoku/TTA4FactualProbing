@@ -12,3 +12,8 @@
 /analysis/img/
 /analysis/table/
 /abci.sh
+/gpt3.tmp.pkl
+/real_degree_*
+/mindegree_dictionary.pkl
+__pycache__
+/analysis/md/*

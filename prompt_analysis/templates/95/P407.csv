@@ -1,0 +1,817 @@
+,p,template,fact_id,effect_gold,effect_top
+18327,P407,In what language does [MASK] communicate?,68,1.0744099884424678,1.052675236001861
+18548,P407,What is the verbal language of [MASK]?,65,,1.049688938224216
+19058,P407,What language does [MASK] speak in?,55,,1.0413336264806572
+18747,P407,What form of language does the [MASK] employ?,49,1.4125834626018836,1.0234118369977228
+18332,P407,What is the language [MASK] speaks?,46,,1.0542052952845231
+19073,P407,What language does the magazine [MASK] utilize?,44,,1.0184038604623207
+18339,P407,What language does [MASK] converse in?,41,,1.0414574764038227
+18331,P407,What is [MASK]'s native language?,37,1.1877042091248746,1.0587611067391969
+18329,P407,What words does [MASK] use?,34,0.8544518157850878,0.8708561982218065
+19107,P407,What language is spoken by the people of [MASK]?,33,,1.0174381414472211
+18345,P407,What is the language employed by [MASK]?,32,1.0328487720437394,1.046075265077787
+18346,P407,In what language is [MASK] written?,32,1.6800730991468535,1.0499390585132915
+18333,P407,What tongue does [MASK] speak?,28,1.0539750406086235,1.0471896810291914
+18984,P407,What is the verbal language used by [MASK]?,28,,1.0350552396387314
+19119,P407,What language is utilized by the [MASK]?,26,,1.0240610575078462
+18337,P407,What tongue does [MASK] employ?,25,1.04679243108249,1.0491537811996583
+18334,P407,What is [MASK]'s language of choice?,25,,1.0468337104941183
+18358,P407,What is the language [MASK] employs?,22,,1.0163761469405703
+18335,P407,What dialect does [MASK] speak?,22,0.9256157478188959,0.9600119904833272
+18342,P407,What language is [MASK] conversant in?,21,1.0024152099899382,1.018839227615335
+18357,P407,What verbal expression does [MASK] use?,17,,0.8645820760252105
+18384,P407,What is the language spoken in [MASK]?,17,,1.0436861663806645
+18352,P407,What is the language [MASK] uses?,17,,1.0244866591540718
+18348,P407,In which language does [MASK] communicate?,17,1.0072241748970912,1.031242857120227
+18363,P407,In what tongue does [MASK] communicate?,16,1.1654124182651269,1.0415807255308063
+19032,P407,What kind of verbal language is utilized in [MASK]?,16,,1.064281927198993
+18349,P407,What dialect does [MASK] use?,15,0.9771764253473924,0.9928158942081363
+18344,P407,What is [MASK]'s primary language?,15,1.0787849466714925,1.0552356289768372
+18347,P407,What dialect does [MASK] employ?,15,,0.9587211777945036
+18351,P407,What verbal communication does [MASK] employ?,15,0.9462166107239721,0.9634792483478141
+18354,P407,What tongue does [MASK] use?,13,1.1326816927233234,0.9682070273985328
+18376,P407,What language is [MASK] familiar with?,13,,1.0235463165197254
+18413,P407,What is the language [MASK] is using?,13,1.0208071880664884,1.019913794776882
+18403,P407,What tongue is [MASK] written in?,12,0.999502934291726,1.0410901213670065
+18366,P407,What language does [MASK] articulate?,12,,0.9438325072936306
+18416,P407,What language is [MASK] fluent in?,12,1.0084412380159333,1.008470576516355
+18417,P407,What language is [MASK] speaking?,12,0.9398825761339257,1.015111626639083
+18397,P407,What is the tongue [MASK] speaks?,12,1.0125954833817903,0.9882092456703688
+18355,P407,What dialect is spoken by [MASK]?,12,,1.0095679177519405
+18356,P407,What tongue does [MASK] utilize?,12,1.0080647221037922,1.0001071726233912
+18390,P407,What tongue is spoken by [MASK]?,11,0.9775941062763707,1.055535896976538
+18409,P407,In what language is [MASK] composed?,11,,1.0557130186566765
+18419,P407,What language is [MASK] utilizing?,11,,1.0222641145317135
+18369,P407,Which language does [MASK] use?,11,0.9946731997089362,1.0513376085259922
+18405,P407,What verbal communication does [MASK] use?,10,,1.010994880778818
+18359,P407,What language does [MASK] understand?,10,1.0353558878749705,1.0327613205373358
+18386,P407,What language does [MASK] express himself in?,10,1.0826697999541728,1.0582178652472958
+18368,P407,What type of language does [MASK] use?,10,1.0212012102237318,1.035203084096873
+18400,P407,What language is [MASK] proficient in?,10,0.9800229419738606,0.998561853641403
+18410,P407,In what language is [MASK] expressed?,10,1.0012236945358362,1.0144649290002083
+18420,P407,What language is employed in the [MASK]?,10,,1.0111094536423038
+18392,P407,Which language does [MASK] employ?,9,1.052950537646388,1.0259770286151866
+18365,P407,What kind of language does [MASK] use?,9,1.0681396594806902,1.026295765546633
+18372,P407,What is the language [MASK] converses in?,9,0.9572675953416598,0.9901703125158439
+18462,P407,What is the lingo used in [MASK]?,9,0.9137365598554053,0.9227346721302985
+18404,P407,What tongue is utilized by [MASK]?,9,1.0137405358870526,1.041108432550921
+18395,P407,What idiom does [MASK] employ?,9,2.15660024170582,0.9468908203343288
+18378,P407,What tongue is spoken in [MASK]?,8,0.9512391181789822,0.9936087422977691
+18380,P407,What dialect is employed by [MASK]?,8,0.9795125866372849,1.0292986950147298
+18381,P407,What form of communication does [MASK] employ?,8,0.9752450497936271,0.9231136940630047
+18370,P407,What form of communication does [MASK] utilize?,8,0.9075585806968798,0.9414438820620752
+18382,P407,What idiom does [MASK] use?,8,0.9815797160347365,0.9920907552199243
+18393,P407,What dialect does [MASK] utilize?,8,0.9812306719370549,0.9714651174418152
+18391,P407,What verbal expression does [MASK] utilize?,8,,0.9063196781841997
+18438,P407,What verbal communication does [MASK] utilize?,7,1.018321688991623,0.9730524405167013
+18468,P407,What is the verbal communication used by [MASK]?,7,0.943283679189089,0.9592406182345509
+18406,P407,What verbal language does [MASK] use?,7,1.075637702290943,1.0258371479725061
+18385,P407,What is the lingo of [MASK]?,7,0.9562474499679474,0.9448108853324756
+18399,P407,What is the vernacular of [MASK]?,7,0.9420339593211081,0.9321714735211012
+18379,P407,What dialect does [MASK] communicate in?,7,1.0835990910345037,1.0178311706167098
+18387,P407,What language does [MASK] use to communicate?,7,1.0036012841177706,1.0090908223055355
+18383,P407,What is [MASK]'s native tongue?,7,1.0269593377003945,0.9935562298009716
+18412,P407,What is [MASK]'s verbal expression?,7,0.8728799242848189,0.857043794460645
+18465,P407,What is the native tongue of [MASK]?,6,,1.0008481944069392
+18459,P407,What is the language used for [MASK]?,6,0.957094008143457,1.033186832973562
+18449,P407,What form of communication is used by [MASK]?,6,,0.9579251161474164
+18402,P407,What lingo does [MASK] use?,6,0.9163874120708098,0.9661193856549718
+18491,P407,Which language is [MASK] written in?,6,1.4967155182152432,1.0403294871448205
+18408,P407,What words does [MASK] speak?,6,0.968381463437652,0.9607784981476678
+18415,P407,What language does [MASK] practice?,6,1.0228561899368587,1.0226112654409891
+18394,P407,What dialect is used in [MASK]?,6,1.0066197416322586,0.9950472490526804
+18431,P407,What is the verbal communication of [MASK]?,6,,0.9445314118871942
+18428,P407,What is the language used in [MASK]?,6,1.1091856323718376,1.048890975435377
+18426,P407,What form of speech does [MASK] use?,6,1.130567312951025,0.9780505507649844
+18567,P407,What language does the [MASK] use?,5,1.1271980558129737,1.0447576870855584
+18589,P407,What speech does [MASK] utilize?,5,,0.962243034402493
+18471,P407,What is the verbal idiom of [MASK]?,5,0.9000987929449117,0.9000987929449116
+18521,P407,What is the dialect of [MASK]?,5,,0.872906616746263
+18423,P407,What verbal form does [MASK] employ?,5,0.8734651588543294,0.8734651588543286
+18453,P407,What idiom does [MASK] utilize?,5,0.9581954142196164,0.94300047187306
+18435,P407,What tongue is [MASK] composed in?,5,1.0573942461493073,1.0619004674525168
+18411,P407,In which language does [MASK] converse?,5,0.95035480301502,1.0441475422128632
+18429,P407,What is the linguistic form of [MASK]?,5,0.9939132228368475,0.9113121467880078
+18432,P407,What language does [MASK] have command of?,5,1.017296063148048,1.0745014596214368
+18433,P407,What language does [MASK] make use of?,5,1.0181884979902247,1.0233947514944328
+18434,P407,What sort of language does [MASK] use?,5,1.177464557694084,0.9840778256608882
+18485,P407,What verbal form is employed by [MASK]?,5,,0.8738724938472086
+18444,P407,Which language does [MASK] utilize?,5,0.941553957210888,1.0248053917964413
+18452,P407,What idiom does [MASK] speak?,5,,1.0542744402001092
+18576,P407,What lingo is employed by [MASK]?,4,,0.9436532677117144
+18690,P407,What communication does [MASK] understand?,4,,0.9918904655801716
+18608,P407,What verbal communication is utilized by [MASK]?,4,,1.0016050246851624
+18563,P407,What language does [MASK] rely on?,4,,1.0598908150838529
+18726,P407,What does [MASK] verbalize?,4,,0.9499658056735444
+18562,P407,What language does [MASK] know?,4,1.0110974496015255,1.0258844714940856
+18597,P407,What tongue is utilized in [MASK]?,4,,0.9558627011128427
+18537,P407,What is the linguistic medium of [MASK]?,4,1.0677032957880384,1.0542436961381045
+18599,P407,What type of communication does [MASK] utilize?,4,,0.8969335054658347
+18494,P407,In what language is [MASK] conversing?,4,0.9997018012334681,1.0126119822386683
+18610,P407,What verbal expression does [MASK] employ?,4,0.8975345283842318,0.8933180630129435
+18492,P407,Which language is employed by [MASK]?,4,1.0311966064484892,1.0623051347529557
+18476,P407,What style of communication does [MASK] use?,4,,0.9030640885276547
+18448,P407,What form of communication does [MASK] use?,4,0.9950827613628159,0.9950827613628149
+18480,P407,What tongue is employed by [MASK]?,4,,1.0313974598616586
+18450,P407,What form of expression does [MASK] employ?,4,,0.8916422641916646
+18483,P407,What type of verbal communication is utilized in [MASK]?,4,,0.9149307362014728
+18439,P407,What verbal form does [MASK] use?,4,0.8541742068606477,0.8541742068606474
+18440,P407,What words does [MASK] employ?,4,0.9129180877836648,0.9056233090784067
+18457,P407,What is the language [MASK] utilizes?,4,1.0076516270113254,0.9787361741341799
+18464,P407,What is the mode of communication used by [MASK]?,4,0.8837556581658159,0.8837556581658152
+18425,P407,What dialect is used by [MASK]?,4,1.0326076819745018,1.117811326260978
+18469,P407,What is the verbal expression of [MASK]?,4,0.790870884372243,0.790870884372243
+18477,P407,What tongue does [MASK] articulate?,4,0.9675338825612532,0.9735860114802879
+18441,P407,What words does [MASK] use to communicate?,4,0.9082694809434535,0.9082694809434533
+18487,P407,What words does [MASK] express?,4,,0.8775408715914614
+18442,P407,What words does [MASK] utilize?,4,0.8882401331909126,0.8959769099849855
+18570,P407,What language is associated with [MASK]?,3,1.030338268296266,1.087739407747624
+18586,P407,What mode of communication is used in [MASK]?,3,0.9247260512188173,0.9240263711753393
+18447,P407,What dialect is [MASK] conversant in?,3,0.9625533788205822,0.9625533788205822
+18577,P407,What lingo is used by [MASK]?,3,0.8523132708224809,0.8523132708224809
+18578,P407,What linguistic expression does [MASK] employ?,3,0.9426297917095282,0.942629791709528
+18470,P407,What is the verbal form of [MASK]?,3,0.8317847962748798,0.8317847962748798
+18963,P407,What is the verbal communication employed by [MASK]?,3,0.9241960446930793,0.9241960446930793
+18489,P407,Which language does [MASK] speak?,3,0.994838588707671,1.1197746851561337
+18584,P407,What mode of communication does [MASK] use?,3,,0.8952801733350227
+18585,P407,What mode of communication does [MASK] utilize?,3,,0.9452580823258508
+18488,P407,What words does [MASK] utter?,3,0.79841515883961,0.8166299904047358
+18587,P407,What mode of expression does [MASK] use?,3,0.9154927803558833,0.892513113571523
+18603,P407,What type of speech does [MASK] employ?,3,0.9968696610443374,0.9783668296218337
+18615,P407,What vernacular does [MASK] utilize?,3,,0.9748825607013227
+18454,P407,What is [MASK]'s linguistic background?,3,0.9625705273970006,0.8961490597722962
+18622,P407,Which language is spoken in the [MASK]?,3,1.0106503579558068,1.0106503579558068
+18455,P407,What is the idiom that [MASK] utilizes?,3,0.8836664264281819,0.8836664264281819
+18456,P407,What is the idiom used by [MASK]?,3,0.8323399587485021,0.8835540152984973
+18768,P407,What idiom is [MASK] written in?,3,,0.9828876228557784
+18602,P407,What type of language is used in [MASK]?,3,1.0508649681871238,1.0724416093842741
+18463,P407,What is the lingua franca of [MASK]?,3,0.9417153350736549,0.9008276187773685
+18600,P407,What type of language is [MASK] using?,3,,1.0580829610888791
+18461,P407,What is the lingo that [MASK] speaks?,3,0.9707591888746849,1.0143593039714414
+18596,P407,What tongue is used for [MASK]?,3,0.9714233711147191,1.0035119739404716
+18594,P407,What tongue is employed for [MASK]?,3,1.1267734726760754,1.1267734726760754
+18593,P407,What tongue is [MASK] expressed in?,3,1.0047483444448166,1.0620653983606074
+18592,P407,What tongue does [MASK] converse in?,3,,1.0110130284314152
+18591,P407,What terms does [MASK] employ?,3,0.8377650554782914,0.8377650554782913
+18620,P407,Which language does [MASK] express himself in?,3,1.0405701213089793,1.0316326016574533
+18536,P407,What is the linguistic form used in [MASK]?,3,,0.9353988363956777
+18496,P407,In what language is [MASK] published?,3,,1.0087538597727899
+18512,P407,What form of speech is used by [MASK]?,3,,1.0123881074268006
+18518,P407,What is [MASK]'s lingo?,3,0.9450774109861068,0.9542472598359016
+18506,P407,What dialect is employed in [MASK]?,3,,0.9188142287762672
+18520,P407,What is the dialect [MASK] speaks?,3,0.9540062147169794,0.9321937870356835
+18917,P407,What is the linguistic system for [MASK]?,3,0.8605368278264599,0.9598302152517707
+18524,P407,What is the idiom [MASK] speaks?,3,,1.0348080222930796
+18526,P407,What is the language [MASK] communicates in?,3,,0.9786012026481102
+18836,P407,What is the idiom [MASK] uses?,3,0.8881222797999215,0.9395613627114208
+18535,P407,What is the lingo utilized by [MASK]?,3,,0.8598009714227915
+18507,P407,What dialect is utilized in [MASK]?,3,0.9873281820585387,0.9873281820585386
+18511,P407,What form of expression is used in [MASK]?,3,,0.9786470843516447
+18479,P407,What tongue is [MASK] utilizing?,3,1.1011728128639842,1.093593478645374
+18538,P407,What is the mother tongue of [MASK]?,3,,0.9753590389178334
+18541,P407,What is the tongue that [MASK] uses?,3,,0.926662324382859
+18693,P407,What communication is [MASK] utilizing?,3,0.9077654034226436,0.9077654034226433
+18484,P407,What verbal expression is employed by [MASK]?,3,0.8248703809348938,0.9721604178420581
+18493,P407,Which tongue does [MASK] employ?,3,1.0374706495303165,1.060886453992023
+18546,P407,What is the verbal expression used by [MASK]?,3,,0.9028264675017522
+19067,P407,What language does the Medical Sciences Department of the Serbian Academy of Sciences and Arts employ?,3,0.9920631308192954,1.0099124040391
+18490,P407,Which language is [MASK] fluent in?,3,1.0763141160792902,1.001321963083101
+18556,P407,What kind of language is employed in [MASK]?,3,1.0263760638657864,1.0786864569496732
+19061,P407,What language does [MASK] use to express herself?,2,,1.0752317004500647
+18664,P407,In what tongue is [MASK] published?,2,,1.0384360002273931
+19133,P407,What lingo does [MASK] utilize?,2,,0.9702407074388661
+18668,P407,In what vernacular does [MASK] communicate?,2,,1.05744963293956
+18996,P407,What is the vernacular [MASK] speaks?,2,,0.94083260955267
+18719,P407,What dialogue is used in [MASK]?,2,0.8446553627492668,0.8446553627492671
+19039,P407,What language do people in [MASK] use?,2,,1.0387858637900578
+18676,P407,In which language is the [MASK] composed?,2,,1.0560192447977594
+18741,P407,What form of expression does [MASK] utilize?,2,,0.9033115258588729
+19015,P407,What kind of language is featured in [MASK]?,2,,1.10418095387307
+18739,P407,What form of communication is utilized by [MASK]?,2,0.9885667835826293,0.9885667835826293
+18736,P407,What form of communication is employed in [MASK]?,2,,0.9100897806026187
+19405,P407,What verbal vernacular is [MASK] familiar with?,2,0.9240034711658687,0.9240034711658687
+19155,P407,What linguistic form does [MASK] use?,2,0.9432604245752869,0.8948115194721683
+19174,P407,What manner of communication does [MASK] employ?,2,,0.7688073460133854
+19172,P407,What linguistic varieties does [MASK] utilize?,2,1.9168110608419195,1.2208528099701705
+19036,P407,What language did the [MASK] utilize?,2,,1.0541119525900768
+19034,P407,What kind of words are used in [MASK]?,2,,0.9199654722271499
+18708,P407,What dialect is [MASK]'s mother tongue?,2,1.2980780305424156,1.0273820423757412
+18776,P407,What is [MASK] articulate in?,2,0.8605071094407484,0.8618965567896482
+19397,P407,What verbal style is used in [MASK]?,2,0.8825642657610271,0.8825642657610271
+18755,P407,What form of speech is used in [MASK]?,2,1.2859149888676467,1.0052626963397873
+19131,P407,What lingo does [MASK] employ?,2,,0.898706325885872
+18889,P407,What is the language utilized for the [MASK]?,2,,0.9444781616842947
+18886,P407,"What is the language used by the Korean nurse, Taehan kanho?",2,1.026895207465319,1.0605853652892985
+18898,P407,What is the lingo employed in the [MASK]?,2,0.9313636298848474,0.9313636298848474
+18881,P407,What is the language that [MASK] is communicating in?,2,,1.0277981083584977
+18871,P407,What is the language of the Republic of Armenia's brief guide-dictionary of physico-geographical objects?,2,0.9261776872987572,0.9261776872987572
+18865,P407,What is the language of communication for the Medical Sciences Department of the Serbian Academy of Sciences and Arts?,2,0.9583381909865496,1.0285280570572906
+19250,P407,What speech is spoken by [MASK]?,2,,1.0733828487320625
+19321,P407,What type of language is employed by [MASK]?,2,,1.075168202880405
+19228,P407,What sort of language is used in [MASK]?,2,,0.9707010644101333
+18820,P407,What is the dialect [MASK] uses?,2,,0.9171468066692285
+18819,P407,What is the dialect [MASK] talks?,2,,0.8742926097301016
+19337,P407,What type of verbal communication is used in [MASK]?,2,,1.002694929767987
+18816,P407,What is the communication method of [MASK]?,2,0.8716057169767044,0.8828903334010382
+19342,P407,What type of vernacular does [MASK] use?,2,2.0422902028547845,1.049153037314161
+18798,P407,What is [MASK]'s preferred verbal communication?,2,,0.834572230942971
+18953,P407,What is the tongue that [MASK] is familiar with?,2,1.2952526394901944,1.0002452195370062
+18794,P407,What is [MASK]'s mode of expression?,2,0.855221191436258,0.855221191436258
+18954,P407,What is the tongue used by [MASK]?,2,1.0084101184047691,1.0220439560544152
+18792,P407,What is [MASK]'s mode of communication?,2,0.8800207732618137,0.880020773261813
+18957,P407,What is the type of verbal articulation [MASK] use?,2,,0.8375181765734152
+19363,P407,What verbal expression does [MASK] communicate in?,2,0.9080326866247099,0.9080326866246888
+18960,P407,What is the verbal communication [MASK] speaks?,2,,0.9612249563258018
+19209,P407,What mode of speech does [MASK] speak?,2,,1.0801865717612127
+18774,P407,What idiom is utilized in [MASK]?,2,0.9488670494038699,0.9488670494038699
+18770,P407,What idiom is employed in [MASK]?,2,,1.0807240719267939
+18769,P407,What idiom is employed by [MASK]?,2,,1.0076196238600788
+19198,P407,What mode of communication is utilized by [MASK]?,2,,0.8545675210686421
+19190,P407,What method of communication does [MASK] employ?,2,0.86604835264646,0.8660483526464597
+18659,P407,In what manner of speech is the [MASK] written?,2,0.9197871048240462,0.9197871048240451
+18616,P407,What vocabulary does [MASK] use?,2,1.097976979612085,1.0910197646374895
+19129,P407,What lingo does [MASK] communicate in?,2,,0.9883322209023724
+18550,P407,What is the verbal style of [MASK]?,2,0.9210729733082892,0.925630086507621
+18619,P407,What words does [MASK] communicate with?,2,1.0886473684516567,1.0886473684516567
+18551,P407,What is the vernacular used by [MASK]?,2,0.9583613757189597,0.9583613757189597
+18621,P407,Which language is [MASK] proficient in?,2,0.928036479528589,1.0296854009992418
+18623,P407,Which language is used in [MASK]?,2,1.058391630997488,1.0239400257183107
+18624,P407,Which language is utilized by [MASK]?,2,0.97699489566662,1.1458565048345053
+18625,P407,Which language is utilized in [MASK]?,2,0.9307628532552251,1.077363798876045
+18549,P407,What is the verbal medium of [MASK]?,2,1.0587574808244398,1.0587574808244398
+18617,P407,What vocalization does [MASK] employ?,2,0.8377201333143134,0.8377201333143132
+18626,P407,How does [MASK] communicate orally?,2,,1.0380302499847787
+18545,P407,What is the verbal expression [MASK] uses?,2,0.8662587064391047,0.8662587064391044
+18543,P407,What is the verbal communication [MASK] employs?,2,0.8573878117263729,0.9066392578269946
+18540,P407,What is the tongue employed in [MASK]?,2,0.8406479730713592,0.8406479730713592
+18568,P407,What language is [MASK] comfortable with?,2,0.9993271164910611,0.9987935698818655
+18530,P407,What is the language [MASK] talks in?,2,,1.0239724164990842
+18618,P407,What words are used by [MASK]?,2,0.8314135853970189,0.8641768843112971
+18614,P407,What vernacular does [MASK] employ?,2,1.1368098687934536,1.0673136753573
+18634,P407,In what idiom is [MASK] expressed?,2,1.0421365424066291,1.0421365424066291
+18581,P407,What linguistic system does [MASK] employ?,2,0.8626719769252692,0.9542117963179757
+18579,P407,What linguistic form does [MASK] employ?,2,0.8772740953490071,0.8772740953490071
+18580,P407,What linguistic form is used by [MASK]?,2,0.8840129934575292,0.8840129934575293
+18565,P407,What language does [MASK] utter?,2,1.024170632125382,1.024170632125382
+18564,P407,What language does [MASK] talk in?,2,0.9722446945323793,1.1487369562472673
+18561,P407,What language does [MASK] have proficiency in?,2,0.9774073293278891,1.0996195013869405
+18560,P407,What language does [MASK] have fluency in?,2,1.435226945957533,0.9492456509999976
+18557,P407,What kind of language is spoken in [MASK]?,2,,1.0408021260227664
+18611,P407,What verbal expression does [MASK] practice?,2,1.0552265852296119,0.8593103097514656
+18582,P407,What linguistic system does [MASK] utilize?,2,1.0180928652026955,1.1375052524139153
+19127,P407,What language was utilized during the [MASK]?,2,1.0650352357939952,1.0021901339346733
+18552,P407,What jargon is [MASK] utilizing?,2,0.9062220152436852,0.9062220152436852
+18583,P407,What manner of speaking does [MASK] employ?,2,0.8751483139981523,0.8751483139981523
+18590,P407,What style of speaking does [MASK] use?,2,0.8784085881478512,0.9682256045819702
+18606,P407,What verbal communication is [MASK] using?,2,,1.0290480003992084
+18523,P407,What is the form of communication employed by [MASK]?,2,0.9309438050660238,0.9336238912516521
+19094,P407,What language is employed in Paulys Realencyclopedia of Classical Antiquity?,2,0.9386601412159006,1.099562387162813
+18575,P407,What lingo is [MASK] speaking?,2,1.1039154840661634,1.1039154840661634
+18502,P407,What dialect does [MASK] talk?,2,,0.9758006051988096
+18519,P407,What is [MASK]'s preferred language?,2,1.0538075259028234,1.0538075259028234
+18522,P407,What is the dialect uttered by [MASK]?,2,,0.980246578249262
+18510,P407,What form of expression does [MASK] use?,2,0.9824974922293865,0.9875304323093931
+19124,P407,What language was spoken during the [MASK]?,2,0.9030475063023239,0.9938553036228939
+18504,P407,What dialect is [MASK] familiar with?,2,0.971126937566219,0.9478354640852722
+18503,P407,What dialect is [MASK] accustomed to speaking?,2,6.345032032563637,0.8454046277495095
+19473,P407,Which language is implemented in [MASK]?,2,0.9848307325763193,0.9848307325763193
+18500,P407,In which tongue does [MASK] communicate?,2,1.0961482818580954,1.0961482818580954
+18651,P407,In what language is the [MASK] presented?,2,,1.0661847708483392
+18653,P407,In what lingo does [MASK] express himself?,2,3.045236466597081,0.8753982082831127
+18505,P407,What dialect is [MASK] written in?,2,0.8843909131135725,0.926677698715533
+18517,P407,What is [MASK]'s first language?,2,1.0980715246871195,1.0854465202147108
+19218,P407,What phraseology does the [MASK] utilize?,1,0.8667721351273231,0.8667721351273231
+19262,P407,What terminology is used in [MASK]?,1,,0.8973139914809724
+19219,P407,What phrases are used by [MASK]?,1,,0.8441771941661157
+19217,P407,What phraseology does [MASK] employ?,1,0.8828665592302788,0.8828665592302788
+19215,P407,What particular language does [MASK] use?,1,,0.8886064712845904
+19214,P407,What parlance is spoken by [MASK]?,1,1.0422097169356883,1.0422097169356883
+19265,P407,What terms does [MASK] use?,1,0.8852192096170143,0.8852192096169716
+19263,P407,What terms are utilized in the [MASK]?,1,0.9271229495498092,1.1288357831747533
+19264,P407,What terms does [MASK] communicate in?,1,1.0225093012635336,1.0225093012635336
+19221,P407,What phrasing is utilized by [MASK]?,1,0.8330347586552513,0.8330347586552513
+19266,P407,What terms is [MASK] employing?,1,0.8481623088122683,0.8481623088122683
+19267,P407,What terms is [MASK] utilizing?,1,0.8771887821679787,0.8771887821679752
+19268,P407,What tongue do [MASK]'s words take?,1,0.8993396941064863,1.0034659703988782
+19213,P407,What mouthpiece does [MASK] use?,1,0.8576816107883752,0.8576816107883752
+19269,P407,What tongue do students speak at [MASK]?,1,0.938620978870926,1.1220713526378063
+19220,P407,What phrases do [MASK] practitioners employ?,1,,0.8759523543476762
+19241,P407,What speech do [MASK]s rely on?,1,0.9382163852688558,1.0691003616576913
+19222,P407,What rhetoric does [MASK] practice?,1,0.9108246391866804,0.9108246391866758
+19247,P407,What speech is [MASK] conversing with?,1,1.086916747039958,1.086916747039958
+19242,P407,What speech does [MASK] communicate in?,1,0.8774223722608192,0.8774223722608192
+19239,P407,What sound does [MASK] make?,1,0.8151326611035847,0.8151326611035847
+19237,P407,What sort of verbal communication is employed in [MASK]s?,1,,0.9288893549451233
+19244,P407,What speech does [MASK] practice?,1,,0.8579524910302806
+19236,P407,What sort of verbal communication does [MASK] engage in?,1,0.8561998686114766,0.8561998686114766
+19235,P407,What sort of speech is [MASK] utilizing?,1,1.0648317172568484,1.0648317172568484
+19234,P407,What sort of speech does [MASK] use?,1,,0.8259355473288678
+19231,P407,What sort of language is utilized by [MASK]?,1,1.0691388186674116,1.0691388186674116
+19246,P407,What speech does the [MASK] use?,1,1.0404615643891262,1.0404615643891262
+19230,P407,What sort of language is used to express [MASK]s?,1,,0.9076033748975617
+19227,P407,What sort of language is employed by [MASK]?,1,,1.0472269898046171
+19240,P407,What speech did the [MASK] use?,1,0.8723750849288147,1.0377364773435462
+19248,P407,What speech is [MASK] employing?,1,1.0454939894338104,1.0454939894338104
+19249,P407,What speech is employed in [MASK]?,1,,0.9998671704729649
+19226,P407,What sort of language is [MASK] using?,1,0.9655445736757048,0.9218867700141893
+19224,P407,What script does the [MASK] employ?,1,0.8618915420541042,0.8618915420541042
+19254,P407,What style of speaking does [MASK] practice?,1,0.8868229911033536,0.8868229911033406
+19223,P407,What rhetoric does [MASK] speak?,1,,0.9299673178394839
+19255,P407,What system of communication is used by [MASK]?,1,1.056166571368509,1.056166571368509
+19256,P407,What talking is employed in [MASK]?,1,0.9188841349024585,0.9188841349024585
+19259,P407,What terminology does [MASK] speak?,1,0.8975708940253733,0.8975708940253586
+19260,P407,What terminology is [MASK] expressed in?,1,,1.0310159117734994
+19261,P407,What terminology is used by [MASK]?,1,0.8502300037412117,0.8502300037412117
+19201,P407,What mode of discourse is employed by [MASK]?,1,,0.9095173225310479
+19210,P407,What mode of speech does [MASK] use?,1,0.9030753612100801,0.9030753612100801
+19123,P407,What language was employed during the [MASK]?,1,1.226332436239456,0.9977935474258047
+19163,P407,What linguistic style does [MASK] employ?,1,1.0139792877842846,1.0139792877842846
+19162,P407,What linguistic method is employed in [MASK]?,1,,0.9107504148495135
+19161,P407,What linguistic medium is utilized for [MASK]?,1,1.017122602853195,1.017122602853195
+19159,P407,What linguistic form is represented in [MASK]?,1,,1.0104758035611634
+19158,P407,What linguistic form is practiced in [MASK]?,1,0.9320663338294527,0.9320663338294527
+19115,P407,What language is used in the Republic of Armenia's brief guide-dictionary of physico-geographical items?,1,1.067302006994451,1.067302006994451
+19157,P407,What linguistic form is [MASK] written in?,1,1.1023248755830386,1.1023248755830386
+19117,P407,What language is used to communicate [MASK]?,1,0.9977901763042895,0.9977901763042895
+19156,P407,What linguistic form does [MASK] utilize?,1,,1.0004098925136788
+19118,P407,What language is used to express the [MASK]?,1,1.0194058830507366,1.0194058830507366
+19120,P407,What language is utilized in Paulys Realencyclopedia of Classical Antiquity?,1,0.9498669652736513,1.1127017458744652
+19121,P407,What language is utilized to write the [MASK]?,1,,1.02861553229649
+19122,P407,What language is within [MASK]'s linguistic repertoire?,1,1.046416217698504,1.046416217698504
+19154,P407,What linguistic form does [MASK] practice?,1,0.9154162896994145,0.9154162896994145
+19152,P407,What linguistic expression is utilized in [MASK]?,1,,0.9641695773716864
+19165,P407,What linguistic system is employed in the [MASK]?,1,,1.021343691574198
+19151,P407,What linguistic expression does [MASK] use?,1,0.8623822859437189,0.8623822859437189
+19150,P407,What linguistic expression does [MASK] practice?,1,1.056633774367312,1.056633774367312
+19149,P407,What linguistic conventions does [MASK] practice?,1,0.8916022707560125,0.8916022707559768
+19148,P407,What linguistic construction does [MASK] employ?,1,,0.8970078134281205
+19147,P407,What linguistic communication does [MASK] utilize?,1,,0.9580974911295649
+19146,P407,What linguistic code is used in [MASK]?,1,,1.107750211267756
+19145,P407,What linguistic code is [MASK] written in?,1,0.8990397457670192,0.8990397457670184
+19144,P407,What linguistic code does [MASK] use?,1,0.8761642321490086,0.8761642321490086
+19143,P407,What lingual form is employed in [MASK]?,1,,1.1218345878355993
+19142,P407,What lingua franca does the [MASK] employ?,1,1.1106131847427543,1.1106131847427543
+19141,P407,What lingo is utilized in [MASK]?,1,1.067395183662292,1.067395183662292
+19137,P407,What lingo is featured in [MASK]?,1,1.059754425772752,1.059754425772752
+19135,P407,What lingo is adopted in [MASK]?,1,0.8831369811687722,0.8831369811687722
+19126,P407,What language was used during the [MASK]?,1,0.9125713414507521,1.004301727438793
+19164,P407,What linguistic style does [MASK] use?,1,0.9932676801353513,0.9932676801353513
+19166,P407,What linguistic system is spoken in [MASK]?,1,,0.8930992013845117
+19208,P407,What mode of speech does [MASK] employ?,1,,0.8826815963833755
+19184,P407,What manner of speech does [MASK] use?,1,,1.015546905594476
+19207,P407,What mode of language is used by [MASK]?,1,0.9202941443320245,1.0415249267882294
+19206,P407,What mode of expression is utilized in [MASK]?,1,0.7749091588665956,0.7749091588665956
+19205,P407,What mode of expression is used by the [MASK]?,1,0.830295194756379,0.830295194756379
+19203,P407,What mode of expression does [MASK] utilize?,1,,0.9063316146556518
+19202,P407,What mode of expression does [MASK] employ?,1,0.8661593900240124,0.866159390024008
+19200,P407,What mode of discourse does [MASK] practice?,1,,0.8667356071904962
+19197,P407,What mode of communication does [MASK] practice?,1,0.9030769982910865,0.9030769982910865
+19195,P407,What method of expression is utilized by [MASK]?,1,,0.9073921341745984
+19193,P407,What method of communication does the [MASK] utilize?,1,0.8677408529498649,0.8677408529498628
+19271,P407,"What tongue does Taehan kanho, the Korean nurse, communicate in?",1,0.9395446433282801,0.9759744819994902
+19188,P407,What manner of words does the [MASK] make use of?,1,0.8896304479675089,0.8896304479675092
+19187,P407,What manner of speech is utilized by [MASK]?,1,,1.0681356031892308
+19186,P407,What manner of speech is included in [MASK]?,1,,0.9000073232906756
+19185,P407,What manner of speech is expressed in [MASK]?,1,0.8751449063976994,0.8751449063976994
+19183,P407,What manner of speaking is utilized by [MASK]?,1,1.0633470402485525,1.0633470402485525
+19168,P407,What linguistic systems are employed in [MASK]?,1,,0.9061273211558324
+19182,P407,What manner of speaking does [MASK] utilize?,1,0.9119093085711311,0.9480230971024904
+19181,P407,What manner of speaking does [MASK] use?,1,,0.8954733561597357
+19180,P407,What manner of language is [MASK] using?,1,0.9448023052673055,1.0686710622913385
+19179,P407,What manner of language does [MASK] utilize?,1,0.8883081095254111,0.8883081095254072
+19178,P407,What manner of expression does [MASK] use?,1,0.9909310698862367,0.9909310698862367
+19177,P407,What manner of expression does [MASK] practice?,1,0.8407641241803335,0.8407641241803335
+19104,P407,What language is predominantly used by [MASK]?,1,1.065498998794869,1.065498998794869
+19176,P407,What manner of communication is employed by [MASK]?,1,0.9261359672433198,0.9261359672433198
+19106,P407,What language is spoken by the Medical Sciences Department of the Serbian Academy of Sciences and Arts?,1,0.9445282563765058,1.0522119643668506
+19108,P407,What language is spoken in the Republic of Armenia's brief guide-dictionary of physical-geographical characteristics?,1,1.0577175297356696,1.0577175297356696
+19111,P407,What language is spoken within the Republic of Armenia's succinct guide-dictionary of physico-geographical objects?,1,1.0424089257269835,1.0424089257269835
+19171,P407,What linguistic tradition is utilized in [MASK]?,1,,0.9456737360165641
+19170,P407,What linguistic tradition is [MASK] part of?,1,0.890154880117645,0.8901548801176443
+19169,P407,What linguistic terms are used in [MASK]?,1,,0.9923448393206106
+19270,P407,What tongue do they use in [MASK]?,1,,0.9501084618743266
+19422,P407,What vernacular is seen in [MASK]?,1,0.9948030427894098,0.9948030427894098
+19272,P407,What tongue does [MASK] draw upon?,1,,1.2222010416086058
+19399,P407,What verbal system does [MASK] employ?,1,,0.856070134899569
+19423,P407,What vernacular is spoken by [MASK]?,1,0.986462429730682,0.986462429730682
+19424,P407,What vernacular is the [MASK] expressed in?,1,1.047208908191332,1.047208908191332
+19425,P407,What vocabularies are used in [MASK]?,1,0.8482719646385216,0.8482719646385216
+19426,P407,What vocabulary does [MASK] speak?,1,0.8887240029275081,0.8887240029275081
+19427,P407,What vocabulary does [MASK] utilize?,1,0.9287228199864447,0.9287228199864447
+19428,P407,What vocabulary is associated with [MASK]?,1,,0.909800309513169
+19430,P407,What was the tongue of choice for the [MASK]?,1,0.9483812673589552,1.145780449556806
+19431,P407,What was the verbal communication of the [MASK]?,1,0.8306978219471849,0.8306978219471846
+19432,P407,What was the verbal tongue of the [MASK]?,1,0.8764504496022666,0.8764504496022641
+19433,P407,What way of communicating does [MASK] use?,1,1.2168152729405577,1.2168152729405577
+19434,P407,What way of speaking does [MASK] practice?,1,1.0357495002247925,1.0357495002247925
+19435,P407,What way of speaking does [MASK] use?,1,1.0236269843916197,1.0236269843916197
+19436,P407,What way of speaking does [MASK] utilize?,1,,0.843887550988132
+19437,P407,What words are spoken by [MASK]?,1,0.871677317869361,0.871677317869361
+19438,P407,What words are spoken in the [MASK]?,1,1.2000350419572354,0.9817679408684893
+19102,P407,What language is found in the [MASK]?,1,0.9937434197815319,0.9937434197815319
+19421,P407,What vernacular is found in the [MASK]?,1,0.94569604085761,0.94569604085761
+19420,P407,What vernacular is [MASK] speaking?,1,,1.1601677189903152
+19408,P407,What verbalization does [MASK] employ?,1,1.041301328727299,1.041301328727299
+19401,P407,What verbal system does [MASK] utilize?,1,0.8950891986609772,1.1383222679290108
+19402,P407,What verbal system is used in [MASK]?,1,,0.8784527091581262
+19403,P407,What verbal technique is employed in [MASK]?,1,0.8618468686087704,0.8618468686087704
+19404,P407,What verbal vernacular does [MASK] speak?,1,,1.0890133374579074
+19406,P407,What verbal vernacular is employed in the [MASK]?,1,0.8731454620678203,0.9098356570504579
+19407,P407,What verbal vernacular is used in [MASK]?,1,1.0837987646987013,1.0837987646987013
+19409,P407,What verbalization does [MASK] utilize?,1,0.9842593838594279,0.9842593838594279
+19418,P407,What vernacular is [MASK] conversing through?,1,1.037823480368544,1.037823480368544
+19410,P407,What verbalization is [MASK] employing?,1,0.8628794976443834,0.8628794976443834
+19411,P407,What verbalization is used by the [MASK]?,1,0.883484735651313,0.883484735651313
+19412,P407,What verbalization is utilized by [MASK]?,1,0.8736815730828589,0.8736815730828589
+19413,P407,What verbiage does [MASK] employ?,1,0.8858389765185261,0.8858389765185261
+19415,P407,What vernacular does [MASK] converse in?,1,,1.0093835967022269
+19417,P407,What vernacular does the [MASK] speak?,1,1.1118827000571057,1.1118827000571057
+19440,P407,What words are used in the [MASK]?,1,0.8285570501129969,0.8285570501129912
+19441,P407,What words are utilized by [MASK]?,1,,0.9094172510967413
+19442,P407,What words are utilized in the field of [MASK]?,1,,0.9193558060233158
+19483,P407,Which tongue does the [MASK] utilize?,1,1.0511699604702525,1.0511699604702525
+19477,P407,Which language is used by [MASK]?,1,1.083075058690581,1.083075058690581
+19478,P407,Which language is used for [MASK]?,1,1.036581533517477,1.036581533517477
+19479,P407,Which lingo is employed by [MASK]?,1,0.9633800347914014,0.9633800347914014
+19480,P407,Which speech is used in the [MASK]?,1,0.7313982982481064,0.7313982982481063
+19481,P407,Which tongue does [MASK] converse in?,1,,1.0268177213297949
+19482,P407,Which tongue does [MASK] speak?,1,,1.004216285898389
+19484,P407,Which tongue is employed by [MASK]?,1,1.0419921223315678,1.0419921223315678
+19472,P407,Which language is employed in the [MASK]?,1,1.043820032293174,1.043820032293174
+19485,P407,Which tongue is used for [MASK]?,1,0.9899411706952966,0.9899411706952966
+19486,P407,Which tongue is utilized in [MASK]?,1,,1.1841607220818557
+19487,P407,Which type of language is featured in the [MASK]?,1,1.0511292865815198,1.0511292865815198
+19488,P407,Which type of speech is spoken in [MASK]?,1,0.8875569049863415,0.9469618986265306
+19489,P407,Which types of language are employed in [MASK]?,1,,0.8891643530650711
+19490,P407,Which vernacular is [MASK] selecting?,1,1.1533795867104486,1.1533795867104486
+19475,P407,Which language is spoken by [MASK]?,1,,0.9995483835688134
+19469,P407,Which language is adopted in the [MASK]?,1,0.965821348077772,1.1270140149461
+19443,P407,What words did the [MASK] converse in?,1,0.8805521038318164,0.8805521038318106
+19453,P407,Which dialect does [MASK] use?,1,0.8929481662079394,0.9983053223509483
+19445,P407,What words does [MASK] articulate?,1,0.9984317165730585,0.9984317165730585
+19447,P407,What words does [MASK] use in her speech?,1,,0.8641367830756171
+19449,P407,What words is [MASK] verbalizing?,1,0.9310491544005761,0.9310491544005761
+19450,P407,What words is [MASK] written in?,1,0.9843138900110527,0.9843138900110527
+19451,P407,Which articulation does [MASK] use?,1,0.8221809857116643,0.8221809857116643
+19452,P407,Which dialect does [MASK] speak?,1,,0.9004631477026205
+19454,P407,Which dialect is used by [MASK]?,1,1.058732592368951,1.058732592368951
+19468,P407,Which language is [MASK] using?,1,,1.0391910904104007
+19456,P407,Which form of communication is used in [MASK]?,1,0.8961614241707234,0.8961614241707234
+19458,P407,Which idiom does [MASK] employ?,1,1.0878934038678227,1.0878934038678227
+19459,P407,Which idiom is [MASK] speaking?,1,1.111475433538163,1.111475433538163
+19460,P407,Which language does [MASK] talk?,1,1.0031305762994969,1.0031305762994969
+19461,P407,Which language does [MASK] use to communicate?,1,1.0127797085682453,1.0127797085682453
+19467,P407,Which language is [MASK] familiar with?,1,0.9353290773460009,0.9353290773460009
+19400,P407,What verbal system does [MASK] use?,1,,1.2219108065232627
+19396,P407,What verbal style is employed by [MASK]?,1,0.8738200308421142,1.0173378028415618
+19273,P407,What tongue does [MASK] express himself in?,1,1.036694522426848,1.036694522426848
+19395,P407,What verbal structure is [MASK] composed of?,1,0.8752910017932831,0.8752910017932831
+19304,P407,What type of communication is utilized by [MASK]?,1,,0.9093836472247202
+19305,P407,What type of conversation does [MASK] engage in?,1,0.8527771792492855,0.8527771792492855
+19307,P407,What type of discourse does [MASK] utilize?,1,0.8896855962056932,0.8896855962056828
+19308,P407,What type of language do [MASK] employ?,1,0.9369817988282497,1.1235414145725435
+19311,P407,What type of language does [MASK] engage in?,1,,1.0863920382517094
+19312,P407,What type of language does [MASK] have?,1,0.9316373048993097,1.1602127885214244
+19315,P407,What type of language does the [MASK] utilize?,1,1.0604290386737456,1.0604290386737456
+19323,P407,What type of language is spoken in [MASK]?,1,1.0364639901595958,1.0364639901595958
+19325,P407,What type of language is used when discussing [MASK]?,1,,0.8715096619651825
+19326,P407,What type of lingo is associated with [MASK]s?,1,0.8743416560283375,0.9781360102733206
+19328,P407,What type of linguistic communication does [MASK] practice?,1,,0.8781748020494711
+19329,P407,What type of speech does [MASK] communicate with?,1,0.8682310479865062,0.8682310479865062
+19330,P407,What type of speech does [MASK] use?,1,,1.0646795170293146
+19331,P407,What type of speech is [MASK] composed in?,1,,0.8716508254306276
+19333,P407,What type of speech is used in [MASK]?,1,0.9155080519413211,0.9155080519413211
+19301,P407,What type of communication does [MASK] rely on?,1,0.8874465541900054,0.8874465541900038
+19300,P407,What type of communicating does [MASK] use?,1,0.8602488370093002,0.8602488370092993
+19299,P407,What tongue is uttered in [MASK]?,1,1.0335890761689923,1.0335890761689923
+19283,P407,What tongue is [MASK] conversant in?,1,1.0188340640801927,1.212267843436703
+19274,P407,What tongue does [MASK] master?,1,1.0129977574564504,1.0129977574564504
+19275,P407,What tongue does [MASK] rely on?,1,,0.8815831696714042
+19276,P407,What tongue does [MASK] talk in?,1,1.141865437446079,1.141865437446079
+19277,P407,What tongue does [MASK] use to communicate?,1,,1.1559013574235402
+19278,P407,What tongue does the Paulys Realencyclopedia of Classical Antiquity employ?,1,0.8641668504610409,0.9847722881972168
+19282,P407,What tongue is [MASK] accustomed to?,1,,0.943457437985156
+19284,P407,What tongue is [MASK] conversational in?,1,,1.0071924174315465
+19298,P407,What tongue is used in the [MASK]?,1,0.9845153941992199,0.9845153941992199
+19285,P407,What tongue is [MASK] conversing in?,1,1.0467171218333802,1.0467171218333802
+19287,P407,What tongue is [MASK] fluent in?,1,0.9720086896331251,1.0592021069644044
+19289,P407,What tongue is applied in [MASK]?,1,,0.8442144404085306
+19292,P407,What tongue is featured in the [MASK]?,1,0.842570490220397,0.842570490220397
+19293,P407,What tongue is implemented in [MASK]?,1,0.9246990850991123,0.9246990850991121
+19297,P407,What tongue is used in Paulys Realencyclopedia of Classical Antiquity?,1,0.8426899505331774,0.842689950533177
+19334,P407,What type of speech is used when discussing the [MASK]?,1,0.9075756580019193,0.9075756580019171
+19336,P407,What type of verbal communication is present in [MASK]?,1,,0.890001636172551
+19340,P407,What type of verbal expression is used in [MASK]?,1,,0.8311481770566496
+19384,P407,What verbal idiom is [MASK] familiar with?,1,0.9008893202603717,0.9008893202603717
+19374,P407,What verbal form is [MASK] employing?,1,0.8285860991141781,0.8285860991141781
+19375,P407,What verbal form is [MASK] using?,1,0.8195400555430246,0.8195400555430246
+19376,P407,What verbal form is [MASK] written in?,1,0.8427815976905821,0.8427815976905821
+19377,P407,What verbal form is used in the [MASK]?,1,0.8485740087716969,1.008372752153193
+19378,P407,What verbal form is used to communicate [MASK]s?,1,0.8585215769881204,0.8585215769881173
+19380,P407,What verbal idiom does [MASK] make use of?,1,0.9021935919058919,0.9021935919058919
+19388,P407,What verbal language is employed in [MASK]?,1,1.0501963958336544,1.0501963958336544
+19372,P407,What verbal form does [MASK] practice?,1,0.8274275368937283,0.8274275368937283
+19389,P407,What verbal language is used in [MASK]?,1,1.018887626875201,1.018887626875201
+19390,P407,What verbal language is utilized by [MASK]?,1,1.0489779752959396,1.0489779752959396
+19391,P407,What verbal means does [MASK] utilize?,1,,0.8778345405761379
+19392,P407,What verbal medium does [MASK] employ?,1,1.094540275653306,1.094540275653306
+19393,P407,What verbal medium is employed by the [MASK]?,1,0.9545598784715862,1.1047281703463943
+19394,P407,What verbal method does [MASK] employ?,1,0.8654356377159761,0.8654356377159712
+19373,P407,What verbal form does [MASK] utilize?,1,1.0543329256400706,1.0543329256400706
+19371,P407,What verbal form does [MASK] communicate in?,1,0.8743964604860953,0.9090246505591731
+19341,P407,What type of verbalization does [MASK] use?,1,,1.013199181558524
+19355,P407,What verbal communication is used in the Republic of Armenia's concise guide-dictionary of physico-geographical objects?,1,1.0204276407773987,1.0204276407773987
+19344,P407,What type of vernacular is used by [MASK]?,1,0.9184703102728888,1.2014529920303643
+19345,P407,What verbal code does [MASK] adopt?,1,,0.9297257087329361
+19346,P407,What verbal code does [MASK] use?,1,,0.8660043868423827
+19347,P407,What verbal communication does [MASK] practice?,1,0.8654474797006753,0.9629876252732568
+19352,P407,What verbal communication is illustrated in [MASK]?,1,,0.8667222805983857
+19353,P407,What verbal communication is implemented in the [MASK]?,1,0.9346666986394132,1.0373206155074248
+19356,P407,What verbal communication is used in the [MASK]?,1,1.1661035252131096,1.0906551798044688
+19367,P407,What verbal expression is the [MASK] written in?,1,0.8946463294031562,0.9841209288439449
+19357,P407,What verbal construct is utilized in [MASK]?,1,0.856177248341416,0.856177248341416
+19360,P407,What verbal dialect is [MASK] speaking?,1,,0.8836566794263987
+19361,P407,What verbal discourse does [MASK] practice?,1,,0.876496601812778
+19362,P407,What verbal expression does [MASK] articulate?,1,0.7993901616098817,0.7993901616098817
+19365,P407,What verbal expression is [MASK] using?,1,0.7842194801231442,0.7842194801231442
+19366,P407,What verbal expression is integrated into [MASK]?,1,0.8176985321092878,0.8176985321092878
+19103,P407,What language is predominant in [MASK]?,1,,1.0280585567236156
+18915,P407,What is the linguistic structure of [MASK]?,1,0.8320651144218025,0.832065114421803
+19100,P407,What language is featured in Paulys Realencyclopedia of Classical Antiquity?,1,0.8997256376959187,0.8997256376959175
+18785,P407,What is [MASK]'s language selection?,1,0.9293742533461872,1.047149325533426
+18778,P407,What is [MASK] saying?,1,0.8112162616222306,0.8112162616222298
+18780,P407,What is [MASK]' primary means of communication?,1,0.902757066491828,0.902757066491828
+18781,P407,What is [MASK]'s accustomed dialect?,1,0.9079070390749724,0.9079070390749724
+18782,P407,What is [MASK]'s chosen language?,1,,1.020278119565361
+18783,P407,What is [MASK]'s communication method?,1,,0.8775125178014109
+18784,P407,What is [MASK]'s language of expression?,1,,0.9039078365374551
+18786,P407,What is [MASK]'s lingua franca?,1,0.8370176168507193,0.8370176168507184
+18800,P407,What is [MASK]'s primary linguistic choice?,1,1.0439398791628278,1.0439398791628278
+18787,P407,What is [MASK]'s lingual mode?,1,0.8525781882913233,0.9605395447013724
+18788,P407,What is [MASK]'s linguistic output?,1,0.8685222567274694,0.8685222567274694
+18789,P407,What is [MASK]'s linguistic structure?,1,0.8846604453213683,0.8846604453213683
+18790,P407,What is [MASK]'s means of communication?,1,,0.8798259602782045
+18793,P407,What is [MASK]'s mode of discourse?,1,0.8382066796657583,0.8382066796657583
+18795,P407,What is [MASK]'s mode of speaking?,1,,0.8376053856339599
+18775,P407,What idioms are employed by [MASK]?,1,0.9256032259380107,0.9256032259380107
+18773,P407,What idiom is used in the [MASK]?,1,0.9550143343651902,0.9550143343651902
+18771,P407,What idiom is spoken in the [MASK]?,1,1.232621507473752,0.9393463266932621
+18767,P407,What idiom is [MASK] conversant in?,1,1.2224902017963228,1.078732653335918
+18766,P407,What idiom is [MASK] accustomed to using?,1,0.9199950976984709,1.012691228055055
+18763,P407,What idiom does [MASK] utter?,1,0.903672699905467,0.9036726999054508
+18762,P407,What idiom does [MASK] expressive himself with?,1,,0.9560193240553645
+18761,P407,What idiom does [MASK] communicate with?,1,,1.1149299940538213
+18760,P407,What idiom did the [MASK] employ?,1,0.9229800637397305,0.9229800637397308
+18759,P407,What grammar does [MASK] espouse?,1,,0.8858142581897014
+18754,P407,What form of speech is found in [MASK]?,1,,0.8550263288007018
+18751,P407,What form of speech do [MASK]s utilize?,1,,0.8895816361525904
+18750,P407,What form of linguistics does [MASK] employ?,1,,0.8690736151121154
+18748,P407,What form of language is employed in [MASK]?,1,1.062468528690525,1.062468528690525
+18743,P407,What form of expression is employed in the [MASK]?,1,0.8296368958468768,0.8296368958468764
+18742,P407,What form of expression is [MASK] utilizing?,1,,0.81857165772235
+18738,P407,What form of communication is implemented in [MASK]?,1,,0.9171594372723176
+18799,P407,What is [MASK]'s primary form of communication?,1,,1.0924826740241078
+18802,P407,What is [MASK]'s spoken language?,1,,0.9142040810039516
+18733,P407,What form of communication does [MASK] practice?,1,,0.8720355211694854
+18848,P407,What is the language [MASK] engages in?,1,0.8866518805521754,0.9799926476622932
+18839,P407,What is the idiom spoken by [MASK]?,1,1.0177497123669275,1.085238528612058
+18840,P407,What is the idiom that [MASK] employs?,1,1.003683855191827,1.003683855191827
+18841,P407,What is the idiom that [MASK] follows?,1,0.8000156824415785,0.8000156824414478
+18844,P407,What is the idiom utilized by [MASK]?,1,1.0135573577882009,1.0135573577882009
+18845,P407,What is the jargon used by [MASK]?,1,,0.9602971044055316
+18846,P407,"What is the language Taehan kanho, the Korean nurse, converses in?",1,0.9346087205514625,1.1019335287910426
+18849,P407,What is the language [MASK] expresses herself in?,1,,1.0230015669846346
+18803,P407,What is [MASK]'s spoken tongue?,1,0.930839578404287,1.1442245120324372
+18852,P407,What is the language [MASK] is formulated in?,1,1.0384733318149293,1.0384733318149293
+18855,P407,What is the language [MASK] relies on?,1,,1.0716762432059757
+18857,P407,What is the language articulated in [MASK]?,1,1.0461237397675591,1.0461237397675591
+18858,P407,What is the language behind the [MASK]?,1,1.0327811394431812,1.0327811394431812
+18859,P407,What is the language chosen for [MASK]?,1,1.0075996755738588,1.0075996755738588
+18860,P407,What is the language employed for the [MASK]?,1,1.0522405459943038,1.0522405459943038
+18838,P407,What is the idiom of choice for the [MASK]?,1,1.0578993108872439,1.0578993108872439
+18835,P407,What is the idiom [MASK] knows?,1,1.043333617969432,1.043333617969432
+18831,P407,What is the form of communication used in the [MASK]?,1,0.8302051597485169,0.8302051597485169
+18829,P407,What is the foreign language of the [MASK]?,1,,0.9408741054403711
+18828,P407,What is the dialogue spoken by [MASK]?,1,,0.8843031154304986
+18825,P407,What is the dialect that [MASK] employs?,1,0.950967318852292,0.950967318852292
+18824,P407,What is the dialect that [MASK] chooses to utilize?,1,1.0289112404746308,1.0289112404746308
+18821,P407,What is the dialect [MASK] utilizes?,1,,0.8562013520266069
+18818,P407,What is the dialect [MASK] communicates in?,1,,1.0080354958532078
+18817,P407,What is the communication protocol of [MASK]?,1,,0.8503761347289406
+18815,P407,What is the common language of [MASK]?,1,,1.046932172000372
+18810,P407,What is [MASK]'s vernacular?,1,0.8813041672743837,0.9796781526639021
+18809,P407,What is [MASK]'s verbal medium?,1,0.9518272597818582,1.1701042588392911
+18808,P407,What is [MASK]'s verbal language?,1,,0.8924946052871701
+18807,P407,What is [MASK]'s verbal form?,1,0.8730403845531916,0.8730403845531916
+18805,P407,What is [MASK]'s verbal communication composed of?,1,0.8999653017618154,0.899965301761815
+18804,P407,What is [MASK]'s tongue of choice?,1,,1.0873027650169687
+18734,P407,What form of communication does [MASK] prefer?,1,0.8703581642428947,0.8703581642428948
+18732,P407,What form of communication does [MASK] express?,1,0.8544033002025496,0.8544033002025496
+19099,P407,What language is exhibited in [MASK]?,1,1.0019431324763755,1.0019431324763755
+18666,P407,In what type of language is [MASK]ology presented?,1,,0.9307204115444832
+18654,P407,In what lingo is [MASK] proficient?,1,,0.887983282197408
+18655,P407,In what lingual system is [MASK] written?,1,1.069093695761199,1.069093695761199
+18656,P407,In what linguistic format is [MASK] written?,1,,1.172993056218151
+18657,P407,In what manner does [MASK] interact verbally?,1,0.997597344446527,0.911653587630712
+18658,P407,In what manner is [MASK] communicated?,1,0.8553403213065722,0.8553403213065722
+18662,P407,In what tongue does [MASK] express herself?,1,0.9353585857511831,1.0276876179944314
+18669,P407,In what way does [MASK] communicate?,1,1.0109960966791098,1.0109960966791098
+18681,P407,To what language does [MASK] adhere?,1,0.860937757269515,0.860937757269515
+18670,P407,In what way does [MASK] express himself?,1,0.8626772048607562,0.8626772048607562
+18671,P407,In what word form is [MASK] written?,1,0.8908943323104976,0.8908943323104976
+18673,P407,In which language does [MASK] express themselves?,1,0.938424073570367,1.1339768412609388
+18674,P407,In which language is [MASK] communicating?,1,,0.984137083907226
+18675,P407,In which language is [MASK] conversant?,1,0.989152186069598,0.989152186069598
+18678,P407,In which tongue is [MASK] composed?,1,,1.1114105943553803
+18649,P407,In what language is the [MASK] based?,1,0.8992481192834612,0.8992481192834612
+18648,P407,In what language is the Paulys Realencyclopedia of Classical Antiquity?,1,0.9613020882730564,1.1261000346618735
+18647,P407,In what language is [MASK] expressing himself?,1,1.2905421852248342,0.9788356860958204
+18646,P407,In what language is [MASK] crafted?,1,1.125442527054857,1.125442527054857
+18645,P407,In what language is [MASK] conducted?,1,,1.1697602567570367
+18644,P407,In what language does the Paulys Realencyclopedia of Classical Antiquity communicate?,1,0.9316866240879241,1.0913955770104988
+18643,P407,In what language does [MASK] write its content?,1,,1.059068043129812
+18640,P407,In what language does [MASK] discourse?,1,1.1122626937489477,0.9375347174012775
+18638,P407,In what language are the articles in [MASK] written?,1,1.0733542711859885,1.0733542711859885
+18637,P407,In what language are the Medical Sciences Department of the Serbian Academy of Sciences and Arts fluent?,1,0.9602310725266543,1.044993202100981
+18635,P407,In what idiom is [MASK] fluent?,1,1.0910267315377653,1.0910267315377653
+18633,P407,In what idiom does [MASK] converse?,1,1.000661968663686,1.000661968663686
+18632,P407,In what dialect is [MASK] expressed?,1,0.8294549191874309,0.8294549191874309
+18631,P407,In what communication system is [MASK] proficient?,1,1.0398846784953768,1.0398846784953768
+18630,P407,"In the Republic of Armenia's manual of physical-geographical elements, what is the verbal communication utilized?",1,0.8417625145461358,0.8417625145461358
+18629,P407,"In [MASK], what kind of language do they use?",1,,1.1640278131912292
+18628,P407,How is [MASK] expressed linguistically?,1,1.549642874356424,0.9015970784106724
+18680,P407,"To what language does Revista de chirurgie, oncologie, radiologie, o. r. l., oftalmologie, stomatologie. Seria: Oftalmolog",1,,1.146540976020551
+18682,P407,To what language does [MASK] ascribe?,1,1.054127094764584,1.1949080704452375
+18731,P407,What expressive form does [MASK] employ?,1,0.8570842083397069,0.8570842083397069
+18717,P407,What dialect is utilized by [MASK]?,1,1.0837900735067378,1.0837900735067378
+18710,P407,What dialect is employed in the Paulys Realencyclopedia of Classical Antiquity?,1,0.8022709240347404,0.8022709240347394
+18712,P407,What dialect is featured in [MASK]s?,1,,0.9986242430204393
+18713,P407,What dialect is incorporated in [MASK]?,1,0.9620576919979823,0.9620576919979823
+18714,P407,What dialect is prevalent in [MASK]?,1,,0.9111377723235975
+18715,P407,What dialect is spoken in [MASK]?,1,0.8670959579459123,0.8670959579459108
+18716,P407,What dialect is the [MASK] conveyed in?,1,1.0398598198426023,1.0398598198426023
+18722,P407,What does [MASK] use to converse?,1,0.8950466075638099,1.0639339295722303
+18683,P407,To what language does [MASK] belong?,1,0.9431933139555915,0.984875123544843
+18723,P407,What does [MASK] use to express himself?,1,0.7949495484496277,0.7949495484496277
+18724,P407,What does [MASK] use when he communicates?,1,,1.00832640392574
+18725,P407,What does [MASK] utilize for their communication?,1,,0.8939186093873842
+18728,P407,What expression does [MASK] express?,1,0.887364291424798,0.887364291424798
+18729,P407,What expression does [MASK] use to communicate?,1,0.8658480912083122,0.8658480912083122
+18730,P407,What expression is [MASK] practicing?,1,0.8730966297173662,0.8730966297173662
+18709,P407,What dialect is employed for [MASK]?,1,1.1414982284792938,1.1414982284792938
+18707,P407,What dialect is [MASK] using?,1,,0.9634273373591232
+18706,P407,What dialect is [MASK] proficient in?,1,1.0092618499664183,1.0092618499664183
+18705,P407,What dialect is [MASK] employing?,1,0.909966171308473,0.909966171308473
+18703,P407,What dialect is [MASK] composed in?,1,0.9769385058638476,0.9769385058638476
+18701,P407,What dialect does the Republic of Armenia's short guide-dictionary of physico-geographical objects rely on?,1,1.0131782030093959,1.0131782030093959
+18700,P407,What dialect does [MASK] express himself in?,1,1.017462799210434,1.017462799210434
+18699,P407,What dialect does [MASK] engage in?,1,,1.0544901194147498
+18698,P407,What dialect does [MASK] articulate?,1,0.9189899857575166,0.9189899857573466
+18697,P407,What dialect does [MASK] apply?,1,0.8980177659224304,0.8980177659224304
+18696,P407,"What dialect does Taehan kanho, the Korean nurse, employ?",1,1.0009943459538937,0.8135309204477617
+18689,P407,What articulation is used for the [MASK]?,1,0.9038112092772675,0.9038112092772684
+18688,P407,What articulation does [MASK] employ?,1,1.0201869991255759,1.0201869991255759
+18687,P407,What articulate system does [MASK] employ?,1,0.9392471334512252,0.9392471334512252
+18686,P407,To which language does [MASK] subscribe?,1,,1.0778685759385724
+18685,P407,To what language does the [MASK] conform?,1,0.8913924464643639,0.8913924464643621
+18684,P407,To what language does [MASK] have access?,1,1.0436285054972918,1.0436285054972918
+18864,P407,What is the language of [MASK]'s speech?,1,1.0107357662791816,1.0107357662791816
+18867,P407,What is the language of instruction used by the Medical Sciences Department of the Serbian Academy of Sciences and Arts?,1,1.102363596850395,0.9321152011730552
+18868,P407,What is the language of publication for [MASK]?,1,1.0542773389078153,0.9797530665621093
+19023,P407,What kind of terminology do [MASK] experts employ?,1,,0.8891148275207434
+19010,P407,What kind of language does [MASK] talk?,1,,1.01785837993522
+19017,P407,What kind of language is used to describe [MASK]s?,1,2.0036684631931565,0.983623580435114
+19018,P407,What kind of language is utilised in [MASK]?,1,,1.0536405398377258
+19020,P407,What kind of linguistic expression is used by [MASK]?,1,0.8648943963988163,0.8648943963988163
+19021,P407,What kind of speech does [MASK] employ?,1,,0.9800829582227691
+19022,P407,What kind of speech does [MASK] make use of?,1,0.8753157254054347,0.9663942333207036
+19024,P407,What kind of verbal communication do [MASK]s utilize?,1,0.8634486473113261,0.915509880685908
+19037,P407,What language did they use in the [MASK]?,1,0.9122005986672233,1.0037845190120707
+19025,P407,What kind of verbal communication does [MASK] favor?,1,,0.9266507540232478
+19026,P407,What kind of verbal communication is featured in [MASK]?,1,,0.8919958365505362
+19027,P407,What kind of verbal communication is present in [MASK]?,1,,0.8546117450522974
+19029,P407,What kind of verbal expression is employed in [MASK]?,1,,1.172957008695537
+19030,P407,What kind of verbal expression is used in [MASK]?,1,,0.9063200622915959
+19033,P407,What kind of vernacular does [MASK] speak?,1,0.9590925416002343,0.9590925416002343
+19007,P407,What kind of language do [MASK]s employ?,1,1.1993800997787225,1.0875569931536635
+19006,P407,What kind of language do [MASK] utter?,1,0.8905998411652432,0.9258697238470953
+19005,P407,What kind of dialect is [MASK] articulating?,1,0.8662284225498953,0.8662284225498943
+19004,P407,What jargon does [MASK] depend upon?,1,,0.8654634655346345
+19002,P407,What is the writing system employed by the [MASK]?,1,0.8847881092484544,0.8847881092484544
+19001,P407,What is the vocabulary [MASK] employs?,1,0.861514949931557,0.861514949931557
+19000,P407,What is the vernacular utilized by [MASK]?,1,0.9899172224963276,0.9899172224963276
+18999,P407,What is the vernacular used in [MASK]?,1,0.8771827703867009,0.935893413730642
+18998,P407,What is the vernacular that [MASK] utters?,1,1.0157217522137532,1.0157217522137532
+18995,P407,What is the verbal vernacular utilized in the [MASK]?,1,0.9345748881682945,0.9345748881682945
+18993,P407,What is the verbal system utilized by [MASK]?,1,0.8729605921705547,0.9926059536810692
+18992,P407,What is the verbal system of [MASK]?,1,0.855410507305939,0.855410507305939
+18991,P407,What is the verbal system for the [MASK]?,1,1.003414094649092,1.003414094649092
+18990,P407,What is the verbal system employed by [MASK]?,1,,0.9067956422334944
+18989,P407,What is the verbal style used by [MASK]?,1,,1.068753804552603
+18988,P407,What is the verbal protocol of [MASK]?,1,,0.8623090274426661
+18987,P407,What is the verbal medium that [MASK] employs?,1,,1.261036923977303
+19035,P407,What language are [MASK]'s words spoken in?,1,,1.077595753621399
+19038,P407,What language do [MASK]'s words take form in?,1,0.9483220211491847,0.9483220211491847
+18869,P407,What is the language of text in [MASK]?,1,1.054526612194024,1.054526612194024
+19083,P407,What language is [MASK] conversing with?,1,0.8735858224512578,0.8735858224512578
+19071,P407,What language does the Republic of Armenia's short guide-dictionary of physico-geographical objects employ?,1,1.0558235156649167,1.0558235156649167
+19075,P407,What language forms the basis of the [MASK]?,1,1.1661687384147035,1.1661687384147035
+19076,P407,What language is [MASK] accustomed to using?,1,0.9463173953936237,1.0840141621484523
+19078,P407,What language is [MASK] articulating?,1,1.1086133455446479,1.1086133455446479
+19081,P407,What language is [MASK] competent in?,1,1.0344330139348605,1.0344330139348605
+19082,P407,What language is [MASK] composed of?,1,,1.0155156748454028
+19084,P407,What language is [MASK] drafted in?,1,,0.9722883251934157
+19042,P407,What language do the citizens of [MASK] use?,1,,1.0612201986726713
+19086,P407,What language is [MASK] made up of?,1,,1.012497078624828
+19087,P407,What language is [MASK] printed in?,1,,1.0399994648542843
+19089,P407,What language is [MASK] put together with?,1,,1.038914797824227
+19090,P407,What language is [MASK] talking?,1,0.9462850223904248,1.0657631237332685
+19092,P407,What language is [MASK] versed in?,1,,1.31227738111374
+19096,P407,What language is employed in the Republic of Armenia's concise reference of physical-geographical features?,1,1.0405611953665734,1.0405611953665734
+19070,P407,What language does the Paulys Realencyclopedia of Classical Antiquity utilize?,1,0.9182392948857573,1.0750246378878745
+19066,P407,What language does the Medical Sciences Department of the Serbian Academy of Sciences and Arts communicate in?,1,0.9925537761926919,1.0139531489295626
+19065,P407,"What language does the Korean nurse, Taehan kanho, speak?",1,1.0381632995448522,0.9741522170597131
+19060,P407,What language does [MASK] use for publication?,1,1.145584599413001,1.145584599413001
+19059,P407,What language does [MASK] use for communication?,1,1.028574907841387,1.028574907841387
+19055,P407,What language does [MASK] prefer?,1,1.026675666774559,1.026675666774559
+19054,P407,What language does [MASK] have knowledge of?,1,0.9522767536286884,1.2031859474760034
+19053,P407,What language does [MASK] have as her mother tongue?,1,,1.0060505222149474
+19052,P407,What language does [MASK] have a mastery of?,1,1.0569033290150924,0.944969360347808
+19050,P407,What language does [MASK] habitually use?,1,,1.1939900149982239
+19049,P407,What language does [MASK] favor?,1,0.9874760715060019,0.9660466188398817
+19048,P407,What language does [MASK] express themselves in?,1,,0.998831808014482
+19047,P407,What language does [MASK] comprehend?,1,,1.061688325102072
+19046,P407,What language does [MASK] communicate with?,1,1.009030328200114,1.009030328200114
+19045,P407,"What language does Taehan kanho, the Korean nurse, utilize?",1,1.1514080221378804,0.9917131039569236
+19044,P407,"What language does Taehan kanho, the Korean nurse, converse in?",1,0.9196537638674754,1.0309989455520363
+19043,P407,What language do the people of [MASK] employ?,1,,0.9968221940969635
+18986,P407,What is the verbal medium [MASK] speaks?,1,1.0180947367215603,1.0180947367215603
+18981,P407,What is the verbal idiom that [MASK] utters?,1,0.8675877891174218,0.8675877891174226
+18978,P407,What is the verbal form utilized by [MASK]?,1,,0.8060733929667344
+18909,P407,What is the linguistic medium employed by [MASK]?,1,1.0523356552020116,1.064446023340074
+18902,P407,What is the linguistic code used by [MASK]?,1,0.8296745662046778,0.8296745662046778
+18903,P407,What is the linguistic composition of [MASK]?,1,1.0057576266127786,1.0057576266127786
+18904,P407,What is the linguistic construct of [MASK]?,1,,0.9146371176644986
+18906,P407,What is the linguistic form spoken at [MASK]?,1,0.8272162692869419,0.8272162692869405
+18907,P407,What is the linguistic form that [MASK] is utilizing?,1,0.8531046523672867,0.8531046523672867
+18908,P407,What is the linguistic means by which [MASK] communicates?,1,0.9677103957504569,0.9677103957504569
+18912,P407,What is the linguistic mode of [MASK]?,1,0.8936552046134406,0.8936552046134406
+18977,P407,What is the verbal form that [MASK] speaks?,1,,0.8864434594120615
+18913,P407,What is the linguistic origin of the [MASK]?,1,0.8717918287174203,0.8717918287174203
+18914,P407,What is the linguistic source of [MASK]?,1,0.986701056970483,0.986701056970483
+18916,P407,What is the linguistic style of [MASK]?,1,0.8859498520540873,0.8859498520540873
+18919,P407,What is the linguistic system used in [MASK]?,1,1.12649103196953,1.1769077876971767
+18920,P407,What is the linguistic system utilized by [MASK]?,1,1.0482202458512273,1.0482202458512273
+18921,P407,What is the linguistic usage of [MASK]?,1,0.9731569064771567,0.9731569064771567
+18901,P407,What is the lingual structure of [MASK]?,1,0.840558512759637,0.840558512759637
+18899,P407,What is the lingo that [MASK] is familiar with?,1,0.8585121498948727,0.8585121498948713
+18896,P407,What is the lingo [MASK] utilizes?,1,0.9837371951729201,0.9837371951729201
+18895,P407,What is the lingo [MASK] is crafted in?,1,0.9766624129687765,0.9766624129687765
+18894,P407,What is the lingo [MASK] converses in?,1,0.864670956228288,0.8646709562282878
+18893,P407,What is the lingo [MASK] communicates in?,1,,0.9865425301085616
+18892,P407,What is the lexicon that [MASK] employs?,1,0.8471663381082976,0.8471663381082976
+18891,P407,What is the lexicon of [MASK]?,1,,0.8867347852865244
+18887,P407,What is the language used to compose documents in [MASK]?,1,1.0342212235484198,1.0342212235484198
+18884,P407,What is the language that [MASK] prefers to use?,1,,0.9723430462109197
+18880,P407,What is the language that [MASK] has chosen to use?,1,1.1099017465512444,1.1099017465512444
+18879,P407,What is the language that [MASK] has adopted?,1,1.0136872272279487,1.0136872272279487
+18875,P407,"What is the language spoken by Taehan kanho, the Korean nurse?",1,1.167235429926239,0.9370534806255085
+18874,P407,What is the language spoken at [MASK]?,1,0.9165837602582874,1.0890635011056666
+18873,P407,What is the language of which [MASK] has command?,1,,0.9322316565072619
+18872,P407,What is the language of the [MASK]'s articles?,1,,1.000185799126349
+18870,P407,What is the language of the Korean nurse Taehan kanho?,1,0.9401143568932607,1.0296420604326166
+18923,P407,What is the main language at [MASK]'s disposal?,1,1.043684866066911,1.043684866066911
+18924,P407,What is the main speech used by [MASK]?,1,1.8571842538756282,0.8865912029500204
+18925,P407,What is the manner of communication that [MASK] speaks?,1,,0.8741920154479128
+18945,P407,What is the speech that is used in [MASK]?,1,1.0010724040503935,1.0010724040503935
+18976,P407,What is the verbal form that [MASK] employs?,1,0.8679590859297106,0.8679590859297103
+18972,P407,What is the verbal form [MASK] uses?,1,,0.7210101977303099
+18971,P407,What is the verbal form [MASK] speaks in?,1,0.8734085466958624,0.8734085466958623
+18969,P407,What is the verbal expression [MASK] employs?,1,,0.8770696186787684
+18965,P407,What is the verbal communication that [MASK] utilizes?,1,0.8760165021088333,0.8760165021088333
+18964,P407,What is the verbal communication that [MASK] uses?,1,,0.8959889570645062
+18961,P407,What is the verbal communication [MASK] typically uses?,1,,0.8932652494140108
+18959,P407,What is the verbal code of [MASK]?,1,,0.8668662303913403
+18956,P407,What is the type of speech used by [MASK]?,1,0.9897418767480135,0.9897418767480135
+18952,P407,What is the tongue of choice for [MASK]?,1,0.9075524592061045,0.9075524592061045
+18950,P407,What is the tongue [MASK] talks in?,1,0.965324436486456,1.1395863080408064
+18948,P407,What is the tongue [MASK] employs?,1,1.0142413491084024,1.0142413491084024
+18947,P407,What is the standard language of [MASK]?,1,,1.0201526367523377
+18946,P407,What is the spoken vernacular in [MASK]?,1,,0.9627085382903499
+18944,P407,What is the speech that [MASK] uses?,1,0.863127161380557,0.8631271613805557
+18926,P407,What is the medium of communication in [MASK]?,1,0.9479144268693593,0.9479144268693589
+18942,P407,What is the speech employed by [MASK]?,1,,0.8933667603565945
+18941,P407,What is the speech [MASK] utilizes?,1,1.0205107396670727,1.0205107396670727
+18940,P407,What is the speech [MASK] speaks?,1,0.8306941051098695,0.8306941051098695
+18939,P407,What is the speech [MASK] is composed in?,1,0.9931015839637836,0.9931015839637836
+18937,P407,What is the primary language used at [MASK]?,1,0.9506311647978111,1.159210426224581
+18935,P407,What is the primary form of communication at [MASK]?,1,0.9140431345347839,1.0633563742795573
+18934,P407,What is the prevalent language of the Medical Sciences Department of the Serbian Academy of Sciences and Arts?,1,1.0474468063689866,0.9758103013386539
+18933,P407,What is the official language of [MASK]?,1,0.9329436382290606,0.9702388472108487
+18932,P407,What is the native speech of [MASK]?,1,,1.0174021250500327
+18931,P407,What is the native language of the [MASK]?,1,1.0107105806883254,1.0107105806883254
+18930,P407,What is the native language for [MASK]?,1,,1.0946741506748825
+18929,P407,What is the mouthpiece of [MASK]?,1,0.8644729764521818,0.8644729764521818
+18928,P407,What is the mode of speaking utilized by [MASK]?,1,,0.9604398519184535
+18927,P407,What is the medium utilized by [MASK]?,1,0.8323216765071687,0.8323216765071687
+19491,P407,Which vocabulary does [MASK] employ?,1,0.8715008969655292,0.8715008969655244
